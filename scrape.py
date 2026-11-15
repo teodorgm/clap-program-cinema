@@ -45,6 +45,7 @@ AUDIO = re.compile(r"volume_up\s+([A-Z]{2,3}(?:\s*[,/]\s*[A-Z]{2,3})*)(?=\s|$)")
 SUBS = re.compile(r"\bnotes\s+(?:(?i:subtitrat)\s+)?([A-Z]{2,3}(?:\s*[,/]\s*[A-Z]{2,3})*)(?=\s|$)")
 PRICE = re.compile(r"(?:price|pre[tț])\s*:?\s*(\d+(?:[.,]\d+)?)\s*lei(?:\s*\(([^)]*)\))?", re.I)
 SOLD = re.compile(r"sold\s*out|epuizat", re.I)
+POSTER = re.compile(r'<img[^>]+src="(https://storage\.googleapis\.com/eventbook-files/images/event/[^"]+)"')
 PRICE_BARE = re.compile(r"(?<![\d.,])(\d+(?:[.,]\d+)?)\s*lei\b", re.I)
 
 
@@ -105,6 +106,7 @@ def parse_block(blk, hid, stats):
     tm = TITLE.search(blk)
     if not month or not lm:
         stats["no_link_or_month"] += 1
+        print("  SARIT (fara link sau luna necunoscuta):", t[:160])
         return None
     raw = text(tm.group(1)) if tm else ""
     if not raw:
@@ -132,6 +134,7 @@ def parse_block(blk, hid, stats):
                 box[k] = v
     status = "sold_out" if ("shopping_cart" not in t and SOLD.search(t)) else "ok"
     slug = lm.group(1)
+    pm = POSTER.search(blk)
     date_iso = f"{year}-{month:02d}-{int(day):02d}"
     time_s = f"{int(hh):02d}:{mm}"
     return {
@@ -140,6 +143,7 @@ def parse_block(blk, hid, stats):
         "audio": langs(au.group(1)) if au else [], "subs": langs(su.group(1)) if su else [],
         "prices": prices, "box": box, "status": status,
         "url": f"{BASE}/film/{slug}?hall={lm.group(2)}",
+        "poster": pm.group(1) if pm else None,
     }
 
 
