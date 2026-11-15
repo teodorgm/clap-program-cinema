@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Program cinema București</title>
+<style>
+:root{--bg:#f4f1ec;--sf:#fff;--tx:#1b2130;--mu:#667085;--ln:#d9d4ca;--ac:#b4541a;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10161f;--sf:#1a2230;--tx:#e8ecf2;--mu:#98a2b3;--ln:#2e3a4e;--ac:#f0b35c}}
+:root[data-theme="dark"]{--bg:#10161f;--sf:#1a2230;--tx:#e8ecf2;--mu:#98a2b3;--ln:#2e3a4e;--ac:#f0b35c}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px 16px 48px}
+h1{font:700 30px/1.1 Georgia,"Times New Roman",serif;margin:8px 0 4px;letter-spacing:-.01em}
+.sub{color:var(--mu);margin:0 0 18px;font-size:14px}
+.row{display:flex;gap:8px;overflow-x:auto;padding:2px 0 10px;scrollbar-width:none}
+.row::-webkit-scrollbar{display:none}
+button.chip{flex:none;border:1px solid var(--ln);background:var(--sf);color:var(--tx);border-radius:999px;padding:7px 14px;font:inherit;font-size:14px;cursor:pointer}
+button.chip[aria-pressed="true"]{background:var(--tx);color:var(--bg);border-color:var(--tx)}
+button.chip:focus-visible,a:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+.days button.chip{border-radius:10px;text-align:center;line-height:1.2;padding:8px 12px}
+.lbl{font-size:13px;color:var(--mu);margin:6px 0 2px}
+.film{background:var(--sf);border:1px solid var(--ln);border-left:5px solid var(--cc);border-radius:6px;padding:14px 16px;margin:12px 0}
+.film h2{font:700 19px/1.25 Georgia,"Times New Roman",serif;margin:0 0 4px}
+.meta{color:var(--mu);font-size:14px;margin:0 0 10px}
+.meta b{color:var(--tx);font-weight:600}
+.bd{display:inline-block;border:1px solid var(--ln);border-radius:4px;font:600 12px/1 system-ui,sans-serif;padding:3px 5px;margin-left:6px;vertical-align:2px;color:var(--mu)}
+.times{display:flex;flex-wrap:wrap;gap:8px}
+.t{display:inline-flex;flex-direction:column;align-items:center;min-width:80px;padding:7px 12px;border:1.5px dashed var(--cc);border-radius:4px;color:var(--tx);text-decoration:none;font-weight:700;font-variant-numeric:tabular-nums}
+.t small{font-weight:400;font-size:11px;color:var(--mu)}
+a.t:hover{background:var(--cc);color:#fff}
+a.t:hover small{color:inherit}
+.t.so{border-color:var(--ln);color:var(--mu);text-decoration:line-through}
+.t.past{opacity:.4}
+.tech{display:block;margin-top:10px;font-size:12px;color:var(--mu)}
+.empty{padding:28px 8px;color:var(--mu);text-align:center}
+.note{font-size:13px;color:var(--mu);border-top:1px solid var(--ln);margin-top:28px;padding-top:14px}
+.note p{margin:0 0 8px}
+.warn{color:var(--ac)}
+</style>
+</head>
+<body>
+<main>
+<h1>Program cinema București</h1>
+<p class="sub" id="upd">Se încarcă programul…</p>
+<div class="lbl">Cinema</div>
+<div class="row" id="cin"></div>
+<div class="lbl">Tehnologie sală</div>
+<div class="row" id="tech"></div>
+<div class="lbl">Ziua</div>
+<div class="row days" id="days"></div>
+<div class="lbl">Preț afișat</div>
+<div class="row" id="pr"></div>
+<div class="row"><button class="chip" id="sold" aria-pressed="false">Ascunde sold out</button></div>
+<div id="list"></div>
+<div class="note" id="note"></div>
+</main>
+<script>
+var D=null,S={cin:{},tech:"",day:"",tier:"adult",sold:false};
+var TZ="Europe/Bucharest";
+function today(){return new Intl.DateTimeFormat("en-CA",{timeZone:TZ}).format(new Date())}
+function nowHM(){return new Intl.DateTimeFormat("en-GB",{timeZone:TZ,hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).format(new Date())}
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function chip(txt,on,fn){var b=el("button","chip",txt);b.setAttribute("aria-pressed",on?"true":"false");b.onclick=fn;return b}
+function dl(d){return new Date(d+"T12:00:00").toLocaleDateString("ro-RO",{weekday:"short",day:"numeric",month:"short"})}
+function fmt(iso){return new Date(iso).toLocaleString("ro-RO",{timeZone:TZ,day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}
+function nice(s){
+  if(s!==s.toLocaleUpperCase("ro"))return s;
+  return s.toLocaleLowerCase("ro").replace(/(^|[\s\/:(\-])(\p{L})/gu,function(m,a,b){return a+b.toLocaleUpperCase("ro")});
+}
+function ctech(k){var t=D.cinemas[k].tech;return t.length?t:["Nespecificat"]}
+function price(s){
+  var p=s.prices,v=p[S.tier],star=false;
+  if(v==null){v=p.adult;star=true}
+  return v==null?"":v+" lei"+(star?"*":"");
+}
+function load(){
+  fetch("data/screenings.json?"+Date.now()).then(function(r){
+    if(!r.ok)throw new Error(r.status);return r.json();
+  }).then(function(d){
+    D=d;var t=today();
+    D.screenings=D.screenings.filter(function(s){return s.date>=t});
+    var days=[],techs={};
+    D.screenings.forEach(function(s){
+      if(days.indexOf(s.date)<0)days.push(s.date);
+      S.cin[s.cinema]=1;
+    });
+    days.sort();D.days=days;
+    Object.keys(S.cin).forEach(function(k){ctech(k).forEach(function(x){techs[x]=1})});
+    D.techs=Object.keys(techs).sort();
+    S.day=days.indexOf(t)>=0?t:days[0];
+    ui();
+  }).catch(function(e){
+    document.getElementById("upd").textContent="Nu am putut încărca programul ("+e.message+"). Încearcă mai târziu.";
+  });
+}
+function ui(){
+  var c=document.getElementById("cin");c.innerHTML="";
+  Object.keys(D.cinemas).forEach(function(k){
+    if(!(k in S.cin))return;
+    c.appendChild(chip(D.cinemas[k].name,S.cin[k],function(){S.cin[k]=S.cin[k]?0:1;ui()}));
+  });
+  var t=document.getElementById("tech");t.innerHTML="";
+  [""].concat(D.techs).forEach(function(v){t.appendChild(chip(v||"Toate",S.tech===v,function(){S.tech=v;ui()}))});
+  var d=document.getElementById("days");d.innerHTML="";
+  D.days.forEach(function(v){d.appendChild(chip(dl(v),S.day===v,function(){S.day=v;ui()}))});
+  var p=document.getElementById("pr");p.innerHTML="";
+  [["adult","Adult"],["student","Elev / student / pensionar"]].forEach(function(x){
+    p.appendChild(chip(x[1],S.tier===x[0],function(){S.tier=x[0];ui()}));
+  });
+  document.getElementById("sold").setAttribute("aria-pressed",S.sold?"true":"false");
+  document.getElementById("upd").textContent="Actualizat "+fmt(D.generated);
+  list();notes();
+}
+function list(){
+  var out=document.getElementById("list");out.innerHTML="";
+  var g={},order=[],now=nowHM(),isToday=S.day===today();
+  D.screenings.forEach(function(s){
+    if(s.date!==S.day||!S.cin[s.cinema])return;
+    if(S.tech&&ctech(s.cinema).indexOf(S.tech)<0)return;
+    if(S.sold&&s.status==="sold_out")return;
+    var k=s.cinema+"|"+s.title;if(!g[k]){g[k]=[];order.push(k)}g[k].push(s);
+  });
+  order.sort(function(a,b){return g[a][0].time<g[b][0].time?-1:1});
+  if(!order.length){out.appendChild(el("div","empty","Nicio proiecție pentru filtrele alese."));return}
+  order.forEach(function(k){
+    var rs=g[k],r=rs[0],ci=D.cinemas[r.cinema];
+    var f=el("section","film");f.style.setProperty("--cc",ci.color);
+    var h=el("h2","",nice(r.title));if(r.age)h.appendChild(el("span","bd",r.age));f.appendChild(h);
+    var m=el("p","meta");m.appendChild(el("b","",ci.name));
+    var parts=[];
+    if(r.audio.length)parts.push(r.audio.join("/"));
+    if(r.subs.length)parts.push("subtitrare "+r.subs.join("/"));
+    if(r.note)parts.push(r.note);
+    m.appendChild(document.createTextNode(parts.length?"  ·  "+parts.join("  ·  "):""));
+    f.appendChild(m);
+    var ts=el("div","times");
+    rs.forEach(function(s){
+      var so=s.status==="sold_out",cl=s.status==="closed";
+      var a=so?el("span","t so"):el("a","t");
+      if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
+      if(isToday&&s.time<now)a.className+=" past";
+      a.appendChild(document.createTextNode(s.time));
+      a.appendChild(el("small","",so?"sold out":cl?"vânzare închisă":price(s)));
+      ts.appendChild(a);
+    });
+    f.appendChild(ts);
+    f.appendChild(el("span","tech","Sală: "+ctech(r.cinema).join(", ")));
+    out.appendChild(f);
+  });
+}
+function notes(){
+  var n=document.getElementById("note");n.innerHTML="";
+  Object.keys(D.sources).forEach(function(k){
+    var s=D.sources[k];if(!(k in S.cin)&&!s.stale&&!s.error)return;
+    var p=el("p","",s.name+": actualizat "+fmt(s.updated));
+    if(s.stale)p.appendChild(el("span","warn"," — date vechi, sursa nu a răspuns la ultima verificare"));
+    if(s.error)p.appendChild(el("span","warn"," — eroare la citire"));
+    n.appendChild(p);
+  });
+  n.appendChild(el("p","","* Nu este afișat un tarif redus pentru această proiecție; se arată prețul de adult."));
+  n.appendChild(el("p","","Biletele se cumpără pe site-ul fiecărui cinema. Tehnologia sălii vine din descrierea cinematografului; „Nespecificat” înseamnă că nu am găsit informația."));
+}
+document.getElementById("sold").onclick=function(){S.sold=!S.sold;ui()};
+load();
+</script>
+</body>
+</html>
