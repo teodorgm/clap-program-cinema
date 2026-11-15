@@ -1,0 +1,1370 @@
+{
+ "generated": "2026-11-15T20:45:45+00:00",
+ "cinemas": {
+  "elvire": {
+   "name": "Elvire Popesco",
+   "color": "#13727a",
+   "tech": [
+    "Barco laser"
+   ]
+  },
+  "union": {
+   "name": "Union",
+   "color": "#b0304f",
+   "tech": []
+  },
+  "apollo111": {
+   "name": "Apollo111",
+   "color": "#6a4fb0",
+   "tech": []
+  },
+  "eforie": {
+   "name": "Eforie",
+   "color": "#8a7a3a",
+   "tech": []
+  }
+ },
+ "sources": {
+  "elvire": {
+   "name": "Elvire Popesco",
+   "ok": true,
+   "stale": false,
+   "count": 39,
+   "updated": "2026-11-15T20:45:45+00:00",
+   "error": null
+  },
+  "union": {
+   "name": "Union",
+   "ok": true,
+   "stale": false,
+   "count": 11,
+   "updated": "2026-11-15T20:45:45+00:00",
+   "error": null
+  },
+  "apollo111": {
+   "name": "Apollo111",
+   "ok": true,
+   "stale": false,
+   "count": 14,
+   "updated": "2026-11-15T20:45:45+00:00",
+   "error": null
+  },
+  "eforie": {
+   "name": "Eforie",
+   "ok": true,
+   "stale": false,
+   "count": 0,
+   "updated": "2026-11-15T20:45:45+00:00",
+   "error": null
+  }
+ },
+ "screenings": [
+  {
+   "id": "elvire-2026-11-16-18:00-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-11-16",
+   "time": "18:00",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": "Avanpremieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-16-20:30-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "elvire",
+   "date": "2026-11-16",
+   "time": "20:30",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": "Avanpremieră",
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-17-17:00-bilete-queen-of-sea",
+   "cinema": "elvire",
+   "date": "2026-11-17",
+   "time": "17:00",
+   "title": "QUEEN AT SEA / REGINA ȘI MAREA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "union-2026-11-17-17:15-bilete-teenage-sex-and-death-at-camp-miasma",
+   "cinema": "union",
+   "date": "2026-11-17",
+   "time": "17:15",
+   "title": "Teenage Sex and Death at Camp Miasma",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-17-19:30-bilete-minotaure-minotaur",
+   "cinema": "elvire",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "union-2026-11-17-19:30-bilete-piatra-foarfeca-hartie-2",
+   "cinema": "union",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "title": "PIATRĂ FOARFECĂ HÂRTIE",
+   "age": null,
+   "note": "Premieră urmată de Q&A în prezența echipei filmului",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-union"
+  },
+  {
+   "id": "union-2026-11-18-17:15-bilete-regina-si-marea",
+   "cinema": "union",
+   "date": "2026-11-18",
+   "time": "17:15",
+   "title": "Regina și marea",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-regina-si-marea?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-18-18:00-bilete-amarga-navidad-craciun-amar",
+   "cinema": "elvire",
+   "date": "2026-11-18",
+   "time": "18:00",
+   "title": "AMARGA NAVIDAD / CRĂCIUN AMAR",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "union-2026-11-18-19:30-bilete-monarh",
+   "cinema": "union",
+   "date": "2026-11-18",
+   "time": "19:30",
+   "title": "Monarh",
+   "age": "15+",
+   "note": "Premieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-monarh?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-18-20:30-bilete-teenage-sex-and-death-at-camp-miasma-2",
+   "cinema": "elvire",
+   "date": "2026-11-18",
+   "time": "20:30",
+   "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma-2?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "union-2026-11-19-17:00-bilete-delta-salbatica-film",
+   "cinema": "union",
+   "date": "2026-11-19",
+   "time": "17:00",
+   "title": "DELTA SĂLBATICĂ",
+   "age": "A.G.",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-delta-salbatica-film?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-19-18:00-bilete-minotaure-minotaur",
+   "cinema": "elvire",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-19-19:00-bilete-mici-excese-pas-sur-la-bouche",
+   "cinema": "apollo111",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "title": "Mici Excese: Pas sur la bouche",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-mici-excese-pas-sur-la-bouche?hall=apollo111-cinema"
+  },
+  {
+   "id": "union-2026-11-19-19:00-bilete-iertarea-lansare-revista-film",
+   "cinema": "union",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "title": "IERTAREA",
+   "age": "12+",
+   "note": "Lansare număr nou Revista Film + proiecție",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-iertarea-lansare-revista-film?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-19-20:30-bilete-queen-of-sea",
+   "cinema": "elvire",
+   "date": "2026-11-19",
+   "time": "20:30",
+   "title": "QUEEN AT SEA / REGINA ȘI MAREA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-20-11:00-bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute",
+   "cinema": "elvire",
+   "date": "2026-11-20",
+   "time": "11:00",
+   "title": "MINUSCULE: VALEA FURNICILOR PIERDUTE",
+   "age": "6+",
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "student": 16,
+    "adult": 0
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-20-17:00-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": "Premieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-20-18:30-bilete-naza-film",
+   "cinema": "apollo111",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "title": "NAZA",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-naza-film?hall=apollo111-cinema"
+  },
+  {
+   "id": "elvire-2026-11-20-19:30-bilete-le-temps-retrouve-timpul-regasit-ian-christie",
+   "cinema": "elvire",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "title": "LE TEMPS RETROUVÉ / TIMPUL REGĂSIT",
+   "age": null,
+   "note": "Ian Christie X Cinema Elvire Popesco",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-le-temps-retrouve-timpul-regasit-ian-christie?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-20-20:00-bilete-pionul-lui-lenin",
+   "cinema": "apollo111",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "title": "Pionul lui Lenin",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema"
+  },
+  {
+   "id": "union-2026-11-20-20:00-bilete-film-cazul-inginerului-ursu",
+   "cinema": "union",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "title": "CAZUL INGINERULUI URSU",
+   "age": null,
+   "note": "Proiecție urmată de Q&A",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 0
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-cazul-inginerului-ursu?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-21-11:00-bilete-le-chant-des-forets-cantecul-padurii",
+   "cinema": "elvire",
+   "date": "2026-11-21",
+   "time": "11:00",
+   "title": "LE CHANT DES FORÊTS / CÂNTECUL PĂDURII",
+   "age": null,
+   "note": "FILM PENTRU PUBLICUL TÂNĂR Avanpremieră",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-cantecul-padurii?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-21-13:00-bilete-piatra-foarfeca-hartie-2",
+   "cinema": "elvire",
+   "date": "2026-11-21",
+   "time": "13:00",
+   "title": "PIATRĂ FOARFECĂ HÂRTIE",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-21-15:00-bilete-cinema-fara-bariere-mon-inseparable",
+   "cinema": "elvire",
+   "date": "2026-11-21",
+   "time": "15:00",
+   "title": "MON INSÉPARABLE / TOT CE AM MAI DE PREȚ",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "student": 16,
+    "adult": 0
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-mon-inseparable?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "union-2026-11-21-15:15-bilete-jurnalul-unei-cameriste-film",
+   "cinema": "union",
+   "date": "2026-11-21",
+   "time": "15:15",
+   "title": "Jurnalul unei cameriste",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-21-18:00-bilete-minotaure-minotaur",
+   "cinema": "elvire",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-21-20:30-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-11-21",
+   "time": "20:30",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-22-11:00-bilete-planetes-exclusivitate",
+   "cinema": "elvire",
+   "date": "2026-11-22",
+   "time": "11:00",
+   "title": "PLANÈTES",
+   "age": "8+",
+   "note": "EXCLUSIVITATE",
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-planetes-exclusivitate?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-22-13:00-bilete-queen-of-sea",
+   "cinema": "elvire",
+   "date": "2026-11-22",
+   "time": "13:00",
+   "title": "QUEEN AT SEA / REGINA ȘI MAREA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-22-15:30-bilete-amarga-navidad-craciun-amar",
+   "cinema": "elvire",
+   "date": "2026-11-22",
+   "time": "15:30",
+   "title": "AMARGA NAVIDAD / CRĂCIUN AMAR",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-22-16:00-bilete-silent-reading-party-jurnalul-unei-cameriste",
+   "cinema": "apollo111",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "title": "Silent Reading Party: Jurnalul unei cameriste",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR",
+    "RO"
+   ],
+   "subs": [
+    "RO",
+    "EN"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-silent-reading-party-jurnalul-unei-cameriste?hall=apollo111-cinema"
+  },
+  {
+   "id": "union-2026-11-22-16:00-bilete-pionul-lui-lenin",
+   "cinema": "union",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "title": "Pionul lui Lenin",
+   "age": "15+",
+   "note": "Premieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=cinema-union"
+  },
+  {
+   "id": "union-2026-11-22-17:45-bilete-minotaur",
+   "cinema": "union",
+   "date": "2026-11-22",
+   "time": "17:45",
+   "title": "Minotaur",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-22-18:00-bilete-minotaure-minotaur",
+   "cinema": "elvire",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-22-19:30-bilete-a-matter-of-life-and-death",
+   "cinema": "apollo111",
+   "date": "2026-11-22",
+   "time": "19:30",
+   "title": "A Matter of Life and Death",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-a-matter-of-life-and-death?hall=apollo111-cinema"
+  },
+  {
+   "id": "union-2026-11-22-20:15-bilete-club-kid",
+   "cinema": "union",
+   "date": "2026-11-22",
+   "time": "20:15",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": "Premieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-union"
+  },
+  {
+   "id": "elvire-2026-11-22-20:30-bilete-film-100-lei",
+   "cinema": "elvire",
+   "date": "2026-11-22",
+   "time": "20:30",
+   "title": "100 LEI",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 0
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-100-lei?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-23-18:00-bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula",
+   "cinema": "elvire",
+   "date": "2026-11-23",
+   "time": "18:00",
+   "title": "CEA MAI FERICITĂ FATĂ DIN LUME + LAMPA CU CĂCIULĂ",
+   "age": null,
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-23-20:15-bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii",
+   "cinema": "elvire",
+   "date": "2026-11-23",
+   "time": "20:15",
+   "title": "JURNALUL UNEI CAMERISTE + POTEMKINIȘTII",
+   "age": "15+",
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "EN",
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-24-18:00-bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra",
+   "cinema": "elvire",
+   "date": "2026-11-24",
+   "time": "18:00",
+   "title": "TOATĂ LUMEA DIN FAMILIA NOASTRĂ + ALEXANDRA",
+   "age": "15+",
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-24-20:30-bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana",
+   "cinema": "elvire",
+   "date": "2026-11-24",
+   "time": "20:30",
+   "title": "AFERIM! + CARICATURANA",
+   "age": "15+",
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-25-17:00-bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est",
+   "cinema": "elvire",
+   "date": "2026-11-25",
+   "time": "17:00",
+   "title": "ȚARA MOARTĂ + AMINTIRI DE PE FRONTUL DE EST",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-25-19:30-bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal",
+   "cinema": "elvire",
+   "date": "2026-11-25",
+   "time": "19:30",
+   "title": "ÎMI ESTE INDIFERENT DACĂ ÎN ISTORIE VOM INTRA CA BARBARI + CELE DOUĂ EXECUȚII ALE MAREȘALULUI",
+   "age": null,
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-26-17:30-bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata",
+   "cinema": "elvire",
+   "date": "2026-11-26",
+   "time": "17:30",
+   "title": "FILM PENTRU PRIETENI + O UMBRA DE NOR + DIMINEAȚA",
+   "age": null,
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-26-19:00-bilete-you-can-see-everything",
+   "cinema": "apollo111",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "title": "You Can See Everything",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "sold_out",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema"
+  },
+  {
+   "id": "elvire-2026-11-26-20:00-bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete",
+   "cinema": "elvire",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "title": "INIMI CICATRIZATE + TRECE ȘI PRIN PERETE",
+   "age": "15+",
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-27-15:30-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-11-27",
+   "time": "15:30",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-27-17:00-bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante",
+   "cinema": "elvire",
+   "date": "2026-11-27",
+   "time": "17:00",
+   "title": "SLEEP 2 + PLASTIC SEMIOTIC + TRAILER PENTRU PARADISUL LUI DANTE",
+   "age": "18+",
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-27-18:30-bilete-pionul-lui-lenin",
+   "cinema": "apollo111",
+   "date": "2026-11-27",
+   "time": "18:30",
+   "title": "Pionul lui Lenin",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema"
+  },
+  {
+   "id": "elvire-2026-11-27-19:30-bilete-nu-e-locul-tau-aici",
+   "cinema": "elvire",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": null,
+   "note": "Premieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-27-20:30-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "apollo111",
+   "date": "2026-11-27",
+   "time": "20:30",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": "English-friendly",
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=apollo111-cinema"
+  },
+  {
+   "id": "elvire-2026-11-28-13:00-bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea",
+   "cinema": "elvire",
+   "date": "2026-11-28",
+   "time": "13:00",
+   "title": "IEȘIREA TRENURILOR DIN GARĂ + A PEDEPSI, A SUPRAVEGHEA",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-28-16:30-bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura",
+   "cinema": "elvire",
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "NU AȘTEPTA PREA MULT DE LA SFÂRȘITUL LUMII + STIMAȚI OAMENI DE CULTURĂ",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-28-17:00-bilete-nu-e-locul-tau-aici",
+   "cinema": "apollo111",
+   "date": "2026-11-28",
+   "time": "17:00",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=apollo111-cinema"
+  },
+  {
+   "id": "apollo111-2026-11-28-20:00-bilete-club-kid",
+   "cinema": "apollo111",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema"
+  },
+  {
+   "id": "elvire-2026-11-28-20:00-bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc",
+   "cinema": "elvire",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "BABARDEALĂ CU BUCLUL SAU PORNO BALAMUC",
+   "age": "18+",
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-29-12:00-bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan",
+   "cinema": "elvire",
+   "date": "2026-11-29",
+   "time": "12:00",
+   "title": "TIPOGRAFIC MAJUSCUL + PLAN CONTRAPLAN",
+   "age": null,
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "elvire-2026-11-29-15:00-bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose",
+   "cinema": "elvire",
+   "date": "2026-11-29",
+   "time": "15:00",
+   "title": "8 ILUSTRATE DIN UTOPIA + LITTLE POEMS IN PROSE",
+   "age": null,
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-29-16:00-bilete-club-kid",
+   "cinema": "apollo111",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema"
+  },
+  {
+   "id": "elvire-2026-11-29-17:00-bilete-retrospectiva-integrala-radu-jude-kontinental-25",
+   "cinema": "elvire",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": "KONTINENTAL 25",
+   "age": null,
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO",
+    "HU",
+    "DE"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-kontinental-25?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-11-29-18:30-bilete-you-can-see-everything",
+   "cinema": "apollo111",
+   "date": "2026-11-29",
+   "time": "18:30",
+   "title": "You Can See Everything",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema"
+  },
+  {
+   "id": "elvire-2026-11-29-19:00-bilete-retrospectiva-integrala-radu-jude-dracula",
+   "cinema": "elvire",
+   "date": "2026-11-29",
+   "time": "19:00",
+   "title": "DRACULA",
+   "age": "18+",
+   "note": "RETROSPECTIVĂ INTEGRALĂ RADU JUDE",
+   "audio": [
+    "RO",
+    "EN",
+    "DE"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-dracula?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "apollo111-2026-12-10-19:00-bilete-mici-excese-a-vinganca-de-uma-mulher",
+   "cinema": "apollo111",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "title": "Mici Excese: A vinganca de uma mulher",
+   "age": null,
+   "note": null,
+   "audio": [
+    "PT"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-mici-excese-a-vinganca-de-uma-mulher?hall=apollo111-cinema"
+  },
+  {
+   "id": "apollo111-2026-12-12-20:00-bilete-film-persona",
+   "cinema": "apollo111",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "title": "PERSONA",
+   "age": "14+",
+   "note": null,
+   "audio": [],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 35,
+    "student": 20
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-persona?hall=apollo111-cinema"
+  }
+ ]
+}
