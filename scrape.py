@@ -23,6 +23,14 @@ HALLS = {
     "union": {"name": "Union", "slug": "cinema-union", "color": "#b0304f", "tech": []},
     "apollo111": {"name": "Apollo111", "slug": "apollo111-cinema", "color": "#6a4fb0", "tech": []},
     "eforie": {"name": "Eforie", "slug": "cinema-eforie", "color": "#8a7a3a", "tech": []},
+    "muzeu": {"name": "Muzeul Țăranului", "slug": "cinema-muzeul-taranului-studio-horia-bernea", "color": "#b4651e", "tech": []},
+}
+
+# Reduceri valabile DOAR la casa de bilete (nu apar online). Cheie: prețul de adult.
+BOX_RULES = {
+    "union": {15: {"student": 5, "pensioner": 5}},
+    "eforie": {15: {"student": 5, "pensioner": 5}},
+    "muzeu": {32: {"pensioner": 16, "student": 8}, 40: {"pensioner": 20, "student": 10}},
 }
 
 MONTHS = {"jan": 1, "ian": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "mai": 5, "jun": 6, "iun": 6,
@@ -32,11 +40,12 @@ DATE = re.compile(r"calendar_month\s*(\d{1,2})\s+([^\W\d_]+)\.?\s+(\d{4})\s*sche
 LINK = re.compile(r'href="/film/(bilete-[a-z0-9-]+)\?hall=([a-z0-9-]+)"')
 TITLE = re.compile(r'event-title[^"]*"[^>]*>\s*<h5[^>]*>(.*?)</h5>', re.S)
 AGE = re.compile(r"\s+(A\.?G\.?|AP-?12|N-?15|IM-?18|\d{1,2}\+)\s*$", re.I)
+AUDIO_N = re.compile(r"volume_up\s+(.{1,40}?)\s+notes\b")
 AUDIO = re.compile(r"volume_up\s+([A-Z]{2,3}(?:\s*[,/]\s*[A-Z]{2,3})*)(?=\s|$)")
 SUBS = re.compile(r"\bnotes\s+(?:(?i:subtitrat)\s+)?([A-Z]{2,3}(?:\s*[,/]\s*[A-Z]{2,3})*)(?=\s|$)")
 PRICE = re.compile(r"(?:price|pre[tț])\s*:?\s*(\d+(?:[.,]\d+)?)\s*lei(?:\s*\(([^)]*)\))?", re.I)
 SOLD = re.compile(r"sold\s*out|epuizat", re.I)
-CLOSED = re.compile(r"online[^.]{0,40}(?:închis|inchis|încheiat|closed)|(?:sale|vânzare)[^.]{0,30}(?:closed|închis)", re.I)
+PRICE_BARE = re.compile(r"(?<![\d.,])(\d+(?:[.,]\d+)?)\s*lei\b", re.I)
 
 
 def fetch(url, tries=3):
@@ -56,18 +65,32 @@ def text(s):
 
 
 def langs(s):
-    return [x.strip() for x in re.split(r"[,/]", s)] if s else []
+    out = []
+    for x in re.split(r"[,/]", s or ""):
+        x = x.strip()
+        if x:
+            out.append(x.upper() if len(x) <= 3 else x.capitalize())
+    return out
 
 
-def tier(label):
+def num(v):
+    f = float(v.replace(",", "."))
+    return int(f) if f == int(f) else f
+
+
+def tiers(label):
     l = (label or "").lower()
     if re.search(r"adult\s*\+\s*copil|familie|family", l):
-        return "family"
+        return ["family"]
     if "copil" in l:
-        return "child"
-    if re.search(r"elev|student|pensionar|redus", l):
-        return "student"
-    return "adult"
+        return ["child"]
+    stu = re.search(r"elev|student", l)
+    pen = "pensionar" in l
+    if stu or pen:
+        return (["student"] if stu else []) + (["pensioner"] if pen else [])
+    if "redus" in l:
+        return ["student", "pensioner"]
+    return ["adult"]
 
 
 def parse_block(blk, hid, stats):
@@ -89,19 +112,25 @@ def parse_block(blk, hid, stats):
         return None
     am = AGE.search(raw)
     age, title = (am.group(1).upper(), raw[:am.start()].strip()) if am else (None, raw)
-    nm = re.search(re.escape(raw) + r"\s+(.{1,60}?)\s+volume_up", t)
+    nm = re.search(re.escape(raw) + r"\s+(.{1,120}?)\s+volume_up", t)
     note = nm.group(1).strip() if nm else None
-    au, su = AUDIO.search(t), SUBS.search(t)
+    au = AUDIO_N.search(t) or AUDIO.search(t)
+    su = SUBS.search(t)
     prices = {}
     for val, label in PRICE.findall(t):
-        v = float(val.replace(",", "."))
-        prices.setdefault(tier(label), int(v) if v == int(v) else v)
-    status = "ok"
-    if "shopping_cart" not in t:
-        if SOLD.search(t):
-            status = "sold_out"
-        elif CLOSED.search(t):
-            status = "closed"
+        for k in tiers(label):
+            prices.setdefault(k, num(val))
+    if not prices:  # ex. Muzeul Țăranului: doar "32 lei", fără "preț:"
+        tail = t[t.rfind("location_on"):] if "location_on" in t else t
+        pb = PRICE_BARE.search(tail)
+        if pb:
+            prices["adult"] = num(pb.group(1))
+    box = {}
+    if "adult" in prices:
+        for k, v in BOX_RULES.get(hid, {}).get(prices["adult"], {}).items():
+            if k not in prices:
+                box[k] = v
+    status = "sold_out" if ("shopping_cart" not in t and SOLD.search(t)) else "ok"
     slug = lm.group(1)
     date_iso = f"{year}-{month:02d}-{int(day):02d}"
     time_s = f"{int(hh):02d}:{mm}"
@@ -109,7 +138,7 @@ def parse_block(blk, hid, stats):
         "id": f"{hid}-{date_iso}-{time_s}-{slug}", "cinema": hid, "date": date_iso, "time": time_s,
         "title": title, "age": age, "note": note,
         "audio": langs(au.group(1)) if au else [], "subs": langs(su.group(1)) if su else [],
-        "prices": prices, "status": status,
+        "prices": prices, "box": box, "status": status,
         "url": f"{BASE}/film/{slug}?hall={lm.group(2)}",
     }
 
@@ -158,9 +187,9 @@ def main():
         print("STATISTICI:", stats or "-", "| EROARE:", err or "nu")
         if items:
             print("  cu audio:", sum(1 for i in items if i["audio"]), "| cu subtitrare:", sum(1 for i in items if i["subs"]),
-                  "| cu pret student:", sum(1 for i in items if "student" in i["prices"]),
+                  "| cu pret student:", sum(1 for i in items if "student" in i["prices"] or "student" in i["box"]),
                   "| sold out:", sum(1 for i in items if i["status"] == "sold_out"),
-                  "| inchise:", sum(1 for i in items if i["status"] == "closed"))
+                  "| fara pret:", sum(1 for i in items if not i["prices"]))
             for i in sorted(items, key=lambda x: (x["date"], x["time"]))[:2]:
                 print("  EXEMPLU:", json.dumps(i, ensure_ascii=False))
         old = [x for x in prev.get("screenings", []) if x["cinema"] == hid and x["date"] >= today]
