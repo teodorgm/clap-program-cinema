@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T21:47:52+00:00",
+ "generated": "2026-11-15T22:14:30+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -22,6 +22,11 @@
    "name": "Eforie",
    "color": "#8a7a3a",
    "tech": []
+  },
+  "muzeu": {
+   "name": "Muzeul Țăranului",
+   "color": "#b4651e",
+   "tech": []
   }
  },
  "sources": {
@@ -30,7 +35,7 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-15T21:47:52+00:00",
+   "updated": "2026-11-15T22:14:30+00:00",
    "error": null
   },
   "union": {
@@ -38,7 +43,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-15T21:47:52+00:00",
+   "updated": "2026-11-15T22:14:30+00:00",
    "error": null
   },
   "apollo111": {
@@ -46,7 +51,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-15T21:47:52+00:00",
+   "updated": "2026-11-15T22:14:30+00:00",
    "error": null
   },
   "eforie": {
@@ -54,7 +59,15 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-15T21:47:52+00:00",
+   "updated": "2026-11-15T22:14:30+00:00",
+   "error": null
+  },
+  "muzeu": {
+   "name": "Muzeul Țăranului",
+   "ok": true,
+   "stale": false,
+   "count": 25,
+   "updated": "2026-11-15T22:14:30+00:00",
    "error": null
   }
  },
@@ -75,10 +88,60 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "muzeu-2026-11-16-18:00-bilete-inca-o-dorinta",
+   "cinema": "muzeu",
+   "date": "2026-11-16",
+   "time": "18:00",
+   "title": "Încă o dorință",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "HU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "sold_out",
+   "url": "https://eventbook.ro/film/bilete-inca-o-dorinta?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-11-16-20:00-bilete-foldszint-parter",
+   "cinema": "muzeu",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "title": "Földszint | Parter",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "HU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-foldszint-parter?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-16-20:30-bilete-film-jurnalul-unei-cameriste",
@@ -98,8 +161,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco"
   },
@@ -120,8 +185,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco"
   },
@@ -142,8 +209,36 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-17-18:00-bilete-gaina",
+   "cinema": "muzeu",
+   "date": "2026-11-17",
+   "time": "18:00",
+   "title": "Găina",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "EL"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-gaina?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-17-19:30-bilete-minotaure-minotaur",
@@ -161,8 +256,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
   },
@@ -183,8 +280,36 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-17-20:00-bilete-naza-film",
+   "cinema": "muzeu",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "title": "NAZA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "Ivrit"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-naza-film?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "union-2026-11-18-17:15-bilete-regina-si-marea",
@@ -203,8 +328,36 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-regina-si-marea?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-18-17:30-bilete-minotaur",
+   "cinema": "muzeu",
+   "date": "2026-11-18",
+   "time": "17:30",
+   "title": "Minotaur",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-18-18:00-bilete-amarga-navidad-craciun-amar",
@@ -222,8 +375,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco"
   },
@@ -242,8 +397,35 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-monarh?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-18-20:00-bilete-morvern-callar",
+   "cinema": "muzeu",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "title": "Morvern Callar",
+   "age": null,
+   "note": "Proiecție și discuție",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 40,
+    "pensioner": 20,
+    "student": 10
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-morvern-callar?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-18-20:30-bilete-teenage-sex-and-death-at-camp-miasma-2",
@@ -261,8 +443,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma-2?hall=cinema-elvire-popesco"
   },
@@ -281,8 +465,36 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-delta-salbatica-film?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-19-17:30-bilete-film-strainul",
+   "cinema": "muzeu",
+   "date": "2026-11-19",
+   "time": "17:30",
+   "title": "Străinul",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-strainul?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-19-18:00-bilete-minotaure-minotaur",
@@ -300,8 +512,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
   },
@@ -321,8 +535,10 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-mici-excese-pas-sur-la-bouche?hall=apollo111-cinema"
   },
@@ -341,8 +557,34 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-iertarea-lansare-revista-film?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-19-20:00-bilete-pionul-lui-lenin-premiera-de-gala",
+   "cinema": "muzeu",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "title": "Pionul lui LENIN",
+   "age": "12+",
+   "note": "Premieră Premieră urmată de Q&A în prezența echipei filmului",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 40
+   },
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin-premiera-de-gala?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-19-20:30-bilete-queen-of-sea",
@@ -361,8 +603,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco"
   },
@@ -378,8 +622,10 @@
    "subs": [],
    "prices": {
     "student": 16,
+    "pensioner": 16,
     "adult": 0
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute?hall=cinema-elvire-popesco"
   },
@@ -399,10 +645,36 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "muzeu-2026-11-20-18:00-bilete-ultimele-scrisori-ale-bunicii",
+   "cinema": "muzeu",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "title": "Ultimele scrisori ale bunicii",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-ultimele-scrisori-ale-bunicii?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "apollo111-2026-11-20-18:30-bilete-naza-film",
@@ -412,14 +684,18 @@
    "title": "NAZA",
    "age": null,
    "note": null,
-   "audio": [],
+   "audio": [
+    "Ivrit"
+   ],
    "subs": [
     "RO"
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-naza-film?hall=apollo111-cinema"
   },
@@ -439,8 +715,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-le-temps-retrouve-timpul-regasit-ian-christie?hall=cinema-elvire-popesco"
   },
@@ -460,10 +738,35 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema"
+  },
+  {
+   "id": "muzeu-2026-11-20-20:00-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "muzeu",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": "Premieră",
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 0
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "union-2026-11-20-20:00-bilete-film-cazul-inginerului-ursu",
@@ -480,6 +783,7 @@
    "prices": {
     "adult": 0
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-cazul-inginerului-ursu?hall=cinema-union"
   },
@@ -500,9 +804,11 @@
    "prices": {
     "family": 35,
     "student": 16,
+    "pensioner": 16,
     "child": 11,
     "adult": 27
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-cantecul-padurii?hall=cinema-elvire-popesco"
   },
@@ -522,8 +828,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-elvire-popesco"
   },
@@ -539,8 +847,10 @@
    "subs": [],
    "prices": {
     "student": 16,
+    "pensioner": 16,
     "adult": 0
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-mon-inseparable?hall=cinema-elvire-popesco"
   },
@@ -562,8 +872,60 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-21-15:30-bilete-club-kid",
+   "cinema": "muzeu",
+   "date": "2026-11-21",
+   "time": "15:30",
+   "title": "CLUB KID",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-11-21-17:45-bilete-minotaur",
+   "cinema": "muzeu",
+   "date": "2026-11-21",
+   "time": "17:45",
+   "title": "Minotaur",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-21-18:00-bilete-minotaure-minotaur",
@@ -581,10 +943,34 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "muzeu-2026-11-21-20:15-bilete-3-zile-inseptembrie",
+   "cinema": "muzeu",
+   "date": "2026-11-21",
+   "time": "20:15",
+   "title": "3 zile în septembrie",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 40
+   },
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-3-zile-inseptembrie?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-21-20:30-bilete-club-kid",
@@ -602,8 +988,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
   },
@@ -620,9 +1008,11 @@
    "prices": {
     "family": 35,
     "student": 16,
+    "pensioner": 16,
     "child": 11,
     "adult": 27
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-planetes-exclusivitate?hall=cinema-elvire-popesco"
   },
@@ -643,8 +1033,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco"
   },
@@ -664,8 +1056,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco"
   },
@@ -687,8 +1081,10 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-silent-reading-party-jurnalul-unei-cameriste?hall=apollo111-cinema"
   },
@@ -709,8 +1105,38 @@
    "prices": {
     "adult": 15
    },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=cinema-union"
+  },
+  {
+   "id": "muzeu-2026-11-22-16:40-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "muzeu",
+   "date": "2026-11-22",
+   "time": "16:40",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "union-2026-11-22-17:45-bilete-minotaur",
@@ -728,6 +1154,10 @@
    ],
    "prices": {
     "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-union"
@@ -748,10 +1178,36 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "muzeu-2026-11-22-18:30-bilete-minotaur",
+   "cinema": "muzeu",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "title": "Minotaur",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "apollo111-2026-11-22-19:30-bilete-a-matter-of-life-and-death",
@@ -769,8 +1225,10 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-a-matter-of-life-and-death?hall=apollo111-cinema"
   },
@@ -790,6 +1248,10 @@
    ],
    "prices": {
     "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-union"
@@ -811,6 +1273,7 @@
    "prices": {
     "adult": 0
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-100-lei?hall=cinema-elvire-popesco"
   },
@@ -830,8 +1293,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula?hall=cinema-elvire-popesco"
   },
@@ -854,8 +1319,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii?hall=cinema-elvire-popesco"
   },
@@ -875,8 +1342,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra?hall=cinema-elvire-popesco"
   },
@@ -896,8 +1365,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana?hall=cinema-elvire-popesco"
   },
@@ -913,8 +1384,10 @@
    "subs": [],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est?hall=cinema-elvire-popesco"
   },
@@ -934,8 +1407,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal?hall=cinema-elvire-popesco"
   },
@@ -955,8 +1430,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata?hall=cinema-elvire-popesco"
   },
@@ -972,8 +1449,10 @@
    "subs": [],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema"
   },
@@ -993,8 +1472,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete?hall=cinema-elvire-popesco"
   },
@@ -1014,8 +1495,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco"
   },
@@ -1035,10 +1518,36 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "muzeu-2026-11-27-18:00-bilete-nu-e-locul-tau-aici",
+   "cinema": "muzeu",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": null,
+   "note": "Premieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 40
+   },
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "apollo111-2026-11-27-18:30-bilete-pionul-lui-lenin",
@@ -1056,8 +1565,10 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema"
   },
@@ -1077,8 +1588,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco"
   },
@@ -1098,10 +1611,35 @@
    "subs": [],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=apollo111-cinema"
+  },
+  {
+   "id": "muzeu-2026-11-27-20:45-bilete-atat-de-familiar",
+   "cinema": "muzeu",
+   "date": "2026-11-27",
+   "time": "20:45",
+   "title": "Atât de familiar",
+   "age": "12+",
+   "note": "Premieră urmată de Q&A în prezența echipei filmului",
+   "audio": [
+    "EN",
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 40
+   },
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-atat-de-familiar?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "elvire-2026-11-28-13:00-bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea",
@@ -1115,8 +1653,10 @@
    "subs": [],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea?hall=cinema-elvire-popesco"
   },
@@ -1132,8 +1672,10 @@
    "subs": [],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura?hall=cinema-elvire-popesco"
   },
@@ -1153,10 +1695,36 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=apollo111-cinema"
+  },
+  {
+   "id": "muzeu-2026-11-28-17:40-bilete-nu-e-locul-tau-aici",
+   "cinema": "muzeu",
+   "date": "2026-11-28",
+   "time": "17:40",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "apollo111-2026-11-28-20:00-bilete-club-kid",
@@ -1174,8 +1742,10 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema"
   },
@@ -1195,8 +1765,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc?hall=cinema-elvire-popesco"
   },
@@ -1216,8 +1788,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan?hall=cinema-elvire-popesco"
   },
@@ -1237,8 +1811,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose?hall=cinema-elvire-popesco"
   },
@@ -1258,8 +1834,10 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema"
   },
@@ -1281,8 +1859,10 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-kontinental-25?hall=cinema-elvire-popesco"
   },
@@ -1298,8 +1878,10 @@
    "subs": [],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema"
   },
@@ -1321,10 +1903,163 @@
    ],
    "prices": {
     "adult": 27,
-    "student": 16
+    "student": 16,
+    "pensioner": 16
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-dracula?hall=cinema-elvire-popesco"
+  },
+  {
+   "id": "muzeu-2026-11-29-19:15-bilete-nu-e-locul-tau-aici",
+   "cinema": "muzeu",
+   "date": "2026-11-29",
+   "time": "19:15",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-11-30-16:00-bilete-you-can-see-everything",
+   "cinema": "muzeu",
+   "date": "2026-11-30",
+   "time": "16:00",
+   "title": "You Can See Everything",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 0
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-11-30-19:15-bilete-anatomia-unei-prabusiri-european-cinema-night",
+   "cinema": "muzeu",
+   "date": "2026-11-30",
+   "time": "19:15",
+   "title": "ANATOMIE D’UNE CHUTE / ANATOMIA UNEI PRĂBUȘIRI",
+   "age": "15+",
+   "note": "EUROPEAN CINEMA NIGHT",
+   "audio": [
+    "EN",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 0
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-anatomia-unei-prabusiri-european-cinema-night?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-12-01-20:15-bilete-nu-e-locul-tau-aici",
+   "cinema": "muzeu",
+   "date": "2026-12-01",
+   "time": "20:15",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-12-05-12:00-bilete-you-can-see-everything",
+   "cinema": "muzeu",
+   "date": "2026-12-05",
+   "time": "12:00",
+   "title": "You Can See Everything",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-12-05-15:15-bilete-nu-e-locul-tau-aici",
+   "cinema": "muzeu",
+   "date": "2026-12-05",
+   "time": "15:15",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 40
+   },
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea"
+  },
+  {
+   "id": "muzeu-2026-12-06-12:00-bilete-you-can-see-everything",
+   "cinema": "muzeu",
+   "date": "2026-12-06",
+   "time": "12:00",
+   "title": "You Can See Everything",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea"
   },
   {
    "id": "apollo111-2026-12-10-19:00-bilete-mici-excese-a-vinganca-de-uma-mulher",
@@ -1342,8 +2077,10 @@
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-mici-excese-a-vinganca-de-uma-mulher?hall=apollo111-cinema"
   },
@@ -1355,14 +2092,18 @@
    "title": "PERSONA",
    "age": "14+",
    "note": null,
-   "audio": [],
+   "audio": [
+    "Suedeză"
+   ],
    "subs": [
     "RO"
    ],
    "prices": {
     "adult": 35,
-    "student": 20
+    "student": 20,
+    "pensioner": 20
    },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-persona?hall=apollo111-cinema"
   }
