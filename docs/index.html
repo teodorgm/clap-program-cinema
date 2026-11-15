@@ -11,11 +11,11 @@
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-main{max-width:760px;margin:0 auto;padding:20px 16px 48px}
+main{max-width:760px;margin:0 auto;padding:16px 14px 40px}
 h1{font:700 32px/1.05 Georgia,"Times New Roman",serif;margin:8px 0 2px;letter-spacing:-.01em}
 .tag{margin:0;font:italic 16px Georgia,serif;color:var(--mu)}
 .sub{color:var(--mu);margin:6px 0 18px;font-size:13px}
-.row{display:flex;gap:8px;overflow-x:auto;padding:2px 0 10px;scrollbar-width:none}
+.row{display:flex;gap:8px;overflow-x:auto;padding:2px 0 8px;scrollbar-width:none}
 .row::-webkit-scrollbar{display:none}
 button.chip{flex:none;border:1px solid var(--ln);background:var(--sf);color:var(--tx);border-radius:999px;padding:7px 14px;font:inherit;font-size:14px;cursor:pointer}
 button.chip[aria-pressed="true"]{background:var(--tx);color:var(--bg);border-color:var(--tx)}
@@ -25,22 +25,24 @@ button.chip:focus-visible,a:focus-visible{outline:2px solid var(--ac);outline-of
 .days b{display:block;font-size:17px}
 .days span{font-size:11px;text-transform:uppercase;letter-spacing:.03em}
 .lbl{font-size:13px;color:var(--mu);margin:6px 0 2px}
-.film{background:var(--sf);border:1px solid var(--ln);border-radius:8px;padding:14px;margin:12px 0}
-.top{display:flex;gap:12px;margin-bottom:10px}
-.top>div{min-width:0}
-.pos{flex:none;width:56px;height:84px;border-radius:3px;object-fit:cover;background:var(--ln);display:grid;place-items:center;font:700 22px Georgia,serif;color:var(--mu)}
-.film h2{font:700 19px/1.25 Georgia,"Times New Roman",serif;margin:0}
-.orig{margin:0;font-size:13px;color:var(--mu);font-style:italic}
-.meta{color:var(--mu);font-size:13px;margin:4px 0 0}
-.bd{display:inline-block;border:1px solid var(--ln);border-radius:4px;font:600 12px/1 system-ui,sans-serif;padding:3px 5px;margin-left:6px;vertical-align:2px;color:var(--mu)}
-.times{display:flex;flex-wrap:wrap;gap:8px}
-.t{display:inline-flex;flex-direction:column;align-items:center;min-width:92px;padding:7px 10px;border:1.5px dashed var(--cc);border-radius:4px;color:var(--tx);text-decoration:none;font-weight:700;font-variant-numeric:tabular-nums;line-height:1.3}
-.t small{font-weight:400;font-size:11px;color:var(--mu);text-align:center}
-.t small.c::before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--cc);margin-right:4px}
+.film{display:flex;gap:12px;background:var(--sf);border:1px solid var(--ln);border-radius:8px;padding:10px 12px;margin:10px 0}
+.pos{flex:none;width:52px;height:78px;border-radius:3px;object-fit:cover;background:var(--ln);display:grid;place-items:center;font:700 20px Georgia,serif;color:var(--mu)}
+.info{flex:1;min-width:0}
+.film h2{font:700 18px/1.25 Georgia,"Times New Roman",serif;margin:0}
+.orig{margin:0;font-size:13px;color:var(--mu);font-style:italic;line-height:1.3}
+.meta{color:var(--mu);font-size:13px;margin:2px 0 0;line-height:1.35}
+.meta a{color:inherit;text-decoration:underline;text-decoration-color:var(--ln)}
+.bd{display:inline-block;border:1px solid var(--ln);border-radius:4px;font:600 11px/1 system-ui,sans-serif;padding:2px 4px;margin-left:6px;vertical-align:2px;color:var(--mu)}
+.r{display:grid;grid-template-columns:130px 1fr auto;gap:4px 10px;align-items:center;margin-top:8px}
+.cn{font-size:13px;display:flex;align-items:center;gap:6px;min-width:0}
+.cn i{flex:none;width:8px;height:8px;border-radius:50%;background:var(--cc)}
+.tm{display:flex;flex-wrap:wrap;gap:6px}
+.x{font-size:12px;color:var(--mu);text-align:right}
+.t{padding:2px 9px;border:1.5px solid var(--cc);border-radius:6px;color:var(--tx);text-decoration:none;font-weight:700;font-size:15px;font-variant-numeric:tabular-nums}
 a.t:hover{background:var(--cc);color:#fff}
-a.t:hover small{color:inherit}
 .t.so{border-color:var(--ln);color:var(--mu);text-decoration:line-through}
 .t.past{opacity:.4}
+@media (max-width:560px){.r{grid-template-columns:1fr auto}.tm{grid-column:1/-1;order:3}}
 .empty{padding:28px 8px;color:var(--mu);text-align:center}
 .note{font-size:13px;color:var(--mu);border-top:1px solid var(--ln);margin-top:28px;padding-top:14px}
 .note p{margin:0 0 8px}
@@ -153,35 +155,44 @@ function list(){
   if(!order.length){out.appendChild(el("div","empty","Nicio proiecție pentru filtrele alese."));return}
   order.forEach(function(k){
     var rs=g[k],r=rs[0],F=D.films[k]||{title:r.title};
-    var f=el("section","film"),top=el("div","top"),box=el("div");
+    var f=el("section","film"),info=el("div","info");
     var title=nice(F.title||r.title);
     if(F.poster){var im=el("img","pos");im.src=F.poster;im.alt="";im.loading="lazy";
-      im.onerror=function(){im.replaceWith(el("div","pos",title.charAt(0)))};top.appendChild(im)}
-    else top.appendChild(el("div","pos",title.charAt(0)));
+      im.onerror=function(){im.replaceWith(el("div","pos",title.charAt(0)))};f.appendChild(im)}
+    else f.appendChild(el("div","pos",title.charAt(0)));
     var h=el("h2","",title),age=rs.map(function(s){return s.age}).filter(Boolean)[0];
-    if(age)h.appendChild(el("span","bd",age));box.appendChild(h);
-    if(F.original_title&&nz(F.original_title)!==nz(F.title))box.appendChild(el("p","orig",nice(F.original_title)));
-    var m=[];
-    if(F.directors&&F.directors.length)m.push("Regia: "+F.directors.join(", "));
-    if(F.year)m.push(F.year);
-    rs.forEach(function(s){if(s.note&&m.indexOf(s.note)<0)m.push(s.note)});
-    if(m.length)box.appendChild(el("p","meta",m.join(" · ")));
-    top.appendChild(box);f.appendChild(top);
-    var ts=el("div","times");
+    if(age)h.appendChild(el("span","bd",age));info.appendChild(h);
+    if(F.original_title&&nz(F.original_title)!==nz(F.title))info.appendChild(el("p","orig",nice(F.original_title)));
+    var meta=el("p","meta"),parts=[];
+    function add(x){parts.push(x)}
+    if(F.directors&&F.directors.length)add(document.createTextNode("Regia: "+F.directors.join(", ")));
+    if(F.year)add(document.createTextNode(F.year));
+    if(F.imdb_rating){var a1=el("a","","IMDb "+F.imdb_rating.toFixed(1));a1.href="https://www.imdb.com/title/"+F.imdb_id+"/";a1.target="_blank";a1.rel="noopener";add(a1)}
+    if(F.lb_rating){var a2=el("a","","Letterboxd "+F.lb_rating.toFixed(1));a2.href="https://letterboxd.com/tmdb/"+F.tmdb_id+"/";a2.target="_blank";a2.rel="noopener";add(a2)}
+    var notes={};rs.forEach(function(s){if(s.note&&!notes[s.note]){notes[s.note]=1;add(document.createTextNode(s.note))}});
+    parts.forEach(function(p,i){if(i)meta.appendChild(document.createTextNode(" · "));meta.appendChild(p)});
+    if(parts.length)info.appendChild(meta);
+    var rows={},ro=[];
     rs.forEach(function(s){
-      var so=s.status==="sold_out",ci=D.cinemas[s.cinema];
-      var a=so?el("span","t so"):el("a","t");
-      a.style.setProperty("--cc",ci.color);
-      if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
-      if(isToday&&s.time<now)a.className+=" past";
-      a.appendChild(document.createTextNode(s.time));
-      a.appendChild(el("small","c",ci.name));
-      var lang=[s.audio.join("/"),s.subs.length?"sub "+s.subs.join("/"):""].filter(Boolean).join(" · ");
-      if(lang)a.appendChild(el("small","",lang));
-      a.appendChild(el("small","",so?"sold out":price(s)));
-      ts.appendChild(a);
+      var x=[s.audio.join("/"),s.subs.length?"sub "+s.subs.join("/"):""].filter(Boolean).join(" · ");
+      var pr=price(s),key=s.cinema+"|"+x+"|"+pr;
+      if(!rows[key]){rows[key]={c:s.cinema,x:x,pr:pr,s:[]};ro.push(key)}rows[key].s.push(s);
     });
-    f.appendChild(ts);out.appendChild(f);
+    ro.forEach(function(key){
+      var R=rows[key],ci=D.cinemas[R.c],row=el("div","r"),cn=el("span","cn"),tm=el("span","tm");
+      row.style.setProperty("--cc",ci.color);
+      cn.appendChild(el("i"));cn.appendChild(el("span","",ci.name));row.appendChild(cn);
+      R.s.forEach(function(s){
+        var so=s.status==="sold_out",a=so?el("span","t so"):el("a","t");
+        if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
+        if(isToday&&s.time<now)a.className+=" past";
+        a.textContent=s.time;if(so)a.title="sold out";tm.appendChild(a);
+      });
+      var sold=R.s.every(function(s){return s.status==="sold_out"});
+      row.appendChild(el("span","x",[R.x,sold?"sold out":R.pr].filter(Boolean).join(" · ")));
+      row.appendChild(tm);info.appendChild(row);
+    });
+    f.appendChild(info);out.appendChild(f);
   });
 }
 function notes(){
@@ -196,6 +207,7 @@ function notes(){
   n.appendChild(el("p","","† Reducerea se acordă doar la casa de bilete a cinematografului, pe baza unui act doveditor."));
   n.appendChild(el("p","","* Nu am găsit un tarif redus pentru această proiecție; se arată prețul de adult."));
   n.appendChild(el("p","","Biletele online se cumpără pe site-ul fiecărui cinema. Posterele provin de la TMDB sau, când filmul nu e găsit acolo, de la Eventbook."));
+  if(Object.keys(D.films).some(function(k){return D.films[k].imdb_rating}))n.appendChild(el("p","","Information courtesy of IMDb (https://www.imdb.com). Used with permission."));
   var t=el("div","tmdb"),im=el("img");im.src="tmdb-logo.svg";im.alt="TMDB";im.onerror=function(){im.style.display="none"};
   t.appendChild(im);t.appendChild(el("p","","This product uses the TMDB API but is not endorsed or certified by TMDB."));
   n.appendChild(t);
