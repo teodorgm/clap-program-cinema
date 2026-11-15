@@ -45,7 +45,7 @@ AUDIO = re.compile(r"volume_up\s+([A-Z]{2,3}(?:\s*[,/]\s*[A-Z]{2,3})*)(?=\s|$)")
 SUBS = re.compile(r"\bnotes\s+(?:(?i:subtitrat)\s+)?([A-Z]{2,3}(?:\s*[,/]\s*[A-Z]{2,3})*)(?=\s|$)")
 PRICE = re.compile(r"(?:price|pre[tț])\s*:?\s*(\d+(?:[.,]\d+)?)\s*lei(?:\s*\(([^)]*)\))?", re.I)
 SOLD = re.compile(r"sold\s*out|epuizat", re.I)
-POSTER = re.compile(r'<img[^>]+src="(https://storage\.googleapis\.com/eventbook-files/images/event/[^"]+)"')
+POSTER = re.compile(r'event-image-hall[^>]*>\s*<img[^>]+?(?:data-src|src)="([^"]+)"')
 PRICE_BARE = re.compile(r"(?<![\d.,])(\d+(?:[.,]\d+)?)\s*lei\b", re.I)
 
 
@@ -135,6 +135,10 @@ def parse_block(blk, hid, stats):
     status = "sold_out" if ("shopping_cart" not in t and SOLD.search(t)) else "ok"
     slug = lm.group(1)
     pm = POSTER.search(blk)
+    if not pm and not stats.get("poster_dbg"):
+        stats["poster_dbg"] = 1
+        i = blk.find("event-image-hall")
+        print("  FARA POSTER, HTML in jurnal:", re.sub(r"\s+", " ", blk[max(0, i - 50): i + 400] if i >= 0 else blk[:400]))
     date_iso = f"{year}-{month:02d}-{int(day):02d}"
     time_s = f"{int(hh):02d}:{mm}"
     return {
@@ -143,7 +147,7 @@ def parse_block(blk, hid, stats):
         "audio": langs(au.group(1)) if au else [], "subs": langs(su.group(1)) if su else [],
         "prices": prices, "box": box, "status": status,
         "url": f"{BASE}/film/{slug}?hall={lm.group(2)}",
-        "poster": pm.group(1) if pm else None,
+        "poster": (pm.group(1) if pm.group(1).startswith("http") else BASE + pm.group(1)) if pm else None,
     }
 
 
