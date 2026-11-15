@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Program cinema București</title>
+<title>Proiectul CLAP - Cinema Local, Arhive și Proiecții</title>
 <style>
 :root{--bg:#f4f1ec;--sf:#fff;--tx:#1b2130;--mu:#667085;--ln:#d9d4ca;--ac:#b4541a;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10161f;--sf:#1a2230;--tx:#e8ecf2;--mu:#98a2b3;--ln:#2e3a4e;--ac:#f0b35c}}
@@ -12,41 +12,53 @@ html{scroll-padding-top:env(safe-area-inset-top,0px)}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 main{max-width:760px;margin:0 auto;padding:20px 16px 48px}
-h1{font:700 30px/1.1 Georgia,"Times New Roman",serif;margin:8px 0 4px;letter-spacing:-.01em}
-.sub{color:var(--mu);margin:0 0 18px;font-size:14px}
+h1{font:700 32px/1.05 Georgia,"Times New Roman",serif;margin:8px 0 2px;letter-spacing:-.01em}
+.tag{margin:0;font:italic 16px Georgia,serif;color:var(--mu)}
+.sub{color:var(--mu);margin:6px 0 18px;font-size:13px}
 .row{display:flex;gap:8px;overflow-x:auto;padding:2px 0 10px;scrollbar-width:none}
 .row::-webkit-scrollbar{display:none}
 button.chip{flex:none;border:1px solid var(--ln);background:var(--sf);color:var(--tx);border-radius:999px;padding:7px 14px;font:inherit;font-size:14px;cursor:pointer}
 button.chip[aria-pressed="true"]{background:var(--tx);color:var(--bg);border-color:var(--tx)}
+button.chip:disabled{opacity:.35;cursor:default}
 button.chip:focus-visible,a:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
-.days button.chip{border-radius:10px;text-align:center;line-height:1.2;padding:8px 12px}
+.days button.chip{border-radius:10px;text-align:center;line-height:1.2;padding:6px 0;min-width:46px;flex:1 0 46px}
+.days b{display:block;font-size:17px}
+.days span{font-size:11px;text-transform:uppercase;letter-spacing:.03em}
 .lbl{font-size:13px;color:var(--mu);margin:6px 0 2px}
-.film{background:var(--sf);border:1px solid var(--ln);border-left:5px solid var(--cc);border-radius:6px;padding:14px 16px;margin:12px 0}
-.film h2{font:700 19px/1.25 Georgia,"Times New Roman",serif;margin:0 0 4px}
-.meta{color:var(--mu);font-size:14px;margin:0 0 10px}
-.meta b{color:var(--tx);font-weight:600}
+.film{background:var(--sf);border:1px solid var(--ln);border-radius:8px;padding:14px;margin:12px 0}
+.top{display:flex;gap:12px;margin-bottom:10px}
+.top>div{min-width:0}
+.pos{flex:none;width:56px;height:84px;border-radius:3px;object-fit:cover;background:var(--ln);display:grid;place-items:center;font:700 22px Georgia,serif;color:var(--mu)}
+.film h2{font:700 19px/1.25 Georgia,"Times New Roman",serif;margin:0}
+.orig{margin:0;font-size:13px;color:var(--mu);font-style:italic}
+.meta{color:var(--mu);font-size:13px;margin:4px 0 0}
 .bd{display:inline-block;border:1px solid var(--ln);border-radius:4px;font:600 12px/1 system-ui,sans-serif;padding:3px 5px;margin-left:6px;vertical-align:2px;color:var(--mu)}
 .times{display:flex;flex-wrap:wrap;gap:8px}
-.t{display:inline-flex;flex-direction:column;align-items:center;min-width:80px;padding:7px 12px;border:1.5px dashed var(--cc);border-radius:4px;color:var(--tx);text-decoration:none;font-weight:700;font-variant-numeric:tabular-nums}
-.t small{font-weight:400;font-size:11px;color:var(--mu)}
+.t{display:inline-flex;flex-direction:column;align-items:center;min-width:92px;padding:7px 10px;border:1.5px dashed var(--cc);border-radius:4px;color:var(--tx);text-decoration:none;font-weight:700;font-variant-numeric:tabular-nums;line-height:1.3}
+.t small{font-weight:400;font-size:11px;color:var(--mu);text-align:center}
+.t small.c::before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--cc);margin-right:4px}
 a.t:hover{background:var(--cc);color:#fff}
 a.t:hover small{color:inherit}
 .t.so{border-color:var(--ln);color:var(--mu);text-decoration:line-through}
 .t.past{opacity:.4}
-.tech{display:block;margin-top:10px;font-size:12px;color:var(--mu)}
 .empty{padding:28px 8px;color:var(--mu);text-align:center}
 .note{font-size:13px;color:var(--mu);border-top:1px solid var(--ln);margin-top:28px;padding-top:14px}
 .note p{margin:0 0 8px}
 .warn{color:var(--ac)}
+.tmdb{display:flex;align-items:center;gap:10px;margin-top:14px;opacity:.85}
+.tmdb img{height:12px;width:auto;flex:none}
+.tmdb p{margin:0;font-size:11px}
 </style>
 </head>
 <body>
 <main>
-<h1>Program cinema București</h1>
+<h1>Proiectul CLAP</h1>
+<p class="tag">Cinema Local, Arhive și Proiecții</p>
 <p class="sub" id="upd">Se încarcă programul…</p>
 <div class="lbl">Cinema</div>
 <div class="row" id="cin"></div>
-<div class="lbl">Ziua</div>
+<div class="lbl">Săptămâna</div>
+<div class="row" id="weeks"></div>
 <div class="row days" id="days"></div>
 <div class="lbl">Preț afișat</div>
 <div class="row" id="pr"></div>
@@ -55,14 +67,23 @@ a.t:hover small{color:inherit}
 <div class="note" id="note"></div>
 </main>
 <script>
-var D=null,S={cin:{},day:"",tier:"adult",sold:false};
-var TZ="Europe/Bucharest";
+var D=null,S={cin:{},week:"",day:"",tier:"adult",sold:false},TZ="Europe/Bucharest";
 function today(){return new Intl.DateTimeFormat("en-CA",{timeZone:TZ}).format(new Date())}
 function nowHM(){return new Intl.DateTimeFormat("en-GB",{timeZone:TZ,hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).format(new Date())}
 function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
-function chip(txt,on,fn){var b=el("button","chip",txt);b.setAttribute("aria-pressed",on?"true":"false");b.onclick=fn;return b}
-function dl(d){return new Date(d+"T12:00:00").toLocaleDateString("ro-RO",{weekday:"short",day:"numeric",month:"short"})}
-function fmt(iso){return new Date(iso).toLocaleString("ro-RO",{timeZone:TZ,day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}
+function chip(txt,on,fn,dis){var b=el("button","chip",txt);b.setAttribute("aria-pressed",on?"true":"false");if(dis)b.disabled=true;else b.onclick=fn;return b}
+function iso(x){return x.getFullYear()+"-"+("0"+(x.getMonth()+1)).slice(-2)+"-"+("0"+x.getDate()).slice(-2)}
+function dt(d){return new Date(d+"T12:00:00")}
+function addDays(d,n){var x=dt(d);x.setDate(x.getDate()+n);return iso(x)}
+function weekStart(d){return addDays(d,-((dt(d).getDay()+6)%7))}
+function fmt(iso8){return new Date(iso8).toLocaleString("ro-RO",{timeZone:TZ,day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}
+function mon(d){return dt(d).toLocaleDateString("ro-RO",{month:"short"})}
+function weekLabel(w){
+  if(w===weekStart(today()))return "Săptămâna asta";
+  var e=addDays(w,6),a=dt(w),b=dt(e);
+  return a.getMonth()===b.getMonth()?a.getDate()+"–"+b.getDate()+" "+mon(e):a.getDate()+" "+mon(w)+" – "+b.getDate()+" "+mon(e);
+}
+function nz(s){return (s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim()}
 function nice(s){
   if(s!==s.toLocaleUpperCase("ro"))return s;
   return s.toLocaleLowerCase("ro").replace(/(^|[\s\/:(\-])(\p{L})/gu,function(m,a,b){return a+b.toLocaleUpperCase("ro")});
@@ -74,19 +95,24 @@ function price(s){
   if(p.adult!=null)return p.adult+" lei*";
   return "";
 }
+function visible(s){return S.cin[s.cinema]&&!(S.sold&&s.status==="sold_out")}
+function count(d){var n=0;D.screenings.forEach(function(s){if(s.date===d&&visible(s))n++});return n}
+function pickDay(){
+  var t=today(),i,d;
+  if(S.week===weekStart(t)&&count(t))return t;
+  for(i=0;i<7;i++){d=addDays(S.week,i);if(count(d))return d}
+  return S.week;
+}
 function load(){
   fetch("data/screenings.json?"+Date.now()).then(function(r){
     if(!r.ok)throw new Error(r.status);return r.json();
   }).then(function(d){
-    D=d;var t=today();
+    D=d;D.films=D.films||{};var t=today(),ws={};
     D.screenings=D.screenings.filter(function(s){return s.date>=t});
-    var days=[];
-    D.screenings.forEach(function(s){
-      if(days.indexOf(s.date)<0)days.push(s.date);
-      S.cin[s.cinema]=1;
-    });
-    days.sort();D.days=days;
-    S.day=days.indexOf(t)>=0?t:days[0];
+    D.screenings.forEach(function(s){S.cin[s.cinema]=1;ws[weekStart(s.date)]=1});
+    D.weeks=Object.keys(ws).sort();
+    S.week=ws[weekStart(t)]?weekStart(t):D.weeks[0];
+    S.day=pickDay();
     ui();
   }).catch(function(e){
     document.getElementById("upd").textContent="Nu am putut încărca programul ("+e.message+"). Încearcă mai târziu.";
@@ -96,10 +122,17 @@ function ui(){
   var c=document.getElementById("cin");c.innerHTML="";
   Object.keys(D.cinemas).forEach(function(k){
     if(!(k in S.cin))return;
-    c.appendChild(chip(D.cinemas[k].name,S.cin[k],function(){S.cin[k]=S.cin[k]?0:1;ui()}));
+    c.appendChild(chip(D.cinemas[k].name,S.cin[k],function(){S.cin[k]=S.cin[k]?0:1;S.day=pickDay();ui()}));
   });
+  var w=document.getElementById("weeks");w.innerHTML="";
+  D.weeks.forEach(function(v){w.appendChild(chip(weekLabel(v),S.week===v,function(){S.week=v;S.day=pickDay();ui()}))});
   var d=document.getElementById("days");d.innerHTML="";
-  D.days.forEach(function(v){d.appendChild(chip(dl(v),S.day===v,function(){S.day=v;ui()}))});
+  for(var i=0;i<7;i++){(function(v){
+    var b=chip("",S.day===v,function(){S.day=v;ui()},!count(v));
+    b.appendChild(el("span","",dt(v).toLocaleDateString("ro-RO",{weekday:"short"})));
+    b.appendChild(el("b","",String(dt(v).getDate())));
+    d.appendChild(b);
+  })(addDays(S.week,i))}
   var p=document.getElementById("pr");p.innerHTML="";
   [["adult","Adult"],["student","Elev / student"],["pensioner","Pensionar"]].forEach(function(x){
     p.appendChild(chip(x[1],S.tier===x[0],function(){S.tier=x[0];ui()}));
@@ -112,35 +145,43 @@ function list(){
   var out=document.getElementById("list");out.innerHTML="";
   var g={},order=[],now=nowHM(),isToday=S.day===today();
   D.screenings.forEach(function(s){
-    if(s.date!==S.day||!S.cin[s.cinema])return;
-    if(S.sold&&s.status==="sold_out")return;
-    var k=s.cinema+"|"+s.title;if(!g[k]){g[k]=[];order.push(k)}g[k].push(s);
+    if(s.date!==S.day||!visible(s))return;
+    var k=s.film||("t:"+s.title);if(!g[k]){g[k]=[];order.push(k)}g[k].push(s);
   });
+  order.forEach(function(k){g[k].sort(function(a,b){return a.time<b.time?-1:a.time>b.time?1:0})});
   order.sort(function(a,b){return g[a][0].time<g[b][0].time?-1:1});
   if(!order.length){out.appendChild(el("div","empty","Nicio proiecție pentru filtrele alese."));return}
   order.forEach(function(k){
-    var rs=g[k],r=rs[0],ci=D.cinemas[r.cinema];
-    var f=el("section","film");f.style.setProperty("--cc",ci.color);
-    var h=el("h2","",nice(r.title));if(r.age)h.appendChild(el("span","bd",r.age));f.appendChild(h);
-    var m=el("p","meta");m.appendChild(el("b","",ci.name));
-    var parts=[];
-    if(r.audio.length)parts.push(r.audio.join("/"));
-    if(r.subs.length)parts.push("subtitrare "+r.subs.join("/"));
-    if(r.note)parts.push(r.note);
-    m.appendChild(document.createTextNode(parts.length?"  ·  "+parts.join("  ·  "):""));
-    f.appendChild(m);
+    var rs=g[k],r=rs[0],F=D.films[k]||{title:r.title};
+    var f=el("section","film"),top=el("div","top"),box=el("div");
+    var title=nice(F.title||r.title);
+    if(F.poster){var im=el("img","pos");im.src=F.poster;im.alt="";im.loading="lazy";
+      im.onerror=function(){im.replaceWith(el("div","pos",title.charAt(0)))};top.appendChild(im)}
+    else top.appendChild(el("div","pos",title.charAt(0)));
+    var h=el("h2","",title),age=rs.map(function(s){return s.age}).filter(Boolean)[0];
+    if(age)h.appendChild(el("span","bd",age));box.appendChild(h);
+    if(F.original_title&&nz(F.original_title)!==nz(F.title))box.appendChild(el("p","orig",nice(F.original_title)));
+    var m=[];
+    if(F.directors&&F.directors.length)m.push("Regia: "+F.directors.join(", "));
+    if(F.year)m.push(F.year);
+    rs.forEach(function(s){if(s.note&&m.indexOf(s.note)<0)m.push(s.note)});
+    if(m.length)box.appendChild(el("p","meta",m.join(" · ")));
+    top.appendChild(box);f.appendChild(top);
     var ts=el("div","times");
     rs.forEach(function(s){
-      var so=s.status==="sold_out";
+      var so=s.status==="sold_out",ci=D.cinemas[s.cinema];
       var a=so?el("span","t so"):el("a","t");
+      a.style.setProperty("--cc",ci.color);
       if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
       if(isToday&&s.time<now)a.className+=" past";
       a.appendChild(document.createTextNode(s.time));
+      a.appendChild(el("small","c",ci.name));
+      var lang=[s.audio.join("/"),s.subs.length?"sub "+s.subs.join("/"):""].filter(Boolean).join(" · ");
+      if(lang)a.appendChild(el("small","",lang));
       a.appendChild(el("small","",so?"sold out":price(s)));
       ts.appendChild(a);
     });
-    f.appendChild(ts);
-    out.appendChild(f);
+    f.appendChild(ts);out.appendChild(f);
   });
 }
 function notes(){
@@ -154,9 +195,12 @@ function notes(){
   });
   n.appendChild(el("p","","† Reducerea se acordă doar la casa de bilete a cinematografului, pe baza unui act doveditor."));
   n.appendChild(el("p","","* Nu am găsit un tarif redus pentru această proiecție; se arată prețul de adult."));
-  n.appendChild(el("p","","Biletele online se cumpără pe site-ul fiecărui cinema."));
+  n.appendChild(el("p","","Biletele online se cumpără pe site-ul fiecărui cinema. Posterele provin de la TMDB sau, când filmul nu e găsit acolo, de la Eventbook."));
+  var t=el("div","tmdb"),im=el("img");im.src="tmdb-logo.svg";im.alt="TMDB";im.onerror=function(){im.style.display="none"};
+  t.appendChild(im);t.appendChild(el("p","","This product uses the TMDB API but is not endorsed or certified by TMDB."));
+  n.appendChild(t);
 }
-document.getElementById("sold").onclick=function(){S.sold=!S.sold;ui()};
+document.getElementById("sold").onclick=function(){S.sold=!S.sold;S.day=pickDay();ui()};
 load();
 </script>
 </body>
