@@ -46,8 +46,6 @@ a.t:hover small{color:inherit}
 <p class="sub" id="upd">Se încarcă programul…</p>
 <div class="lbl">Cinema</div>
 <div class="row" id="cin"></div>
-<div class="lbl">Tehnologie sală</div>
-<div class="row" id="tech"></div>
 <div class="lbl">Ziua</div>
 <div class="row days" id="days"></div>
 <div class="lbl">Preț afișat</div>
@@ -57,7 +55,7 @@ a.t:hover small{color:inherit}
 <div class="note" id="note"></div>
 </main>
 <script>
-var D=null,S={cin:{},tech:"",day:"",tier:"adult",sold:false};
+var D=null,S={cin:{},day:"",tier:"adult",sold:false};
 var TZ="Europe/Bucharest";
 function today(){return new Intl.DateTimeFormat("en-CA",{timeZone:TZ}).format(new Date())}
 function nowHM(){return new Intl.DateTimeFormat("en-GB",{timeZone:TZ,hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).format(new Date())}
@@ -69,11 +67,12 @@ function nice(s){
   if(s!==s.toLocaleUpperCase("ro"))return s;
   return s.toLocaleLowerCase("ro").replace(/(^|[\s\/:(\-])(\p{L})/gu,function(m,a,b){return a+b.toLocaleUpperCase("ro")});
 }
-function ctech(k){var t=D.cinemas[k].tech;return t.length?t:["Nespecificat"]}
 function price(s){
-  var p=s.prices,v=p[S.tier],star=false;
-  if(v==null){v=p.adult;star=true}
-  return v==null?"":v+" lei"+(star?"*":"");
+  var p=s.prices,b=s.box||{},t=S.tier;
+  if(p[t]!=null)return p[t]+" lei";
+  if(b[t]!=null)return b[t]+" lei †";
+  if(p.adult!=null)return p.adult+" lei*";
+  return "";
 }
 function load(){
   fetch("data/screenings.json?"+Date.now()).then(function(r){
@@ -81,14 +80,12 @@ function load(){
   }).then(function(d){
     D=d;var t=today();
     D.screenings=D.screenings.filter(function(s){return s.date>=t});
-    var days=[],techs={};
+    var days=[];
     D.screenings.forEach(function(s){
       if(days.indexOf(s.date)<0)days.push(s.date);
       S.cin[s.cinema]=1;
     });
     days.sort();D.days=days;
-    Object.keys(S.cin).forEach(function(k){ctech(k).forEach(function(x){techs[x]=1})});
-    D.techs=Object.keys(techs).sort();
     S.day=days.indexOf(t)>=0?t:days[0];
     ui();
   }).catch(function(e){
@@ -101,12 +98,10 @@ function ui(){
     if(!(k in S.cin))return;
     c.appendChild(chip(D.cinemas[k].name,S.cin[k],function(){S.cin[k]=S.cin[k]?0:1;ui()}));
   });
-  var t=document.getElementById("tech");t.innerHTML="";
-  [""].concat(D.techs).forEach(function(v){t.appendChild(chip(v||"Toate",S.tech===v,function(){S.tech=v;ui()}))});
   var d=document.getElementById("days");d.innerHTML="";
   D.days.forEach(function(v){d.appendChild(chip(dl(v),S.day===v,function(){S.day=v;ui()}))});
   var p=document.getElementById("pr");p.innerHTML="";
-  [["adult","Adult"],["student","Elev / student / pensionar"]].forEach(function(x){
+  [["adult","Adult"],["student","Elev / student"],["pensioner","Pensionar"]].forEach(function(x){
     p.appendChild(chip(x[1],S.tier===x[0],function(){S.tier=x[0];ui()}));
   });
   document.getElementById("sold").setAttribute("aria-pressed",S.sold?"true":"false");
@@ -118,7 +113,6 @@ function list(){
   var g={},order=[],now=nowHM(),isToday=S.day===today();
   D.screenings.forEach(function(s){
     if(s.date!==S.day||!S.cin[s.cinema])return;
-    if(S.tech&&ctech(s.cinema).indexOf(S.tech)<0)return;
     if(S.sold&&s.status==="sold_out")return;
     var k=s.cinema+"|"+s.title;if(!g[k]){g[k]=[];order.push(k)}g[k].push(s);
   });
@@ -137,16 +131,15 @@ function list(){
     f.appendChild(m);
     var ts=el("div","times");
     rs.forEach(function(s){
-      var so=s.status==="sold_out",cl=s.status==="closed";
+      var so=s.status==="sold_out";
       var a=so?el("span","t so"):el("a","t");
       if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
       if(isToday&&s.time<now)a.className+=" past";
       a.appendChild(document.createTextNode(s.time));
-      a.appendChild(el("small","",so?"sold out":cl?"vânzare închisă":price(s)));
+      a.appendChild(el("small","",so?"sold out":price(s)));
       ts.appendChild(a);
     });
     f.appendChild(ts);
-    f.appendChild(el("span","tech","Sală: "+ctech(r.cinema).join(", ")));
     out.appendChild(f);
   });
 }
@@ -159,8 +152,9 @@ function notes(){
     if(s.error)p.appendChild(el("span","warn"," — eroare la citire"));
     n.appendChild(p);
   });
-  n.appendChild(el("p","","* Nu este afișat un tarif redus pentru această proiecție; se arată prețul de adult."));
-  n.appendChild(el("p","","Biletele se cumpără pe site-ul fiecărui cinema. Tehnologia sălii vine din descrierea cinematografului; „Nespecificat” înseamnă că nu am găsit informația."));
+  n.appendChild(el("p","","† Reducerea se acordă doar la casa de bilete a cinematografului, pe baza unui act doveditor."));
+  n.appendChild(el("p","","* Nu am găsit un tarif redus pentru această proiecție; se arată prețul de adult."));
+  n.appendChild(el("p","","Biletele online se cumpără pe site-ul fiecărui cinema."));
 }
 document.getElementById("sold").onclick=function(){S.sold=!S.sold;ui()};
 load();
