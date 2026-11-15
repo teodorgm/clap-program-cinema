@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T22:40:23+00:00",
+ "generated": "2026-11-15T22:57:43+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -35,7 +35,7 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-15T22:40:23+00:00",
+   "updated": "2026-11-15T22:57:43+00:00",
    "error": null
   },
   "union": {
@@ -43,7 +43,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-15T22:40:23+00:00",
+   "updated": "2026-11-15T22:57:43+00:00",
    "error": null
   },
   "apollo111": {
@@ -51,7 +51,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-15T22:40:23+00:00",
+   "updated": "2026-11-15T22:57:43+00:00",
    "error": null
   },
   "eforie": {
@@ -59,7 +59,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-15T22:40:23+00:00",
+   "updated": "2026-11-15T22:57:43+00:00",
    "error": null
   },
   "muzeu": {
@@ -67,7 +67,7 @@
    "ok": true,
    "stale": false,
    "count": 25,
-   "updated": "2026-11-15T22:40:23+00:00",
+   "updated": "2026-11-15T22:57:43+00:00",
    "error": null
   }
  },
@@ -95,7 +95,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "muzeu-2026-11-16-18:00-bilete-inca-o-dorinta",
@@ -120,7 +120,7 @@
    },
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-inca-o-dorinta?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/inca_o_dorinta-poster.jpg",
    "film": "t:inca o dorinta"
   },
   {
@@ -147,7 +147,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-foldszint-parter?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-foldszint-parter-Kuw.webp",
-   "film": "t:foldszint parter"
+   "film": "tmdb:1735997"
   },
   {
    "id": "elvire-2026-11-16-20:30-bilete-film-jurnalul-unei-cameriste",
@@ -174,7 +174,7 @@
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "t:jurnalul unei cameriste"
+   "film": "tmdb:320003"
   },
   {
    "id": "elvire-2026-11-17-17:00-bilete-queen-of-sea",
@@ -200,7 +200,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-queen-of-sea-kL8.webp",
-   "film": "t:queen at sea regina si marea"
+   "film": "tmdb:1021848"
   },
   {
    "id": "union-2026-11-17-17:15-bilete-teenage-sex-and-death-at-camp-miasma",
@@ -226,7 +226,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-teenage-sex-and-death-at-camp-miasma-7UN.webp",
-   "film": "t:teenage sex and death at camp miasma"
+   "film": "tmdb:1240889"
   },
   {
    "id": "muzeu-2026-11-17-18:00-bilete-gaina",
@@ -251,7 +251,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-gaina?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/hen-poster.webp",
    "film": "t:gaina"
   },
   {
@@ -277,7 +277,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
-   "film": "t:minotaure minotaur"
+   "film": "tmdb:848700"
   },
   {
    "id": "union-2026-11-17-19:30-bilete-piatra-foarfeca-hartie-2",
@@ -303,7 +303,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-piatra-foarfeca-hartie-2-jes.webp",
-   "film": "t:piatra foarfeca hartie"
+   "film": "tmdb:1172260"
   },
   {
    "id": "muzeu-2026-11-17-20:00-bilete-naza-film",
@@ -329,7 +329,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-naza-film?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-naza-film-7sk.webp",
-   "film": "t:naza"
+   "film": "tmdb:1755291"
   },
   {
    "id": "union-2026-11-18-17:15-bilete-regina-si-marea",
@@ -355,7 +355,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-regina-si-marea?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-regina-si-marea-Kkx.webp",
-   "film": "t:regina si marea"
+   "film": "tmdb:1021848"
   },
   {
    "id": "muzeu-2026-11-18-17:30-bilete-minotaur",
@@ -380,8 +380,8 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": null,
-   "film": "t:minotaur"
+   "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
+   "film": "tmdb:848700"
   },
   {
    "id": "elvire-2026-11-18-18:00-bilete-amarga-navidad-craciun-amar",
@@ -406,7 +406,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-amarga-navidad-craciun-amar-oAz.webp",
-   "film": "t:amarga navidad craciun amar"
+   "film": "tmdb:1088548"
   },
   {
    "id": "union-2026-11-18-19:30-bilete-monarh",
@@ -429,8 +429,8 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-monarh?hall=cinema-union",
-   "poster": null,
-   "film": "t:monarh"
+   "poster": "https://cinema-timisoara.ro/media/original_images/monarh-afis.jpg",
+   "film": "tmdb:1815513"
   },
   {
    "id": "muzeu-2026-11-18-20:00-bilete-morvern-callar",
@@ -455,7 +455,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-morvern-callar?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-morvern-callar-r87.webp",
-   "film": "t:morvern callar"
+   "film": "tmdb:18602"
   },
   {
    "id": "elvire-2026-11-18-20:30-bilete-teenage-sex-and-death-at-camp-miasma-2",
@@ -480,7 +480,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma-2?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-teenage-sex-and-death-at-camp-miasma-2-bD0.webp",
-   "film": "t:teenage sex and death at camp miasma"
+   "film": "tmdb:1240889"
   },
   {
    "id": "union-2026-11-19-17:00-bilete-delta-salbatica-film",
@@ -504,7 +504,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-delta-salbatica-film?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-delta-salbatica-film-nGt.webp",
-   "film": "t:delta salbatica"
+   "film": "tmdb:1756136"
   },
   {
    "id": "muzeu-2026-11-19-17:30-bilete-film-strainul",
@@ -530,7 +530,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-strainul?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-film-strainul-C5u.webp",
-   "film": "t:strainul"
+   "film": "tmdb:379149"
   },
   {
    "id": "elvire-2026-11-19-18:00-bilete-minotaure-minotaur",
@@ -555,7 +555,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
-   "film": "t:minotaure minotaur"
+   "film": "tmdb:848700"
   },
   {
    "id": "apollo111-2026-11-19-19:00-bilete-mici-excese-pas-sur-la-bouche",
@@ -604,7 +604,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-iertarea-lansare-revista-film?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-iertarea-0rV.webp",
-   "film": "t:iertarea"
+   "film": "tmdb:1773720"
   },
   {
    "id": "muzeu-2026-11-19-20:00-bilete-pionul-lui-lenin-premiera-de-gala",
@@ -628,7 +628,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin-premiera-de-gala?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-pionul-lui-lenin-premiera-de-gala-sl7.webp",
-   "film": "t:pionul lui lenin"
+   "film": "tmdb:1709318"
   },
   {
    "id": "elvire-2026-11-19-20:30-bilete-queen-of-sea",
@@ -654,7 +654,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-queen-of-sea-kL8.webp",
-   "film": "t:queen at sea regina si marea"
+   "film": "tmdb:1021848"
   },
   {
    "id": "elvire-2026-11-20-11:00-bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute",
@@ -700,7 +700,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "muzeu-2026-11-20-18:00-bilete-ultimele-scrisori-ale-bunicii",
@@ -725,7 +725,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-ultimele-scrisori-ale-bunicii?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/Ultimele__scrisori_ale_bunicii_poster_oficial_small.jpg",
    "film": "t:ultimele scrisori ale bunicii"
   },
   {
@@ -751,7 +751,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-naza-film?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-naza-film-7sk.webp",
-   "film": "t:naza"
+   "film": "tmdb:1755291"
   },
   {
    "id": "elvire-2026-11-20-19:30-bilete-le-temps-retrouve-timpul-regasit-ian-christie",
@@ -776,7 +776,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-le-temps-retrouve-timpul-regasit-ian-christie?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-le-temps-retrouve-timpul-regasit-ian-christie-jse.webp",
-   "film": "t:le temps retrouve timpul regasit"
+   "film": "tmdb:47439"
   },
   {
    "id": "apollo111-2026-11-20-20:00-bilete-pionul-lui-lenin",
@@ -800,8 +800,8 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema",
-   "poster": null,
-   "film": "t:pionul lui lenin"
+   "poster": "https://cinema-timisoara.ro/media/original_images/POSTER_RO_Pionul_lui_Lenin_07x1m_small.jpg",
+   "film": "tmdb:1709318"
   },
   {
    "id": "muzeu-2026-11-20-20:00-bilete-film-jurnalul-unei-cameriste",
@@ -826,7 +826,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "t:jurnalul unei cameriste"
+   "film": "tmdb:320003"
   },
   {
    "id": "union-2026-11-20-20:00-bilete-film-cazul-inginerului-ursu",
@@ -847,7 +847,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-cazul-inginerului-ursu?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2024/03/bilete-cazul-inginerului-ursu-W5J.webp",
-   "film": "t:cazul inginerului ursu"
+   "film": "tmdb:1152762"
   },
   {
    "id": "elvire-2026-11-21-11:00-bilete-le-chant-des-forets-cantecul-padurii",
@@ -874,7 +874,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-cantecul-padurii?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-le-chant-des-forets-cantecul-padurii-1ER.webp",
-   "film": "t:le chant des forets cantecul padurii"
+   "film": "tmdb:1309373"
   },
   {
    "id": "elvire-2026-11-21-13:00-bilete-piatra-foarfeca-hartie-2",
@@ -899,7 +899,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-piatra-foarfeca-hartie-2-jes.webp",
-   "film": "t:piatra foarfeca hartie"
+   "film": "tmdb:1172260"
   },
   {
    "id": "elvire-2026-11-21-15:00-bilete-cinema-fara-bariere-mon-inseparable",
@@ -920,7 +920,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-mon-inseparable?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-mon-inseparable-UlT.webp",
-   "film": "t:mon inseparable tot ce am mai de pret"
+   "film": "tmdb:1032765"
   },
   {
    "id": "union-2026-11-21-15:15-bilete-jurnalul-unei-cameriste-film",
@@ -946,8 +946,8 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
-   "poster": null,
-   "film": "t:jurnalul unei cameriste"
+   "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
+   "film": "tmdb:320003"
   },
   {
    "id": "muzeu-2026-11-21-15:30-bilete-club-kid",
@@ -973,7 +973,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "muzeu-2026-11-21-17:45-bilete-minotaur",
@@ -998,8 +998,8 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": null,
-   "film": "t:minotaur"
+   "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
+   "film": "tmdb:848700"
   },
   {
    "id": "elvire-2026-11-21-18:00-bilete-minotaure-minotaur",
@@ -1024,7 +1024,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
-   "film": "t:minotaure minotaur"
+   "film": "tmdb:848700"
   },
   {
    "id": "muzeu-2026-11-21-20:15-bilete-3-zile-inseptembrie",
@@ -1048,7 +1048,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-3-zile-inseptembrie?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-3-zile-inseptembrie-3Lv.webp",
-   "film": "t:3 zile in septembrie"
+   "film": "tmdb:1599428"
   },
   {
    "id": "elvire-2026-11-21-20:30-bilete-club-kid",
@@ -1073,7 +1073,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "elvire-2026-11-22-11:00-bilete-planetes-exclusivitate",
@@ -1096,7 +1096,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-planetes-exclusivitate?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-planetes-exclusivitate-41V.webp",
-   "film": "t:planetes"
+   "film": "tmdb:999140"
   },
   {
    "id": "elvire-2026-11-22-13:00-bilete-queen-of-sea",
@@ -1122,7 +1122,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-queen-of-sea-kL8.webp",
-   "film": "t:queen at sea regina si marea"
+   "film": "tmdb:1021848"
   },
   {
    "id": "elvire-2026-11-22-15:30-bilete-amarga-navidad-craciun-amar",
@@ -1147,7 +1147,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-amarga-navidad-craciun-amar-oAz.webp",
-   "film": "t:amarga navidad craciun amar"
+   "film": "tmdb:1088548"
   },
   {
    "id": "apollo111-2026-11-22-16:00-bilete-silent-reading-party-jurnalul-unei-cameriste",
@@ -1199,8 +1199,8 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=cinema-union",
-   "poster": null,
-   "film": "t:pionul lui lenin"
+   "poster": "https://cinema-timisoara.ro/media/original_images/POSTER_RO_Pionul_lui_Lenin_07x1m_small.jpg",
+   "film": "tmdb:1709318"
   },
   {
    "id": "muzeu-2026-11-22-16:40-bilete-film-jurnalul-unei-cameriste",
@@ -1228,7 +1228,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "t:jurnalul unei cameriste"
+   "film": "tmdb:320003"
   },
   {
    "id": "union-2026-11-22-17:45-bilete-minotaur",
@@ -1253,8 +1253,8 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-union",
-   "poster": null,
-   "film": "t:minotaur"
+   "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
+   "film": "tmdb:848700"
   },
   {
    "id": "elvire-2026-11-22-18:00-bilete-minotaure-minotaur",
@@ -1279,7 +1279,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
-   "film": "t:minotaure minotaur"
+   "film": "tmdb:848700"
   },
   {
    "id": "muzeu-2026-11-22-18:30-bilete-minotaur",
@@ -1304,8 +1304,8 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": null,
-   "film": "t:minotaur"
+   "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
+   "film": "tmdb:848700"
   },
   {
    "id": "apollo111-2026-11-22-19:30-bilete-a-matter-of-life-and-death",
@@ -1330,7 +1330,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-a-matter-of-life-and-death?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-a-matter-of-life-and-death-fzg.webp",
-   "film": "t:a matter of life and death"
+   "film": "tmdb:28162"
   },
   {
    "id": "union-2026-11-22-20:15-bilete-club-kid",
@@ -1356,7 +1356,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "elvire-2026-11-22-20:30-bilete-film-100-lei",
@@ -1574,7 +1574,7 @@
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
-   "film": "t:you can see everything"
+   "film": "tmdb:1765072"
   },
   {
    "id": "elvire-2026-11-26-20:00-bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete",
@@ -1624,7 +1624,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "elvire-2026-11-27-17:00-bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante",
@@ -1675,7 +1675,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "film": "t:nu e locul tau aici"
+   "film": "tmdb:1728593"
   },
   {
    "id": "apollo111-2026-11-27-18:30-bilete-pionul-lui-lenin",
@@ -1699,8 +1699,8 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema",
-   "poster": null,
-   "film": "t:pionul lui lenin"
+   "poster": "https://cinema-timisoara.ro/media/original_images/POSTER_RO_Pionul_lui_Lenin_07x1m_small.jpg",
+   "film": "tmdb:1709318"
   },
   {
    "id": "elvire-2026-11-27-19:30-bilete-nu-e-locul-tau-aici",
@@ -1725,7 +1725,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "film": "t:nu e locul tau aici"
+   "film": "tmdb:1728593"
   },
   {
    "id": "apollo111-2026-11-27-20:30-bilete-film-jurnalul-unei-cameriste",
@@ -1750,7 +1750,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "t:jurnalul unei cameriste"
+   "film": "tmdb:320003"
   },
   {
    "id": "muzeu-2026-11-27-20:45-bilete-atat-de-familiar",
@@ -1774,7 +1774,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-atat-de-familiar?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/Atat_de_Familiar_poster.png",
    "film": "t:atat de familiar"
   },
   {
@@ -1842,7 +1842,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "film": "t:nu e locul tau aici"
+   "film": "tmdb:1728593"
   },
   {
    "id": "muzeu-2026-11-28-17:40-bilete-nu-e-locul-tau-aici",
@@ -1868,7 +1868,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "film": "t:nu e locul tau aici"
+   "film": "tmdb:1728593"
   },
   {
    "id": "apollo111-2026-11-28-20:00-bilete-club-kid",
@@ -1893,7 +1893,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "elvire-2026-11-28-20:00-bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc",
@@ -1993,7 +1993,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "t:club kid"
+   "film": "tmdb:1585239"
   },
   {
    "id": "elvire-2026-11-29-17:00-bilete-retrospectiva-integrala-radu-jude-kontinental-25",
@@ -2020,7 +2020,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-kontinental-25?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-kontinental-25-ff3.webp",
-   "film": "t:kontinental 25"
+   "film": "tmdb:1410189"
   },
   {
    "id": "apollo111-2026-11-29-18:30-bilete-you-can-see-everything",
@@ -2041,7 +2041,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
-   "film": "t:you can see everything"
+   "film": "tmdb:1765072"
   },
   {
    "id": "elvire-2026-11-29-19:00-bilete-retrospectiva-integrala-radu-jude-dracula",
@@ -2068,7 +2068,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-dracula?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-dracula-xP0.webp",
-   "film": "t:dracula"
+   "film": "tmdb:1246049"
   },
   {
    "id": "muzeu-2026-11-29-19:15-bilete-nu-e-locul-tau-aici",
@@ -2094,7 +2094,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "film": "t:nu e locul tau aici"
+   "film": "tmdb:1728593"
   },
   {
    "id": "muzeu-2026-11-30-16:00-bilete-you-can-see-everything",
@@ -2113,7 +2113,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
-   "film": "t:you can see everything"
+   "film": "tmdb:1765072"
   },
   {
    "id": "muzeu-2026-11-30-19:15-bilete-anatomia-unei-prabusiri-european-cinema-night",
@@ -2137,7 +2137,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-anatomia-unei-prabusiri-european-cinema-night?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-anatomia-unei-prabusiri-european-cinema-night-0Dn.webp",
-   "film": "t:anatomie d une chute anatomia unei prabusiri"
+   "film": "tmdb:915935"
   },
   {
    "id": "muzeu-2026-12-01-20:15-bilete-nu-e-locul-tau-aici",
@@ -2163,7 +2163,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "film": "t:nu e locul tau aici"
+   "film": "tmdb:1728593"
   },
   {
    "id": "muzeu-2026-12-05-12:00-bilete-you-can-see-everything",
@@ -2185,7 +2185,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
-   "film": "t:you can see everything"
+   "film": "tmdb:1765072"
   },
   {
    "id": "muzeu-2026-12-05-15:15-bilete-nu-e-locul-tau-aici",
@@ -2211,7 +2211,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "film": "t:nu e locul tau aici"
+   "film": "tmdb:1728593"
   },
   {
    "id": "muzeu-2026-12-06-12:00-bilete-you-can-see-everything",
@@ -2233,7 +2233,7 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
-   "film": "t:you can see everything"
+   "film": "tmdb:1765072"
   },
   {
    "id": "apollo111-2026-12-10-19:00-bilete-mici-excese-a-vinganca-de-uma-mulher",
@@ -2283,311 +2283,12 @@
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-persona?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-persona-dnl.webp",
-   "film": "t:persona"
+   "film": "tmdb:1259735"
   }
  ],
  "films": {
-  "t:club kid": {
-   "title": "CLUB KID",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:inca o dorinta": {
-   "title": "Încă o dorință",
-   "original_title": null,
-   "year": null,
-   "poster": null,
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:foldszint parter": {
-   "title": "Parter",
-   "original_title": "Földszint",
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-foldszint-parter-Kuw.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:jurnalul unei cameriste": {
-   "title": "JURNALUL UNEI CAMERISTE",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:queen at sea regina si marea": {
-   "title": "REGINA ȘI MAREA",
-   "original_title": "QUEEN AT SEA",
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-queen-of-sea-kL8.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:teenage sex and death at camp miasma": {
-   "title": "Teenage Sex and Death at Camp Miasma",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-teenage-sex-and-death-at-camp-miasma-7UN.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:gaina": {
-   "title": "Găina",
-   "original_title": null,
-   "year": null,
-   "poster": null,
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:minotaure minotaur": {
-   "title": "MINOTAUR",
-   "original_title": "MINOTAURE",
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:piatra foarfeca hartie": {
-   "title": "PIATRĂ FOARFECĂ HÂRTIE",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-piatra-foarfeca-hartie-2-jes.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:naza": {
-   "title": "NAZA",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-naza-film-7sk.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:regina si marea": {
-   "title": "Regina și marea",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-regina-si-marea-Kkx.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:minotaur": {
-   "title": "Minotaur",
-   "original_title": null,
-   "year": null,
-   "poster": null,
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:amarga navidad craciun amar": {
-   "title": "CRĂCIUN AMAR",
-   "original_title": "AMARGA NAVIDAD",
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-amarga-navidad-craciun-amar-oAz.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:monarh": {
-   "title": "Monarh",
-   "original_title": null,
-   "year": null,
-   "poster": null,
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:morvern callar": {
-   "title": "Morvern Callar",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-morvern-callar-r87.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:delta salbatica": {
-   "title": "DELTA SĂLBATICĂ",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-delta-salbatica-film-nGt.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:strainul": {
-   "title": "Străinul",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-film-strainul-C5u.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:mici excese pas sur la bouche": {
-   "title": "Mici Excese: Pas sur la bouche",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-pas-sur-la-bouche-i37.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:iertarea": {
-   "title": "IERTAREA",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-iertarea-0rV.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:pionul lui lenin": {
-   "title": "Pionul lui LENIN",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-pionul-lui-lenin-premiera-de-gala-sl7.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:minuscule valea furnicilor pierdute": {
-   "title": "MINUSCULE: VALEA FURNICILOR PIERDUTE",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute-Dz5.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:ultimele scrisori ale bunicii": {
-   "title": "Ultimele scrisori ale bunicii",
-   "original_title": null,
-   "year": null,
-   "poster": null,
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:le temps retrouve timpul regasit": {
-   "title": "TIMPUL REGĂSIT",
-   "original_title": "LE TEMPS RETROUVÉ",
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-le-temps-retrouve-timpul-regasit-ian-christie-jse.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:cazul inginerului ursu": {
-   "title": "CAZUL INGINERULUI URSU",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2024/03/bilete-cazul-inginerului-ursu-W5J.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:le chant des forets cantecul padurii": {
-   "title": "CÂNTECUL PĂDURII",
-   "original_title": "LE CHANT DES FORÊTS",
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-le-chant-des-forets-cantecul-padurii-1ER.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:mon inseparable tot ce am mai de pret": {
-   "title": "TOT CE AM MAI DE PREȚ",
-   "original_title": "MON INSÉPARABLE",
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-mon-inseparable-UlT.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:3 zile in septembrie": {
-   "title": "3 zile în septembrie",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-3-zile-inseptembrie-3Lv.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:planetes": {
-   "title": "PLANÈTES",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-planetes-exclusivitate-41V.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:silent reading party jurnalul unei cameriste": {
-   "title": "Silent Reading Party: Jurnalul unei cameriste",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-silent-reading-party-jurnalul-unei-cameriste-ZWP.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:a matter of life and death": {
-   "title": "A Matter of Life and Death",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-a-matter-of-life-and-death-fzg.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
   "t:100 lei": {
+   "tmdb_id": null,
    "title": "100 LEI",
    "original_title": null,
    "year": null,
@@ -2597,167 +2298,23 @@
    "runtime": null,
    "source": "eventbook"
   },
-  "t:cea mai fericita fata din lume lampa cu caciula": {
-   "title": "CEA MAI FERICITĂ FATĂ DIN LUME + LAMPA CU CĂCIULĂ",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula-tEy.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:jurnalul unei cameriste potemkinistii": {
-   "title": "JURNALUL UNEI CAMERISTE + POTEMKINIȘTII",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii-557.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:toata lumea din familia noastra alexandra": {
-   "title": "TOATĂ LUMEA DIN FAMILIA NOASTRĂ + ALEXANDRA",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra-UcP.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:aferim caricaturana": {
-   "title": "AFERIM! + CARICATURANA",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana-EI4.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:tara moarta amintiri de pe frontul de est": {
-   "title": "ȚARA MOARTĂ + AMINTIRI DE PE FRONTUL DE EST",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est-5aU.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului": {
-   "title": "ÎMI ESTE INDIFERENT DACĂ ÎN ISTORIE VOM INTRA CA BARBARI + CELE DOUĂ EXECUȚII ALE MAREȘALULUI",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal-Irr.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:film pentru prieteni o umbra de nor dimineata": {
-   "title": "FILM PENTRU PRIETENI + O UMBRA DE NOR + DIMINEAȚA",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata-6Tc.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:you can see everything": {
-   "title": "You Can See Everything",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:inimi cicatrizate trece si prin perete": {
-   "title": "INIMI CICATRIZATE + TRECE ȘI PRIN PERETE",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete-Wdz.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
-   "title": "SLEEP 2 + PLASTIC SEMIOTIC + TRAILER PENTRU PARADISUL LUI DANTE",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante-lHA.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:nu e locul tau aici": {
-   "title": "NU E LOCUL TĂU AICI",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:atat de familiar": {
-   "title": "Atât de familiar",
-   "original_title": null,
-   "year": null,
-   "poster": null,
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:iesirea trenurilor din gara a pedepsi a supraveghea": {
-   "title": "IEȘIREA TRENURILOR DIN GARĂ + A PEDEPSI, A SUPRAVEGHEA",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea-I9b.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:nu astepta prea mult de la sfarsitul lumii stimati oameni de cultura": {
-   "title": "NU AȘTEPTA PREA MULT DE LA SFÂRȘITUL LUMII + STIMAȚI OAMENI DE CULTURĂ",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura-AB1.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:babardeala cu buclul sau porno balamuc": {
-   "title": "BABARDEALĂ CU BUCLUL SAU PORNO BALAMUC",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc-xhj.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:tipografic majuscul plan contraplan": {
-   "title": "TIPOGRAFIC MAJUSCUL + PLAN CONTRAPLAN",
-   "original_title": null,
-   "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan-h0C.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
+  "tmdb:1599428": {
+   "tmdb_id": 1599428,
+   "title": "3 zile în septembrie",
+   "original_title": "3 zile în septembrie",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/mA8RwOB6u2jU2Zi4FNrmXzewO9O.jpg",
+   "directors": [
+    "Tudor Giurgiu"
+   ],
+   "imdb_id": "tt39168113",
+   "runtime": 78,
+   "source": "tmdb",
+   "imdb_rating": 7.3,
+   "imdb_votes": 213
   },
   "t:8 ilustrate din utopia little poems in prose": {
+   "tmdb_id": null,
    "title": "8 ILUSTRATE DIN UTOPIA + LITTLE POEMS IN PROSE",
    "original_title": null,
    "year": null,
@@ -2767,37 +2324,341 @@
    "runtime": null,
    "source": "eventbook"
   },
-  "t:kontinental 25": {
-   "title": "KONTINENTAL 25",
+  "tmdb:28162": {
+   "tmdb_id": 28162,
+   "title": "O chestiune de viață și de moarte",
+   "original_title": "A Matter of Life and Death",
+   "year": "1946",
+   "poster": "https://image.tmdb.org/t/p/w185/H74LWKnhOeIFSk9gNjBcPjIov3.jpg",
+   "directors": [
+    "Emeric Pressburger",
+    "Michael Powell"
+   ],
+   "imdb_id": "tt0038733",
+   "runtime": 104,
+   "source": "tmdb",
+   "imdb_rating": 8.0,
+   "imdb_votes": 28545
+  },
+  "t:aferim caricaturana": {
+   "tmdb_id": null,
+   "title": "AFERIM! + CARICATURANA",
    "original_title": null,
    "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-kontinental-25-ff3.webp",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana-EI4.webp",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
   },
-  "t:dracula": {
-   "title": "DRACULA",
+  "tmdb:1088548": {
+   "tmdb_id": 1088548,
+   "title": "Amarga Navidad",
+   "original_title": "Amarga Navidad",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
+   "directors": [
+    "Pedro Almodóvar"
+   ],
+   "imdb_id": "tt28088049",
+   "runtime": 111,
+   "source": "tmdb",
+   "imdb_rating": 6.3,
+   "imdb_votes": 5939
+  },
+  "tmdb:915935": {
+   "tmdb_id": 915935,
+   "title": "Anatomia unei prăbușiri",
+   "original_title": "Anatomie d'une chute",
+   "year": "2023",
+   "poster": "https://image.tmdb.org/t/p/w185/8dc0iIniPGBukeLQrzuG2hHPM4M.jpg",
+   "directors": [
+    "Justine Triet"
+   ],
+   "imdb_id": "tt17009710",
+   "runtime": 151,
+   "source": "tmdb",
+   "imdb_rating": 7.6,
+   "imdb_votes": 240313
+  },
+  "t:atat de familiar": {
+   "tmdb_id": null,
+   "title": "Atât de familiar",
    "original_title": null,
    "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-dracula-xP0.webp",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Atat_de_Familiar_poster.png",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
   },
-  "t:anatomie d une chute anatomia unei prabusiri": {
-   "title": "ANATOMIA UNEI PRĂBUȘIRI",
-   "original_title": "ANATOMIE D’UNE CHUTE",
+  "t:babardeala cu buclul sau porno balamuc": {
+   "tmdb_id": null,
+   "title": "BABARDEALĂ CU BUCLUL SAU PORNO BALAMUC",
+   "original_title": null,
    "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-anatomia-unei-prabusiri-european-cinema-night-0Dn.webp",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc-xhj.webp",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
+  },
+  "tmdb:1152762": {
+   "tmdb_id": 1152762,
+   "title": "Cazul inginerului Ursu",
+   "original_title": "Cazul inginerului Ursu",
+   "year": "2023",
+   "poster": "https://image.tmdb.org/t/p/w185/z6Dk0hQS75zy5EgKEkZ5wgO0q1r.jpg",
+   "directors": [
+    "Liviu Tofan",
+    "Șerban Georgescu"
+   ],
+   "imdb_id": null,
+   "runtime": 100,
+   "source": "tmdb"
+  },
+  "t:cea mai fericita fata din lume lampa cu caciula": {
+   "tmdb_id": null,
+   "title": "CEA MAI FERICITĂ FATĂ DIN LUME + LAMPA CU CĂCIULĂ",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula-tEy.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1585239": {
+   "tmdb_id": 1585239,
+   "title": "Club Kid",
+   "original_title": "Club Kid",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+   "directors": [
+    "Jordan Firstman"
+   ],
+   "imdb_id": "tt38058097",
+   "runtime": 122,
+   "source": "tmdb",
+   "imdb_rating": 8.2,
+   "imdb_votes": 1844
+  },
+  "tmdb:1756136": {
+   "tmdb_id": 1756136,
+   "title": "Delta Sălbatică",
+   "original_title": "Delta Sălbatică",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/fFNIQPfgO4mB6nC8LPmZNGTfxEi.jpg",
+   "directors": [
+    "Dan Dinu"
+   ],
+   "imdb_id": "tt43609729",
+   "runtime": 125,
+   "source": "tmdb",
+   "imdb_rating": 8.3,
+   "imdb_votes": 12
+  },
+  "tmdb:1246049": {
+   "tmdb_id": 1246049,
+   "title": "Dracula: O poveste de iubire",
+   "original_title": "Dracula",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/jVb3IdegeK4OBFZYMJkqW7mnUS8.jpg",
+   "directors": [
+    "Luc Besson"
+   ],
+   "imdb_id": "tt31434030",
+   "runtime": 129,
+   "source": "tmdb",
+   "imdb_rating": 6.2,
+   "imdb_votes": 48693
+  },
+  "t:film pentru prieteni o umbra de nor dimineata": {
+   "tmdb_id": null,
+   "title": "FILM PENTRU PRIETENI + O UMBRA DE NOR + DIMINEAȚA",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata-6Tc.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1735997": {
+   "tmdb_id": 1735997,
+   "title": "Földszint",
+   "original_title": "Földszint",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/8cfq6dabwO5BKL8TToMbRGAlQ96.jpg",
+   "directors": [
+    "Gábor Reisz"
+   ],
+   "imdb_id": "tt42685861",
+   "runtime": 108,
+   "source": "tmdb",
+   "imdb_rating": 7.0,
+   "imdb_votes": 277
+  },
+  "t:gaina": {
+   "tmdb_id": null,
+   "title": "Găina",
+   "original_title": null,
+   "year": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/hen-poster.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1773720": {
+   "tmdb_id": 1773720,
+   "title": "Iertarea",
+   "original_title": "Iertarea",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/nvqRnWBfNvJ07xCGLa8K29kbLto.jpg",
+   "directors": [
+    "Nicolae Mărgineanu"
+   ],
+   "imdb_id": "tt42803675",
+   "runtime": 100,
+   "source": "tmdb"
+  },
+  "t:iesirea trenurilor din gara a pedepsi a supraveghea": {
+   "tmdb_id": null,
+   "title": "IEȘIREA TRENURILOR DIN GARĂ + A PEDEPSI, A SUPRAVEGHEA",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea-I9b.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:inimi cicatrizate trece si prin perete": {
+   "tmdb_id": null,
+   "title": "INIMI CICATRIZATE + TRECE ȘI PRIN PERETE",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete-Wdz.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:320003": {
+   "tmdb_id": 320003,
+   "title": "Jurnalul unei cameriste",
+   "original_title": "Journal d'une femme de chambre",
+   "year": "2015",
+   "poster": "https://image.tmdb.org/t/p/w185/z1MP79iSpQBc0JFrMLAEjtgO788.jpg",
+   "directors": [
+    "Benoît Jacquot"
+   ],
+   "imdb_id": "tt2711898",
+   "runtime": 96,
+   "source": "tmdb",
+   "imdb_rating": 5.5,
+   "imdb_votes": 3248
+  },
+  "t:jurnalul unei cameriste potemkinistii": {
+   "tmdb_id": null,
+   "title": "JURNALUL UNEI CAMERISTE + POTEMKINIȘTII",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii-557.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1410189": {
+   "tmdb_id": 1410189,
+   "title": "Kontinental '25",
+   "original_title": "Kontinental '25",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/9NMekIITIoYAHmyYA0iPEQYNZ7e.jpg",
+   "directors": [
+    "Radu Jude"
+   ],
+   "imdb_id": "tt35492581",
+   "runtime": 109,
+   "source": "tmdb",
+   "imdb_rating": 6.7,
+   "imdb_votes": 2790
+  },
+  "tmdb:1309373": {
+   "tmdb_id": 1309373,
+   "title": "Le Chant des forêts",
+   "original_title": "Le Chant des forêts",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/5rcsd0iGbsQ6DFTI3HclJPJzY9K.jpg",
+   "directors": [
+    "Vincent Munier"
+   ],
+   "imdb_id": "tt32368068",
+   "runtime": 99,
+   "source": "tmdb",
+   "imdb_rating": 7.8,
+   "imdb_votes": 1434
+  },
+  "tmdb:47439": {
+   "tmdb_id": 47439,
+   "title": "Le Temps retrouvé",
+   "original_title": "Le Temps retrouvé",
+   "year": "1999",
+   "poster": "https://image.tmdb.org/t/p/w185/jaGJ6LCUYIUePIyD00ojZURpYDE.jpg",
+   "directors": [
+    "Raúl Ruiz"
+   ],
+   "imdb_id": "tt0189142",
+   "runtime": 163,
+   "source": "tmdb",
+   "imdb_rating": 6.7,
+   "imdb_votes": 3022
+  },
+  "tmdb:848700": {
+   "tmdb_id": 848700,
+   "title": "Minotaure",
+   "original_title": "Minotaure",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/AvHogrqLSA0rjLRxf5iKcJKFX7K.jpg",
+   "directors": [
+    "Андрей Звягинцев"
+   ],
+   "imdb_id": "tt37118301",
+   "runtime": 142,
+   "source": "tmdb",
+   "imdb_rating": 7.6,
+   "imdb_votes": 2152
+  },
+  "t:minuscule valea furnicilor pierdute": {
+   "tmdb_id": null,
+   "title": "MINUSCULE: VALEA FURNICILOR PIERDUTE",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute-Dz5.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1032765": {
+   "tmdb_id": 1032765,
+   "title": "Mon Inséparable",
+   "original_title": "Mon Inséparable",
+   "year": "2024",
+   "poster": "https://image.tmdb.org/t/p/w185/9FLIWNhw3DvHFdYgMwfQZHLuL4e.jpg",
+   "directors": [
+    "Anne-Sophie Bailly"
+   ],
+   "imdb_id": "tt21993128",
+   "runtime": 95,
+   "source": "tmdb",
+   "imdb_rating": 6.2,
+   "imdb_votes": 351
   },
   "t:mici excese a vinganca de uma mulher": {
+   "tmdb_id": null,
    "title": "Mici Excese: A vinganca de uma mulher",
    "original_title": null,
    "year": null,
@@ -2807,11 +2668,291 @@
    "runtime": null,
    "source": "eventbook"
   },
-  "t:persona": {
-   "title": "PERSONA",
+  "t:mici excese pas sur la bouche": {
+   "tmdb_id": null,
+   "title": "Mici Excese: Pas sur la bouche",
    "original_title": null,
    "year": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-persona-dnl.webp",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-pas-sur-la-bouche-i37.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1815513": {
+   "tmdb_id": 1815513,
+   "title": "Monarh",
+   "original_title": "Monarh",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/aO68MPvXiZm6UVo3LDNVWKzayB2.jpg",
+   "directors": [
+    "Radu Mihai"
+   ],
+   "imdb_id": "tt39378852",
+   "runtime": 103,
+   "source": "tmdb"
+  },
+  "tmdb:18602": {
+   "tmdb_id": 18602,
+   "title": "Morvern Callar",
+   "original_title": "Morvern Callar",
+   "year": "2002",
+   "poster": "https://image.tmdb.org/t/p/w185/kKGUF97v8a62MtSKM0V6fqDxGTS.jpg",
+   "directors": [
+    "Lynne Ramsay"
+   ],
+   "imdb_id": "tt0300214",
+   "runtime": 97,
+   "source": "tmdb",
+   "imdb_rating": 6.8,
+   "imdb_votes": 12689
+  },
+  "tmdb:1755291": {
+   "tmdb_id": 1755291,
+   "title": "NAZA",
+   "original_title": "NAZA",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
+   "directors": [
+    "Yuval Abraham",
+    "רחל שור"
+   ],
+   "imdb_id": "tt44766123",
+   "runtime": 77,
+   "source": "tmdb",
+   "imdb_rating": 8.4,
+   "imdb_votes": 7400
+  },
+  "t:nu astepta prea mult de la sfarsitul lumii stimati oameni de cultura": {
+   "tmdb_id": null,
+   "title": "NU AȘTEPTA PREA MULT DE LA SFÂRȘITUL LUMII + STIMAȚI OAMENI DE CULTURĂ",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura-AB1.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1728593": {
+   "tmdb_id": 1728593,
+   "title": "Nu e locul tau aici",
+   "original_title": "Nu e locul tau aici",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/vPnV7VpkC3HlLGLF8h3Ooa2Q9V5.jpg",
+   "directors": [
+    "Florin Şerban"
+   ],
+   "imdb_id": "tt39228759",
+   "runtime": 154,
+   "source": "tmdb",
+   "imdb_rating": 7.2,
+   "imdb_votes": 116
+  },
+  "tmdb:1259735": {
+   "tmdb_id": 1259735,
+   "title": "Persona",
+   "original_title": "Persona",
+   "year": "2024",
+   "poster": "https://image.tmdb.org/t/p/w185/32ZJN3lIwboI3EFK4dsoovOh0fm.jpg",
+   "directors": [
+    "Mike Ho"
+   ],
+   "imdb_id": "tt30060565",
+   "runtime": 101,
+   "source": "tmdb",
+   "imdb_rating": 4.2,
+   "imdb_votes": 127
+  },
+  "tmdb:1172260": {
+   "tmdb_id": 1172260,
+   "title": "Piatră Foarfecă Hârtie",
+   "original_title": "Piatră Foarfecă Hârtie",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/hAySoTcYkD43LBtnnwgpLKWELj.jpg",
+   "directors": [
+    "Adrian Sitaru"
+   ],
+   "imdb_id": "tt39369409",
+   "runtime": 91,
+   "source": "tmdb",
+   "imdb_rating": 7.1,
+   "imdb_votes": 18
+  },
+  "tmdb:999140": {
+   "tmdb_id": 999140,
+   "title": "Planètes",
+   "original_title": "Planètes",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/4EbiJTqpKCM4Cmj7Xpsji38mW9A.jpg",
+   "directors": [
+    "Momoko Seto"
+   ],
+   "imdb_id": "tt32284798",
+   "runtime": 76,
+   "source": "tmdb",
+   "imdb_rating": 6.2,
+   "imdb_votes": 281
+  },
+  "tmdb:1709318": {
+   "tmdb_id": 1709318,
+   "title": "Pionul lui Lenin",
+   "original_title": "Pionul lui Lenin",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/dKK4HOhznlKy7Hv1piCENGDyTiE.jpg",
+   "directors": [
+    "Dragos Turea"
+   ],
+   "imdb_id": "tt42558356",
+   "runtime": 84,
+   "source": "tmdb",
+   "imdb_rating": 8.9,
+   "imdb_votes": 35
+  },
+  "tmdb:1021848": {
+   "tmdb_id": 1021848,
+   "title": "Queen at Sea",
+   "original_title": "Queen at Sea",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
+   "directors": [
+    "Lance Hammer"
+   ],
+   "imdb_id": "tt27541205",
+   "runtime": 121,
+   "source": "tmdb",
+   "imdb_rating": 7.5,
+   "imdb_votes": 1182
+  },
+  "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
+   "tmdb_id": null,
+   "title": "SLEEP 2 + PLASTIC SEMIOTIC + TRAILER PENTRU PARADISUL LUI DANTE",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante-lHA.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:silent reading party jurnalul unei cameriste": {
+   "tmdb_id": null,
+   "title": "Silent Reading Party: Jurnalul unei cameriste",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-silent-reading-party-jurnalul-unei-cameriste-ZWP.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:379149": {
+   "tmdb_id": 379149,
+   "title": "Străinul",
+   "original_title": "The Foreigner",
+   "year": "2017",
+   "poster": "https://image.tmdb.org/t/p/w185/cDkwYVBaCrsjGzXo76fh680l66l.jpg",
+   "directors": [
+    "Martin Campbell"
+   ],
+   "imdb_id": "tt1615160",
+   "runtime": 114,
+   "source": "tmdb",
+   "imdb_rating": 7.0,
+   "imdb_votes": 134358
+  },
+  "tmdb:1240889": {
+   "tmdb_id": 1240889,
+   "title": "Teenage Sex and Death at Camp Miasma",
+   "original_title": "Teenage Sex and Death at Camp Miasma",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
+   "directors": [
+    "Jane Schoenbrun"
+   ],
+   "imdb_id": "tt35298123",
+   "runtime": 112,
+   "source": "tmdb",
+   "imdb_rating": 6.4,
+   "imdb_votes": 27392
+  },
+  "t:tipografic majuscul plan contraplan": {
+   "tmdb_id": null,
+   "title": "TIPOGRAFIC MAJUSCUL + PLAN CONTRAPLAN",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan-h0C.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:toata lumea din familia noastra alexandra": {
+   "tmdb_id": null,
+   "title": "TOATĂ LUMEA DIN FAMILIA NOASTRĂ + ALEXANDRA",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra-UcP.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:ultimele scrisori ale bunicii": {
+   "tmdb_id": null,
+   "title": "Ultimele scrisori ale bunicii",
+   "original_title": null,
+   "year": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/Ultimele__scrisori_ale_bunicii_poster_oficial_small.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1765072": {
+   "tmdb_id": 1765072,
+   "title": "Poți Vedea Totul",
+   "original_title": "You Can See Everything",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+   "directors": [
+    "Nathan Fielder",
+    "Lance Oppenheim"
+   ],
+   "imdb_id": "tt45368240",
+   "runtime": 174,
+   "source": "tmdb",
+   "imdb_rating": 9.0,
+   "imdb_votes": 33924
+  },
+  "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului": {
+   "tmdb_id": null,
+   "title": "ÎMI ESTE INDIFERENT DACĂ ÎN ISTORIE VOM INTRA CA BARBARI + CELE DOUĂ EXECUȚII ALE MAREȘALULUI",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal-Irr.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:inca o dorinta": {
+   "tmdb_id": null,
+   "title": "Încă o dorință",
+   "original_title": null,
+   "year": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/inca_o_dorinta-poster.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:tara moarta amintiri de pe frontul de est": {
+   "tmdb_id": null,
+   "title": "ȚARA MOARTĂ + AMINTIRI DE PE FRONTUL DE EST",
+   "original_title": null,
+   "year": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est-5aU.webp",
    "directors": [],
    "imdb_id": null,
    "runtime": null,

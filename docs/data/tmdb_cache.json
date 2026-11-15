@@ -1,4 +1,536 @@
 {
- "queries": {},
- "movies": {}
+ "queries": {
+  "100 lei": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:21+00:00"
+  },
+  "3 zile in septembrie": {
+   "id": 1599428,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:21+00:00"
+  },
+  "a matter of life and death": {
+   "id": 28162,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:21+00:00"
+  },
+  "amarga navidad": {
+   "id": 1088548,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:22+00:00"
+  },
+  "anatomie d une chute": {
+   "id": 915935,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:22+00:00"
+  },
+  "atat de familiar": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:23+00:00"
+  },
+  "babardeala cu buclul sau porno balamuc": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:23+00:00"
+  },
+  "cazul inginerului ursu": {
+   "id": 1152762,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:23+00:00"
+  },
+  "club kid": {
+   "id": 1585239,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:24+00:00"
+  },
+  "delta salbatica": {
+   "id": 1756136,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:24+00:00"
+  },
+  "dracula": {
+   "id": 1246049,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:25+00:00"
+  },
+  "foldszint": {
+   "id": 1735997,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:25+00:00"
+  },
+  "gaina": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:26+00:00"
+  },
+  "iertarea": {
+   "id": 1773720,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:26+00:00"
+  },
+  "jurnalul unei cameriste": {
+   "id": 320003,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:27+00:00"
+  },
+  "kontinental 25": {
+   "id": 1410189,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:27+00:00"
+  },
+  "le chant des forets": {
+   "id": 1309373,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:28+00:00"
+  },
+  "le temps retrouve": {
+   "id": 47439,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:28+00:00"
+  },
+  "minotaure": {
+   "id": 848700,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:29+00:00"
+  },
+  "minuscule valea furnicilor pierdute": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:29+00:00"
+  },
+  "mon inseparable": {
+   "id": 1032765,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:30+00:00"
+  },
+  "mici excese a vinganca de uma mulher": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:30+00:00"
+  },
+  "mici excese pas sur la bouche": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:30+00:00"
+  },
+  "monarh": {
+   "id": 1815513,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:31+00:00"
+  },
+  "morvern callar": {
+   "id": 18602,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:31+00:00"
+  },
+  "naza": {
+   "id": 1755291,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:32+00:00"
+  },
+  "nu e locul tau aici": {
+   "id": 1728593,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:32+00:00"
+  },
+  "persona": {
+   "id": 1259735,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:33+00:00"
+  },
+  "piatra foarfeca hartie": {
+   "id": 1172260,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:33+00:00"
+  },
+  "planetes": {
+   "id": 999140,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:34+00:00"
+  },
+  "pionul lui lenin": {
+   "id": 1709318,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:34+00:00"
+  },
+  "queen at sea": {
+   "id": 1021848,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:35+00:00"
+  },
+  "silent reading party jurnalul unei cameriste": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:35+00:00"
+  },
+  "strainul": {
+   "id": 379149,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:35+00:00"
+  },
+  "teenage sex and death at camp miasma": {
+   "id": 1240889,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:36+00:00"
+  },
+  "ultimele scrisori ale bunicii": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:37+00:00"
+  },
+  "you can see everything": {
+   "id": 1765072,
+   "kind": "exact",
+   "ts": "2026-11-15T22:58:37+00:00"
+  },
+  "inca o dorinta": {
+   "id": null,
+   "kind": null,
+   "ts": "2026-11-15T22:58:37+00:00"
+  }
+ },
+ "movies": {
+  "1599428": {
+   "title": "3 zile în septembrie",
+   "original_title": "3 zile în septembrie",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/mA8RwOB6u2jU2Zi4FNrmXzewO9O.jpg",
+   "directors": [
+    "Tudor Giurgiu"
+   ],
+   "imdb_id": "tt39168113",
+   "runtime": 78,
+   "fetched": "2026-11-15T22:58:21+00:00"
+  },
+  "28162": {
+   "title": "O chestiune de viață și de moarte",
+   "original_title": "A Matter of Life and Death",
+   "year": "1946",
+   "poster": "https://image.tmdb.org/t/p/w185/H74LWKnhOeIFSk9gNjBcPjIov3.jpg",
+   "directors": [
+    "Emeric Pressburger",
+    "Michael Powell"
+   ],
+   "imdb_id": "tt0038733",
+   "runtime": 104,
+   "fetched": "2026-11-15T22:58:22+00:00"
+  },
+  "1088548": {
+   "title": "Amarga Navidad",
+   "original_title": "Amarga Navidad",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
+   "directors": [
+    "Pedro Almodóvar"
+   ],
+   "imdb_id": "tt28088049",
+   "runtime": 111,
+   "fetched": "2026-11-15T22:58:22+00:00"
+  },
+  "915935": {
+   "title": "Anatomia unei prăbușiri",
+   "original_title": "Anatomie d'une chute",
+   "year": "2023",
+   "poster": "https://image.tmdb.org/t/p/w185/8dc0iIniPGBukeLQrzuG2hHPM4M.jpg",
+   "directors": [
+    "Justine Triet"
+   ],
+   "imdb_id": "tt17009710",
+   "runtime": 151,
+   "fetched": "2026-11-15T22:58:23+00:00"
+  },
+  "1152762": {
+   "title": "Cazul inginerului Ursu",
+   "original_title": "Cazul inginerului Ursu",
+   "year": "2023",
+   "poster": "https://image.tmdb.org/t/p/w185/z6Dk0hQS75zy5EgKEkZ5wgO0q1r.jpg",
+   "directors": [
+    "Liviu Tofan",
+    "Șerban Georgescu"
+   ],
+   "imdb_id": null,
+   "runtime": 100,
+   "fetched": "2026-11-15T22:58:24+00:00"
+  },
+  "1585239": {
+   "title": "Club Kid",
+   "original_title": "Club Kid",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+   "directors": [
+    "Jordan Firstman"
+   ],
+   "imdb_id": "tt38058097",
+   "runtime": 122,
+   "fetched": "2026-11-15T22:58:24+00:00"
+  },
+  "1756136": {
+   "title": "Delta Sălbatică",
+   "original_title": "Delta Sălbatică",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/fFNIQPfgO4mB6nC8LPmZNGTfxEi.jpg",
+   "directors": [
+    "Dan Dinu"
+   ],
+   "imdb_id": "tt43609729",
+   "runtime": 125,
+   "fetched": "2026-11-15T22:58:25+00:00"
+  },
+  "1246049": {
+   "title": "Dracula: O poveste de iubire",
+   "original_title": "Dracula",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/jVb3IdegeK4OBFZYMJkqW7mnUS8.jpg",
+   "directors": [
+    "Luc Besson"
+   ],
+   "imdb_id": "tt31434030",
+   "runtime": 129,
+   "fetched": "2026-11-15T22:58:25+00:00"
+  },
+  "1735997": {
+   "title": "Földszint",
+   "original_title": "Földszint",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/8cfq6dabwO5BKL8TToMbRGAlQ96.jpg",
+   "directors": [
+    "Gábor Reisz"
+   ],
+   "imdb_id": "tt42685861",
+   "runtime": 108,
+   "fetched": "2026-11-15T22:58:26+00:00"
+  },
+  "1773720": {
+   "title": "Iertarea",
+   "original_title": "Iertarea",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/nvqRnWBfNvJ07xCGLa8K29kbLto.jpg",
+   "directors": [
+    "Nicolae Mărgineanu"
+   ],
+   "imdb_id": "tt42803675",
+   "runtime": 100,
+   "fetched": "2026-11-15T22:58:26+00:00"
+  },
+  "320003": {
+   "title": "Jurnalul unei cameriste",
+   "original_title": "Journal d'une femme de chambre",
+   "year": "2015",
+   "poster": "https://image.tmdb.org/t/p/w185/z1MP79iSpQBc0JFrMLAEjtgO788.jpg",
+   "directors": [
+    "Benoît Jacquot"
+   ],
+   "imdb_id": "tt2711898",
+   "runtime": 96,
+   "fetched": "2026-11-15T22:58:27+00:00"
+  },
+  "1410189": {
+   "title": "Kontinental '25",
+   "original_title": "Kontinental '25",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/9NMekIITIoYAHmyYA0iPEQYNZ7e.jpg",
+   "directors": [
+    "Radu Jude"
+   ],
+   "imdb_id": "tt35492581",
+   "runtime": 109,
+   "fetched": "2026-11-15T22:58:27+00:00"
+  },
+  "1309373": {
+   "title": "Le Chant des forêts",
+   "original_title": "Le Chant des forêts",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/5rcsd0iGbsQ6DFTI3HclJPJzY9K.jpg",
+   "directors": [
+    "Vincent Munier"
+   ],
+   "imdb_id": "tt32368068",
+   "runtime": 99,
+   "fetched": "2026-11-15T22:58:28+00:00"
+  },
+  "47439": {
+   "title": "Le Temps retrouvé",
+   "original_title": "Le Temps retrouvé",
+   "year": "1999",
+   "poster": "https://image.tmdb.org/t/p/w185/jaGJ6LCUYIUePIyD00ojZURpYDE.jpg",
+   "directors": [
+    "Raúl Ruiz"
+   ],
+   "imdb_id": "tt0189142",
+   "runtime": 163,
+   "fetched": "2026-11-15T22:58:29+00:00"
+  },
+  "848700": {
+   "title": "Minotaure",
+   "original_title": "Minotaure",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/AvHogrqLSA0rjLRxf5iKcJKFX7K.jpg",
+   "directors": [
+    "Андрей Звягинцев"
+   ],
+   "imdb_id": "tt37118301",
+   "runtime": 142,
+   "fetched": "2026-11-15T22:58:29+00:00"
+  },
+  "1032765": {
+   "title": "Mon Inséparable",
+   "original_title": "Mon Inséparable",
+   "year": "2024",
+   "poster": "https://image.tmdb.org/t/p/w185/9FLIWNhw3DvHFdYgMwfQZHLuL4e.jpg",
+   "directors": [
+    "Anne-Sophie Bailly"
+   ],
+   "imdb_id": "tt21993128",
+   "runtime": 95,
+   "fetched": "2026-11-15T22:58:30+00:00"
+  },
+  "1815513": {
+   "title": "Monarh",
+   "original_title": "Monarh",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/aO68MPvXiZm6UVo3LDNVWKzayB2.jpg",
+   "directors": [
+    "Radu Mihai"
+   ],
+   "imdb_id": "tt39378852",
+   "runtime": 103,
+   "fetched": "2026-11-15T22:58:31+00:00"
+  },
+  "18602": {
+   "title": "Morvern Callar",
+   "original_title": "Morvern Callar",
+   "year": "2002",
+   "poster": "https://image.tmdb.org/t/p/w185/kKGUF97v8a62MtSKM0V6fqDxGTS.jpg",
+   "directors": [
+    "Lynne Ramsay"
+   ],
+   "imdb_id": "tt0300214",
+   "runtime": 97,
+   "fetched": "2026-11-15T22:58:31+00:00"
+  },
+  "1755291": {
+   "title": "NAZA",
+   "original_title": "NAZA",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
+   "directors": [
+    "Yuval Abraham",
+    "רחל שור"
+   ],
+   "imdb_id": "tt44766123",
+   "runtime": 77,
+   "fetched": "2026-11-15T22:58:32+00:00"
+  },
+  "1728593": {
+   "title": "Nu e locul tau aici",
+   "original_title": "Nu e locul tau aici",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/vPnV7VpkC3HlLGLF8h3Ooa2Q9V5.jpg",
+   "directors": [
+    "Florin Şerban"
+   ],
+   "imdb_id": "tt39228759",
+   "runtime": 154,
+   "fetched": "2026-11-15T22:58:32+00:00"
+  },
+  "1259735": {
+   "title": "Persona",
+   "original_title": "Persona",
+   "year": "2024",
+   "poster": "https://image.tmdb.org/t/p/w185/32ZJN3lIwboI3EFK4dsoovOh0fm.jpg",
+   "directors": [
+    "Mike Ho"
+   ],
+   "imdb_id": "tt30060565",
+   "runtime": 101,
+   "fetched": "2026-11-15T22:58:33+00:00"
+  },
+  "1172260": {
+   "title": "Piatră Foarfecă Hârtie",
+   "original_title": "Piatră Foarfecă Hârtie",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/hAySoTcYkD43LBtnnwgpLKWELj.jpg",
+   "directors": [
+    "Adrian Sitaru"
+   ],
+   "imdb_id": "tt39369409",
+   "runtime": 91,
+   "fetched": "2026-11-15T22:58:33+00:00"
+  },
+  "999140": {
+   "title": "Planètes",
+   "original_title": "Planètes",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/4EbiJTqpKCM4Cmj7Xpsji38mW9A.jpg",
+   "directors": [
+    "Momoko Seto"
+   ],
+   "imdb_id": "tt32284798",
+   "runtime": 76,
+   "fetched": "2026-11-15T22:58:34+00:00"
+  },
+  "1709318": {
+   "title": "Pionul lui Lenin",
+   "original_title": "Pionul lui Lenin",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/dKK4HOhznlKy7Hv1piCENGDyTiE.jpg",
+   "directors": [
+    "Dragos Turea"
+   ],
+   "imdb_id": "tt42558356",
+   "runtime": 84,
+   "fetched": "2026-11-15T22:58:34+00:00"
+  },
+  "1021848": {
+   "title": "Queen at Sea",
+   "original_title": "Queen at Sea",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
+   "directors": [
+    "Lance Hammer"
+   ],
+   "imdb_id": "tt27541205",
+   "runtime": 121,
+   "fetched": "2026-11-15T22:58:35+00:00"
+  },
+  "379149": {
+   "title": "Străinul",
+   "original_title": "The Foreigner",
+   "year": "2017",
+   "poster": "https://image.tmdb.org/t/p/w185/cDkwYVBaCrsjGzXo76fh680l66l.jpg",
+   "directors": [
+    "Martin Campbell"
+   ],
+   "imdb_id": "tt1615160",
+   "runtime": 114,
+   "fetched": "2026-11-15T22:58:36+00:00"
+  },
+  "1240889": {
+   "title": "Teenage Sex and Death at Camp Miasma",
+   "original_title": "Teenage Sex and Death at Camp Miasma",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
+   "directors": [
+    "Jane Schoenbrun"
+   ],
+   "imdb_id": "tt35298123",
+   "runtime": 112,
+   "fetched": "2026-11-15T22:58:36+00:00"
+  },
+  "1765072": {
+   "title": "Poți Vedea Totul",
+   "original_title": "You Can See Everything",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+   "directors": [
+    "Nathan Fielder",
+    "Lance Oppenheim"
+   ],
+   "imdb_id": "tt45368240",
+   "runtime": 174,
+   "fetched": "2026-11-15T22:58:37+00:00"
+  }
+ }
 }
