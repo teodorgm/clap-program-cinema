@@ -1,0 +1,62 @@
+name: Probe
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test sites
+        run: |
+          python3 - <<'PY'
+          import urllib.request, urllib.error, time, re
+          from datetime import date, timedelta
+
+          UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          until = (date.today() + timedelta(days=14)).isoformat()
+          EB = r"/film/bilete-[a-z0-9-]+"
+          T = [
+              ("Eventbook Elvire p1", "https://eventbook.ro/hall/cinema-elvire-popesco", EB),
+              ("Eventbook Elvire p2", "https://eventbook.ro/hall/cinema-elvire-popesco?page=2", EB),
+              ("Eventbook Union", "https://eventbook.ro/hall/cinema-union", EB),
+              ("Eventbook Apollo111", "https://eventbook.ro/hall/apollo111-cinema", EB),
+              ("CinemaCity feed now-playing", "https://www.cinemacity.ro/ro/data-api-service/v1/feed/10107/byName/now-playing?lang=ro_RO", None),
+              ("CinemaCity cinemas", "https://www.cinemacity.ro/ro/data-api-service/v1/quickbook/10107/cinemas/with-event/until/" + until + "?attr=&lang=ro_RO", None),
+              ("CinemaCity pagina AFI", "https://www.cinemacity.ro/cinemas/bucuresti-afi/1806?lang=en_GB", None),
+              ("Cinemax program", "https://www.cine-max.ro/filme/program", None),
+              ("Orange Cinemax Veranda", "https://www.orange.ro/info/film/cinema/129", None),
+              ("Orange CinemaCity Cotroceni", "https://www.orange.ro/info/film/cinema/14", None),
+              ("iabilet acasa", "https://www.iabilet.ro/", None),
+              ("Cineplexx acasa", "https://www.cineplexx.ro/", None),
+              ("Hollywood Multiplex acasa", "https://hollywoodmultiplex.ro/", None),
+              ("TMDB radacina API", "https://api.themoviedb.org/3/", None),
+          ]
+
+          for name, url, rx in T:
+              print("=" * 60)
+              print(name)
+              print(url)
+              try:
+                  req = urllib.request.Request(url, headers={
+                      "User-Agent": UA,
+                      "Accept": "text/html,application/json;q=0.9,*/*;q=0.8",
+                      "Accept-Language": "ro-RO,ro;q=0.9,en;q=0.8",
+                  })
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      body = r.read().decode("utf-8", "replace")
+                      print("STATUS", r.status, "| TYPE", r.headers.get("Content-Type"), "| BYTES", len(body))
+                      print("FINAL URL", r.geturl())
+              except urllib.error.HTTPError as e:
+                  body = e.read().decode("utf-8", "replace")
+                  print("HTTP ERROR", e.code, "| BYTES", len(body), "| server:", e.headers.get("server"))
+              except Exception as e:
+                  print("FAIL", repr(e))
+                  time.sleep(2)
+                  continue
+              low = body.lower()
+              hints = [w for w in ("cloudflare", "captcha", "just a moment", "access denied", "akamai", "datadome") if w in low]
+              print("BLOCK HINTS:", hints or "none")
+              if rx:
+                  found = re.findall(rx, body)
+                  print("FILM LINKS:", len(found), "| first:", found[:3])
+              print("PREVIEW:", re.sub(r"\s+", " ", body[:300]))
+              time.sleep(2)
+          PY
