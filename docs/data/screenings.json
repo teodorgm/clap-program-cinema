@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T20:45:45+00:00",
+ "generated": "2026-11-15T21:47:52+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -30,7 +30,7 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-15T20:45:45+00:00",
+   "updated": "2026-11-15T21:47:52+00:00",
    "error": null
   },
   "union": {
@@ -38,7 +38,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-15T20:45:45+00:00",
+   "updated": "2026-11-15T21:47:52+00:00",
    "error": null
   },
   "apollo111": {
@@ -46,7 +46,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-15T20:45:45+00:00",
+   "updated": "2026-11-15T21:47:52+00:00",
    "error": null
   },
   "eforie": {
@@ -54,7 +54,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-15T20:45:45+00:00",
+   "updated": "2026-11-15T21:47:52+00:00",
    "error": null
   }
  },
@@ -100,7 +100,7 @@
     "adult": 27,
     "student": 16
    },
-   "status": "ok",
+   "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco"
   },
   {
