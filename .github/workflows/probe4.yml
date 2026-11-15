@@ -1,0 +1,131 @@
+name: Probe4
+on: workflow_dispatch
+jobs:
+  probe4:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test structura
+        run: |
+          python3 - <<'PY'
+          import urllib.request, urllib.error, re, json, time
+          from datetime import date, timedelta
+
+          UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+          def get(url):
+              req = urllib.request.Request(url, headers={
+                  "User-Agent": UA,
+                  "Accept": "text/html,application/json;q=0.9,*/*;q=0.8",
+                  "Accept-Language": "ro-RO,ro;q=0.9,en;q=0.8",
+              })
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      return r.status, r.read().decode("utf-8", "replace")
+              except urllib.error.HTTPError as e:
+                  return e.code, e.read().decode("utf-8", "replace")
+              except Exception as e:
+                  return None, repr(e)
+
+          def clean(s):
+              return re.sub(r"\s+", " ", s)
+
+          def text(s):
+              return clean(re.sub(r"<[^>]+>", " ", s))
+
+          def head(t):
+              print("\n" + "=" * 60 + "\n" + t)
+
+          def run(name, fn):
+              head(name)
+              try:
+                  fn()
+              except Exception as e:
+                  print("EROARE IN TEST:", repr(e))
+              time.sleep(2)
+
+          def eventbook():
+              st, b = get("https://eventbook.ro/hall/cinema-elvire-popesco")
+              blocks = b.split('id="performance"')[1:]
+              print("STATUS", st, "| BLOCURI PROIECTII:", len(blocks))
+              first = clean(blocks[0])
+              print("\nPRIMUL BLOC (HTML, de la caracterul 1500):")
+              print(first[1500:5000])
+              print("\nPRIMUL BLOC (doar text):", text(blocks[0])[:600])
+              for kw in ("sold", "inchis", "închis"):
+                  for blk in blocks:
+                      if kw in blk.lower():
+                          i = blk.lower().find(kw)
+                          print("\nBLOC CU '" + kw + "' (HTML in jurul cuvantului):")
+                          print(clean(blk[max(0, i - 400): i + 400]))
+                          print("TEXT:", text(blk)[:500])
+                          break
+
+          run("EVENTBOOK Elvire: bloc complet", eventbook)
+
+          def cinemacity():
+              base = "https://www.cinemacity.ro/ro/data-api-service/v1/"
+              until = (date.today() + timedelta(days=14)).isoformat()
+              today = date.today().isoformat()
+              st, b = get(base + "quickbook/10107/cinemas/with-event/until/" + until + "?attr=&lang=ro_RO")
+              cins = json.loads(b)["body"]["cinemas"]
+              afi = next((c for c in cins if "AFI" in c.get("displayName", "")), None)
+              print("AFI:", afi and (afi.get("id"), afi.get("groupId")))
+              print("CHEI CINEMA:", sorted(afi.keys()))
+              st, b = get(base + "feed/10107/byName/now-playing?lang=ro_RO")
+              code = json.loads(b)["body"]["posters"][3]["code"]
+              urls = [
+                  base + "quickbook/10107/film-events/in-cinema/%s/at-date/%s?attr=&lang=ro_RO" % (afi["id"], today),
+                  base + "quickbook/10107/cinema-events/in-group/%s/with-film/%s/at-date/%s?attr=&lang=ro_RO" % (afi["groupId"], code, today),
+                  base + "quickbook/10107/dates/in-cinema/%s/until/%s?attr=&lang=ro_RO" % (afi["id"], until),
+              ]
+              for u in urls:
+                  time.sleep(2)
+                  st, b = get(u)
+                  print("\nURL:", u)
+                  print("STATUS", st, "| BYTES", len(b))
+                  try:
+                      j = json.loads(b)
+                      body = j.get("body", {})
+                      print("CHEI BODY:", sorted(body.keys()) if isinstance(body, dict) else type(body))
+                      for k, v in (body.items() if isinstance(body, dict) else []):
+                          if isinstance(v, list) and v:
+                              print("  ", k, "->", len(v), "elemente; primul:", clean(json.dumps(v[0], ensure_ascii=False))[:700])
+                          else:
+                              print("  ", k, "->", clean(json.dumps(v, ensure_ascii=False))[:200])
+                  except Exception:
+                      print("RASPUNS:", clean(b)[:600])
+
+          run("CINEMA CITY: program AFI", cinemacity)
+
+          def cinemax():
+              st, b = get("https://www.cine-max.ro/fileadmin/templates/cine-max2024/script/program.js?1786351470")
+              print("program.js STATUS", st, "| BYTES", len(b))
+              n = 0
+              for line in b.splitlines():
+                  if re.search(r"ajax|url|fetch|getJSON|/filme|\.post|\.get\(|tx_cinemax|eID|type=", line, re.I):
+                      print("  ", clean(line)[:220])
+                      n += 1
+                      if n >= 30:
+                          break
+              time.sleep(2)
+              st, b = get("https://www.cine-max.ro/filme/program?tx_cinemax_cine%5Bcity%5D=15")
+              print("\nPAGINA CU CITY=15 STATUS", st, "| BYTES", len(b))
+              i = b.find("time-list-holder-wrap")
+              print("ZONA LISTA:", clean(b[i: i + 700]) if i >= 0 else "negasit")
+
+          run("CINEMAX: program.js", cinemax)
+
+          def europa():
+              base = "https://m.iabilet.ro/"
+              for slug in ("bilete-mind-games-vol-2-132951", "bilete-gangsters-weekend-132957", "bilete-best-of-friends-133448", "bilete-proiectie-speciala-wild-horse-nine-134773"):
+                  st, b = get(base + slug + "/")
+                  t = text(b)
+                  print("\nEVENIMENT:", slug, "| STATUS", st, "| BYTES", len(b))
+                  i = t.find("Comandă bilete")
+                  print("ZONA BILETE:", t[i: i + 900] if i >= 0 else "negasit")
+                  j = t.find("Detalii")
+                  print("DETALII:", t[j: j + 1100] if j >= 0 else "negasit")
+                  time.sleep(2)
+
+          run("EUROPA: evenimente", europa)
+          PY
