@@ -33,16 +33,18 @@ button.chip:focus-visible,a:focus-visible{outline:2px solid var(--ac);outline-of
 .meta{color:var(--mu);font-size:13px;margin:2px 0 0;line-height:1.35}
 .meta a{color:inherit;text-decoration:underline;text-decoration-color:var(--ln)}
 .bd{display:inline-block;border:1px solid var(--ln);border-radius:4px;font:600 11px/1 system-ui,sans-serif;padding:2px 4px;margin-left:6px;vertical-align:2px;color:var(--mu)}
-.r{display:grid;grid-template-columns:130px 1fr auto;gap:4px 10px;align-items:center;margin-top:8px}
-.cn{font-size:13px;display:flex;align-items:center;gap:6px;min-width:0}
+.blk{margin-top:8px}
+.cn{font-size:13px;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .cn i{flex:none;width:8px;height:8px;border-radius:50%;background:var(--cc)}
-.tm{display:flex;flex-wrap:wrap;gap:6px}
-.x{font-size:12px;color:var(--mu);text-align:right}
-.t{padding:2px 9px;border:1.5px solid var(--cc);border-radius:6px;color:var(--tx);text-decoration:none;font-weight:700;font-size:15px;font-variant-numeric:tabular-nums}
+.cn em{font-style:normal;color:var(--mu);font-size:12px}
+.tm{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.t{display:inline-flex;flex-direction:column;align-items:center;min-width:62px;padding:3px 8px;border:1.5px solid var(--cc);border-radius:6px;color:var(--tx);text-decoration:none;font-weight:700;font-size:15px;line-height:1.25;font-variant-numeric:tabular-nums}
+.t small{font-weight:400;font-size:11px;color:var(--mu)}
 a.t:hover{background:var(--cc);color:#fff}
-.t.so{border-color:var(--ln);color:var(--mu);text-decoration:line-through}
+a.t:hover small{color:inherit}
+.t.so{border-color:var(--ln);color:var(--mu)}
+.t.so b{text-decoration:line-through}
 .t.past{opacity:.4}
-@media (max-width:560px){.r{grid-template-columns:1fr auto}.tm{grid-column:1/-1;order:3}}
 .empty{padding:28px 8px;color:var(--mu);text-align:center}
 .note{font-size:13px;color:var(--mu);border-top:1px solid var(--ln);margin-top:28px;padding-top:14px}
 .note p{margin:0 0 8px}
@@ -96,6 +98,12 @@ function price(s){
   if(b[t]!=null)return b[t]+" lei †";
   if(p.adult!=null)return p.adult+" lei*";
   return "";
+}
+function tags(s,F){
+  var t=[],a=s.audio||[],sub=(s.subs||[]).filter(function(x){return x!=="RO"});
+  if(a.length&&a.every(function(x){return x==="RO"})&&F.orig_lang&&F.orig_lang!=="ro")t.push("dublat");
+  if(sub.length)t.push("sub "+sub.join("/"));
+  return t.join(" · ");
 }
 function visible(s){return S.cin[s.cinema]&&!(S.sold&&s.status==="sold_out")}
 function count(d){var n=0;D.screenings.forEach(function(s){if(s.date===d&&visible(s))n++});return n}
@@ -165,7 +173,7 @@ function list(){
     if(F.original_title&&nz(F.original_title)!==nz(F.title))info.appendChild(el("p","orig",nice(F.original_title)));
     var meta=el("p","meta"),parts=[];
     function add(x){parts.push(x)}
-    if(F.directors&&F.directors.length)add(document.createTextNode("Regia: "+F.directors.join(", ")));
+    if(F.directors&&F.directors.length)add(document.createTextNode("r. "+F.directors.join(", ")));
     if(F.year)add(document.createTextNode(F.year));
     if(F.imdb_rating){var a1=el("a","","IMDb "+F.imdb_rating.toFixed(1));a1.href="https://www.imdb.com/title/"+F.imdb_id+"/";a1.target="_blank";a1.rel="noopener";add(a1)}
     if(F.lb_rating){var a2=el("a","","Letterboxd "+F.lb_rating.toFixed(1));a2.href="https://letterboxd.com/tmdb/"+F.tmdb_id+"/";a2.target="_blank";a2.rel="noopener";add(a2)}
@@ -174,23 +182,24 @@ function list(){
     if(parts.length)info.appendChild(meta);
     var rows={},ro=[];
     rs.forEach(function(s){
-      var x=[s.audio.join("/"),s.subs.length?"sub "+s.subs.join("/"):""].filter(Boolean).join(" · ");
-      var pr=price(s),key=s.cinema+"|"+x+"|"+pr;
-      if(!rows[key]){rows[key]={c:s.cinema,x:x,pr:pr,s:[]};ro.push(key)}rows[key].s.push(s);
+      var tg=tags(s,F),key=s.cinema+"|"+tg;
+      if(!rows[key]){rows[key]={c:s.cinema,tg:tg,s:[]};ro.push(key)}rows[key].s.push(s);
     });
     ro.forEach(function(key){
-      var R=rows[key],ci=D.cinemas[R.c],row=el("div","r"),cn=el("span","cn"),tm=el("span","tm");
-      row.style.setProperty("--cc",ci.color);
-      cn.appendChild(el("i"));cn.appendChild(el("span","",ci.name));row.appendChild(cn);
+      var R=rows[key],ci=D.cinemas[R.c],blk=el("div","blk"),cn=el("div","cn"),tm=el("div","tm");
+      blk.style.setProperty("--cc",ci.color);
+      cn.appendChild(el("i"));cn.appendChild(el("span","",ci.name));
+      if(R.tg)cn.appendChild(el("em","",R.tg));
+      blk.appendChild(cn);
       R.s.forEach(function(s){
         var so=s.status==="sold_out",a=so?el("span","t so"):el("a","t");
         if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
         if(isToday&&s.time<now)a.className+=" past";
-        a.textContent=s.time;if(so)a.title="sold out";tm.appendChild(a);
+        a.appendChild(el("b","",s.time));
+        a.appendChild(el("small","",so?"sold out":price(s)));
+        tm.appendChild(a);
       });
-      var sold=R.s.every(function(s){return s.status==="sold_out"});
-      row.appendChild(el("span","x",[R.x,sold?"sold out":R.pr].filter(Boolean).join(" · ")));
-      row.appendChild(tm);info.appendChild(row);
+      blk.appendChild(tm);info.appendChild(blk);
     });
     f.appendChild(info);out.appendChild(f);
   });
