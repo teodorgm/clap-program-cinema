@@ -33,18 +33,18 @@ button.chip:focus-visible,a:focus-visible{outline:2px solid var(--ac);outline-of
 .meta{color:var(--mu);font-size:13px;margin:2px 0 0;line-height:1.35}
 .meta a{color:inherit;text-decoration:underline;text-decoration-color:var(--ln)}
 .bd{display:inline-block;border:1px solid var(--ln);border-radius:4px;font:600 11px/1 system-ui,sans-serif;padding:2px 4px;margin-left:6px;vertical-align:2px;color:var(--mu)}
-.blk{margin-top:8px}
-.cn{font-size:13px;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.cn i{flex:none;width:8px;height:8px;border-radius:50%;background:var(--cc)}
-.cn em{font-style:normal;color:var(--mu);font-size:12px}
-.tm{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
-.t{display:inline-flex;flex-direction:column;align-items:center;min-width:62px;padding:3px 8px;border:1.5px solid var(--cc);border-radius:6px;color:var(--tx);text-decoration:none;font-weight:700;font-size:15px;line-height:1.25;font-variant-numeric:tabular-nums}
+.tm{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px;align-items:flex-start}
+.it{display:flex;flex-direction:column;gap:2px;width:80px}
+.cn{font-size:11px;color:var(--mu);display:flex;align-items:center;gap:4px;white-space:nowrap;overflow:hidden}
+.cn i{flex:none;width:7px;height:7px;border-radius:50%;background:var(--cc)}
+.t{display:flex;flex-direction:column;align-items:center;padding:3px 4px;border:1.5px solid var(--cc);border-radius:6px;color:var(--tx);text-decoration:none;font-weight:700;font-size:15px;line-height:1.25;font-variant-numeric:tabular-nums}
 .t small{font-weight:400;font-size:11px;color:var(--mu)}
 a.t:hover{background:var(--cc);color:#fff}
 a.t:hover small{color:inherit}
 .t.so{border-color:var(--ln);color:var(--mu)}
 .t.so b{text-decoration:line-through}
 .t.past{opacity:.4}
+.nt{font-size:11px;line-height:1.25;color:var(--mu);overflow-wrap:anywhere}
 .empty{padding:28px 8px;color:var(--mu);text-align:center}
 .note{font-size:13px;color:var(--mu);border-top:1px solid var(--ln);margin-top:28px;padding-top:14px}
 .note p{margin:0 0 8px}
@@ -98,6 +98,13 @@ function price(s){
   if(b[t]!=null)return b[t]+" lei †";
   if(p.adult!=null)return p.adult+" lei*";
   return "";
+}
+function shortNote(n){
+  if(!n)return "";
+  var p=[];
+  if(/avanpremier/i.test(n))p.push("Avanpremieră");else if(/premier/i.test(n))p.push("Premieră");else if(/preview/i.test(n))p.push("Preview");
+  if(/q\s*&\s*a/i.test(n))p.push("Q&A");else if(/discu[tț]i/i.test(n))p.push("Discuție");
+  return p.length?p.join(" + "):(n.length>30?n.slice(0,28)+"…":n);
 }
 function tags(s,F){
   var t=[],a=s.audio||[],sub=(s.subs||[]).filter(function(x){return x!=="RO"});
@@ -177,30 +184,25 @@ function list(){
     if(F.year)add(document.createTextNode(F.year));
     if(F.imdb_rating){var a1=el("a","","IMDb "+F.imdb_rating.toFixed(1));a1.href="https://www.imdb.com/title/"+F.imdb_id+"/";a1.target="_blank";a1.rel="noopener";add(a1)}
     if(F.lb_rating){var a2=el("a","","Letterboxd "+F.lb_rating.toFixed(1));a2.href="https://letterboxd.com/tmdb/"+F.tmdb_id+"/";a2.target="_blank";a2.rel="noopener";add(a2)}
-    var notes={};rs.forEach(function(s){if(s.note&&!notes[s.note]){notes[s.note]=1;add(document.createTextNode(s.note))}});
     parts.forEach(function(p,i){if(i)meta.appendChild(document.createTextNode(" · "));meta.appendChild(p)});
     if(parts.length)info.appendChild(meta);
-    var rows={},ro=[];
+    var tm=el("div","tm");
+    rs.sort(function(x,y){return x.time<y.time?-1:x.time>y.time?1:(x.cinema<y.cinema?-1:1)});
     rs.forEach(function(s){
-      var tg=tags(s,F),key=s.cinema+"|"+tg;
-      if(!rows[key]){rows[key]={c:s.cinema,tg:tg,s:[]};ro.push(key)}rows[key].s.push(s);
+      var ci=D.cinemas[s.cinema],so=s.status==="sold_out",it=el("div","it"),cn=el("div","cn");
+      it.style.setProperty("--cc",ci.color);
+      cn.appendChild(el("i"));cn.appendChild(el("span","",ci.short||ci.name));it.appendChild(cn);
+      var a=so?el("span","t so"):el("a","t");
+      if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
+      if(isToday&&s.time<now)a.className+=" past";
+      a.appendChild(el("b","",s.time));
+      a.appendChild(el("small","",so?"sold out":price(s)));
+      it.appendChild(a);
+      var nt=[shortNote(s.note),tags(s,F)].filter(Boolean).join(" · ");
+      if(nt){var n=el("div","nt",nt);if(s.note)n.title=s.note;it.appendChild(n)}
+      tm.appendChild(it);
     });
-    ro.forEach(function(key){
-      var R=rows[key],ci=D.cinemas[R.c],blk=el("div","blk"),cn=el("div","cn"),tm=el("div","tm");
-      blk.style.setProperty("--cc",ci.color);
-      cn.appendChild(el("i"));cn.appendChild(el("span","",ci.name));
-      if(R.tg)cn.appendChild(el("em","",R.tg));
-      blk.appendChild(cn);
-      R.s.forEach(function(s){
-        var so=s.status==="sold_out",a=so?el("span","t so"):el("a","t");
-        if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
-        if(isToday&&s.time<now)a.className+=" past";
-        a.appendChild(el("b","",s.time));
-        a.appendChild(el("small","",so?"sold out":price(s)));
-        tm.appendChild(a);
-      });
-      blk.appendChild(tm);info.appendChild(blk);
-    });
+    info.appendChild(tm);
     f.appendChild(info);out.appendChild(f);
   });
 }
