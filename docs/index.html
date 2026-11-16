@@ -59,6 +59,8 @@ a.t:hover small{color:inherit}
 <h1>Proiectul CLAP</h1>
 <p class="tag">Cinema Local, Arhive și Proiecții</p>
 <p class="sub" id="upd">Se încarcă programul…</p>
+<div class="lbl">Tip</div>
+<div class="row" id="typ"></div>
 <div class="lbl">Cinema</div>
 <div class="row" id="cin"></div>
 <div class="lbl">Săptămâna</div>
@@ -71,7 +73,7 @@ a.t:hover small{color:inherit}
 <div class="note" id="note"></div>
 </main>
 <script>
-var D=null,S={cin:{},week:"",day:"",tier:"adult",sold:false},TZ="Europe/Bucharest";
+var D=null,S={cin:{},type:"all",week:"",day:"",tier:"adult",sold:false},TZ="Europe/Bucharest";
 function today(){return new Intl.DateTimeFormat("en-CA",{timeZone:TZ}).format(new Date())}
 function nowHM(){return new Intl.DateTimeFormat("en-GB",{timeZone:TZ,hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).format(new Date())}
 function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
@@ -87,6 +89,7 @@ function weekLabel(w){
   var e=addDays(w,6),a=dt(w),b=dt(e);
   return a.getMonth()===b.getMonth()?a.getDate()+"–"+b.getDate()+" "+mon(e):a.getDate()+" "+mon(w)+" – "+b.getDate()+" "+mon(e);
 }
+function tk(t){return t<"05:00"?"2"+t:"1"+t}
 function nz(s){return (s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim()}
 function nice(s){
   if(s!==s.toLocaleUpperCase("ro"))return s;
@@ -107,12 +110,13 @@ function shortNote(n){
   return p.length?p.join(" + "):(n.length>30?n.slice(0,28)+"…":n);
 }
 function tags(s,F){
-  var t=[],a=s.audio||[],sub=(s.subs||[]).filter(function(x){return x!=="RO"});
-  if(a.length&&a.every(function(x){return x==="RO"})&&F.orig_lang&&F.orig_lang!=="ro")t.push("dublat");
+  var t=(s.tech||[]).filter(function(x){return x!=="Barco laser"}),a=s.audio||[],sub=(s.subs||[]).filter(function(x){return x!=="RO"});
+  if(s.dubbed||(a.length&&a.every(function(x){return x==="RO"})&&F.orig_lang&&F.orig_lang!=="ro"))t.push("dublat");
   if(sub.length)t.push("sub "+sub.join("/"));
   return t.join(" · ");
 }
-function visible(s){return S.cin[s.cinema]&&!(S.sold&&s.status==="sold_out")}
+function kind(k){return (D.cinemas[k]&&D.cinemas[k].kind)||"independent"}
+function visible(s){return S.cin[s.cinema]&&(S.type==="all"||kind(s.cinema)===S.type)&&!(S.sold&&s.status==="sold_out")}
 function count(d){var n=0;D.screenings.forEach(function(s){if(s.date===d&&visible(s))n++});return n}
 function pickDay(){
   var t=today(),i,d;
@@ -136,9 +140,13 @@ function load(){
   });
 }
 function ui(){
+  var ty=document.getElementById("typ");ty.innerHTML="";
+  [["all","Toate"],["independent","Independente"],["multiplex","Multiplex"]].forEach(function(x){
+    ty.appendChild(chip(x[1],S.type===x[0],function(){S.type=x[0];S.day=pickDay();ui()}));
+  });
   var c=document.getElementById("cin");c.innerHTML="";
   Object.keys(D.cinemas).forEach(function(k){
-    if(!(k in S.cin))return;
+    if(!(k in S.cin)||(S.type!=="all"&&kind(k)!==S.type))return;
     c.appendChild(chip(D.cinemas[k].name,S.cin[k],function(){S.cin[k]=S.cin[k]?0:1;S.day=pickDay();ui()}));
   });
   var w=document.getElementById("weeks");w.innerHTML="";
@@ -165,8 +173,8 @@ function list(){
     if(s.date!==S.day||!visible(s))return;
     var k=s.film||("t:"+s.title);if(!g[k]){g[k]=[];order.push(k)}g[k].push(s);
   });
-  order.forEach(function(k){g[k].sort(function(a,b){return a.time<b.time?-1:a.time>b.time?1:0})});
-  order.sort(function(a,b){return g[a][0].time<g[b][0].time?-1:1});
+  order.forEach(function(k){g[k].sort(function(a,b){return tk(a.time)<tk(b.time)?-1:tk(a.time)>tk(b.time)?1:0})});
+  order.sort(function(a,b){return tk(g[a][0].time)<tk(g[b][0].time)?-1:1});
   if(!order.length){out.appendChild(el("div","empty","Nicio proiecție pentru filtrele alese."));return}
   order.forEach(function(k){
     var rs=g[k],r=rs[0],F=D.films[k]||{title:r.title};
@@ -187,7 +195,7 @@ function list(){
     parts.forEach(function(p,i){if(i)meta.appendChild(document.createTextNode(" · "));meta.appendChild(p)});
     if(parts.length)info.appendChild(meta);
     var tm=el("div","tm");
-    rs.sort(function(x,y){return x.time<y.time?-1:x.time>y.time?1:(x.cinema<y.cinema?-1:1)});
+    rs.sort(function(x,y){return tk(x.time)<tk(y.time)?-1:tk(x.time)>tk(y.time)?1:(x.cinema<y.cinema?-1:1)});
     rs.forEach(function(s){
       var ci=D.cinemas[s.cinema],so=s.status==="sold_out",it=el("div","it"),cn=el("div","cn");
       it.style.setProperty("--cc",ci.color);
