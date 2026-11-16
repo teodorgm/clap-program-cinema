@@ -46,6 +46,7 @@ SUBS = re.compile(r"\bnotes\s+(?:(?i:subtitrat)\s+)?([A-Z]{2,3}(?:\s*[,/]\s*[A-Z
 PRICE = re.compile(r"(?:price|pre[tț])\s*:?\s*(\d+(?:[.,]\d+)?)\s*lei(?:\s*\(([^)]*)\))?", re.I)
 SOLD = re.compile(r"sold\s*out|epuizat", re.I)
 POSTER = re.compile(r'event-image-hall[^>]*>\s*<img[^>]+?(?:data-src|src)="([^"]+)"')
+DESC = re.compile(r'program-description[^>]*>\s*<p>(.*?)</p>', re.S)
 PRICE_BARE = re.compile(r"(?<![\d.,])(\d+(?:[.,]\d+)?)\s*lei\b", re.I)
 
 
@@ -135,6 +136,7 @@ def parse_block(blk, hid, stats):
     status = "sold_out" if ("shopping_cart" not in t and SOLD.search(t)) else "ok"
     slug = lm.group(1)
     pm = POSTER.search(blk)
+    dm = DESC.search(blk)
     if not pm and not stats.get("poster_dbg"):
         stats["poster_dbg"] = 1
         i = blk.find("event-image-hall")
@@ -147,6 +149,7 @@ def parse_block(blk, hid, stats):
         "audio": langs(au.group(1)) if au else [], "subs": langs(su.group(1)) if su else [],
         "prices": prices, "box": box, "status": status,
         "url": f"{BASE}/film/{slug}?hall={lm.group(2)}",
+        "desc": text(dm.group(1))[:500] if dm else None,
         "poster": (pm.group(1) if pm.group(1).startswith("http") else BASE + pm.group(1)) if pm else None,
     }
 
