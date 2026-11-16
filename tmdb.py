@@ -132,17 +132,143 @@ def pick(results, qn):
 
 def details(mid):
     d = api(f"/movie/{mid}", language="ro-RO", append_to_response="credits,external_ids")
-    crew = (d.get("credits") or {}).get("crew") or []
+    cr = d.get("credits") or {}
+    crew = cr.get("crew") or []
     return {
         "title": d.get("title") or d.get("original_title"),
         "original_title": d.get("original_title"),
+        "orig_lang": d.get("original_language"),
         "year": (d.get("release_date") or "")[:4] or None,
         "poster": IMG + d["poster_path"] if d.get("poster_path") else None,
         "directors": [c["name"] for c in crew if c.get("job") == "Director"][:3],
+        "cast": [c["name"] for c in (cr.get("cast") or [])[:6]],
+        "overview": (d.get("overview") or "")[:600],
         "imdb_id": (d.get("external_ids") or {}).get("imdb_id") or None,
         "runtime": d.get("runtime") or None,
         "fetched": now(),
     }
+
+
+STOP = set("aceasta acesta acest filmul filmului pentru care sunt este intr intre dintre dupa despre prin catre fiind "
+           "viata poveste their about which with from film story after before between".split())
+
+
+def toks(text):
+    return {w for w in norm(text).split() if len(w) >= 5 and w not in STOP}
+
+
+def search(q, year, cache):
+    key = f"{norm(q)}|{year or ''}"
+    c = cache.setdefault("search", {}).get(key)
+    if c and age_days(c.get("ts", "")) <= 3:
+        return c["res"]
+    params = {"query": q, "language": "ro-RO", "include_adult": "false"}
+    if year:
+        params["primary_release_year"] = year
+    res = api("/search/movie", **params).get("results", [])
+    res = [{k: r.get(k) for k in ("id", "title", "original_title", "release_date", "popularity")} for r in res[:10]]
+    cache["search"][key] = {"res": res, "ts": now()}
+    time.sleep(0.12)
+    return res
+
+
+def page_text(url, cache):
+    m = re.search(r"/film/([a-z0-9-]+)", url or "")
+    if not m:
+        return ""
+    slug = m.group(1)
+    c = cache.setdefault("pages", {}).get(slug)
+    if c and age_days(c.get("ts", "")) <= 14:
+        return c["text"]
+    try:
+        req = urllib.request.Request(f"https://eventbook.ro/film/{slug}", headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            raw = r.read().decode("utf-8", "replace")
+        txt = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", re.sub(r"(?s)<(script|style).*?</\1>", " ", raw)))[:10000]
+        cache["pages"][slug] = {"text": txt, "ts": now()}
+        time.sleep(1)
+        return txt
+    except Exception:
+        return ""
+
+
+def score(kind, yr, d, ev_norm, et, newish):
+    sc, why = (3.0 if kind == "exact" else 1.0), []
+    if any(f" {norm(n)} " in ev_norm for n in d.get("directors", []) if norm(n)):
+        sc += 4
+        why.append("regia apare în descriere")
+    cast = [n for n in d.get("cast", []) if norm(n) and f" {norm(n)} " in ev_norm]
+    if cast:
+        sc += min(2, len(cast))
+        why.append("distribuția apare în descriere")
+    ot = toks(d.get("overview") or "")
+    if ot and et:
+        common = ot & et
+        sc += 4 * len(common) / min(len(ot), len(et))
+        if common:
+            why.append(f"sinopsis: {len(common)} cuvinte comune")
+        elif len(et) >= 8 and "regia apare în descriere" not in why and not cast:
+            sc -= 1.5
+            why.append("sinopsis fără legătură")
+    if yr >= YEAR - 1:
+        sc += 1.5
+    elif yr == YEAR - 2:
+        sc += 0.5
+    if newish and yr and yr < YEAR - 1:
+        sc -= 4
+        why.append("proiecția pare film nou, candidatul e vechi")
+    return round(sc, 1), why
+
+
+def resolve(grp, items, cache):
+    qparts = []
+    for t in grp:
+        for p in parts(t):
+            if p not in qparts:
+                qparts.append(p)
+    if not qparts:
+        return None, None, "program de scurtmetraje, nu caut"
+    qns = [norm(p) for p in qparts]
+    cands = {}
+    for q in qparts:
+        for yr in (None, YEAR, YEAR - 1):
+            for r in search(q, yr, cache):
+                names = [n for n in (norm(r.get("title")), norm(r.get("original_title"))) if n]
+                if not names:
+                    continue
+                if any(qn in names for qn in qns):
+                    kind = "exact"
+                elif max(SequenceMatcher(None, qn, n).ratio() for qn in qns for n in names) >= 0.92:
+                    kind = "aproximativ"
+                else:
+                    continue
+                cands.setdefault(r["id"], (kind, r))
+    if not cands:
+        return None, None, "niciun candidat cu titlu potrivit"
+    ev = " ".join(list(grp) + [s.get("note") or "" for s in items] + [s.get("desc") or "" for s in items]
+                  + [page_text(next((s["url"] for s in items if s.get("url")), ""), cache)])
+    ev_norm, et = f" {norm(ev)} ", toks(ev)
+    newish = any(re.search(r"avanpremier|premier|preview", norm(s.get("note") or "")) for s in items)
+    ranked = []
+    for mid, (kind, r) in sorted(cands.items(), key=lambda kv: (kv[1][0] == "exact", kv[1][1].get("popularity") or 0), reverse=True)[:6]:
+        m = cache["movies"].get(str(mid))
+        if not m or "cast" not in m or age_days(m.get("fetched", "")) > 14:
+            m = cache["movies"][str(mid)] = details(mid)
+            time.sleep(0.12)
+        rd = (r.get("release_date") or "")[:4]
+        sc, why = score(kind, int(rd) if rd.isdigit() else 0, m, ev_norm, et, newish)
+        ranked.append((sc, mid, kind, m, why))
+    ranked.sort(key=lambda x: x[0], reverse=True)
+    best = ranked[0]
+    second = ranked[1] if len(ranked) > 1 else None
+    info = f"scor {best[0]}: {', '.join(best[4]) or 'doar titlul'}"
+    if second:
+        info += f" | al doilea: #{second[1]} {second[3]['title']!r} ({second[3]['year']}) scor {second[0]}"
+    if best[0] < 3:
+        return None, None, f"RESPINS #{best[1]} {best[3]['title']!r} ({best[3]['year']}); {info}"
+    if second and best[0] - second[0] < 1.0 and best[0] < 5:
+        return None, None, f"AMBIGUU #{best[1]} vs #{second[1]}; {info}"
+    return best[1], best[2], info
 
 
 def imdb_ratings(ids):
@@ -198,52 +324,35 @@ def main():
     films = {}
     for grp in groups(titles):
         items = [s for t in grp for s in by_title[t]]
-        mid, kind = None, None
+        mid, kind, why = None, None, ""
         for t in grp:
             if norm(t) in over:
-                mid, kind = (over[norm(t)] or None), "manual"
+                mid, kind, why = (over[norm(t)] or None), "manual", ""
                 break
         if use_tmdb and not mid and not any(norm(t) in over for t in grp):
-            for t in grp:
-                for q in parts(t):
-                    qn = norm(q)
-                    c = cache["queries"].get(qn)
-                    if not c or (c.get("id") is None and age_days(c.get("ts", "")) > 7):
-                        try:
-                            res = api("/search/movie", query=q, language="ro-RO", include_adult="false").get("results", [])
-                            i, k = pick(res, qn)
-                            c = cache["queries"][qn] = {"id": i, "kind": k, "ts": now()}
-                            time.sleep(0.15)
-                        except Exception as e:
-                            errors += 1
-                            print("  EROARE TMDB la căutare:", q, repr(e))
-                            continue
-                    if c.get("id"):
-                        mid, kind = c["id"], c.get("kind")
-                        break
-                if mid:
-                    break
+            try:
+                mid, kind, why = resolve(grp, items, cache)
+            except Exception as e:
+                errors += 1
+                why = "EROARE TMDB " + repr(e)
         movie = None
-        if mid and use_tmdb:
+        if mid:
             movie = cache["movies"].get(str(mid))
-            if not movie or age_days(movie.get("fetched", "")) > 14:
+            if use_tmdb and (not movie or age_days(movie.get("fetched", "")) > 14):
                 try:
-                    movie = cache["movies"][str(mid)] = {**(movie or {}), **details(mid)}
-                    time.sleep(0.15)
+                    movie = cache["movies"][str(mid)] = details(mid)
                 except Exception as e:
                     errors += 1
                     print("  EROARE TMDB la detalii:", mid, repr(e))
-        elif mid:
-            movie = cache["movies"].get(str(mid))
         poster_eb = next((s["poster"] for s in items if s.get("poster")), None)
         label = " | ".join(grp)
         if movie:
             key = f"tmdb:{mid}"
             films.setdefault(key, {"tmdb_id": mid, "title": movie["title"], "original_title": movie["original_title"],
-                                   "year": movie["year"], "poster": movie["poster"] or poster_eb,
+                                   "year": movie["year"], "orig_lang": movie.get("orig_lang"), "poster": movie["poster"] or poster_eb,
                                    "directors": movie["directors"], "imdb_id": movie["imdb_id"],
                                    "runtime": movie["runtime"], "source": "tmdb"})
-            print(f"  {kind:12} {label!r} -> #{mid} {movie['title']!r} ({movie['year']}) regia: {', '.join(movie['directors']) or '-'}")
+            print(f"  {kind:12} {label!r} -> #{mid} {movie['title']!r} ({movie['year']}) regia: {', '.join(movie['directors']) or '-'}  [{why}]")
         else:
             key = "t:" + norm(sorted(grp, key=lambda t: ("/" in t, len(t)))[0])
             single = [t for t in grp if not parts(t) or len(parts(t)) == 1]
@@ -254,9 +363,9 @@ def main():
                 p = parts(grp[0])
                 title, other = (p[-1], p[:-1]) if p else (grp[0], [])
             films.setdefault(key, {"tmdb_id": None, "title": title, "original_title": other[0] if other else None,
-                                   "year": None, "poster": poster_eb, "directors": [], "imdb_id": None,
+                                   "year": None, "orig_lang": None, "poster": poster_eb, "directors": [], "imdb_id": None,
                                    "runtime": None, "source": "eventbook"})
-            print(f"  NEPOTRIVIT   {label!r}   [cheie overrides.json: {norm(grp[0])!r}]")
+            print(f"  NEPOTRIVIT   {label!r}   [{why}]   cheie overrides.json: {norm(grp[0])!r}")
         for s in items:
             s["film"] = key
 
