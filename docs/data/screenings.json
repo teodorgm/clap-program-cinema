@@ -1,8 +1,9 @@
 {
- "generated": "2026-11-16T10:45:16+00:00",
+ "generated": "2026-11-16T12:38:30+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
+   "short": "Elvire",
    "color": "#13727a",
    "tech": [
     "Barco laser"
@@ -10,21 +11,25 @@
   },
   "union": {
    "name": "Union",
+   "short": "Union",
    "color": "#b0304f",
    "tech": []
   },
   "apollo111": {
    "name": "Apollo111",
+   "short": "Apollo111",
    "color": "#6a4fb0",
    "tech": []
   },
   "eforie": {
    "name": "Eforie",
+   "short": "Eforie",
    "color": "#8a7a3a",
    "tech": []
   },
   "muzeu": {
    "name": "Muzeul Țăranului",
+   "short": "MȚR",
    "color": "#b4651e",
    "tech": []
   }
@@ -35,7 +40,7 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-16T10:45:16+00:00",
+   "updated": "2026-11-16T12:38:30+00:00",
    "error": null
   },
   "union": {
@@ -43,7 +48,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-16T10:45:16+00:00",
+   "updated": "2026-11-16T12:38:30+00:00",
    "error": null
   },
   "apollo111": {
@@ -51,7 +56,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T10:45:16+00:00",
+   "updated": "2026-11-16T12:38:30+00:00",
    "error": null
   },
   "eforie": {
@@ -59,15 +64,15 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-16T10:45:16+00:00",
+   "updated": "2026-11-16T12:38:30+00:00",
    "error": null
   },
   "muzeu": {
    "name": "Muzeul Țăranului",
    "ok": true,
    "stale": false,
-   "count": 25,
-   "updated": "2026-11-16T10:45:16+00:00",
+   "count": 26,
+   "updated": "2026-11-16T12:38:30+00:00",
    "error": null
   }
  },
@@ -174,7 +179,7 @@
     "pensioner": 16
    },
    "box": {},
-   "status": "ok",
+   "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
    "desc": "Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux. Un film care amestecă diverse teme - emigrația, sărăcia, raportul dintre Est și Vest, raportul dintre teatru, literatură și cinema.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
@@ -600,7 +605,7 @@
    "url": "https://eventbook.ro/film/bilete-mici-excese-pas-sur-la-bouche?hall=apollo111-cinema",
    "desc": "Proiecția filmului va fi precedată de o introducere a lui Victor Morozov și a unui invitat special În timpul unui sejur în Statele Unite, Gilberte Valandray s-a căsătorit pentru prima dată cu un american, Eric Thomson. Căsătoria ei a fost un eșec.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-pas-sur-la-bouche-i37.webp",
-   "film": "t:mici excese pas sur la bouche"
+   "film": "tmdb:51945"
   },
   {
    "id": "union-2026-11-19-19:00-bilete-iertarea-lansare-revista-film",
@@ -990,7 +995,7 @@
    "date": "2026-11-21",
    "time": "15:30",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": null,
    "audio": [
     "EN"
@@ -1589,6 +1594,33 @@
    "film": "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului"
   },
   {
+   "id": "muzeu-2026-11-25-20:00-bilete-piatra-foarfeca-hartie-2",
+   "cinema": "muzeu",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "title": "PIATRĂ FOARFECĂ HÂRTIE",
+   "age": null,
+   "note": "Proiecție urmată de Q&A",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 40
+   },
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Laura are 45 de ani și suferă de amnezie. Ea și familia ei pornesc într-o călătorie spre Turcia, doar pentru a se trezi prinși într-un joc de iluzii care distorsionează realitatea, punându-le la încercare alegerile și încrederea, și ducând la situații hilar de iraționale.",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-piatra-foarfeca-hartie-2-jes.webp",
+   "film": "tmdb:1172260"
+  },
+  {
    "id": "elvire-2026-11-26-17:30-bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata",
    "cinema": "elvire",
    "date": "2026-11-26",
@@ -2165,12 +2197,9 @@
     "EN"
    ],
    "prices": {
-    "adult": 32
+    "adult": 0
    },
-   "box": {
-    "pensioner": 16,
-    "student": 8
-   },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
@@ -2188,9 +2217,12 @@
    "audio": [],
    "subs": [],
    "prices": {
-    "adult": 0
+    "adult": 32
    },
-   "box": {},
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "desc": "Cu doar 34 de zile înainte de a intra în închisoare, Elizabeth Holmes, controversata fondatoare a companiei Theranos, invită o echipă de filmare sceptică să-i documenteze fiecare gest. Ceea ce începe ca un portret intim al uneia dintre cele mai enigmatice figuri din Silicon Valley se transformă într-o călătorie de trei ani, tulburătoare și imprevizibilă, în care adevărul, manipularea și spectacolul se confundă permanent.... Vezi mai multe detalii",
@@ -2346,7 +2378,7 @@
    "url": "https://eventbook.ro/film/bilete-mici-excese-a-vinganca-de-uma-mulher?hall=apollo111-cinema",
    "desc": "Proiecția filmului va fi precedată de o introducere a lui Victor Morozov și a unui invitat special Un loc din Europa, secolul al XIX-lea. Roberto (Fernando Rodrigues) este un „bon vivant”. Viața lui se desfășoară între plictiseală și încercările eșuate de a scăpa de ea.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-a-vinganca-de-uma-mulher-5Rz.webp",
-   "film": "t:mici excese a vinganca de uma mulher"
+   "film": "tmdb:89451"
   },
   {
    "id": "apollo111-2026-12-12-20:00-bilete-film-persona",
@@ -2744,7 +2776,7 @@
    "orig_lang": "fr",
    "poster": "https://image.tmdb.org/t/p/w185/AvHogrqLSA0rjLRxf5iKcJKFX7K.jpg",
    "directors": [
-    "Андрей Звягинцев"
+    "Andrey Petrovich Zvyagintsev"
    ],
    "imdb_id": "tt37118301",
    "runtime": 142,
@@ -2782,29 +2814,39 @@
    "imdb_votes": 351,
    "lb_rating": 3.22
   },
-  "t:mici excese a vinganca de uma mulher": {
-   "tmdb_id": null,
-   "title": "Mici Excese: A vinganca de uma mulher",
-   "original_title": null,
-   "year": null,
-   "orig_lang": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-a-vinganca-de-uma-mulher-5Rz.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
+  "tmdb:89451": {
+   "tmdb_id": 89451,
+   "title": "A Vingança de Uma Mulher",
+   "original_title": "A Vingança de Uma Mulher",
+   "year": "2012",
+   "orig_lang": "pt",
+   "poster": "https://image.tmdb.org/t/p/w185/8uFENiX2RENO6mkdwpXhX92HWMG.jpg",
+   "directors": [
+    "Rita Azevedo Gomes"
+   ],
+   "imdb_id": "tt2050453",
+   "runtime": 105,
+   "source": "tmdb",
+   "imdb_rating": 6.3,
+   "imdb_votes": 409,
+   "lb_rating": 3.86
   },
-  "t:mici excese pas sur la bouche": {
-   "tmdb_id": null,
-   "title": "Mici Excese: Pas sur la bouche",
-   "original_title": null,
-   "year": null,
-   "orig_lang": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-pas-sur-la-bouche-i37.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
+  "tmdb:51945": {
+   "tmdb_id": 51945,
+   "title": "Pas sur la bouche",
+   "original_title": "Pas sur la bouche",
+   "year": "2003",
+   "orig_lang": "fr",
+   "poster": "https://image.tmdb.org/t/p/w185/rRXanrGRXjxaqo28fzt9LwoJLWa.jpg",
+   "directors": [
+    "Alain Resnais"
+   ],
+   "imdb_id": "tt0356999",
+   "runtime": 115,
+   "source": "tmdb",
+   "imdb_rating": 6.4,
+   "imdb_votes": 1758,
+   "lb_rating": 3.42
   },
   "tmdb:1815513": {
    "tmdb_id": 1815513,
