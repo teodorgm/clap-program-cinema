@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T22:57:43+00:00",
+ "generated": "2026-11-16T06:29:01+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -35,7 +35,7 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-15T22:57:43+00:00",
+   "updated": "2026-11-16T06:29:01+00:00",
    "error": null
   },
   "union": {
@@ -43,7 +43,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-15T22:57:43+00:00",
+   "updated": "2026-11-16T06:29:01+00:00",
    "error": null
   },
   "apollo111": {
@@ -51,7 +51,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-15T22:57:43+00:00",
+   "updated": "2026-11-16T06:29:01+00:00",
    "error": null
   },
   "eforie": {
@@ -59,7 +59,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-15T22:57:43+00:00",
+   "updated": "2026-11-16T06:29:01+00:00",
    "error": null
   },
   "muzeu": {
@@ -67,7 +67,7 @@
    "ok": true,
    "stale": false,
    "count": 25,
-   "updated": "2026-11-15T22:57:43+00:00",
+   "updated": "2026-11-16T06:29:01+00:00",
    "error": null
   }
  },
@@ -2311,7 +2311,7 @@
    "runtime": 78,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 213
+   "imdb_votes": 215
   },
   "t:8 ilustrate din utopia little poems in prose": {
    "tmdb_id": null,
@@ -2338,7 +2338,7 @@
    "runtime": 104,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 28545
+   "imdb_votes": 28547
   },
   "t:aferim caricaturana": {
    "tmdb_id": null,
@@ -2364,7 +2364,7 @@
    "runtime": 111,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 5939
+   "imdb_votes": 5966
   },
   "tmdb:915935": {
    "tmdb_id": 915935,
@@ -2379,7 +2379,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240313
+   "imdb_votes": 240369
   },
   "t:atat de familiar": {
    "tmdb_id": null,
@@ -2441,7 +2441,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 1844
+   "imdb_votes": 2048
   },
   "tmdb:1756136": {
    "tmdb_id": 1756136,
@@ -2471,7 +2471,7 @@
    "runtime": 129,
    "source": "tmdb",
    "imdb_rating": 6.2,
-   "imdb_votes": 48693
+   "imdb_votes": 48807
   },
   "t:film pentru prieteni o umbra de nor dimineata": {
    "tmdb_id": null,
@@ -2496,8 +2496,8 @@
    "imdb_id": "tt42685861",
    "runtime": 108,
    "source": "tmdb",
-   "imdb_rating": 7.0,
-   "imdb_votes": 277
+   "imdb_rating": 6.9,
+   "imdb_votes": 280
   },
   "t:gaina": {
    "tmdb_id": null,
@@ -2584,7 +2584,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2790
+   "imdb_votes": 2795
   },
   "tmdb:1309373": {
    "tmdb_id": 1309373,
@@ -2599,7 +2599,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.8,
-   "imdb_votes": 1434
+   "imdb_votes": 1443
   },
   "tmdb:47439": {
    "tmdb_id": 47439,
@@ -2629,7 +2629,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2152
+   "imdb_votes": 2237
   },
   "t:minuscule valea furnicilor pierdute": {
    "tmdb_id": null,
@@ -2721,7 +2721,7 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 7400
+   "imdb_votes": 7509
   },
   "t:nu astepta prea mult de la sfarsitul lumii stimati oameni de cultura": {
    "tmdb_id": null,
@@ -2747,7 +2747,7 @@
    "runtime": 154,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 116
+   "imdb_votes": 120
   },
   "tmdb:1259735": {
    "tmdb_id": 1259735,
@@ -2777,7 +2777,7 @@
    "runtime": 91,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 18
+   "imdb_votes": 19
   },
   "tmdb:999140": {
    "tmdb_id": 999140,
@@ -2822,7 +2822,7 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1182
+   "imdb_votes": 1208
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
    "tmdb_id": null,
@@ -2859,7 +2859,7 @@
    "runtime": 114,
    "source": "tmdb",
    "imdb_rating": 7.0,
-   "imdb_votes": 134358
+   "imdb_votes": 134372
   },
   "tmdb:1240889": {
    "tmdb_id": 1240889,
@@ -2874,7 +2874,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 6.4,
-   "imdb_votes": 27392
+   "imdb_votes": 27525
   },
   "t:tipografic majuscul plan contraplan": {
    "tmdb_id": null,
@@ -2923,7 +2923,7 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 9.0,
-   "imdb_votes": 33924
+   "imdb_votes": 35030
   },
   "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului": {
    "tmdb_id": null,
