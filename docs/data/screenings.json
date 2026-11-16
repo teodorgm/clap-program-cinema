@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T15:51:51+00:00",
+ "generated": "2026-11-16T18:09:45+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -39,8 +39,8 @@
    "name": "Elvire Popesco",
    "ok": true,
    "stale": false,
-   "count": 39,
-   "updated": "2026-11-16T15:51:51+00:00",
+   "count": 38,
+   "updated": "2026-11-16T18:09:45+00:00",
    "error": null
   },
   "union": {
@@ -48,7 +48,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T15:51:51+00:00",
+   "updated": "2026-11-16T18:09:45+00:00",
    "error": null
   },
   "apollo111": {
@@ -56,7 +56,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T15:51:51+00:00",
+   "updated": "2026-11-16T18:09:45+00:00",
    "error": null
   },
   "eforie": {
@@ -64,72 +64,19 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-16T15:51:51+00:00",
+   "updated": "2026-11-16T18:09:45+00:00",
    "error": null
   },
   "muzeu": {
    "name": "Muzeul Țăranului",
    "ok": true,
    "stale": false,
-   "count": 26,
-   "updated": "2026-11-16T15:51:51+00:00",
+   "count": 25,
+   "updated": "2026-11-16T18:09:45+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "elvire-2026-11-16-18:00-bilete-club-kid",
-   "cinema": "elvire",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "title": "CLUB KID",
-   "age": "18+",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "prices": {
-    "adult": 27,
-    "student": 16,
-    "pensioner": 16
-   },
-   "box": {},
-   "status": "ok",
-   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
-   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
-   "film": "tmdb:1585239"
-  },
-  {
-   "id": "muzeu-2026-11-16-18:00-bilete-inca-o-dorinta",
-   "cinema": "muzeu",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "title": "Încă o dorință",
-   "age": "12+",
-   "note": null,
-   "audio": [
-    "HU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "prices": {
-    "adult": 32
-   },
-   "box": {
-    "pensioner": 16,
-    "student": 8
-   },
-   "status": "sold_out",
-   "url": "https://eventbook.ro/film/bilete-inca-o-dorinta?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "desc": "Juli Takács are aproape 30 de ani și este manageră în industria muzicală. E epuizată atât în viața profesională, cât și în cea personală. Viața ei de zi cu zi suferă o schimbare radicală după ce dă peste o carte a dorințelor care îi permite să șteargă orice lucru de pe fața pământului.",
-   "poster": "https://cinema-timisoara.ro/media/original_images/inca_o_dorinta-poster.jpg",
-   "film": "t:inca o dorinta"
-  },
   {
    "id": "muzeu-2026-11-16-20:00-bilete-foldszint-parter",
    "cinema": "muzeu",
@@ -882,9 +829,12 @@
     "RO"
    ],
    "prices": {
-    "adult": 0
+    "adult": 40
    },
-   "box": {},
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "desc": "Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux. Un film care amestecă diverse teme - emigrația, sărăcia, raportul dintre Est și Vest, raportul dintre teatru, literatură și cinema.... Vezi mai multe detalii",
@@ -1032,12 +982,9 @@
     "RO"
    ],
    "prices": {
-    "adult": 32
+    "adult": 0
    },
-   "box": {
-    "pensioner": 16,
-    "student": 8
-   },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
@@ -2275,9 +2222,12 @@
     "EN"
    ],
    "prices": {
-    "adult": 0
+    "adult": 32
    },
-   "box": {},
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
@@ -2295,12 +2245,9 @@
    "audio": [],
    "subs": [],
    "prices": {
-    "adult": 32
+    "adult": 0
    },
-   "box": {
-    "pensioner": 16,
-    "student": 8
-   },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "desc": "Cu doar 34 de zile înainte de a intra în închisoare, Elizabeth Holmes, controversata fondatoare a companiei Theranos, invită o echipă de filmare sceptică să-i documenteze fiecare gest. Ceea ce începe ca un portret intim al uneia dintre cele mai enigmatice figuri din Silicon Valley se transformă într-o călătorie de trei ani, tulburătoare și imprevizibilă, în care adevărul, manipularea și spectacolul se confundă permanent.... Vezi mai multe detalii",
@@ -3230,18 +3177,6 @@
    "year": null,
    "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal-Irr.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
-  "t:inca o dorinta": {
-   "tmdb_id": null,
-   "title": "Încă o dorință",
-   "original_title": null,
-   "year": null,
-   "orig_lang": null,
-   "poster": "https://cinema-timisoara.ro/media/original_images/inca_o_dorinta-poster.jpg",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
