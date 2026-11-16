@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T09:34:17+00:00",
+ "generated": "2026-11-16T10:45:16+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -35,7 +35,7 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-16T09:34:17+00:00",
+   "updated": "2026-11-16T10:45:16+00:00",
    "error": null
   },
   "union": {
@@ -43,7 +43,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-16T09:34:17+00:00",
+   "updated": "2026-11-16T10:45:16+00:00",
    "error": null
   },
   "apollo111": {
@@ -51,7 +51,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T09:34:17+00:00",
+   "updated": "2026-11-16T10:45:16+00:00",
    "error": null
   },
   "eforie": {
@@ -59,7 +59,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-16T09:34:17+00:00",
+   "updated": "2026-11-16T10:45:16+00:00",
    "error": null
   },
   "muzeu": {
@@ -67,7 +67,7 @@
    "ok": true,
    "stale": false,
    "count": 25,
-   "updated": "2026-11-16T09:34:17+00:00",
+   "updated": "2026-11-16T10:45:16+00:00",
    "error": null
   }
  },
@@ -174,7 +174,7 @@
     "pensioner": 16
    },
    "box": {},
-   "status": "sold_out",
+   "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
    "desc": "Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux. Un film care amestecă diverse teme - emigrația, sărăcia, raportul dintre Est și Vest, raportul dintre teatru, literatură și cinema.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
