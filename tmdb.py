@@ -208,7 +208,7 @@ def page_text(url, cache):
         return ""
 
 
-def score(kind, yr, d, ev_norm, et, newish):
+def score(kind, yr, d, ev_norm, et, newish, hy=(), hr=()):
     sc, why = (3.0 if kind == "exact" else 1.0), []
     if any(f" {norm(n)} " in ev_norm for n in d.get("directors", []) if norm(n)):
         sc += 4
@@ -226,6 +226,17 @@ def score(kind, yr, d, ev_norm, et, newish):
         elif len(et) >= 8 and "regia apare în descriere" not in why and not cast:
             sc -= 1.5
             why.append("sinopsis fără legătură")
+    if yr and hy:  # anul și durata din Cinema City
+        if yr in hy:
+            sc += 2.5
+            why.append("anul coincide")
+        elif min(abs(yr - h) for h in hy) >= 2:
+            sc -= 2
+            why.append("anul nu coincide")
+    rt = d.get("runtime")
+    if rt and hr and any(abs(rt - h) <= 4 for h in hr):
+        sc += 1.5
+        why.append("durata coincide")
     if yr >= YEAR - 1:
         sc += 1.5
     elif yr == YEAR - 2:
@@ -279,6 +290,8 @@ def resolve(grp, items, cache):
     ev = " ".join(list(grp) + [s.get("note") or "" for s in items] + [s.get("desc") or "" for s in items]
                   + [page_text(next((s["url"] for s in items if s.get("url")), ""), cache)])
     ev_norm, et = f" {norm(ev)} ", toks(ev)
+    hy = [int(s["year"]) for s in items if str(s.get("year") or "").isdigit()]
+    hr = [int(s["runtime"]) for s in items if str(s.get("runtime") or "").isdigit()]
     newish = any(re.search(r"avanpremier|premier|preview", norm(s.get("note") or "")) for s in items)
     ranked = []
     for mid, (kind, r) in sorted(cands.items(), key=lambda kv: (kv[1][0] == "exact", kv[1][1].get("popularity") or 0), reverse=True)[:6]:
@@ -287,7 +300,7 @@ def resolve(grp, items, cache):
             m = cache["movies"][str(mid)] = details(mid)
             time.sleep(0.12)
         rd = (r.get("release_date") or "")[:4]
-        sc, why = score(kind, int(rd) if rd.isdigit() else 0, m, ev_norm, et, newish)
+        sc, why = score(kind, int(rd) if rd.isdigit() else 0, m, ev_norm, et, newish, hy, hr)
         ranked.append((sc, mid, kind, m, why))
     ranked.sort(key=lambda x: x[0], reverse=True)
     best = ranked[0]
@@ -355,8 +368,18 @@ def main():
 
     errors = 0
     films = {}
-    for grp in groups(titles):
-        items = [s for t in grp for s in by_title[t]]
+    work = []
+    for g in groups(titles):
+        its = [s for t in g for s in by_title[t]]
+        years = {str(s.get("year")) for s in its if s.get("year")}
+        if len(years) >= 2:  # același titlu, filme diferite (ani diferiți în Cinema City)
+            for y in sorted(years | {""}):
+                part = [s for s in its if str(s.get("year") or "") == y]
+                if part:
+                    work.append((g, part, y))
+        else:
+            work.append((g, its, ""))
+    for grp, items, tag in work:
         mid, kind, why = None, None, ""
         for t in grp:
             if norm(t) in over:
@@ -387,7 +410,7 @@ def main():
                                    "runtime": movie["runtime"], "source": "tmdb"})
             print(f"  {kind:12} {label!r} -> #{mid} {movie['title']!r} ({movie['year']}) regia: {', '.join(movie['directors']) or '-'}  [{why}]")
         else:
-            key = "t:" + norm(sorted(grp, key=lambda t: ("/" in t, len(t)))[0])
+            key = "t:" + norm(sorted(grp, key=lambda t: ("/" in t, len(t)))[0]) + (f"|{tag}" if tag else "")
             single = [t for t in grp if not parts(t) or len(parts(t)) == 1]
             if single:
                 title = single[0]
@@ -432,6 +455,8 @@ def main():
                 f["lb_rating"] = m["lb"]
         print("Letterboxd: note găsite pentru", sum(1 for f in films.values() if f.get("lb_rating")), "filme.")
 
+    for s in data["screenings"]:
+        s.pop("desc", None)
     data["films"] = films
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=1), "utf-8")
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1), "utf-8")
