@@ -19,11 +19,11 @@ BASE = "https://eventbook.ro"
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 HALLS = {
-    "elvire": {"name": "Elvire Popesco", "slug": "cinema-elvire-popesco", "color": "#13727a", "tech": ["Barco laser"]},
-    "union": {"name": "Union", "slug": "cinema-union", "color": "#b0304f", "tech": []},
-    "apollo111": {"name": "Apollo111", "slug": "apollo111-cinema", "color": "#6a4fb0", "tech": []},
-    "eforie": {"name": "Eforie", "slug": "cinema-eforie", "color": "#8a7a3a", "tech": []},
-    "muzeu": {"name": "Muzeul Țăranului", "slug": "cinema-muzeul-taranului-studio-horia-bernea", "color": "#b4651e", "tech": []},
+    "elvire": {"name": "Elvire Popesco", "short": "Elvire", "slug": "cinema-elvire-popesco", "color": "#13727a", "tech": ["Barco laser"]},
+    "union": {"name": "Union", "short": "Union", "slug": "cinema-union", "color": "#b0304f", "tech": []},
+    "apollo111": {"name": "Apollo111", "short": "Apollo111", "slug": "apollo111-cinema", "color": "#6a4fb0", "tech": []},
+    "eforie": {"name": "Eforie", "short": "Eforie", "slug": "cinema-eforie", "color": "#8a7a3a", "tech": []},
+    "muzeu": {"name": "Muzeul Țăranului", "short": "MȚR", "slug": "cinema-muzeul-taranului-studio-horia-bernea", "color": "#b4651e", "tech": []},
 }
 
 # Reduceri valabile DOAR la casa de bilete (nu apar online). Cheie: prețul de adult.
@@ -218,7 +218,7 @@ def main():
     all_items.sort(key=lambda x: (x["date"], x["time"], x["cinema"]))
     data = {
         "generated": now,
-        "cinemas": {k: {"name": v["name"], "color": v["color"], "tech": v["tech"]} for k, v in HALLS.items()},
+        "cinemas": {k: {"name": v["name"], "short": v["short"], "color": v["color"], "tech": v["tech"]} for k, v in HALLS.items()},
         "sources": sources,
         "screenings": all_items,
     }
