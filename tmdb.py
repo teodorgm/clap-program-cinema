@@ -130,6 +130,21 @@ def pick(results, qn):
     return None, None
 
 
+LATIN = re.compile(r"^[A-Za-z\u00C0-\u024F .'’\-]+$")
+
+
+def latin_name(name, pid):
+    if not name or LATIN.match(name) or not pid:
+        return name
+    try:
+        for n in api(f"/person/{pid}").get("also_known_as") or []:
+            if LATIN.match(n):
+                return n
+    except Exception:
+        pass
+    return name
+
+
 def details(mid):
     d = api(f"/movie/{mid}", language="ro-RO", append_to_response="credits,external_ids")
     cr = d.get("credits") or {}
@@ -140,8 +155,9 @@ def details(mid):
         "orig_lang": d.get("original_language"),
         "year": (d.get("release_date") or "")[:4] or None,
         "poster": IMG + d["poster_path"] if d.get("poster_path") else None,
-        "directors": [c["name"] for c in crew if c.get("job") == "Director"][:3],
-        "cast": [c["name"] for c in (cr.get("cast") or [])[:6]],
+        "directors": [latin_name(c["name"], c.get("id")) for c in crew if c.get("job") == "Director"][:3],
+        "cast": [latin_name(c["name"], c.get("id")) for c in (cr.get("cast") or [])[:6]],
+        "v": 2,
         "overview": (d.get("overview") or "")[:600],
         "imdb_id": (d.get("external_ids") or {}).get("imdb_id") or None,
         "runtime": d.get("runtime") or None,
@@ -228,21 +244,36 @@ def resolve(grp, items, cache):
                 qparts.append(p)
     if not qparts:
         return None, None, "program de scurtmetraje, nu caut"
-    qns = [norm(p) for p in qparts]
     cands = {}
-    for q in qparts:
-        for yr in (None, YEAR, YEAR - 1):
-            for r in search(q, yr, cache):
-                names = [n for n in (norm(r.get("title")), norm(r.get("original_title"))) if n]
-                if not names:
-                    continue
-                if any(qn in names for qn in qns):
-                    kind = "exact"
-                elif max(SequenceMatcher(None, qn, n).ratio() for qn in qns for n in names) >= 0.92:
-                    kind = "aproximativ"
-                else:
-                    continue
-                cands.setdefault(r["id"], (kind, r))
+
+    def collect(qlist):
+        qns = [norm(p) for p in qlist]
+        for q in qlist:
+            for yr in (None, YEAR, YEAR - 1):
+                for r in search(q, yr, cache):
+                    names = [n for n in (norm(r.get("title")), norm(r.get("original_title"))) if n]
+                    if not names:
+                        continue
+                    if any(qn in names for qn in qns):
+                        kind = "exact"
+                    elif max(SequenceMatcher(None, qn, n).ratio() for qn in qns for n in names) >= 0.92:
+                        kind = "aproximativ"
+                    else:
+                        continue
+                    cands.setdefault(r["id"], (kind, r))
+
+    collect(qparts)
+    need_ev = False
+    if not cands and not re.search(r"\b(party|club|atelier|workshop|concert|lectur\w*|reading|seara|serata|dezbatere|discutie)\b", norm(" ".join(grp))):
+        fb = []
+        for t0 in grp:
+            for p in re.split(r":\s+", t0):
+                p = p.strip()
+                if len(p) >= 4 and p not in fb and p not in qparts and ":" in t0:
+                    fb.append(p)
+        if fb:
+            collect(fb)
+            need_ev = bool(cands)
     if not cands:
         return None, None, "niciun candidat cu titlu potrivit"
     ev = " ".join(list(grp) + [s.get("note") or "" for s in items] + [s.get("desc") or "" for s in items]
@@ -252,7 +283,7 @@ def resolve(grp, items, cache):
     ranked = []
     for mid, (kind, r) in sorted(cands.items(), key=lambda kv: (kv[1][0] == "exact", kv[1][1].get("popularity") or 0), reverse=True)[:6]:
         m = cache["movies"].get(str(mid))
-        if not m or "cast" not in m or age_days(m.get("fetched", "")) > 14:
+        if not m or m.get("v", 0) < 2 or age_days(m.get("fetched", "")) > 14:
             m = cache["movies"][str(mid)] = details(mid)
             time.sleep(0.12)
         rd = (r.get("release_date") or "")[:4]
@@ -264,6 +295,8 @@ def resolve(grp, items, cache):
     info = f"scor {best[0]}: {', '.join(best[4]) or 'doar titlul'}"
     if second:
         info += f" | al doilea: #{second[1]} {second[3]['title']!r} ({second[3]['year']}) scor {second[0]}"
+    if need_ev and best[0] < 5:
+        return None, None, f"RESPINS (căutat după ':', dovezi insuficiente) #{best[1]} {best[3]['title']!r} ({best[3]['year']}); {info}"
     if best[0] < 3:
         return None, None, f"RESPINS #{best[1]} {best[3]['title']!r} ({best[3]['year']}); {info}"
     if second and best[0] - second[0] < 1.0 and best[0] < 5:
@@ -338,7 +371,7 @@ def main():
         movie = None
         if mid:
             movie = cache["movies"].get(str(mid))
-            if use_tmdb and (not movie or age_days(movie.get("fetched", "")) > 14):
+            if use_tmdb and (not movie or movie.get("v", 0) < 2 or age_days(movie.get("fetched", "")) > 14):
                 try:
                     movie = cache["movies"][str(mid)] = details(mid)
                 except Exception as e:
