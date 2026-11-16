@@ -18,7 +18,7 @@ jobs:
       - name: Completeaza cu TMDB
         env:
           TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
-          LETTERBOXD: "0"   # pune "1" ca să citești și notele Letterboxd (vezi explicația din chat)
+          LETTERBOXD: "1"   # "0" oprește citirea notelor Letterboxd
         run: python3 tmdb.py
       - name: Salveaza datele
         run: |
