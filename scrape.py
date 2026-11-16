@@ -14,6 +14,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import cinemacity
+
 OUT = Path("docs/data/screenings.json")
 BASE = "https://eventbook.ro"
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -121,11 +123,13 @@ def parse_block(blk, hid, stats):
     su = SUBS.search(t)
     prices = {}
     for val, label in PRICE.findall(t):
+        if num(val) <= 0:
+            continue
         for k in tiers(label):
             prices.setdefault(k, num(val))
     if not prices:  # ex. Muzeul Țăranului: doar "32 lei", fără "preț:"
         tail = t[t.rfind("location_on"):] if "location_on" in t else t
-        pb = PRICE_BARE.search(tail)
+        pb = next((m for m in PRICE_BARE.finditer(tail) if num(m.group(1)) > 0), None)
         if pb:
             prices["adult"] = num(pb.group(1))
     box = {}
@@ -178,6 +182,32 @@ def scrape_hall(hid):
     return list(items.values()), stats
 
 
+def process(hid, name, fn, prev, today, now, all_items, sources):
+    err, stats, items = None, {}, []
+    try:
+        items, stats = fn()
+    except Exception as e:
+        err = repr(e)
+    print(f"\n=== {name} ===")
+    print("STATISTICI:", stats or "-", "| EROARE:", err or "nu")
+    if items:
+        print("  cu audio:", sum(1 for i in items if i["audio"]), "| cu subtitrare:", sum(1 for i in items if i["subs"]),
+              "| cu pret student:", sum(1 for i in items if "student" in i["prices"] or "student" in i["box"]),
+              "| sold out:", sum(1 for i in items if i["status"] == "sold_out"),
+              "| fara pret:", sum(1 for i in items if not i["prices"]))
+        for i in sorted(items, key=lambda x: (x["date"], x["time"]))[:2]:
+            print("  EXEMPLU:", json.dumps(i, ensure_ascii=False)[:600])
+    old = [x for x in prev.get("screenings", []) if x["cinema"] == hid and x["date"] >= today]
+    stale, updated = False, now
+    if not items and old:
+        items, stale = old, True
+        updated = prev.get("sources", {}).get(hid, {}).get("updated", now)
+        print(f"  ATENTIE: nimic gasit, pastrez {len(old)} proiectii vechi (stale)")
+    sources[hid] = {"name": name, "ok": err is None and not stale, "stale": stale,
+                    "count": len(items), "updated": updated, "error": err}
+    all_items += items
+
+
 def main():
     prev = {}
     if OUT.exists():
@@ -188,40 +218,17 @@ def main():
     today = datetime.now(ZoneInfo("Europe/Bucharest")).date().isoformat()
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     all_items, sources = [], {}
+    cinemas = {k: {"name": v["name"], "short": v["short"], "color": v["color"], "tech": v["tech"], "kind": "independent"}
+               for k, v in HALLS.items()}
     for hid, h in HALLS.items():
-        err, stats, items = None, {}, []
-        try:
-            items, stats = scrape_hall(hid)
-        except Exception as e:
-            err = repr(e)
-        print(f"\n=== {h['name']} ===")
-        print("STATISTICI:", stats or "-", "| EROARE:", err or "nu")
-        if items:
-            print("  cu audio:", sum(1 for i in items if i["audio"]), "| cu subtitrare:", sum(1 for i in items if i["subs"]),
-                  "| cu pret student:", sum(1 for i in items if "student" in i["prices"] or "student" in i["box"]),
-                  "| sold out:", sum(1 for i in items if i["status"] == "sold_out"),
-                  "| fara pret:", sum(1 for i in items if not i["prices"]))
-            for i in sorted(items, key=lambda x: (x["date"], x["time"]))[:2]:
-                print("  EXEMPLU:", json.dumps(i, ensure_ascii=False))
-        old = [x for x in prev.get("screenings", []) if x["cinema"] == hid and x["date"] >= today]
-        stale = False
-        updated = now
-        if not items and old:
-            items, stale = old, True
-            updated = prev.get("sources", {}).get(hid, {}).get("updated", now)
-            print(f"  ATENTIE: nimic gasit, pastrez {len(old)} proiectii vechi (stale)")
-        sources[hid] = {"name": h["name"], "ok": err is None and not stale, "stale": stale,
-                        "count": len(items), "updated": updated, "error": err}
-        all_items += items
+        process(hid, h["name"], lambda hid=hid: scrape_hall(hid), prev, today, now, all_items, sources)
+    for c in cinemacity.discover():
+        cinemas[c["key"]] = {"name": c["name"], "short": c["short"], "color": c["color"], "tech": [], "kind": "multiplex"}
+        process(c["key"], c["name"], lambda c=c: cinemacity.scrape_cinema(c), prev, today, now, all_items, sources)
     if not all_items:
         sys.exit("Niciun program gasit la niciun cinema.")
     all_items.sort(key=lambda x: (x["date"], x["time"], x["cinema"]))
-    data = {
-        "generated": now,
-        "cinemas": {k: {"name": v["name"], "short": v["short"], "color": v["color"], "tech": v["tech"]} for k, v in HALLS.items()},
-        "sources": sources,
-        "screenings": all_items,
-    }
+    data = {"generated": now, "cinemas": cinemas, "sources": sources, "screenings": all_items}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1), "utf-8")
     print(f"\nSalvat {len(all_items)} proiectii in {OUT}")
