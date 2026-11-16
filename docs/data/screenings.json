@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T12:38:30+00:00",
+ "generated": "2026-11-16T15:51:51+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -40,15 +40,15 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-16T12:38:30+00:00",
+   "updated": "2026-11-16T15:51:51+00:00",
    "error": null
   },
   "union": {
    "name": "Union",
    "ok": true,
    "stale": false,
-   "count": 11,
-   "updated": "2026-11-16T12:38:30+00:00",
+   "count": 14,
+   "updated": "2026-11-16T15:51:51+00:00",
    "error": null
   },
   "apollo111": {
@@ -56,7 +56,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T12:38:30+00:00",
+   "updated": "2026-11-16T15:51:51+00:00",
    "error": null
   },
   "eforie": {
@@ -64,7 +64,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-16T12:38:30+00:00",
+   "updated": "2026-11-16T15:51:51+00:00",
    "error": null
   },
   "muzeu": {
@@ -72,7 +72,7 @@
    "ok": true,
    "stale": false,
    "count": 26,
-   "updated": "2026-11-16T12:38:30+00:00",
+   "updated": "2026-11-16T15:51:51+00:00",
    "error": null
   }
  },
@@ -760,6 +760,34 @@
    "film": "t:ultimele scrisori ale bunicii"
   },
   {
+   "id": "union-2026-11-20-18:00-bilete-jurnalul-unei-cameriste-film",
+   "cinema": "union",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "title": "Jurnalul unei cameriste",
+   "age": "15+",
+   "note": "Premieră",
+   "audio": [
+    "RO",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
+   "desc": "O tânără româncă stabilită în Franța lucrează pentru o familie franceză și se alătură unei trupe de teatru care adaptează celebra piesă „Jurnalul unei cameriste” de Octave Mirbeau. Premii și Festivaluri Cannes - Quinzaine des cinéastes",
+   "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
+   "film": "tmdb:1696174"
+  },
+  {
    "id": "apollo111-2026-11-20-18:30-bilete-naza-film",
    "cinema": "apollo111",
    "date": "2026-11-20",
@@ -1017,6 +1045,31 @@
    "film": "tmdb:1585239"
   },
   {
+   "id": "union-2026-11-21-17:00-bilete-noul-babilon-novii-vavilon",
+   "cinema": "union",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "title": "NOUL BABILON / NOVII VAVILON",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-noul-babilon-novii-vavilon?hall=cinema-union",
+   "desc": "Acțiunea filmului este plasată în Paris, în perioada 1870–1871, și are în centru marele magazin universal numit „Noul Babilon”. În timp ce elita pariziană petrece frenetic și celebrează declararea războiului împotriva Prusiei, angajații magazinului muncesc în condiții grele.... Vezi mai multe detalii",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2025/02/bilete-noul-babilon.webp",
+   "film": "t:noul babilon novii vavilon"
+  },
+  {
    "id": "muzeu-2026-11-21-17:45-bilete-minotaur",
    "cinema": "muzeu",
    "date": "2026-11-21",
@@ -1068,6 +1121,31 @@
    "desc": "Sinopsis: Moralitatea este un labirint. Gleb, directorul unei companii de succes, încearcă să țină sub control o viață construită cu grijă. Însă presiunile profesionale tot mai apăsătoare, haosul lumii din jur și descoperirea infidelității soției sale îl împing treptat spre violență.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
    "film": "tmdb:848700"
+  },
+  {
+   "id": "union-2026-11-21-20:00-bilete-kundun",
+   "cinema": "union",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "title": "KUNDUN",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-kundun?hall=cinema-union",
+   "desc": "O solemna drama biografica ce portretizeaza fidel si cuprinzator viata si problemele celui de-al 14-lea dalai lama al Tibetului, din copilarie si pana la varsta de adult... Identificat ca reîncarnarea lui Budda la 3 ani, viitorul lider spiritual este luat din casa părintească și dus la templu pentru a fi educat.... Vezi mai multe detalii",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-kundun-v7Z.webp",
+   "film": "tmdb:9746"
   },
   {
    "id": "muzeu-2026-11-21-20:15-bilete-3-zile-inseptembrie",
@@ -1393,7 +1471,7 @@
    "date": "2026-11-22",
    "time": "20:15",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": "Premieră",
    "audio": [
     "EN"
@@ -1980,7 +2058,7 @@
    "date": "2026-11-28",
    "time": "20:00",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": null,
    "audio": [
     "EN"
@@ -2084,7 +2162,7 @@
    "date": "2026-11-29",
    "time": "16:00",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": null,
    "audio": [
     "EN"
@@ -2734,6 +2812,23 @@
    "imdb_votes": 2795,
    "lb_rating": 3.52
   },
+  "tmdb:9746": {
+   "tmdb_id": 9746,
+   "title": "Kundun",
+   "original_title": "Kundun",
+   "year": "1997",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg",
+   "directors": [
+    "Martin Scorsese"
+   ],
+   "imdb_id": "tt0119485",
+   "runtime": 134,
+   "source": "tmdb",
+   "imdb_rating": 7.0,
+   "imdb_votes": 32674,
+   "lb_rating": 3.47
+  },
   "tmdb:1309373": {
    "tmdb_id": 1309373,
    "title": "Le Chant des forêts",
@@ -2896,6 +2991,18 @@
    "imdb_rating": 8.4,
    "imdb_votes": 7509,
    "lb_rating": 4.54
+  },
+  "t:noul babilon novii vavilon": {
+   "tmdb_id": null,
+   "title": "NOVII VAVILON",
+   "original_title": "NOUL BABILON",
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2025/02/bilete-noul-babilon.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
   },
   "t:nu astepta prea mult de la sfarsitul lumii stimati oameni de cultura": {
    "tmdb_id": null,
