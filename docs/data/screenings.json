@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T06:29:01+00:00",
+ "generated": "2026-11-16T09:34:17+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -35,7 +35,7 @@
    "ok": true,
    "stale": false,
    "count": 39,
-   "updated": "2026-11-16T06:29:01+00:00",
+   "updated": "2026-11-16T09:34:17+00:00",
    "error": null
   },
   "union": {
@@ -43,7 +43,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-16T06:29:01+00:00",
+   "updated": "2026-11-16T09:34:17+00:00",
    "error": null
   },
   "apollo111": {
@@ -51,7 +51,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T06:29:01+00:00",
+   "updated": "2026-11-16T09:34:17+00:00",
    "error": null
   },
   "eforie": {
@@ -59,7 +59,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-16T06:29:01+00:00",
+   "updated": "2026-11-16T09:34:17+00:00",
    "error": null
   },
   "muzeu": {
@@ -67,7 +67,7 @@
    "ok": true,
    "stale": false,
    "count": 25,
-   "updated": "2026-11-16T06:29:01+00:00",
+   "updated": "2026-11-16T09:34:17+00:00",
    "error": null
   }
  },
@@ -78,7 +78,7 @@
    "date": "2026-11-16",
    "time": "18:00",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": "Avanpremieră",
    "audio": [
     "EN"
@@ -94,6 +94,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -120,6 +121,7 @@
    },
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-inca-o-dorinta?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Juli Takács are aproape 30 de ani și este manageră în industria muzicală. E epuizată atât în viața profesională, cât și în cea personală. Viața ei de zi cu zi suferă o schimbare radicală după ce dă peste o carte a dorințelor care îi permite să șteargă orice lucru de pe fața pământului.",
    "poster": "https://cinema-timisoara.ro/media/original_images/inca_o_dorinta-poster.jpg",
    "film": "t:inca o dorinta"
   },
@@ -146,6 +148,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-foldszint-parter?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Protagonistul acestei tragicomedii este Méhn Kristóf, un pictor devenit arhivar bancar, care locuiește împreună cu soția sa, Vera, într-un apartament de la parterul unui bloc de locuințe. Povestea se desfășoară în ziua în care Kristóf descoperă întâmplător o pată de mucegai pe peretele apartamentului lor și, puțin mai târziu, află de la Vera că vor avea un copil.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-foldszint-parter-Kuw.webp",
    "film": "tmdb:1735997"
   },
@@ -173,8 +176,9 @@
    "box": {},
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux. Un film care amestecă diverse teme - emigrația, sărăcia, raportul dintre Est și Vest, raportul dintre teatru, literatură și cinema.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "tmdb:320003"
+   "film": "tmdb:1696174"
   },
   {
    "id": "elvire-2026-11-17-17:00-bilete-queen-of-sea",
@@ -199,6 +203,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Amanda își surprinde mama suferinda de demență in timpul unui moment intim alături de soțul ei. Convinsă că aceasta nu mai este capabilă să își dea consimțământul, Amanda decide să apeleze la poliție, declanșând un șir de consecințe care scapă treptat de sub control.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-queen-of-sea-kL8.webp",
    "film": "tmdb:1021848"
   },
@@ -225,6 +230,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma?hall=cinema-union",
+   "desc": "Regizoarea queer Kris Williams e angajată să readucă la viață controversata franciză slasher Camp Miasma. Dorindu-și să dea o notă personală noului film, Kris pleacă pe urmele lui Bill Presley, actrița principală, care trăiește de decenii în completă izolare.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-teenage-sex-and-death-at-camp-miasma-7UN.webp",
    "film": "tmdb:1240889"
   },
@@ -251,6 +257,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-gaina?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Povestit în întregime din perspectiva protagonistei sale aviare, filmul urmărește o găină care evadează dintr-o fermă industrială doar pentru a ajunge să navigheze prin ierarhia unui restaurant dărăpănat de pe litoralul Greciei. În timp ce luptă să-și protejeze ouăle, devine martora involuntară a vieților umane complexe din jurul ei, pe măsură ce restaurantul este prins în mrejele lăcomiei, contrabandei și crizei migranților.",
    "poster": "https://cinema-timisoara.ro/media/original_images/hen-poster.webp",
    "film": "t:gaina"
   },
@@ -276,6 +283,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Moralitatea este un labirint. Gleb, directorul unei companii de succes, încearcă să țină sub control o viață construită cu grijă. Însă presiunile profesionale tot mai apăsătoare, haosul lumii din jur și descoperirea infidelității soției sale îl împing treptat spre violență.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
    "film": "tmdb:848700"
   },
@@ -302,6 +310,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-union",
+   "desc": "Sinopsis: Laura are 45 de ani și suferă de amnezie. Ea și familia ei pornesc într-o călătorie spre Turcia, doar pentru a se trezi prinși într-un joc de iluzii care distorsionează realitatea, punându-le la încercare alegerile și încrederea, și ducând la situații hilar de iraționale.",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-piatra-foarfeca-hartie-2-jes.webp",
    "film": "tmdb:1172260"
   },
@@ -328,6 +337,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-naza-film?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Filmat noaptea, pe acoperișurile clădirilor din Tel Aviv, filmul dezvăluie în detaliu sistemele din spatele uciderii calculate și în masă a civililor palestinieni din Gaza de către Israel.",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-naza-film-7sk.webp",
    "film": "tmdb:1755291"
   },
@@ -354,6 +364,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-regina-si-marea?hall=cinema-union",
+   "desc": "Pe măsură ce demența îi erodează capacitatea de a-și exprima lumea interioară, soțul și fiica ei se străduiesc să acționeze în interesul ei, navigând prin iubire și granițele fragile dintre îngrijire, protecție și autonomie.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-regina-si-marea-Kkx.webp",
    "film": "tmdb:1021848"
   },
@@ -380,6 +391,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Rusia, 2022. Gleb este un manager respectat într-o corporaţie de provincie puternic conectată la cele mai înalte niveluri ale puterii ruse. Când stresului cotidian se adaugă presiuni ale autorităţilor şi suspiciunea că soţia îl înşeală, de ordinea meticuloasă din viaţa lui se alege praful.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
    "film": "tmdb:848700"
   },
@@ -405,6 +417,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco",
+   "desc": "Amarga Navidad urmărește povestea Elsei, directoare de creație într-o agenție de publicitate, a cărei mamă moare în timpul unei lungi vacanțe din luna decembrie. Elsa se refugiază în muncă și lucrează fără oprire, fără să-și dea seama că nu își acordă timp pentru a-și trăi doliul.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-amarga-navidad-craciun-amar-oAz.webp",
    "film": "tmdb:1088548"
   },
@@ -429,6 +442,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-monarh?hall=cinema-union",
+   "desc": "Bogdan are 35 de ani și suferă de o boală de inimă cu simptome stranii: de fiecare dată când are stări emoționale intense, circuitele electrice din jurul lui se defectează. Când prietena lui dispare fără nicio explicație, pleacă după ea într-o călătorie care îl va schimba și pe el, dar și pe oamenii din jurul său, și care îl va face să se întrebe cine - și ce - este cu adevărat.",
    "poster": "https://cinema-timisoara.ro/media/original_images/monarh-afis.jpg",
    "film": "tmdb:1815513"
   },
@@ -454,6 +468,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-morvern-callar?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Regia: Lynne Ramsay Montaj: Lucia Zucchetti Drama - Marea Britanie - Canada - 1h37 - 2002 Vorbit în engleză, subtitrat în română Sinopsis După moartea iubitului ei, Morvern (Samantha Morton) își însușește manuscrisul lăsat în urmă de acesta și pornește într-o călătorie neașteptată.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-morvern-callar-r87.webp",
    "film": "tmdb:18602"
   },
@@ -479,6 +494,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-teenage-sex-and-death-at-camp-miasma-2?hall=cinema-elvire-popesco",
+   "desc": "Filmul este adus în cinematografe de F-SIDES Sinopsis: Regizoarea queer Kris Williams e angajată să readucă la viață controversata franciză-cult slasher Camp Miasma. Dorindu-și să dea o notă personală noului film, Kris pleacă pe urmele lui Bill Presley, actrița principală, care trăiește de decenii în completă izolare.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-teenage-sex-and-death-at-camp-miasma-2-bD0.webp",
    "film": "tmdb:1240889"
   },
@@ -503,6 +519,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-delta-salbatica-film?hall=cinema-union",
+   "desc": "Filmat timp de cinci ani într-una dintre cele mai spectaculoase zone ale Europei, acest documentar spune o poveste extrem de necesară pentru a înțelege importanța zonelor umede. Narat din perspectiva apei, filmul vă va purta printre toate habitatele Deltei pentru a descoperi cele mai haioase, puternice sau neașteptate personaje.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-delta-salbatica-film-nGt.webp",
    "film": "tmdb:1756136"
   },
@@ -529,8 +546,9 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-strainul?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "O nouă adaptare cinematografică a romanului clasic al lui Albert Camus. În Algerul anului 1936, Meursault, un funcționar indiferent la convențiile sociale și incapabil să-și exprime emoțiile, este atras într-un lanț de întâmplări care culminează cu o crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-film-strainul-C5u.webp",
-   "film": "tmdb:379149"
+   "film": "t:strainul"
   },
   {
    "id": "elvire-2026-11-19-18:00-bilete-minotaure-minotaur",
@@ -554,6 +572,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Moralitatea este un labirint. Gleb, directorul unei companii de succes, încearcă să țină sub control o viață construită cu grijă. Însă presiunile profesionale tot mai apăsătoare, haosul lumii din jur și descoperirea infidelității soției sale îl împing treptat spre violență.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
    "film": "tmdb:848700"
   },
@@ -579,6 +598,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-mici-excese-pas-sur-la-bouche?hall=apollo111-cinema",
+   "desc": "Proiecția filmului va fi precedată de o introducere a lui Victor Morozov și a unui invitat special În timpul unui sejur în Statele Unite, Gilberte Valandray s-a căsătorit pentru prima dată cu un american, Eric Thomson. Căsătoria ei a fost un eșec.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-pas-sur-la-bouche-i37.webp",
    "film": "t:mici excese pas sur la bouche"
   },
@@ -603,6 +623,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-iertarea-lansare-revista-film?hall=cinema-union",
+   "desc": "A fost gardian, a executat ordine. Douăzeci de ani mai târziu pornește în căutarea omului pe care l-a schilodit. Cuzin Toma aduce pe ecran o poveste emoționantă despre vinovăție și iertare.",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-iertarea-0rV.webp",
    "film": "tmdb:1773720"
   },
@@ -627,6 +648,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin-premiera-de-gala?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "În încercarea de a-și găsi sensul în viață, actorul Sergiu Voloc pornește o luptă solitară împotriva monumentelor lui Lenin din Moldova Europeană. Misiunea sa absolut sinucigașă se ciocnește de critica dură a familiei, rezistența societății și a unui sistem invizibil care reconstruiește statuile peste noapte.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-pionul-lui-lenin-premiera-de-gala-sl7.webp",
    "film": "tmdb:1709318"
   },
@@ -653,6 +675,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Amanda își surprinde mama suferinda de demență in timpul unui moment intim alături de soțul ei. Convinsă că aceasta nu mai este capabilă să își dea consimțământul, Amanda decide să apeleze la poliție, declanșând un șir de consecințe care scapă treptat de sub control.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-queen-of-sea-kL8.webp",
    "film": "tmdb:1021848"
   },
@@ -674,6 +697,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute?hall=cinema-elvire-popesco",
+   "desc": "Filmul MINUSCULE: VALEA FURNICILOR PIERDUTE. Durata 1 oră, 29 minute Țara de producție : Franța Gen: Animație Proiecție accesibilizată cu descriere audio în limba română. Într-o pădure liniștită, resturile unui picnic declanșează un război fără milă între două bande rivale de furnici, care râvnesc la aceeași pradă: o cutie cu zahăr! În mijlocul acestei încleștări, o tânără buburuză se împrietenește cu o furnică neagră și o ajută să-și salveze colonia de temutele furnici roșii… Pentru cine: copii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute-Dz5.webp",
    "film": "t:minuscule valea furnicilor pierdute"
   },
@@ -683,7 +707,7 @@
    "date": "2026-11-20",
    "time": "17:00",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": "Premieră",
    "audio": [
     "EN"
@@ -699,6 +723,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -725,6 +750,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-ultimele-scrisori-ale-bunicii?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Pe urmele unui secret de familie adânc ascuns, Olga Lucovnicova pornește împreună cu tatăl său spre Așa, orașul natal al acestuia din Munții Ural. În timp ce încearcă să se reconecteze cu trecutul, Rusia declanșează un nou război.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/Ultimele__scrisori_ale_bunicii_poster_oficial_small.jpg",
    "film": "t:ultimele scrisori ale bunicii"
   },
@@ -750,6 +776,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-naza-film?hall=apollo111-cinema",
+   "desc": "Filmat noaptea, pe acoperișurile clădirilor din Tel Aviv, filmul dezvăluie în detaliu sistemele din spatele uciderii calculate și în masă a civililor palestinieni din Gaza de către Israel.",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-naza-film-7sk.webp",
    "film": "tmdb:1755291"
   },
@@ -775,6 +802,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-le-temps-retrouve-timpul-regasit-ian-christie?hall=cinema-elvire-popesco",
+   "desc": "În 1922, pe patul de moarte, Marcel Proust privește fotografii și își retrăiește viața. Viața sa se confundă cu opera, personajele reale se împletesc cu cele fictive, iar ficțiunea ia, puțin câte puțin, locul realității.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-le-temps-retrouve-timpul-regasit-ian-christie-jse.webp",
    "film": "tmdb:47439"
   },
@@ -800,6 +828,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema",
+   "desc": "Un documentar hibrid despre actorul Sergiu Voloc, un Don Quijote al zilelor noastre, care pornește un război solitar împotriva monumentelor lui Lenin din Moldova. Revolta sa se transformă treptat într-o confruntare absurdă cu un sistem invizibil care reconstruiește monumentele peste noapte.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/POSTER_RO_Pionul_lui_Lenin_07x1m_small.jpg",
    "film": "tmdb:1709318"
   },
@@ -825,8 +854,9 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux. Un film care amestecă diverse teme - emigrația, sărăcia, raportul dintre Est și Vest, raportul dintre teatru, literatură și cinema.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "tmdb:320003"
+   "film": "tmdb:1696174"
   },
   {
    "id": "union-2026-11-20-20:00-bilete-film-cazul-inginerului-ursu",
@@ -846,6 +876,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-cazul-inginerului-ursu?hall=cinema-union",
+   "desc": "Un cutremur de 7.4 grade pe scara Richter lovește România, lăsând în urmă peste 1500 de morți, zeci de clădiri dărâmate și alte mii avariate. Imediat după, sub îndrumarea directă a aparatului comunist de stat, începe evaluarea și consolidarea clădirilor afectate.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2024/03/bilete-cazul-inginerului-ursu-W5J.webp",
    "film": "tmdb:1152762"
   },
@@ -873,6 +904,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-cantecul-padurii?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: După la Panthère des Neiges, Vincent Munier ne invită în inima pădurilor din Vosges. Aici a învățat totul de la tatăl său, Michel, naturalist, care și-a petrecut viața pândind în păduri. A venit momentul ca ei să transmită aceste cunoștințe lui Simon, fiul lui Vincent.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-le-chant-des-forets-cantecul-padurii-1ER.webp",
    "film": "tmdb:1309373"
   },
@@ -898,6 +930,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Laura are 45 de ani și suferă de amnezie. Ea și familia ei pornesc într-o călătorie spre Turcia, doar pentru a se trezi prinși într-un joc de iluzii care distorsionează realitatea, punându-le la încercare alegerile și încrederea, și ducând la situații hilar de iraționale.",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-piatra-foarfeca-hartie-2-jes.webp",
    "film": "tmdb:1172260"
   },
@@ -919,6 +952,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-mon-inseparable?hall=cinema-elvire-popesco",
+   "desc": "Filmul TOT CE AM MAI DE PREȚ. Durata 1 oră, 34 minute Țara de producție: Franța Gen: Dramă Mona trăiește cu fiul ei adult, Joël, care este „mai lent”, cum se spune. Joël lucrează într-o instituție destinată persoanelor cu dizabilități și este îndrăgostit nebunește de colega sa, Océane, care și ea are un handicap.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-mon-inseparable-UlT.webp",
    "film": "tmdb:1032765"
   },
@@ -946,8 +980,9 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
+   "desc": "O tânără româncă stabilită în Franța lucrează pentru o familie franceză și se alătură unei trupe de teatru care adaptează celebra piesă „Jurnalul unei cameriste” de Octave Mirbeau. Premii și Festivaluri Cannes - Quinzaine des cinéastes",
    "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
-   "film": "tmdb:320003"
+   "film": "tmdb:1696174"
   },
   {
    "id": "muzeu-2026-11-21-15:30-bilete-club-kid",
@@ -972,6 +1007,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -998,6 +1034,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Rusia, 2022. Gleb este un manager respectat într-o corporaţie de provincie puternic conectată la cele mai înalte niveluri ale puterii ruse. Când stresului cotidian se adaugă presiuni ale autorităţilor şi suspiciunea că soţia îl înşeală, de ordinea meticuloasă din viaţa lui se alege praful.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
    "film": "tmdb:848700"
   },
@@ -1023,6 +1060,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Moralitatea este un labirint. Gleb, directorul unei companii de succes, încearcă să țină sub control o viață construită cu grijă. Însă presiunile profesionale tot mai apăsătoare, haosul lumii din jur și descoperirea infidelității soției sale îl împing treptat spre violență.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
    "film": "tmdb:848700"
   },
@@ -1047,6 +1085,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-3-zile-inseptembrie?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Bianca își vede petrecerea de nuntă sabotată de apariția intempestivă a amantei logodnicului ei. Șocată de revelație, mireasa fuge cu primul titicar și se lansează haotic într-o odisee în timp real, marcată de întâlniri suprarealiste în decorul melancolic al unui litoral pustiu.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-3-zile-inseptembrie-3Lv.webp",
    "film": "tmdb:1599428"
   },
@@ -1056,7 +1095,7 @@
    "date": "2026-11-21",
    "time": "20:30",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": null,
    "audio": [
     "EN"
@@ -1072,6 +1111,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -1095,6 +1135,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-planetes-exclusivitate?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Patru semințe de păpădie, supraviețuitoare exploziilor nucleare care distrug Pământul, sunt proiectate în cosmos. După ce ajung pe o planetă necunoscută, pornesc în căutarea unui sol prielnic supraviețuirii speciei lor.",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-planetes-exclusivitate-41V.webp",
    "film": "tmdb:999140"
   },
@@ -1121,6 +1162,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-queen-of-sea?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Amanda își surprinde mama suferinda de demență in timpul unui moment intim alături de soțul ei. Convinsă că aceasta nu mai este capabilă să își dea consimțământul, Amanda decide să apeleze la poliție, declanșând un șir de consecințe care scapă treptat de sub control.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-queen-of-sea-kL8.webp",
    "film": "tmdb:1021848"
   },
@@ -1146,6 +1188,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-amarga-navidad-craciun-amar?hall=cinema-elvire-popesco",
+   "desc": "Amarga Navidad urmărește povestea Elsei, directoare de creație într-o agenție de publicitate, a cărei mamă moare în timpul unei lungi vacanțe din luna decembrie. Elsa se refugiază în muncă și lucrează fără oprire, fără să-și dea seama că nu își acordă timp pentru a-și trăi doliul.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-amarga-navidad-craciun-amar-oAz.webp",
    "film": "tmdb:1088548"
   },
@@ -1173,6 +1216,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-silent-reading-party-jurnalul-unei-cameriste?hall=apollo111-cinema",
+   "desc": "Pe 22 noiembrie, Cărturești transformă Apollo111 Cinema într-un spațiu pentru cititori! În fotoliile confortabile din sală, te invităm la un Silent Reading Party urmat de proiecția unuia dintre cele mai așteptate filme ale lunii: Jurnalul unei cameriste, în regia lui Radu Jude.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-silent-reading-party-jurnalul-unei-cameriste-ZWP.webp",
    "film": "t:silent reading party jurnalul unei cameriste"
   },
@@ -1199,6 +1243,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=cinema-union",
+   "desc": "Un documentar hibrid despre actorul Sergiu Voloc, un Don Quijote al zilelor noastre, care pornește un război solitar împotriva monumentelor lui Lenin din Moldova. Revolta sa se transformă treptat într-o confruntare absurdă cu un sistem invizibil care reconstruiește monumentele peste noapte.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/POSTER_RO_Pionul_lui_Lenin_07x1m_small.jpg",
    "film": "tmdb:1709318"
   },
@@ -1227,8 +1272,9 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux. Un film care amestecă diverse teme - emigrația, sărăcia, raportul dintre Est și Vest, raportul dintre teatru, literatură și cinema.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "tmdb:320003"
+   "film": "tmdb:1696174"
   },
   {
    "id": "union-2026-11-22-17:45-bilete-minotaur",
@@ -1253,6 +1299,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-union",
+   "desc": "Rusia, 2022. Gleb este un manager respectat într-o corporaţie de provincie puternic conectată la cele mai înalte niveluri ale puterii ruse. Când stresului cotidian se adaugă presiuni ale autorităţilor şi suspiciunea că soţia îl înşeală, de ordinea meticuloasă din viaţa lui se alege praful.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
    "film": "tmdb:848700"
   },
@@ -1278,6 +1325,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Moralitatea este un labirint. Gleb, directorul unei companii de succes, încearcă să țină sub control o viață construită cu grijă. Însă presiunile profesionale tot mai apăsătoare, haosul lumii din jur și descoperirea infidelității soției sale îl împing treptat spre violență.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
    "film": "tmdb:848700"
   },
@@ -1304,6 +1352,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Rusia, 2022. Gleb este un manager respectat într-o corporaţie de provincie puternic conectată la cele mai înalte niveluri ale puterii ruse. Când stresului cotidian se adaugă presiuni ale autorităţilor şi suspiciunea că soţia îl înşeală, de ordinea meticuloasă din viaţa lui se alege praful.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
    "film": "tmdb:848700"
   },
@@ -1329,6 +1378,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-a-matter-of-life-and-death?hall=apollo111-cinema",
+   "desc": "Subtitrare: română Mai 1945. Avionul pilotului britanic Peter Carter arde deasupra Canalului Mânecii, iar el nu mai are parașută. În ultimele clipe vorbește prin radio cu June, o tânără operatoare americană, și se îndrăgostesc unul de altul fără să se fi văzut vreodată.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-a-matter-of-life-and-death-fzg.webp",
    "film": "tmdb:28162"
   },
@@ -1355,6 +1405,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-union",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -1378,6 +1429,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-100-lei?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Neînțelegându-se cu părinții, Petre (Dan Nuțu), un adolescent, pleacă de acasă și se mută la fratele său mai mare, Andrei (Ion Dichiseanu), un actor de succes. Acolo se împrietenește cu Dora (Ileana Popovici), o tânără admiratoare a fratelui său.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-100-lei-mud.webp",
    "film": "t:100 lei"
   },
@@ -1403,6 +1455,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula?hall=cinema-elvire-popesco",
+   "desc": "CEA MAI FERICITA FATA DIN LUME Regie: Radu Jude Distribuție: Andreea Boșneag, Șerban Pavlu Genul filmului: Dramă Țară: Romania Olanda, Franta, Japonia Anul: 2009 Durată: 1h40 Sinopsis: Delia, o fată de 18 ani dintr-un orășel românesc, este norocoasa câștigătoare a unei campanii de promovare organizată de o companie producătoare de băuturi răcoritoare: cu doar trei etichete de pe sticlele de suc, Delia a câștigat o mașină foarte scumpă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula-tEy.webp",
    "film": "t:cea mai fericita fata din lume lampa cu caciula"
   },
@@ -1431,6 +1484,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii?hall=cinema-elvire-popesco",
+   "desc": "JURNALUL UNEI CAMERISTE Regia: Radu Jude Distribuție: Ana Dumitrașcu, Vincent Macaigne, Amélie Prevot, Mélanie Thierry, Louve Proust Genul filmului: Dramă Țară: Romania Anul: 2026 Durata: 1h34 Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii-557.webp",
    "film": "t:jurnalul unei cameriste potemkinistii"
   },
@@ -1456,6 +1510,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra?hall=cinema-elvire-popesco",
+   "desc": "TOATĂ LUMEA DIN FAMILIA NOASTRĂ Regie: Radu Jude Distribuție: Șerban Pavlu, Mihaela Sîrbu, Sofia Nicolaescu Genul filmului: Comedie, Dramă Țară: Romania, Olanda Anul: 2012 Durată: 1h47 Sinopsis: Toată lumea din familia noastră tratează cu umor povestea tristă a unui tată și a fiicei lui, care vor să petreacă împreună o vacanță ca-n rai, însă deocamdată sunt prinși în iadul relațiilor de familie de pe pământ.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra-UcP.webp",
    "film": "t:toata lumea din familia noastra alexandra"
   },
@@ -1481,6 +1536,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana?hall=cinema-elvire-popesco",
+   "desc": "AFERIM! Regie: Radu Jude Distribuție: Teodor Corban, Mihai Comănoiu, Cuzin Toma Genul filmului: Dramă, Istoric Țară: România Anul: 2015 Durată: 1h48 Sinopsis: Costandin, un zapciu din secolul al XIX-lea, primeşte sarcina de a urmări şi prinde un sclav rom fugit de la curtea unui boier.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana-EI4.webp",
    "film": "t:aferim caricaturana"
   },
@@ -1502,6 +1558,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est?hall=cinema-elvire-popesco",
+   "desc": "ȚARA MOARTĂ Regie: Radu Jude Distribuție: Radu Jude Genul filmului: Documentar, Istoric, Război Țară: Romania Anul: 2017 Durată: 1h28 Sinopsis: Un documentar-eseu despre uimitoarea colecţie de fotografii realizate de Costică Axinte într-un mic oraş din România anilor '30 şi '40.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est-5aU.webp",
    "film": "t:tara moarta amintiri de pe frontul de est"
   },
@@ -1527,6 +1584,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal?hall=cinema-elvire-popesco",
+   "desc": "ÎMI ESTE INDIFERENT DACĂ ÎN ISTORIE VOM INTRA CA BARBARI Regie: Radu Jude Distribuție: Ioana Iacob, Alexandru Dabija, Alex Bogdan Țară: Romania, Cehia, Franta, Bulgaria, Germania Anul: 2019 Durată: 2h20 Sinopsis: Filmul prezintă povestea realizării unei reconstituiri istorice pentru un spectacol de stradă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal-Irr.webp",
    "film": "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului"
   },
@@ -1552,6 +1610,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata?hall=cinema-elvire-popesco",
+   "desc": "FILM PENTRU PRIETENI Regie: Radu Jude Distribuție: Gabriel Spahiu, Șerban Pavlu, Lucia Maier Genul filmului: Dramă Țară: Romania Anul: 2011 Durată: 1h00 Sinopsis: Gabriel Spahiu interpretează aici rolul unui bărbat care își spune testamentul în fața camerei de filmat, după ce își revarsă supărările pe cei care l-au dezamăgit, și își pune în scenă moartea.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata-6Tc.webp",
    "film": "t:film pentru prieteni o umbra de nor dimineata"
   },
@@ -1573,6 +1632,7 @@
    "box": {},
    "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema",
+   "desc": "Cu doar 34 de zile înainte de a intra în închisoare, Elizabeth Holmes, controversata fondatoare a companiei Theranos, invită o echipă de filmare sceptică să-i documenteze fiecare gest. Ceea ce începe ca un portret intim al uneia dintre cele mai enigmatice figuri din Silicon Valley se transformă într-o călătorie de trei ani, tulburătoare și imprevizibilă, în care adevărul, manipularea și spectacolul se confundă permanent.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
   },
@@ -1598,6 +1658,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete?hall=cinema-elvire-popesco",
+   "desc": "INIMI CICATRIZATE Regie: Radu Jude Distribuție: Lucian Teodor Rus, Ilinca Hărnuț, Șerban Pavlu, Gabriel Spahiu Genul filmului: Dramă Țară: Romania, Germania Anul: 2016 Durată: 2h21 Sinopsis: 1937. Emanuel, un tînăr de douăzeci de ani, bolnav de tuberculoză osoasă, se internează într-un sanatoriu de pe malul mării.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete-Wdz.webp",
    "film": "t:inimi cicatrizate trece si prin perete"
   },
@@ -1607,7 +1668,7 @@
    "date": "2026-11-27",
    "time": "15:30",
    "title": "CLUB KID",
-   "age": "15+",
+   "age": "18+",
    "note": null,
    "audio": [
     "EN"
@@ -1623,6 +1684,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -1648,6 +1710,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante?hall=cinema-elvire-popesco",
+   "desc": "SLEEP 2 Regie: Radu Jude Genul filmului: Documentar Țară: Romania Anul: 2024 Limba: fără dialog Durată: 1h01 Sinopsis: „O floare căzută se întoarce pe ramură? Era un fluture.” — Moritake Selectat la festivalul Internaționale de Film Locarno, 2024 PLASTIC SEMIOTIC Regie: Radu Jude Țară: Romania Anul: 2021 Limba: RO Subtitrare: EN Durată: 0h22 Sinopsis: Parcursul obișnuit al vieții umane, de la naștere până la bătrânețe, este reprezentat prin jucării pentru copii.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante-lHA.webp",
    "film": "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante"
   },
@@ -1674,6 +1737,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -1699,6 +1763,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=apollo111-cinema",
+   "desc": "Un documentar hibrid despre actorul Sergiu Voloc, un Don Quijote al zilelor noastre, care pornește un război solitar împotriva monumentelor lui Lenin din Moldova. Revolta sa se transformă treptat într-o confruntare absurdă cu un sistem invizibil care reconstruiește monumentele peste noapte.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/POSTER_RO_Pionul_lui_Lenin_07x1m_small.jpg",
    "film": "tmdb:1709318"
   },
@@ -1724,6 +1789,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
+   "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -1749,8 +1815,9 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=apollo111-cinema",
+   "desc": "Sinopsis: Jurnalul unei cameriste spune povestea unei tinere femei din România care lucrează pentru o familie din Bordeaux. Un film care amestecă diverse teme - emigrația, sărăcia, raportul dintre Est și Vest, raportul dintre teatru, literatură și cinema.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
-   "film": "tmdb:320003"
+   "film": "tmdb:1696174"
   },
   {
    "id": "muzeu-2026-11-27-20:45-bilete-atat-de-familiar",
@@ -1774,6 +1841,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-atat-de-familiar?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Rachel ajută o femeie să-şi găsească mama naturală, iar asta o face să exploreze mai îndeaproape istoria propriei familii. Regizoarea începe o investigaţie pentru a vedea ce s-a întâmplat cu surorile de care a fost separată, iar descoperirile vor fi cu totul tulburătoare.... Vezi mai multe detalii",
    "poster": "https://cinema-timisoara.ro/media/original_images/Atat_de_Familiar_poster.png",
    "film": "t:atat de familiar"
   },
@@ -1795,6 +1863,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea?hall=cinema-elvire-popesco",
+   "desc": "IEȘIREA TRENURILOR DIN GARĂ Regie: Adrian Cioflâncã, Radu Jude Genul filmului: Documentar Țară: Romania Anul: 2020 Limba: RO Subtitrare: EN Durată: 2h55 Sinopsis: IEȘIREA TRENURILOR DIN GARĂ este un film de montaj compus în întregime din fotografii de arhivă şi documente referitoare la Pogromul de la Iaşi din iunie 1941.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea-I9b.webp",
    "film": "t:iesirea trenurilor din gara a pedepsi a supraveghea"
   },
@@ -1816,6 +1885,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura?hall=cinema-elvire-popesco",
+   "desc": "NU AȘTEPTA PREA MULT DE LA SFÂRȘITUL LUMII Regie: Radu Jude Distribuție: Ilinca Manolache, Ovidiu Pîrșan, Nina Hoss, Dorina Lazăr, Katia Pascariu Genul filmului: Dramă Țară: Romania, Luxemburg, Franta, Croatia Anul: 2023 Limba: RO Subtitrare: EN Durată: 2h43 Sinopsis: Nu aștepta prea mult de la sfîrșitul lumii (titlul citează un aforism de Stanislaw Jerzy Lec) e un film de gen (jumătate comedie, jumătate road-movie) despre muncă, exploatare, oboseală și moarte.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura-AB1.webp",
    "film": "t:nu astepta prea mult de la sfarsitul lumii stimati oameni de cultura"
   },
@@ -1841,6 +1911,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=apollo111-cinema",
+   "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -1867,6 +1938,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -1892,6 +1964,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -1917,6 +1990,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc?hall=cinema-elvire-popesco",
+   "desc": "Regie: Radu Jude Distribuție: Katia Pascariu, Claudia Ieremia, Olimpia Mălai, Nicodim Ungureanu, Alexandru Potocean Genul filmului: Comedie, Dramă Țară: România Anul: 2021 Durată: 1h46 Sinopsis: Subintitulat „Schiță pentru un film popular”, lungmetrajul „Babardeală cu bucluc sau porno balamuc” analizează raporturile dintre individ și societate, având ca punct de plecare urmările pe care un clip porno de amatori, încărcat de o profesoară de școală generală pe un site specializat, le provoacă în v",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc-xhj.webp",
    "film": "t:babardeala cu buclul sau porno balamuc"
   },
@@ -1942,6 +2016,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan?hall=cinema-elvire-popesco",
+   "desc": "TIPOGRAFIC MAJUSCUL Regie: Radu Jude Distribuție:Șerban Pavlu, Ioana Iacob, Bogdan Zamfir, Șerban Lazarovici Țară: România Anul: 2020 Durată: 2h08 Sinopsis: Tipografic Majuscul pune în legătură, prin tehnica montajului, două povești și două istorii.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan-h0C.webp",
    "film": "t:tipografic majuscul plan contraplan"
   },
@@ -1967,6 +2042,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose?hall=cinema-elvire-popesco",
+   "desc": "8 ILUSTRATE DIN UTOPIA Regie: Christian Ferencz-Flatz, Radu Jude Țară: România Anul: 2024 Durată: 1h11 Sinopsis: Un documentar de montaj construit exclusiv din clipuri publicitare ale lungii perioade de tranziție din România. Prin asamblarea lor, materialele sunt aduse să vorbească despre viață, moarte și iubire, despre corp și vulnerabilitate, despre natură și supranatural, despre istoria recentă și, desigur, despre socialism și capitalism.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose-YVQ.webp",
    "film": "t:8 ilustrate din utopia little poems in prose"
   },
@@ -1992,6 +2068,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema",
+   "desc": "Sinopsis: Viața tumultuoasă a unui organizator de petreceri din cluburile newyorkeze este dată peste cap atunci când apare fiul său de 10 ani, despre care nu știa că există. Nominalizat la Un Certain Regard Award, Caméra d’Or și Queer Palm în cadrul Festivalului Internațional de Film de la Cannes, 2026 Nominalizat la Gold Q-Hugo în cadrul Festivalului Internațional de Film de la Chicago, 2026 Nominalizat la Cel mai bun film și Audience Award în cadrul Festivalului Internațional de Film de la San",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
   },
@@ -2019,6 +2096,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-kontinental-25?hall=cinema-elvire-popesco",
+   "desc": "Regia: Radu Jude Distribuție: Eszter Tompa, Marius Damian, Ilinca Manolache, Șerban Pavlu, Annamária Biluska, Oana Mardare Genul filmului: Dramă. Comedie Țară: România, Elveția, Luxemburg, Brazilia, UK Anul: 2025 Durată: 1h49 Sinopsis: Ion (Gabriel Spahiu), replica masculină a Angelei (Ilinca Manolache din Nu aștepta prea mult de la sfârșitul lumii), își face drum prin orașul Cluj, pe un fundal care pare identic cu cel traversat anterior de Angela în București: un peisaj perforat de reclame, gun",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-kontinental-25-ff3.webp",
    "film": "tmdb:1410189"
   },
@@ -2040,6 +2118,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema",
+   "desc": "Cu doar 34 de zile înainte de a intra în închisoare, Elizabeth Holmes, controversata fondatoare a companiei Theranos, invită o echipă de filmare sceptică să-i documenteze fiecare gest. Ceea ce începe ca un portret intim al uneia dintre cele mai enigmatice figuri din Silicon Valley se transformă într-o călătorie de trei ani, tulburătoare și imprevizibilă, în care adevărul, manipularea și spectacolul se confundă permanent.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
   },
@@ -2067,8 +2146,9 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-dracula?hall=cinema-elvire-popesco",
+   "desc": "Regizor: Radu Jude Distribuție: Șerban Pavlu, Gabriel Spahiu, Adonis Tanța, Oana Maria Zaharia, Alexandru Dabija Genul filmului: Comedie Țară: Romania, Austria, Luxemburg Anul: 2025 Durată: 2h50 Sinopsis: Plecând de la legenda celebrului vampir și de la figura lui Vlad Țepeș, filmul propune o suită de povești radical diferite ca stil și formă, de la pulp la avangardă, de la literar la grotesc, de la fantastic la hiperrealist.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-dracula-xP0.webp",
-   "film": "tmdb:1246049"
+   "film": "tmdb:1323409"
   },
   {
    "id": "muzeu-2026-11-29-19:15-bilete-nu-e-locul-tau-aici",
@@ -2093,6 +2173,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -2112,6 +2193,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Cu doar 34 de zile înainte de a intra în închisoare, Elizabeth Holmes, controversata fondatoare a companiei Theranos, invită o echipă de filmare sceptică să-i documenteze fiecare gest. Ceea ce începe ca un portret intim al uneia dintre cele mai enigmatice figuri din Silicon Valley se transformă într-o călătorie de trei ani, tulburătoare și imprevizibilă, în care adevărul, manipularea și spectacolul se confundă permanent.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
   },
@@ -2136,6 +2218,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-anatomia-unei-prabusiri-european-cinema-night?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Anatomie d'une chute îi urmărește pe Sandra, Samuel și pe fiul lor cu deficiențe de vedere, Daniel, care locuiesc de un an într-o zonă montană izolată. Când Samuel este găsit mort în fața casei, începe o anchetă pentru a investiga moartea lui petrecută în circumstanțe suspecte.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-anatomia-unei-prabusiri-european-cinema-night-0Dn.webp",
    "film": "tmdb:915935"
   },
@@ -2162,6 +2245,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -2184,6 +2268,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Cu doar 34 de zile înainte de a intra în închisoare, Elizabeth Holmes, controversata fondatoare a companiei Theranos, invită o echipă de filmare sceptică să-i documenteze fiecare gest. Ceea ce începe ca un portret intim al uneia dintre cele mai enigmatice figuri din Silicon Valley se transformă într-o călătorie de trei ani, tulburătoare și imprevizibilă, în care adevărul, manipularea și spectacolul se confundă permanent.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
   },
@@ -2210,6 +2295,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Sinopsis: Marius (personajul interpretat de Marius Văncică în unul dintre cele mai bune roluri ale carierei sale) este managerul spitalului din orașul său natal. Își crește singur fiul adolescent, pe Ioan, după moartea soției. În timp ce Marius este dedicat muncii sale, Ioan duce o viață secretă după lăsarea serii, viață care scapă de sub control când poliția începe a-l suspecta de crimă.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -2232,6 +2318,7 @@
    },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "desc": "Cu doar 34 de zile înainte de a intra în închisoare, Elizabeth Holmes, controversata fondatoare a companiei Theranos, invită o echipă de filmare sceptică să-i documenteze fiecare gest. Ceea ce începe ca un portret intim al uneia dintre cele mai enigmatice figuri din Silicon Valley se transformă într-o călătorie de trei ani, tulburătoare și imprevizibilă, în care adevărul, manipularea și spectacolul se confundă permanent.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
   },
@@ -2257,6 +2344,7 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-mici-excese-a-vinganca-de-uma-mulher?hall=apollo111-cinema",
+   "desc": "Proiecția filmului va fi precedată de o introducere a lui Victor Morozov și a unui invitat special Un loc din Europa, secolul al XIX-lea. Roberto (Fernando Rodrigues) este un „bon vivant”. Viața lui se desfășoară între plictiseală și încercările eșuate de a scăpa de ea.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-a-vinganca-de-uma-mulher-5Rz.webp",
    "film": "t:mici excese a vinganca de uma mulher"
   },
@@ -2282,8 +2370,9 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-persona?hall=apollo111-cinema",
+   "desc": "Regia: Ingmar Bergman Distribuția: Liv Ullmann, Bibi Andersson An: 1966 Țară: Suedia Gen: Dramă, Psihologic Durata: 85’ Limba: suedeză Subtitrare: română Rating: 14+ Celebra actriță de teatru Elisabeth Vogler (Liv Ullman) are un moment de blocaj în timpul unui spectacol, iar a doua zi cade într-o tăcere totală.... Vezi mai multe detalii",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-persona-dnl.webp",
-   "film": "tmdb:1259735"
+   "film": "tmdb:797"
   }
  ],
  "films": {
@@ -2292,6 +2381,7 @@
    "title": "100 LEI",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-100-lei-mud.webp",
    "directors": [],
    "imdb_id": null,
@@ -2303,6 +2393,7 @@
    "title": "3 zile în septembrie",
    "original_title": "3 zile în septembrie",
    "year": "2026",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/mA8RwOB6u2jU2Zi4FNrmXzewO9O.jpg",
    "directors": [
     "Tudor Giurgiu"
@@ -2311,13 +2402,15 @@
    "runtime": 78,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 215
+   "imdb_votes": 215,
+   "lb_rating": 3.29
   },
   "t:8 ilustrate din utopia little poems in prose": {
    "tmdb_id": null,
    "title": "8 ILUSTRATE DIN UTOPIA + LITTLE POEMS IN PROSE",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose-YVQ.webp",
    "directors": [],
    "imdb_id": null,
@@ -2329,6 +2422,7 @@
    "title": "O chestiune de viață și de moarte",
    "original_title": "A Matter of Life and Death",
    "year": "1946",
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/H74LWKnhOeIFSk9gNjBcPjIov3.jpg",
    "directors": [
     "Emeric Pressburger",
@@ -2338,13 +2432,15 @@
    "runtime": 104,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 28547
+   "imdb_votes": 28547,
+   "lb_rating": 4.27
   },
   "t:aferim caricaturana": {
    "tmdb_id": null,
    "title": "AFERIM! + CARICATURANA",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-aferim-caricaturana-EI4.webp",
    "directors": [],
    "imdb_id": null,
@@ -2356,6 +2452,7 @@
    "title": "Amarga Navidad",
    "original_title": "Amarga Navidad",
    "year": "2026",
+   "orig_lang": "es",
    "poster": "https://image.tmdb.org/t/p/w185/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
    "directors": [
     "Pedro Almodóvar"
@@ -2364,13 +2461,15 @@
    "runtime": 111,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 5966
+   "imdb_votes": 5966,
+   "lb_rating": 3.15
   },
   "tmdb:915935": {
    "tmdb_id": 915935,
    "title": "Anatomia unei prăbușiri",
    "original_title": "Anatomie d'une chute",
    "year": "2023",
+   "orig_lang": "fr",
    "poster": "https://image.tmdb.org/t/p/w185/8dc0iIniPGBukeLQrzuG2hHPM4M.jpg",
    "directors": [
     "Justine Triet"
@@ -2379,13 +2478,15 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240369
+   "imdb_votes": 240369,
+   "lb_rating": 4.12
   },
   "t:atat de familiar": {
    "tmdb_id": null,
    "title": "Atât de familiar",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://cinema-timisoara.ro/media/original_images/Atat_de_Familiar_poster.png",
    "directors": [],
    "imdb_id": null,
@@ -2397,6 +2498,7 @@
    "title": "BABARDEALĂ CU BUCLUL SAU PORNO BALAMUC",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc-xhj.webp",
    "directors": [],
    "imdb_id": null,
@@ -2408,6 +2510,7 @@
    "title": "Cazul inginerului Ursu",
    "original_title": "Cazul inginerului Ursu",
    "year": "2023",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/z6Dk0hQS75zy5EgKEkZ5wgO0q1r.jpg",
    "directors": [
     "Liviu Tofan",
@@ -2422,6 +2525,7 @@
    "title": "CEA MAI FERICITĂ FATĂ DIN LUME + LAMPA CU CĂCIULĂ",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-cea-mai-fericita-fata-din-lume-lampa-cu-caciula-tEy.webp",
    "directors": [],
    "imdb_id": null,
@@ -2433,6 +2537,7 @@
    "title": "Club Kid",
    "original_title": "Club Kid",
    "year": "2026",
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
    "directors": [
     "Jordan Firstman"
@@ -2441,13 +2546,15 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 2048
+   "imdb_votes": 2048,
+   "lb_rating": 4.44
   },
   "tmdb:1756136": {
    "tmdb_id": 1756136,
    "title": "Delta Sălbatică",
    "original_title": "Delta Sălbatică",
    "year": "2026",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/fFNIQPfgO4mB6nC8LPmZNGTfxEi.jpg",
    "directors": [
     "Dan Dinu"
@@ -2458,26 +2565,29 @@
    "imdb_rating": 8.3,
    "imdb_votes": 12
   },
-  "tmdb:1246049": {
-   "tmdb_id": 1246049,
-   "title": "Dracula: O poveste de iubire",
+  "tmdb:1323409": {
+   "tmdb_id": 1323409,
+   "title": "Dracula",
    "original_title": "Dracula",
    "year": "2025",
-   "poster": "https://image.tmdb.org/t/p/w185/jVb3IdegeK4OBFZYMJkqW7mnUS8.jpg",
+   "orig_lang": "ro",
+   "poster": "https://image.tmdb.org/t/p/w185/cklLnefaXrDV0zfDtIOrvSsneJz.jpg",
    "directors": [
-    "Luc Besson"
+    "Radu Jude"
    ],
-   "imdb_id": "tt31434030",
-   "runtime": 129,
+   "imdb_id": "tt32448239",
+   "runtime": 170,
    "source": "tmdb",
-   "imdb_rating": 6.2,
-   "imdb_votes": 48807
+   "imdb_rating": 5.6,
+   "imdb_votes": 1027,
+   "lb_rating": 3.14
   },
   "t:film pentru prieteni o umbra de nor dimineata": {
    "tmdb_id": null,
    "title": "FILM PENTRU PRIETENI + O UMBRA DE NOR + DIMINEAȚA",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata-6Tc.webp",
    "directors": [],
    "imdb_id": null,
@@ -2489,6 +2599,7 @@
    "title": "Földszint",
    "original_title": "Földszint",
    "year": "2026",
+   "orig_lang": "hu",
    "poster": "https://image.tmdb.org/t/p/w185/8cfq6dabwO5BKL8TToMbRGAlQ96.jpg",
    "directors": [
     "Gábor Reisz"
@@ -2497,13 +2608,15 @@
    "runtime": 108,
    "source": "tmdb",
    "imdb_rating": 6.9,
-   "imdb_votes": 280
+   "imdb_votes": 280,
+   "lb_rating": 3.4
   },
   "t:gaina": {
    "tmdb_id": null,
    "title": "Găina",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://cinema-timisoara.ro/media/original_images/hen-poster.webp",
    "directors": [],
    "imdb_id": null,
@@ -2515,6 +2628,7 @@
    "title": "Iertarea",
    "original_title": "Iertarea",
    "year": "2026",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/nvqRnWBfNvJ07xCGLa8K29kbLto.jpg",
    "directors": [
     "Nicolae Mărgineanu"
@@ -2528,6 +2642,7 @@
    "title": "IEȘIREA TRENURILOR DIN GARĂ + A PEDEPSI, A SUPRAVEGHEA",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea-I9b.webp",
    "directors": [],
    "imdb_id": null,
@@ -2539,32 +2654,31 @@
    "title": "INIMI CICATRIZATE + TRECE ȘI PRIN PERETE",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete-Wdz.webp",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
   },
-  "tmdb:320003": {
-   "tmdb_id": 320003,
+  "tmdb:1696174": {
+   "tmdb_id": 1696174,
    "title": "Jurnalul unei cameriste",
-   "original_title": "Journal d'une femme de chambre",
-   "year": "2015",
-   "poster": "https://image.tmdb.org/t/p/w185/z1MP79iSpQBc0JFrMLAEjtgO788.jpg",
-   "directors": [
-    "Benoît Jacquot"
-   ],
-   "imdb_id": "tt2711898",
-   "runtime": 96,
-   "source": "tmdb",
-   "imdb_rating": 5.5,
-   "imdb_votes": 3248
+   "original_title": "Jurnalul unei cameriste",
+   "year": null,
+   "orig_lang": "en",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "tmdb"
   },
   "t:jurnalul unei cameriste potemkinistii": {
    "tmdb_id": null,
    "title": "JURNALUL UNEI CAMERISTE + POTEMKINIȘTII",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-jurnalul-unei-cameriste-potemkinistii-557.webp",
    "directors": [],
    "imdb_id": null,
@@ -2576,6 +2690,7 @@
    "title": "Kontinental '25",
    "original_title": "Kontinental '25",
    "year": "2025",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/9NMekIITIoYAHmyYA0iPEQYNZ7e.jpg",
    "directors": [
     "Radu Jude"
@@ -2584,13 +2699,15 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2795
+   "imdb_votes": 2795,
+   "lb_rating": 3.52
   },
   "tmdb:1309373": {
    "tmdb_id": 1309373,
    "title": "Le Chant des forêts",
    "original_title": "Le Chant des forêts",
    "year": "2025",
+   "orig_lang": "fr",
    "poster": "https://image.tmdb.org/t/p/w185/5rcsd0iGbsQ6DFTI3HclJPJzY9K.jpg",
    "directors": [
     "Vincent Munier"
@@ -2599,13 +2716,15 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.8,
-   "imdb_votes": 1443
+   "imdb_votes": 1443,
+   "lb_rating": 3.94
   },
   "tmdb:47439": {
    "tmdb_id": 47439,
    "title": "Le Temps retrouvé",
    "original_title": "Le Temps retrouvé",
    "year": "1999",
+   "orig_lang": "fr",
    "poster": "https://image.tmdb.org/t/p/w185/jaGJ6LCUYIUePIyD00ojZURpYDE.jpg",
    "directors": [
     "Raúl Ruiz"
@@ -2614,13 +2733,15 @@
    "runtime": 163,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 3022
+   "imdb_votes": 3022,
+   "lb_rating": 3.68
   },
   "tmdb:848700": {
    "tmdb_id": 848700,
    "title": "Minotaure",
    "original_title": "Minotaure",
    "year": "2026",
+   "orig_lang": "fr",
    "poster": "https://image.tmdb.org/t/p/w185/AvHogrqLSA0rjLRxf5iKcJKFX7K.jpg",
    "directors": [
     "Андрей Звягинцев"
@@ -2629,13 +2750,15 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2237
+   "imdb_votes": 2237,
+   "lb_rating": 3.71
   },
   "t:minuscule valea furnicilor pierdute": {
    "tmdb_id": null,
    "title": "MINUSCULE: VALEA FURNICILOR PIERDUTE",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute-Dz5.webp",
    "directors": [],
    "imdb_id": null,
@@ -2647,6 +2770,7 @@
    "title": "Mon Inséparable",
    "original_title": "Mon Inséparable",
    "year": "2024",
+   "orig_lang": "fr",
    "poster": "https://image.tmdb.org/t/p/w185/9FLIWNhw3DvHFdYgMwfQZHLuL4e.jpg",
    "directors": [
     "Anne-Sophie Bailly"
@@ -2655,13 +2779,15 @@
    "runtime": 95,
    "source": "tmdb",
    "imdb_rating": 6.2,
-   "imdb_votes": 351
+   "imdb_votes": 351,
+   "lb_rating": 3.22
   },
   "t:mici excese a vinganca de uma mulher": {
    "tmdb_id": null,
    "title": "Mici Excese: A vinganca de uma mulher",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-a-vinganca-de-uma-mulher-5Rz.webp",
    "directors": [],
    "imdb_id": null,
@@ -2673,6 +2799,7 @@
    "title": "Mici Excese: Pas sur la bouche",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-pas-sur-la-bouche-i37.webp",
    "directors": [],
    "imdb_id": null,
@@ -2684,6 +2811,7 @@
    "title": "Monarh",
    "original_title": "Monarh",
    "year": null,
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/aO68MPvXiZm6UVo3LDNVWKzayB2.jpg",
    "directors": [
     "Radu Mihai"
@@ -2697,6 +2825,7 @@
    "title": "Morvern Callar",
    "original_title": "Morvern Callar",
    "year": "2002",
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/kKGUF97v8a62MtSKM0V6fqDxGTS.jpg",
    "directors": [
     "Lynne Ramsay"
@@ -2705,13 +2834,15 @@
    "runtime": 97,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 12689
+   "imdb_votes": 12689,
+   "lb_rating": 3.88
   },
   "tmdb:1755291": {
    "tmdb_id": 1755291,
    "title": "NAZA",
    "original_title": "NAZA",
    "year": "2026",
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
    "directors": [
     "Yuval Abraham",
@@ -2721,13 +2852,15 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 7509
+   "imdb_votes": 7509,
+   "lb_rating": 4.54
   },
   "t:nu astepta prea mult de la sfarsitul lumii stimati oameni de cultura": {
    "tmdb_id": null,
    "title": "NU AȘTEPTA PREA MULT DE LA SFÂRȘITUL LUMII + STIMAȚI OAMENI DE CULTURĂ",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-nu-astepta-prea-mult-de-la-sfarsitul-lumii-stimati-oameni-de-cultura-AB1.webp",
    "directors": [],
    "imdb_id": null,
@@ -2739,6 +2872,7 @@
    "title": "Nu e locul tau aici",
    "original_title": "Nu e locul tau aici",
    "year": "2026",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/vPnV7VpkC3HlLGLF8h3Ooa2Q9V5.jpg",
    "directors": [
     "Florin Şerban"
@@ -2747,28 +2881,32 @@
    "runtime": 154,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 120
+   "imdb_votes": 120,
+   "lb_rating": 3.57
   },
-  "tmdb:1259735": {
-   "tmdb_id": 1259735,
+  "tmdb:797": {
+   "tmdb_id": 797,
    "title": "Persona",
    "original_title": "Persona",
-   "year": "2024",
-   "poster": "https://image.tmdb.org/t/p/w185/32ZJN3lIwboI3EFK4dsoovOh0fm.jpg",
+   "year": "1966",
+   "orig_lang": "sv",
+   "poster": "https://image.tmdb.org/t/p/w185/mAE4uwrXLlzo5AAxEorFvErdumq.jpg",
    "directors": [
-    "Mike Ho"
+    "Ingmar Bergman"
    ],
-   "imdb_id": "tt30060565",
-   "runtime": 101,
+   "imdb_id": "tt0060827",
+   "runtime": 85,
    "source": "tmdb",
-   "imdb_rating": 4.2,
-   "imdb_votes": 127
+   "imdb_rating": 8.0,
+   "imdb_votes": 142986,
+   "lb_rating": 4.37
   },
   "tmdb:1172260": {
    "tmdb_id": 1172260,
    "title": "Piatră Foarfecă Hârtie",
    "original_title": "Piatră Foarfecă Hârtie",
    "year": "2025",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/hAySoTcYkD43LBtnnwgpLKWELj.jpg",
    "directors": [
     "Adrian Sitaru"
@@ -2784,6 +2922,7 @@
    "title": "Planètes",
    "original_title": "Planètes",
    "year": "2026",
+   "orig_lang": "fr",
    "poster": "https://image.tmdb.org/t/p/w185/4EbiJTqpKCM4Cmj7Xpsji38mW9A.jpg",
    "directors": [
     "Momoko Seto"
@@ -2792,13 +2931,15 @@
    "runtime": 76,
    "source": "tmdb",
    "imdb_rating": 6.2,
-   "imdb_votes": 281
+   "imdb_votes": 281,
+   "lb_rating": 3.19
   },
   "tmdb:1709318": {
    "tmdb_id": 1709318,
    "title": "Pionul lui Lenin",
    "original_title": "Pionul lui Lenin",
    "year": "2026",
+   "orig_lang": "ro",
    "poster": "https://image.tmdb.org/t/p/w185/dKK4HOhznlKy7Hv1piCENGDyTiE.jpg",
    "directors": [
     "Dragos Turea"
@@ -2814,6 +2955,7 @@
    "title": "Queen at Sea",
    "original_title": "Queen at Sea",
    "year": "2026",
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
    "directors": [
     "Lance Hammer"
@@ -2822,13 +2964,15 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1208
+   "imdb_votes": 1208,
+   "lb_rating": 3.83
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
    "tmdb_id": null,
    "title": "SLEEP 2 + PLASTIC SEMIOTIC + TRAILER PENTRU PARADISUL LUI DANTE",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante-lHA.webp",
    "directors": [],
    "imdb_id": null,
@@ -2840,32 +2984,31 @@
    "title": "Silent Reading Party: Jurnalul unei cameriste",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-silent-reading-party-jurnalul-unei-cameriste-ZWP.webp",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
   },
-  "tmdb:379149": {
-   "tmdb_id": 379149,
+  "t:strainul": {
+   "tmdb_id": null,
    "title": "Străinul",
-   "original_title": "The Foreigner",
-   "year": "2017",
-   "poster": "https://image.tmdb.org/t/p/w185/cDkwYVBaCrsjGzXo76fh680l66l.jpg",
-   "directors": [
-    "Martin Campbell"
-   ],
-   "imdb_id": "tt1615160",
-   "runtime": 114,
-   "source": "tmdb",
-   "imdb_rating": 7.0,
-   "imdb_votes": 134372
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-film-strainul-C5u.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
   },
   "tmdb:1240889": {
    "tmdb_id": 1240889,
    "title": "Teenage Sex and Death at Camp Miasma",
    "original_title": "Teenage Sex and Death at Camp Miasma",
    "year": "2026",
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
    "directors": [
     "Jane Schoenbrun"
@@ -2874,13 +3017,15 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 6.4,
-   "imdb_votes": 27525
+   "imdb_votes": 27525,
+   "lb_rating": 3.63
   },
   "t:tipografic majuscul plan contraplan": {
    "tmdb_id": null,
    "title": "TIPOGRAFIC MAJUSCUL + PLAN CONTRAPLAN",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan-h0C.webp",
    "directors": [],
    "imdb_id": null,
@@ -2892,6 +3037,7 @@
    "title": "TOATĂ LUMEA DIN FAMILIA NOASTRĂ + ALEXANDRA",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-toata-lumea-din-familia-noastra-alexandra-UcP.webp",
    "directors": [],
    "imdb_id": null,
@@ -2903,6 +3049,7 @@
    "title": "Ultimele scrisori ale bunicii",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://cinema-timisoara.ro/media/original_images/Ultimele__scrisori_ale_bunicii_poster_oficial_small.jpg",
    "directors": [],
    "imdb_id": null,
@@ -2914,6 +3061,7 @@
    "title": "Poți Vedea Totul",
    "original_title": "You Can See Everything",
    "year": "2026",
+   "orig_lang": "en",
    "poster": "https://image.tmdb.org/t/p/w185/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
    "directors": [
     "Nathan Fielder",
@@ -2923,13 +3071,15 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 9.0,
-   "imdb_votes": 35030
+   "imdb_votes": 35030,
+   "lb_rating": 4.58
   },
   "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului": {
    "tmdb_id": null,
    "title": "ÎMI ESTE INDIFERENT DACĂ ÎN ISTORIE VOM INTRA CA BARBARI + CELE DOUĂ EXECUȚII ALE MAREȘALULUI",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal-Irr.webp",
    "directors": [],
    "imdb_id": null,
@@ -2941,6 +3091,7 @@
    "title": "Încă o dorință",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://cinema-timisoara.ro/media/original_images/inca_o_dorinta-poster.jpg",
    "directors": [],
    "imdb_id": null,
@@ -2952,6 +3103,7 @@
    "title": "ȚARA MOARTĂ + AMINTIRI DE PE FRONTUL DE EST",
    "original_title": null,
    "year": null,
+   "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est-5aU.webp",
    "directors": [],
    "imdb_id": null,
