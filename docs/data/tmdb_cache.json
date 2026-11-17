@@ -2254,6 +2254,52 @@
    "fetched": "2026-11-16T20:43:29+00:00",
    "lb": 3.29,
    "lb_ts": "2026-11-16T20:44:05+00:00"
+  },
+  "438631": {
+   "title": "Dune",
+   "original_title": "Dune",
+   "orig_lang": "en",
+   "year": "2021",
+   "poster": "https://image.tmdb.org/t/p/w185/h7Q20HftAApY3VXlfCyeNIuZWg0.jpg",
+   "directors": [
+    "Denis Villeneuve"
+   ],
+   "cast": [
+    "Timothée Chalamet",
+    "Rebecca Ferguson",
+    "Oscar Isaac",
+    "Jason Momoa",
+    "Stellan Skarsgård",
+    "Stephen McKinley Henderson"
+   ],
+   "v": 2,
+   "overview": "Paul Atreides, un tânăr strălucit și talentat născut cu un mare destin, dincolo de capacitatea lui de înțelegere, trebuie să călătorească pe cea mai periculoasă planetă din univers pentru a asigura viitorul familiei și poporului său. Pe măsură ce forțe malefice intră în conflict pentru monopolul asupra celei mai de preț resurse a planetei - o marfă capabilă să descătușeze cel mai mare potențial al umanității, doar cei care își pot învinge frica vor supraviețui.",
+   "imdb_id": "tt1160419",
+   "runtime": 155,
+   "fetched": "2026-11-17T06:11:10+00:00"
+  },
+  "841": {
+   "title": "Dune",
+   "original_title": "Dune",
+   "orig_lang": "en",
+   "year": "1984",
+   "poster": "https://image.tmdb.org/t/p/w185/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+   "directors": [
+    "David Lynch"
+   ],
+   "cast": [
+    "Kyle MacLachlan",
+    "Francesca Annis",
+    "Patrick Stewart",
+    "Linda Hunt",
+    "José Ferrer",
+    "Freddie Jones"
+   ],
+   "v": 2,
+   "overview": "Planeta deșert Arrakis. Anul 10191. Întregul univers depinde de mirodenia care există doar aici. Locuitorii din Arrakis așteaptă sosirea lui Mesia.",
+   "imdb_id": "tt0087182",
+   "runtime": 136,
+   "fetched": "2026-11-17T06:11:10+00:00"
   }
  },
  "search": {
@@ -5957,6 +6003,267 @@
   "blestemul din amazon|2025": {
    "res": [],
    "ts": "2026-11-16T20:43:31+00:00"
+  },
+  "dune re release|": {
+   "res": [],
+   "ts": "2026-11-17T06:11:08+00:00"
+  },
+  "dune re release|2026": {
+   "res": [],
+   "ts": "2026-11-17T06:11:08+00:00"
+  },
+  "dune re release|2025": {
+   "res": [],
+   "ts": "2026-11-17T06:11:08+00:00"
+  },
+  "dune part two re release|": {
+   "res": [],
+   "ts": "2026-11-17T06:11:08+00:00"
+  },
+  "dune part two re release|2026": {
+   "res": [],
+   "ts": "2026-11-17T06:11:08+00:00"
+  },
+  "dune part two re release|2025": {
+   "res": [],
+   "ts": "2026-11-17T06:11:08+00:00"
+  },
+  "dune|": {
+   "res": [
+    {
+     "id": 438631,
+     "title": "Dune",
+     "original_title": "Dune",
+     "release_date": "2021-09-15",
+     "popularity": 42.0609
+    },
+    {
+     "id": 693134,
+     "title": "Dune: Partea II",
+     "original_title": "Dune: Part Two",
+     "release_date": "2024-02-27",
+     "popularity": 45.8931
+    },
+    {
+     "id": 1170608,
+     "title": "Dune: Partea a treia",
+     "original_title": "Dune: Part Three",
+     "release_date": "2026-12-15",
+     "popularity": 30.1944
+    },
+    {
+     "id": 841,
+     "title": "Dune",
+     "original_title": "Dune",
+     "release_date": "1984-12-14",
+     "popularity": 10.3715
+    },
+    {
+     "id": 915935,
+     "title": "Anatomia unei prăbușiri",
+     "original_title": "Anatomie d'une chute",
+     "release_date": "2023-08-23",
+     "popularity": 16.0269
+    },
+    {
+     "id": 881460,
+     "title": "Planet Dune",
+     "original_title": "Planet Dune",
+     "release_date": "2021-10-29",
+     "popularity": 1.8279
+    },
+    {
+     "id": 191720,
+     "title": "Dune a lui Jodorowsky",
+     "original_title": "Jodorowsky's Dune",
+     "release_date": "2013-08-30",
+     "popularity": 1.5933
+    },
+    {
+     "id": 222339,
+     "title": "Dune Warriors",
+     "original_title": "Dune Warriors",
+     "release_date": "1991-01-18",
+     "popularity": 1.0537
+    },
+    {
+     "id": 744738,
+     "title": "Dune Drifter",
+     "original_title": "Dune Drifter",
+     "release_date": "2020-10-24",
+     "popularity": 0.8897
+    },
+    {
+     "id": 919946,
+     "title": "Destination Dune",
+     "original_title": "Destination Dune",
+     "release_date": "1983-01-01",
+     "popularity": 0.6337
+    }
+   ],
+   "ts": "2026-11-17T06:11:09+00:00"
+  },
+  "dune|2026": {
+   "res": [
+    {
+     "id": 1170608,
+     "title": "Dune: Partea a treia",
+     "original_title": "Dune: Part Three",
+     "release_date": "2026-12-15",
+     "popularity": 30.1944
+    },
+    {
+     "id": 1472813,
+     "title": "Le Journal d'une femme de chambre",
+     "original_title": "Le Journal d'une femme de chambre",
+     "release_date": "2026-10-23",
+     "popularity": 3.3891
+    },
+    {
+     "id": 1258181,
+     "title": "La vie d'une femme",
+     "original_title": "La vie d'une femme",
+     "release_date": "2026-09-09",
+     "popularity": 1.5819
+    },
+    {
+     "id": 1798914,
+     "title": "Se queste dune potessero parlare",
+     "original_title": "Se queste dune potessero parlare",
+     "release_date": "2026-10-20",
+     "popularity": 0.5726
+    },
+    {
+     "id": 1639740,
+     "title": "Tableaux d'une explosion",
+     "original_title": "Tableaux d'une explosion",
+     "release_date": "2026-06-08",
+     "popularity": 0.2954
+    },
+    {
+     "id": 1247662,
+     "title": "Villeneuve: L'ascension d'une légende",
+     "original_title": "Villeneuve: L'ascension d'une légende",
+     "release_date": "2026-11-11",
+     "popularity": 2.2869
+    },
+    {
+     "id": 1728575,
+     "title": "Maroc : les secrets d'une transformation",
+     "original_title": "Maroc : les secrets d'une transformation",
+     "release_date": "2026-07-09",
+     "popularity": 0.3474
+    },
+    {
+     "id": 1720561,
+     "title": "Inceste, le combat d'une vie",
+     "original_title": "Inceste, le combat d'une vie",
+     "release_date": "2026-02-04",
+     "popularity": 1.1145
+    },
+    {
+     "id": 1770178,
+     "title": "Mezu Mezu : itinéraire d'une chorale",
+     "original_title": "Mezu Mezu : itinéraire d'une chorale",
+     "release_date": "2026-08-28",
+     "popularity": 0.3294
+    },
+    {
+     "id": 1690811,
+     "title": "Mossoul, renaissance d'une ville millénaire",
+     "original_title": "Mossoul, renaissance d'une ville millénaire",
+     "release_date": "2026-05-09",
+     "popularity": 0.2628
+    }
+   ],
+   "ts": "2026-11-17T06:11:09+00:00"
+  },
+  "dune|2025": {
+   "res": [
+    {
+     "id": 1712817,
+     "title": "Dune Shack",
+     "original_title": "Dune Shack",
+     "release_date": "2025-01-01",
+     "popularity": 0.0757
+    },
+    {
+     "id": 1629756,
+     "title": "Chine, la fabrique d'une nation",
+     "original_title": "Chine, la fabrique d'une nation",
+     "release_date": "2025-12-31",
+     "popularity": 0.6325
+    },
+    {
+     "id": 1595305,
+     "title": "Il A Suffi D'Une Nuit",
+     "original_title": "Il A Suffi D'Une Nuit",
+     "release_date": "2025-12-03",
+     "popularity": 0.733
+    },
+    {
+     "id": 1552283,
+     "title": "Le Temps d'une Tartine",
+     "original_title": "Le Temps d'une Tartine",
+     "release_date": "2025-06-28",
+     "popularity": 0.3903
+    },
+    {
+     "id": 1685902,
+     "title": "La Vie d'une trend",
+     "original_title": "La Vie d'une trend",
+     "release_date": "2025-06-28",
+     "popularity": 0.583
+    },
+    {
+     "id": 1401583,
+     "title": "Souvenir d'une Nuit de Jeunesse",
+     "original_title": "Souvenir d'une Nuit de Jeunesse",
+     "release_date": "2025-04-19",
+     "popularity": 0.294
+    },
+    {
+     "id": 1637024,
+     "title": "Bruce Willis : les secrets d'une icône",
+     "original_title": "Bruce Willis : les secrets d'une icône",
+     "release_date": "2025-12-05",
+     "popularity": 1.0697
+    },
+    {
+     "id": 1539724,
+     "title": "Liban : anatomie d'une guerre",
+     "original_title": "Liban : anatomie d'une guerre",
+     "release_date": "2025-09-01",
+     "popularity": 0.3359
+    },
+    {
+     "id": 1588511,
+     "title": "Fragment d'une rencontre",
+     "original_title": "Fragment d'une rencontre",
+     "release_date": "2025-12-09",
+     "popularity": 0.1055
+    },
+    {
+     "id": 1443149,
+     "title": "Anne Frank, journal d'une adolescente",
+     "original_title": "Anne Frank, journal d'une adolescente",
+     "release_date": "2025-02-27",
+     "popularity": 0.3221
+    }
+   ],
+   "ts": "2026-11-17T06:11:09+00:00"
+  },
+  "part two re release|": {
+   "res": [],
+   "ts": "2026-11-17T06:11:09+00:00"
+  },
+  "part two re release|2026": {
+   "res": [],
+   "ts": "2026-11-17T06:11:09+00:00"
+  },
+  "part two re release|2025": {
+   "res": [],
+   "ts": "2026-11-17T06:11:09+00:00"
   }
  },
  "pages": {

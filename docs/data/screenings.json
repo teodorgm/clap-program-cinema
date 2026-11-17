@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T21:56:48+00:00",
+ "generated": "2026-11-17T06:09:47+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 37,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,39 +105,39 @@
    "ok": true,
    "stale": false,
    "count": 24,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 303,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "count": 307,
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 263,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "count": 266,
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 230,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "count": 232,
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 255,
-   "updated": "2026-11-16T21:56:48+00:00",
+   "count": 257,
+   "updated": "2026-11-17T06:09:47+00:00",
    "error": null
   }
  },
@@ -28491,6 +28491,300 @@
    "film": "tmdb:915935"
   },
   {
+   "id": "cc1806-725080",
+   "cinema": "cc1806",
+   "date": "2026-12-01",
+   "time": "15:40",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D",
+    "IMAX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725080?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1807-724990",
+   "cinema": "cc1807",
+   "date": "2026-12-01",
+   "time": "16:00",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/724990?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1824-725242",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "16:20",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725242?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1806-733894",
+   "cinema": "cc1806",
+   "date": "2026-12-01",
+   "time": "16:40",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D",
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/733894?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1818-725016",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "16:40",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725016?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1806-725081",
+   "cinema": "cc1806",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "IMAX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725081?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1818-725011",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D",
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725011?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1807-724992",
+   "cinema": "cc1807",
+   "date": "2026-12-01",
+   "time": "19:20",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/724992?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1824-725243",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "19:40",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725243?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1806-725079",
+   "cinema": "cc1806",
+   "date": "2026-12-01",
+   "time": "20:00",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725079?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1818-725017",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "20:10",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725017?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
    "id": "muzeu-2026-12-01-20:15-bilete-nu-e-locul-tau-aici",
    "cinema": "muzeu",
    "date": "2026-12-01",
@@ -28664,7 +28958,7 @@
    "runtime": 78,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 215,
+   "imdb_votes": 217,
    "lb_rating": 3.29
   },
   "t:8 ilustrate din utopia little poems in prose": {
@@ -28694,7 +28988,7 @@
    "runtime": 104,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 28547,
+   "imdb_votes": 28553,
    "lb_rating": 4.27
   },
   "t:aferim caricaturana": {
@@ -28723,7 +29017,7 @@
    "runtime": 111,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 5966,
+   "imdb_votes": 5989,
    "lb_rating": 3.15
   },
   "tmdb:915935": {
@@ -28740,7 +29034,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240369,
+   "imdb_votes": 240432,
    "lb_rating": 4.12
   },
   "t:atat de familiar": {
@@ -28809,7 +29103,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 208,
+   "imdb_votes": 209,
    "lb_rating": 3.05
   },
   "tmdb:1152762": {
@@ -28853,7 +29147,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 2048,
+   "imdb_votes": 2208,
    "lb_rating": 4.44
   },
   "tmdb:1400940": {
@@ -28870,7 +29164,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 52849,
+   "imdb_votes": 53391,
    "lb_rating": 3.71
   },
   "t:copilul noptii": {
@@ -28951,8 +29245,32 @@
    "runtime": 170,
    "source": "tmdb",
    "imdb_rating": 5.6,
-   "imdb_votes": 1027,
+   "imdb_votes": 1030,
    "lb_rating": 3.14
+  },
+  "t:dune re release": {
+   "tmdb_id": null,
+   "title": "Dune re-release",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:dune part two re release": {
+   "tmdb_id": null,
+   "title": "Dune: Part Two re-release",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
   },
   "t:ebenezer o poveste de craciun": {
    "tmdb_id": null,
@@ -28993,7 +29311,7 @@
    "runtime": 113,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 399,
+   "imdb_votes": 419,
    "lb_rating": 4.18
   },
   "t:godzilla minus zero": {
@@ -29122,7 +29440,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2795,
+   "imdb_votes": 2798,
    "lb_rating": 3.52
   },
   "tmdb:9746": {
@@ -29139,7 +29457,7 @@
    "runtime": 134,
    "source": "tmdb",
    "imdb_rating": 7.0,
-   "imdb_votes": 32674,
+   "imdb_votes": 32686,
    "lb_rating": 3.47
   },
   "tmdb:1309373": {
@@ -29156,7 +29474,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.8,
-   "imdb_votes": 1443,
+   "imdb_votes": 1448,
    "lb_rating": 3.94
   },
   "tmdb:47439": {
@@ -29216,7 +29534,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2237,
+   "imdb_votes": 2308,
    "lb_rating": 3.71
   },
   "t:minuscule valea furnicilor pierdute": {
@@ -29334,7 +29652,7 @@
    "runtime": 97,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 12689,
+   "imdb_votes": 12690,
    "lb_rating": 3.88
   },
   "tmdb:1755291": {
@@ -29352,7 +29670,7 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 7509,
+   "imdb_votes": 7588,
    "lb_rating": 4.54
   },
   "t:noul babilon novii vavilon": {
@@ -29424,7 +29742,7 @@
    "runtime": 145,
    "source": "tmdb",
    "imdb_rating": 7.9,
-   "imdb_votes": 387455,
+   "imdb_votes": 388438,
    "lb_rating": 4.02
   },
   "tmdb:797": {
@@ -29441,7 +29759,7 @@
    "runtime": 85,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 142986,
+   "imdb_votes": 143004,
    "lb_rating": 4.37
   },
   "tmdb:1172260": {
@@ -29531,7 +29849,7 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1208,
+   "imdb_votes": 1231,
    "lb_rating": 3.83
   },
   "t:ramayana": {
@@ -29560,7 +29878,7 @@
    "runtime": 94,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 166825,
+   "imdb_votes": 168873,
    "lb_rating": 3.73
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
@@ -29613,7 +29931,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 6.4,
-   "imdb_votes": 27525,
+   "imdb_votes": 27667,
    "lb_rating": 3.63
   },
   "t:tipografic majuscul plan contraplan": {
@@ -29654,7 +29972,7 @@
    "runtime": 110,
    "source": "tmdb",
    "imdb_rating": 6.2,
-   "imdb_votes": 392,
+   "imdb_votes": 393,
    "lb_rating": 2.83
   },
   "t:ultimele scrisori ale bunicii": {
@@ -29695,7 +30013,7 @@
    "runtime": null,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 46
+   "imdb_votes": 50
   },
   "tmdb:1283515": {
    "tmdb_id": 1283515,
@@ -29711,7 +30029,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 6.0,
-   "imdb_votes": 38228,
+   "imdb_votes": 38705,
    "lb_rating": 2.63
   },
   "tmdb:891621": {
@@ -29728,7 +30046,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 18067,
+   "imdb_votes": 19661,
    "lb_rating": 4.15
   },
   "tmdb:791523": {
@@ -29745,7 +30063,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 29589,
+   "imdb_votes": 30404,
    "lb_rating": 4.38
   },
   "t:wildwood dub": {
@@ -29775,7 +30093,7 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 9.0,
-   "imdb_votes": 35030,
+   "imdb_votes": 35891,
    "lb_rating": 4.58
   },
   "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului": {
@@ -29804,7 +30122,7 @@
    "runtime": 101,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 56930,
+   "imdb_votes": 58806,
    "lb_rating": 3.29
   },
   "t:sarpele negru blestemul din amazon": {
