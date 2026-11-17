@@ -2300,6 +2300,31 @@
    "imdb_id": "tt0087182",
    "runtime": 136,
    "fetched": "2026-11-17T06:11:10+00:00"
+  },
+  "1286656": {
+   "title": "I Play Rocky",
+   "original_title": "I Play Rocky",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/inyqvv80NZ6iU7qNUWIv9IiRwtJ.jpg",
+   "directors": [
+    "Peter Farrelly"
+   ],
+   "cast": [
+    "Anthony Ippolito",
+    "AnnaSophia Robb",
+    "P.J. Byrne",
+    "Toby Kebbell",
+    "Jay Duplass",
+    "Tracy Letts"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt11995650",
+   "runtime": 128,
+   "fetched": "2026-11-17T18:10:46+00:00",
+   "lb": 3.77,
+   "lb_ts": "2026-11-17T18:10:47+00:00"
   }
  },
  "search": {
@@ -6264,6 +6289,58 @@
   "part two re release|2025": {
    "res": [],
    "ts": "2026-11-17T06:11:09+00:00"
+  },
+  "i play rocky povestea din spatele legen|": {
+   "res": [],
+   "ts": "2026-11-17T18:10:44+00:00"
+  },
+  "i play rocky povestea din spatele legen|2026": {
+   "res": [],
+   "ts": "2026-11-17T18:10:44+00:00"
+  },
+  "i play rocky povestea din spatele legen|2025": {
+   "res": [],
+   "ts": "2026-11-17T18:10:44+00:00"
+  },
+  "i play rocky|": {
+   "res": [
+    {
+     "id": 1286656,
+     "title": "I Play Rocky",
+     "original_title": "I Play Rocky",
+     "release_date": "2026-11-06",
+     "popularity": 33.704
+    }
+   ],
+   "ts": "2026-11-17T18:10:44+00:00"
+  },
+  "i play rocky|2026": {
+   "res": [
+    {
+     "id": 1286656,
+     "title": "I Play Rocky",
+     "original_title": "I Play Rocky",
+     "release_date": "2026-11-06",
+     "popularity": 33.704
+    }
+   ],
+   "ts": "2026-11-17T18:10:45+00:00"
+  },
+  "i play rocky|2025": {
+   "res": [],
+   "ts": "2026-11-17T18:10:45+00:00"
+  },
+  "povestea din spatele legen|": {
+   "res": [],
+   "ts": "2026-11-17T18:10:45+00:00"
+  },
+  "povestea din spatele legen|2026": {
+   "res": [],
+   "ts": "2026-11-17T18:10:45+00:00"
+  },
+  "povestea din spatele legen|2025": {
+   "res": [],
+   "ts": "2026-11-17T18:10:46+00:00"
   }
  },
  "pages": {
