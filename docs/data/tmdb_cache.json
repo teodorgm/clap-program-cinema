@@ -6341,6 +6341,223 @@
   "povestea din spatele legen|2025": {
    "res": [],
    "ts": "2026-11-17T18:10:46+00:00"
+  },
+  "hexe regatul magiei|": {
+   "res": [],
+   "ts": "2026-11-17T22:02:19+00:00"
+  },
+  "hexe regatul magiei|2026": {
+   "res": [],
+   "ts": "2026-11-17T22:02:19+00:00"
+  },
+  "hexe regatul magiei|2025": {
+   "res": [],
+   "ts": "2026-11-17T22:02:19+00:00"
+  },
+  "hexe|": {
+   "res": [
+    {
+     "id": 425194,
+     "title": "Die kleine Hexe",
+     "original_title": "Die kleine Hexe",
+     "release_date": "2018-02-01",
+     "popularity": 1.7613
+    },
+    {
+     "id": 79859,
+     "title": "Olle Hexe",
+     "original_title": "Olle Hexe",
+     "release_date": "1991-02-11",
+     "popularity": 0.4099
+    },
+    {
+     "id": 297500,
+     "title": "Die Hexe",
+     "original_title": "Die Hexe",
+     "release_date": "1954-10-14",
+     "popularity": 0.2244
+    },
+    {
+     "id": 435943,
+     "title": "Geburt der Hexe",
+     "original_title": "Geburt der Hexe",
+     "release_date": "1980-02-15",
+     "popularity": 0.4508
+    },
+    {
+     "id": 430173,
+     "title": "Hexe Lilli rettet Weihnachten",
+     "original_title": "Hexe Lilli rettet Weihnachten",
+     "release_date": "2017-11-09",
+     "popularity": 0.8304
+    },
+    {
+     "id": 327185,
+     "title": "Küss mich, Hexe!",
+     "original_title": "Küss mich, Hexe!",
+     "release_date": "2005-03-23",
+     "popularity": 0.4488
+    },
+    {
+     "id": 44422,
+     "title": "Die kleine Hexe",
+     "original_title": "Die kleine Hexe",
+     "release_date": "1983-02-04",
+     "popularity": 0.2754
+    },
+    {
+     "id": 430660,
+     "title": "Die kleine Hexe",
+     "original_title": "Die kleine Hexe",
+     "release_date": "1969-06-01",
+     "popularity": 0.1935
+    },
+    {
+     "id": 54486,
+     "title": "Hexe Lilli - Die Reise nach Mandolan",
+     "original_title": "Hexe Lilli - Die Reise nach Mandolan",
+     "release_date": "2011-02-17",
+     "popularity": 1.0394
+    },
+    {
+     "id": 1204512,
+     "title": "Die Hexe von Köln",
+     "original_title": "Die Hexe von Köln",
+     "release_date": "1989-04-07",
+     "popularity": 0.7073
+    }
+   ],
+   "ts": "2026-11-17T22:02:19+00:00"
+  },
+  "hexe|2026": {
+   "res": [
+    {
+     "id": 1701659,
+     "title": "Die Hexe Nebenan",
+     "original_title": "Die Hexe Nebenan",
+     "release_date": "2026-05-31",
+     "popularity": 0.1966
+    },
+    {
+     "id": 1538497,
+     "title": "Hexed",
+     "original_title": "Hexed",
+     "release_date": "2026-11-25",
+     "popularity": 20.4368
+    },
+    {
+     "id": 1694711,
+     "title": "装甲騎兵ボトムズ 灰色の魔女 第1作",
+     "original_title": "装甲騎兵ボトムズ 灰色の魔女 第1作",
+     "release_date": "2026-11-20",
+     "popularity": 0.7962
+    }
+   ],
+   "ts": "2026-11-17T22:02:20+00:00"
+  },
+  "hexe|2025": {
+   "res": [
+    {
+     "id": 1258479,
+     "title": "Bibi Blocksberg - Das große Hexentreffen",
+     "original_title": "Bibi Blocksberg - Das große Hexentreffen",
+     "release_date": "2025-12-06",
+     "popularity": 1.2779
+    },
+    {
+     "id": 1456146,
+     "title": "THE HEXED",
+     "original_title": "THE HEXED",
+     "release_date": "2025-04-03",
+     "popularity": 0.3873
+    },
+    {
+     "id": 1549548,
+     "title": "Hexed",
+     "original_title": "Hexed",
+     "release_date": "2025-07-20",
+     "popularity": 0.3538
+    },
+    {
+     "id": 1440743,
+     "title": "Hexenhaus",
+     "original_title": "Hexenhaus",
+     "release_date": "2025-08-12",
+     "popularity": 0.2015
+    },
+    {
+     "id": 1425709,
+     "title": "Sorcières : chronique d'un massacre",
+     "original_title": "Sorcières : chronique d'un massacre",
+     "release_date": "2025-10-11",
+     "popularity": 0.583
+    }
+   ],
+   "ts": "2026-11-17T22:02:20+00:00"
+  },
+  "regatul magiei|": {
+   "res": [],
+   "ts": "2026-11-17T22:02:20+00:00"
+  },
+  "regatul magiei|2026": {
+   "res": [],
+   "ts": "2026-11-17T22:02:20+00:00"
+  },
+  "regatul magiei|2025": {
+   "res": [],
+   "ts": "2026-11-17T22:02:21+00:00"
+  },
+  "poti vedea totul|": {
+   "res": [
+    {
+     "id": 1765072,
+     "title": "Poți Vedea Totul",
+     "original_title": "You Can See Everything",
+     "release_date": "2026-10-16",
+     "popularity": 62.7516
+    }
+   ],
+   "ts": "2026-11-17T22:02:21+00:00"
+  },
+  "poti vedea totul|2026": {
+   "res": [
+    {
+     "id": 1765072,
+     "title": "Poți Vedea Totul",
+     "original_title": "You Can See Everything",
+     "release_date": "2026-10-16",
+     "popularity": 62.7516
+    }
+   ],
+   "ts": "2026-11-17T22:02:21+00:00"
+  },
+  "poti vedea totul|2025": {
+   "res": [],
+   "ts": "2026-11-17T22:02:21+00:00"
+  },
+  "socri de cosmar|": {
+   "res": [],
+   "ts": "2026-11-17T22:02:21+00:00"
+  },
+  "socri de cosmar|2026": {
+   "res": [],
+   "ts": "2026-11-17T22:02:21+00:00"
+  },
+  "socri de cosmar|2025": {
+   "res": [],
+   "ts": "2026-11-17T22:02:22+00:00"
+  },
+  "soldatul fantoma|": {
+   "res": [],
+   "ts": "2026-11-17T22:02:22+00:00"
+  },
+  "soldatul fantoma|2026": {
+   "res": [],
+   "ts": "2026-11-17T22:02:22+00:00"
+  },
+  "soldatul fantoma|2025": {
+   "res": [],
+   "ts": "2026-11-17T22:02:22+00:00"
   }
  },
  "pages": {
