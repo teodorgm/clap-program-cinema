@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T06:09:47+00:00",
+ "generated": "2026-11-17T10:17:06+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -72,8 +72,8 @@
    "name": "Elvire Popesco",
    "ok": true,
    "stale": false,
-   "count": 37,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "count": 38,
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,258 +105,43 @@
    "ok": true,
    "stale": false,
    "count": 24,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 307,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "count": 305,
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 266,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "count": 263,
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 232,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "count": 230,
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 257,
-   "updated": "2026-11-17T06:09:47+00:00",
+   "count": 255,
+   "updated": "2026-11-17T10:17:06+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "cc1806-738386",
-   "cinema": "cc1806",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/738386?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1806-742661",
-   "cinema": "cc1806",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Cum aș putea trăi fără tine? 2",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "HU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742661?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8296S2R.jpg",
-   "year": "2026",
-   "runtime": 116,
-   "film": "t:cum as putea trai fara tine 2"
-  },
-  {
-   "id": "cc1807-737864",
-   "cinema": "cc1807",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737864?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1807-739152",
-   "cinema": "cc1807",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/739152?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1818-734782",
-   "cinema": "cc1818",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/734782?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-737956",
-   "cinema": "cc1818",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737956?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-738802",
-   "cinema": "cc1818",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/738802?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1824-742818",
-   "cinema": "cc1824",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742818?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1824-742925",
-   "cinema": "cc1824",
-   "date": "2026-11-17",
-   "time": "12:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742925?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
   {
    "id": "cc1807-736573",
    "cinema": "cc1807",
@@ -7274,19 +7059,17 @@
    "film": "tmdb:1815513"
   },
   {
-   "id": "cc1806-743371",
+   "id": "cc1806-743874",
    "cinema": "cc1806",
    "date": "2026-11-17",
    "time": "22:55",
-   "title": "Godzilla Minus Zero",
+   "title": "Teambuilding 2",
    "age": "N-15",
    "note": null,
    "audio": [
-    "JA"
-   ],
-   "subs": [
     "RO"
    ],
+   "subs": [],
    "dubbed": false,
    "tech": [
     "Barco laser",
@@ -7295,11 +7078,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/743371?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8389S2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/743874?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
    "year": "2026",
-   "runtime": 136,
-   "film": "t:godzilla minus zero"
+   "runtime": 110,
+   "film": "tmdb:1756532"
   },
   {
    "id": "cc1806-743373",
@@ -14150,33 +13933,6 @@
    "film": "tmdb:891621"
   },
   {
-   "id": "cc1818-737403",
-   "cinema": "cc1818",
-   "date": "2026-11-18",
-   "time": "22:40",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "4DX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737403?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
    "id": "cc1818-737951",
    "cinema": "cc1818",
    "date": "2026-11-18",
@@ -14198,6 +13954,33 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
+  },
+  {
+   "id": "cc1818-743865",
+   "cinema": "cc1818",
+   "date": "2026-11-18",
+   "time": "22:40",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": "Avanpremieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/743865?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-738974",
@@ -21282,33 +21065,6 @@
    "film": "tmdb:891621"
   },
   {
-   "id": "cc1818-737448",
-   "cinema": "cc1818",
-   "date": "2026-11-19",
-   "time": "22:40",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "4DX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737448?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
    "id": "cc1818-737952",
    "cinema": "cc1818",
    "date": "2026-11-19",
@@ -21330,6 +21086,33 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
+  },
+  {
+   "id": "cc1818-743866",
+   "cinema": "cc1818",
+   "date": "2026-11-19",
+   "time": "22:40",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": "Avanpremieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/743866?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-742652",
@@ -28267,6 +28050,33 @@
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc-xhj.webp",
    "film": "t:babardeala cu buclul sau porno balamuc"
+  },
+  {
+   "id": "elvire-2026-11-29-10:00-bilete-le-chant-des-forets-cantecul-padurii",
+   "cinema": "elvire",
+   "date": "2026-11-29",
+   "time": "10:00",
+   "title": "LE CHANT DES FORÊTS / CÂNTECUL PĂDURII",
+   "age": null,
+   "note": "FILM PENTRU PUBLICUL TÂNĂR",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "pensioner": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-cantecul-padurii?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-le-chant-des-forets-cantecul-padurii-1ER.webp",
+   "film": "tmdb:1309373"
   },
   {
    "id": "elvire-2026-11-29-12:00-bilete-retrospectiva-integrala-radu-jude-tipografic-majuscul-plan-contraplan",
