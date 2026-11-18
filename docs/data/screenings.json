@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T06:15:01+00:00",
+ "generated": "2026-11-18T10:14:33+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 36,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 12,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,7 +105,7 @@
    "ok": true,
    "stale": false,
    "count": 22,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "cc1806": {
@@ -113,31 +113,31 @@
    "ok": true,
    "stale": false,
    "count": 701,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 617,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "count": 613,
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 548,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "count": 558,
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 668,
-   "updated": "2026-11-18T06:15:01+00:00",
+   "count": 666,
+   "updated": "2026-11-18T10:14:33+00:00",
    "error": null
   }
  },
@@ -168,192 +168,6 @@
    "year": "2026",
    "runtime": 116,
    "film": "t:cum as putea trai fara tine 2"
-  },
-  {
-   "id": "cc1807-737865",
-   "cinema": "cc1807",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737865?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1807-739153",
-   "cinema": "cc1807",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/739153?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1818-737957",
-   "cinema": "cc1818",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737957?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-738803",
-   "cinema": "cc1818",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/738803?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1818-739212",
-   "cinema": "cc1818",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/739212?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-739621",
-   "cinema": "cc1818",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/739621?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-742710",
-   "cinema": "cc1824",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Insula pierduta dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742710?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "t:insula pierduta dub"
-  },
-  {
-   "id": "cc1824-742819",
-   "cinema": "cc1824",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742819?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
   },
   {
    "id": "cc1806-738387",
@@ -15720,7 +15534,7 @@
    "id": "cc1824-746956",
    "cinema": "cc1824",
    "date": "2026-11-20",
-   "time": "14:15",
+   "time": "14:10",
    "title": "Băiat de milioane",
    "age": "AP-12",
    "note": null,
@@ -16770,6 +16584,29 @@
    "film": "tmdb:1286656"
   },
   {
+   "id": "cc1824-746957",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "16:20",
+   "title": "Băiat de milioane",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/746957?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
+   "year": "2026",
+   "runtime": 100,
+   "film": "tmdb:1783294"
+  },
+  {
    "id": "cc1806-750897",
    "cinema": "cc1806",
    "date": "2026-11-20",
@@ -16916,29 +16753,6 @@
    "year": "2026",
    "runtime": 73,
    "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1824-746957",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "16:30",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746957?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
   },
   {
    "id": "cc1807-748159",
@@ -17336,6 +17150,31 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1824-747824",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "17:10",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/747824?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
   },
   {
    "id": "cc1807-749341",
@@ -18221,6 +18060,29 @@
    "film": "t:micul mamut aventuri in africa dub"
   },
   {
+   "id": "cc1824-746959",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "title": "Băiat de milioane",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/746959?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
+   "year": "2026",
+   "runtime": 100,
+   "film": "tmdb:1783294"
+  },
+  {
    "id": "cc1807-748106",
    "cinema": "cc1807",
    "date": "2026-11-20",
@@ -18319,29 +18181,6 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
-   "id": "cc1824-746959",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "18:40",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746959?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
    "id": "cc1806-750823",
    "cinema": "cc1806",
    "date": "2026-11-20",
@@ -18365,33 +18204,6 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
-  },
-  {
-   "id": "cc1824-747796",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "18:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747796?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-747209",
@@ -18669,6 +18481,33 @@
    "year": "2026",
    "runtime": 128,
    "film": "tmdb:1286656"
+  },
+  {
+   "id": "cc1824-747796",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "19:15",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/747796?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-750639",
@@ -18976,31 +18815,6 @@
    "film": "t:ramayana"
   },
   {
-   "id": "cc1824-747824",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "19:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747824?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "elvire-2026-11-20-19:30-bilete-le-temps-retrouve-timpul-regasit-ian-christie",
    "cinema": "elvire",
    "date": "2026-11-20",
@@ -19147,6 +18961,33 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1824-751354",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "19:45",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751354?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "t:ebenezer o poveste de craciun"
   },
   {
    "id": "cc1806-750962",
@@ -19677,6 +19518,29 @@
    "film": "tmdb:1783294"
   },
   {
+   "id": "cc1824-746960",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "20:40",
+   "title": "Băiat de milioane",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/746960?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
+   "year": "2026",
+   "runtime": 100,
+   "film": "tmdb:1783294"
+  },
+  {
    "id": "cc1807-747226",
    "cinema": "cc1807",
    "date": "2026-11-20",
@@ -19855,11 +19719,11 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-746689",
+   "id": "cc1824-751389",
    "cinema": "cc1824",
    "date": "2026-11-20",
    "time": "21:00",
-   "title": "Cum să spargi o bancă",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
    "age": "N-15",
    "note": null,
    "audio": [
@@ -19873,34 +19737,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746689?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/751389?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1824-746960",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "21:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746960?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-750824",
@@ -20121,31 +19962,6 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/746954?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-747827",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "21:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747827?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
    "year": "2026",
    "runtime": 85,
@@ -20994,6 +20810,33 @@
    "film": "tmdb:1756532"
   },
   {
+   "id": "cc1824-751353",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "22:40",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751353?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1806-721269",
    "cinema": "cc1806",
    "date": "2026-11-20",
@@ -21273,6 +21116,31 @@
    "year": "2026",
    "runtime": 92,
    "film": "t:copilul noptii"
+  },
+  {
+   "id": "cc1824-751390",
+   "cinema": "cc1824",
+   "date": "2026-11-20",
+   "time": "22:50",
+   "title": "Cum să spargi o bancă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751390?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
+   "year": "2026",
+   "runtime": 122,
+   "film": "t:cum sa spargi o banca"
   },
   {
    "id": "cc1807-749655",
@@ -21613,29 +21481,6 @@
    "film": "tmdb:1649403"
   },
   {
-   "id": "cc1824-748359",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "11:15",
-   "title": "Delta salbatica",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748359?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8335O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1756136"
-  },
-  {
    "id": "cc1806-750825",
    "cinema": "cc1806",
    "date": "2026-11-21",
@@ -21828,12 +21673,12 @@
    "film": "t:lucy lost"
   },
   {
-   "id": "cc1824-748283",
+   "id": "cc1824-748359",
    "cinema": "cc1824",
    "date": "2026-11-21",
    "time": "11:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
+   "title": "Delta salbatica",
+   "age": "AG",
    "note": null,
    "audio": [
     "RO"
@@ -21844,11 +21689,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748283?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/748359?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8335O2R.jpg",
    "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
+   "runtime": 105,
+   "film": "tmdb:1756136"
   },
   {
    "id": "cc1806-750988",
@@ -21943,6 +21788,29 @@
    "year": "2026",
    "runtime": 109,
    "film": "t:insula pierduta dub"
+  },
+  {
+   "id": "cc1824-748283",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "11:40",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/748283?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
   },
   {
    "id": "cc1806-750697",
@@ -22883,6 +22751,31 @@
    "film": "t:mia si scoala de monstri dub"
   },
   {
+   "id": "cc1824-749244",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "13:20",
+   "title": "Micul mamut: Aventuri în Africa dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/749244?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
+   "year": "2026",
+   "runtime": 73,
+   "film": "t:micul mamut aventuri in africa dub"
+  },
+  {
    "id": "cc1807-747252",
    "cinema": "cc1807",
    "date": "2026-11-21",
@@ -22952,27 +22845,29 @@
    "film": "t:lucy lost"
   },
   {
-   "id": "cc1824-748285",
+   "id": "cc1824-749100",
    "cinema": "cc1824",
    "date": "2026-11-21",
    "time": "13:30",
-   "title": "Vacanță all inclusive",
+   "title": "Ebenezer:O poveste de Craciun",
    "age": "AP-12",
    "note": null,
    "audio": [
+    "EN"
+   ],
+   "subs": [
     "RO"
    ],
-   "subs": [],
    "dubbed": false,
    "tech": [],
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748285?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/749100?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
    "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
+   "runtime": 115,
+   "film": "t:ebenezer o poveste de craciun"
   },
   {
    "id": "cc1806-751190",
@@ -23052,6 +22947,29 @@
    "film": "tmdb:1286656"
   },
   {
+   "id": "cc1824-748285",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "13:40",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/748285?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1824-749091",
    "cinema": "cc1824",
    "date": "2026-11-21",
@@ -23075,31 +22993,6 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-749100",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "13:40",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749100?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "t:ebenezer o poveste de craciun"
   },
   {
    "id": "cc1806-750826",
@@ -23273,6 +23166,33 @@
    "year": "2026",
    "runtime": 141,
    "film": "tmdb:848700"
+  },
+  {
+   "id": "cc1824-751359",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "13:50",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751359?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "t:ebenezer o poveste de craciun"
   },
   {
    "id": "cc1806-751002",
@@ -23937,6 +23857,31 @@
    "film": "tmdb:1815513"
   },
   {
+   "id": "cc1824-749250",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "15:00",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/749250?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "elvire-2026-11-21-15:00-bilete-cinema-fara-bariere-mon-inseparable",
    "cinema": "elvire",
    "date": "2026-11-21",
@@ -24009,31 +23954,6 @@
    "year": "2026",
    "runtime": 85,
    "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-749244",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "15:10",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749244?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
   },
   {
    "id": "cc1806-750935",
@@ -24610,6 +24530,29 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
+   "id": "cc1824-751392",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "16:10",
+   "title": "Teambuilding 2",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751392?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
+   "year": "2026",
+   "runtime": 110,
+   "film": "tmdb:1756532"
+  },
+  {
    "id": "cc1806-750068",
    "cinema": "cc1806",
    "date": "2026-11-21",
@@ -24655,54 +24598,6 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/750827?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
-   "year": "2026",
-   "runtime": 110,
-   "film": "tmdb:1756532"
-  },
-  {
-   "id": "cc1824-748608",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "16:15",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748608?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-749205",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "16:15",
-   "title": "Teambuilding 2",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749205?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
    "year": "2026",
    "runtime": 110,
@@ -24784,6 +24679,33 @@
    "year": "2026",
    "runtime": 128,
    "film": "tmdb:1286656"
+  },
+  {
+   "id": "cc1824-751356",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "16:20",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751356?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-751142",
@@ -26038,29 +25960,6 @@
    "film": "t:cum sa spargi o banca"
   },
   {
-   "id": "cc1824-748612",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "18:20",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748612?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1806-750937",
    "cinema": "cc1806",
    "date": "2026-11-21",
@@ -26159,6 +26058,29 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/749412?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
+   "id": "cc1824-748612",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "18:30",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/748612?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
    "year": "2026",
    "runtime": 85,
@@ -26314,33 +26236,6 @@
    "year": "2026",
    "runtime": 115,
    "film": "t:ebenezer o poveste de craciun"
-  },
-  {
-   "id": "cc1824-749200",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "18:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749200?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-747270",
@@ -26873,17 +26768,19 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-749250",
+   "id": "cc1824-749200",
    "cinema": "cc1824",
    "date": "2026-11-21",
    "time": "19:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
    "note": null,
    "audio": [
+    "EN"
+   ],
+   "subs": [
     "RO"
    ],
-   "subs": [],
    "dubbed": false,
    "tech": [
     "VIP"
@@ -26891,11 +26788,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749250?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/749200?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-748857",
@@ -27194,6 +27091,33 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "cc1824-751361",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751361?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "t:ebenezer o poveste de craciun"
+  },
+  {
    "id": "union-2026-11-21-20:00-bilete-kundun",
    "cinema": "union",
    "date": "2026-11-21",
@@ -27297,31 +27221,6 @@
    "film": "t:cum sa spargi o banca"
   },
   {
-   "id": "cc1824-748614",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "20:15",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748614?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
    "id": "muzeu-2026-11-21-20:15-bilete-3-zile-inseptembrie",
    "cinema": "muzeu",
    "date": "2026-11-21",
@@ -27398,6 +27297,31 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-748614",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "20:25",
+   "title": "Jurnalul unei cameriste",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/748614?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "tmdb:1696174"
   },
   {
    "id": "cc1807-750492",
@@ -27772,11 +27696,11 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-748332",
+   "id": "cc1824-751391",
    "cinema": "cc1824",
    "date": "2026-11-21",
    "time": "21:00",
-   "title": "Cum să spargi o bancă",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
    "age": "N-15",
    "note": null,
    "audio": [
@@ -27790,11 +27714,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748332?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/751391?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1818-748455",
@@ -27998,12 +27922,12 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-746562",
+   "id": "cc1824-748332",
    "cinema": "cc1824",
    "date": "2026-11-21",
    "time": "21:30",
-   "title": "Copilul nopții",
-   "age": "IM-18",
+   "title": "Cum să spargi o bancă",
+   "age": "N-15",
    "note": null,
    "audio": [
     "EN"
@@ -28016,36 +27940,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746562?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8159S2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/748332?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
    "year": "2026",
-   "runtime": 92,
-   "film": "t:copilul noptii"
-  },
-  {
-   "id": "cc1824-749251",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "21:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749251?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
+   "runtime": 122,
+   "film": "t:cum sa spargi o banca"
   },
   {
    "id": "cc1807-747906",
@@ -28536,33 +28435,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1824-749211",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "22:10",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749211?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
    "id": "cc1806-751193",
    "cinema": "cc1806",
    "date": "2026-11-21",
@@ -28688,6 +28560,33 @@
    "year": "2026",
    "runtime": 128,
    "film": "tmdb:1286656"
+  },
+  {
+   "id": "cc1824-749211",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "22:20",
+   "title": "Cum să spargi o bancă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/749211?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
+   "year": "2026",
+   "runtime": 122,
+   "film": "t:cum sa spargi o banca"
   },
   {
    "id": "cc1807-749378",
@@ -28838,29 +28737,6 @@
    "year": "2026",
    "runtime": 92,
    "film": "t:copilul noptii"
-  },
-  {
-   "id": "cc1824-748616",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "22:40",
-   "title": "Teambuilding 2",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748616?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
-   "year": "2026",
-   "runtime": 110,
-   "film": "tmdb:1756532"
   },
   {
    "id": "cc1806-721288",
@@ -29040,6 +28916,83 @@
    "film": "t:copilul noptii"
   },
   {
+   "id": "cc1824-746562",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "22:50",
+   "title": "Copilul nopții",
+   "age": "IM-18",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/746562?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8159S2R.jpg",
+   "year": "2026",
+   "runtime": 92,
+   "film": "t:copilul noptii"
+  },
+  {
+   "id": "cc1824-751362",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "22:50",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751362?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-751396",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "22:50",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751396?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1806-751125",
    "cinema": "cc1806",
    "date": "2026-11-21",
@@ -29065,6 +29018,31 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1824-751395",
+   "cinema": "cc1824",
+   "date": "2026-11-21",
+   "time": "22:55",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751395?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-750818",
@@ -30350,6 +30328,31 @@
    "film": "tmdb:791523"
   },
   {
+   "id": "cc1824-749287",
+   "cinema": "cc1824",
+   "date": "2026-11-22",
+   "time": "12:40",
+   "title": "Micul mamut: Aventuri în Africa dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/749287?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
+   "year": "2026",
+   "runtime": 73,
+   "film": "t:micul mamut aventuri in africa dub"
+  },
+  {
    "id": "cc1806-721271",
    "cinema": "cc1806",
    "date": "2026-11-22",
@@ -31085,6 +31088,33 @@
    "film": "tmdb:848700"
   },
   {
+   "id": "cc1824-751363",
+   "cinema": "cc1824",
+   "date": "2026-11-22",
+   "time": "13:50",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751363?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "t:ebenezer o poveste de craciun"
+  },
+  {
    "id": "cc1806-751003",
    "cinema": "cc1806",
    "date": "2026-11-22",
@@ -31803,6 +31833,31 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "cc1824-749289",
+   "cinema": "cc1824",
+   "date": "2026-11-22",
+   "time": "15:00",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/749289?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1824-749431",
    "cinema": "cc1824",
    "date": "2026-11-22",
@@ -31925,31 +31980,6 @@
    "year": "2026",
    "runtime": 81,
    "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1824-749287",
-   "cinema": "cc1824",
-   "date": "2026-11-22",
-   "time": "15:10",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749287?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
   },
   {
    "id": "cc1806-750936",
@@ -34983,31 +35013,6 @@
    "film": "t:ramayana"
   },
   {
-   "id": "cc1824-749289",
-   "cinema": "cc1824",
-   "date": "2026-11-22",
-   "time": "19:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749289?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1807-748858",
    "cinema": "cc1807",
    "date": "2026-11-22",
@@ -35081,6 +35086,33 @@
    "year": "2026",
    "runtime": 128,
    "film": "tmdb:1286656"
+  },
+  {
+   "id": "cc1824-749286",
+   "cinema": "cc1824",
+   "date": "2026-11-22",
+   "time": "19:40",
+   "title": "Cum să spargi o bancă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/749286?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
+   "year": "2026",
+   "runtime": 122,
+   "film": "t:cum sa spargi o banca"
   },
   {
    "id": "cc1807-747557",
@@ -36086,31 +36118,6 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-749290",
-   "cinema": "cc1824",
-   "date": "2026-11-22",
-   "time": "21:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749290?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1807-747907",
    "cinema": "cc1807",
    "date": "2026-11-22",
@@ -36495,6 +36502,33 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "cc1824-751364",
+   "cinema": "cc1824",
+   "date": "2026-11-22",
+   "time": "22:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751364?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1806-721254",
    "cinema": "cc1806",
    "date": "2026-11-22",
@@ -36620,33 +36654,6 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-749286",
-   "cinema": "cc1824",
-   "date": "2026-11-22",
-   "time": "22:10",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749286?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
   },
   {
    "id": "cc1806-751198",
@@ -36903,6 +36910,33 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1824-751365",
+   "cinema": "cc1824",
+   "date": "2026-11-22",
+   "time": "22:30",
+   "title": "Minotaur",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751365?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8524S2R.jpg",
+   "year": "2026",
+   "runtime": 141,
+   "film": "tmdb:848700"
   },
   {
    "id": "cc1818-748824",
@@ -40128,6 +40162,31 @@
    "film": "tmdb:1585239"
   },
   {
+   "id": "cc1824-751366",
+   "cinema": "cc1824",
+   "date": "2026-11-23",
+   "time": "17:10",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751366?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1807-749368",
    "cinema": "cc1807",
    "date": "2026-11-23",
@@ -41105,33 +41164,6 @@
    "film": "tmdb:1756532"
   },
   {
-   "id": "cc1824-750626",
-   "cinema": "cc1824",
-   "date": "2026-11-23",
-   "time": "18:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750626?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1807-747272",
    "cinema": "cc1807",
    "date": "2026-11-23",
@@ -41407,6 +41439,33 @@
    "year": "2026",
    "runtime": 128,
    "film": "tmdb:1286656"
+  },
+  {
+   "id": "cc1824-750626",
+   "cinema": "cc1824",
+   "date": "2026-11-23",
+   "time": "19:15",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750626?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-750665",
@@ -41689,31 +41748,6 @@
    "film": "t:ramayana"
   },
   {
-   "id": "cc1824-750650",
-   "cinema": "cc1824",
-   "date": "2026-11-23",
-   "time": "19:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750650?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1807-748859",
    "cinema": "cc1807",
    "date": "2026-11-23",
@@ -41835,6 +41869,33 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1824-751368",
+   "cinema": "cc1824",
+   "date": "2026-11-23",
+   "time": "19:45",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751368?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "t:ebenezer o poveste de craciun"
   },
   {
    "id": "cc1806-751240",
@@ -42719,31 +42780,6 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-750651",
-   "cinema": "cc1824",
-   "date": "2026-11-23",
-   "time": "21:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750651?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1807-747908",
    "cinema": "cc1807",
    "date": "2026-11-23",
@@ -43430,6 +43466,33 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1824-751367",
+   "cinema": "cc1824",
+   "date": "2026-11-23",
+   "time": "22:30",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751367?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-751201",
@@ -46663,6 +46726,31 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
+   "id": "cc1824-750807",
+   "cinema": "cc1824",
+   "date": "2026-11-24",
+   "time": "17:00",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750807?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1818-749679",
    "cinema": "cc1818",
    "date": "2026-11-24",
@@ -47936,6 +48024,33 @@
    "film": "tmdb:1286656"
   },
   {
+   "id": "cc1824-751378",
+   "cinema": "cc1824",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751378?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "t:ebenezer o poveste de craciun"
+  },
+  {
    "id": "cc1818-749685",
    "cinema": "cc1818",
    "date": "2026-11-24",
@@ -48293,17 +48408,19 @@
    "film": "t:ramayana"
   },
   {
-   "id": "cc1824-750807",
+   "id": "cc1824-751373",
    "cinema": "cc1824",
    "date": "2026-11-24",
    "time": "19:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
    "note": null,
    "audio": [
+    "EN"
+   ],
+   "subs": [
     "RO"
    ],
-   "subs": [],
    "dubbed": false,
    "tech": [
     "VIP"
@@ -48311,11 +48428,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750807?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/751373?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-748860",
@@ -49322,31 +49439,6 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-750808",
-   "cinema": "cc1824",
-   "date": "2026-11-24",
-   "time": "21:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750808?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1807-747909",
    "cinema": "cc1807",
    "date": "2026-11-24",
@@ -49704,6 +49796,33 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "cc1824-751375",
+   "cinema": "cc1824",
+   "date": "2026-11-24",
+   "time": "22:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751375?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1806-721256",
    "cinema": "cc1806",
    "date": "2026-11-24",
@@ -49829,33 +49948,6 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-750754",
-   "cinema": "cc1824",
-   "date": "2026-11-24",
-   "time": "22:10",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750754?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
   },
   {
    "id": "cc1806-751204",
@@ -50160,6 +50252,31 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/750127?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
+   "year": "2026",
+   "runtime": 110,
+   "film": "tmdb:1756532"
+  },
+  {
+   "id": "cc1824-751401",
+   "cinema": "cc1824",
+   "date": "2026-11-24",
+   "time": "22:40",
+   "title": "Teambuilding 2",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751401?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
    "year": "2026",
    "runtime": 110,
@@ -53391,6 +53508,31 @@
    "film": "tmdb:1585239"
   },
   {
+   "id": "cc1824-750735",
+   "cinema": "cc1824",
+   "date": "2026-11-25",
+   "time": "17:10",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750735?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1807-749370",
    "cinema": "cc1807",
    "date": "2026-11-25",
@@ -54187,33 +54329,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1824-750694",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "18:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750694?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1806-750843",
    "cinema": "cc1806",
    "date": "2026-11-25",
@@ -54517,6 +54632,33 @@
    "film": "t:micul mamut aventuri in africa dub"
   },
   {
+   "id": "cc1824-750694",
+   "cinema": "cc1824",
+   "date": "2026-11-25",
+   "time": "19:10",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750694?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1806-751152",
    "cinema": "cc1806",
    "date": "2026-11-25",
@@ -54799,33 +54941,6 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-750739",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "19:30",
-   "title": "Socri de coșmar",
-   "age": null,
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750739?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
    "id": "elvire-2026-11-25-19:30-bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal",
    "cinema": "elvire",
    "date": "2026-11-25",
@@ -54999,6 +55114,33 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1824-750739",
+   "cinema": "cc1824",
+   "date": "2026-11-25",
+   "time": "19:45",
+   "title": "Socri de coșmar",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750739?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
   },
   {
    "id": "cc1806-750990",
@@ -56170,31 +56312,6 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
-   "id": "cc1824-750735",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "21:50",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750735?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1806-750248",
    "cinema": "cc1806",
    "date": "2026-11-25",
@@ -56394,6 +56511,33 @@
    "year": "2026",
    "runtime": 85,
    "film": "tmdb:1679416"
+  },
+  {
+   "id": "cc1824-751502",
+   "cinema": "cc1824",
+   "date": "2026-11-25",
+   "time": "22:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751502?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-750928",
@@ -59910,6 +60054,31 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
+   "id": "cc1824-750743",
+   "cinema": "cc1824",
+   "date": "2026-11-26",
+   "time": "17:00",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750743?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1807-747269",
    "cinema": "cc1807",
    "date": "2026-11-26",
@@ -60906,33 +61075,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1824-750741",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "18:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750741?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "apollo111-2026-11-26-19:00-bilete-you-can-see-everything",
    "cinema": "apollo111",
    "date": "2026-11-26",
@@ -61591,13 +61733,13 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1824-750740",
+   "id": "cc1824-750741",
    "cinema": "cc1824",
    "date": "2026-11-26",
    "time": "19:30",
-   "title": "Socri de coșmar",
-   "age": null,
-   "note": "Avanpremieră",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
    "audio": [
     "EN"
    ],
@@ -61611,11 +61753,11 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750740?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "url": "https://tickets.cinemacity.ro/api/order/750741?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-748862",
@@ -62727,6 +62869,33 @@
    "film": "tmdb:1783294"
   },
   {
+   "id": "cc1824-751528",
+   "cinema": "cc1824",
+   "date": "2026-11-26",
+   "time": "21:40",
+   "title": "Socri de coșmar",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751528?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
+  },
+  {
    "id": "cc1806-750674",
    "cinema": "cc1806",
    "date": "2026-11-26",
@@ -62905,31 +63074,6 @@
    "year": "2026",
    "runtime": 115,
    "film": "t:ebenezer o poveste de craciun"
-  },
-  {
-   "id": "cc1824-750743",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "21:50",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750743?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
   },
   {
    "id": "cc1806-750256",
@@ -63545,33 +63689,6 @@
    "film": "t:ramayana"
   },
   {
-   "id": "cc1824-750742",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "22:30",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750742?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
    "id": "cc1818-748828",
    "cinema": "cc1818",
    "date": "2026-11-26",
@@ -63618,6 +63735,33 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
+  },
+  {
+   "id": "cc1824-750742",
+   "cinema": "cc1824",
+   "date": "2026-11-26",
+   "time": "22:40",
+   "title": "Cum să spargi o bancă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750742?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
+   "year": "2026",
+   "runtime": 122,
+   "film": "t:cum sa spargi o banca"
   },
   {
    "id": "cc1806-721293",
@@ -65254,7 +65398,7 @@
    "runtime": 104,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 28553,
+   "imdb_votes": 28557,
    "lb_rating": 4.27
   },
   "t:aferim caricaturana": {
@@ -65283,7 +65427,7 @@
    "runtime": 111,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 5989,
+   "imdb_votes": 6005,
    "lb_rating": 3.15
   },
   "tmdb:915935": {
@@ -65300,7 +65444,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240432,
+   "imdb_votes": 240464,
    "lb_rating": 4.12
   },
   "t:atat de familiar": {
@@ -65369,7 +65513,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 209,
+   "imdb_votes": 210,
    "lb_rating": 3.05
   },
   "tmdb:1152762": {
@@ -65413,7 +65557,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 2208,
+   "imdb_votes": 2315,
    "lb_rating": 4.44
   },
   "tmdb:1400940": {
@@ -65430,7 +65574,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 53391,
+   "imdb_votes": 53808,
    "lb_rating": 3.71
   },
   "t:copilul noptii": {
@@ -65499,7 +65643,7 @@
    "runtime": 170,
    "source": "tmdb",
    "imdb_rating": 5.6,
-   "imdb_votes": 1030,
+   "imdb_votes": 1031,
    "lb_rating": 3.14
   },
   "t:daniel si cuptorul de foc": {
@@ -65577,7 +65721,7 @@
    "runtime": 113,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 419,
+   "imdb_votes": 432,
    "lb_rating": 4.18
   },
   "t:godzilla minus zero": {
@@ -65618,7 +65762,7 @@
    "runtime": 128,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 4734,
+   "imdb_votes": 5126,
    "lb_rating": 3.77
   },
   "tmdb:1773720": {
@@ -65723,7 +65867,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2798,
+   "imdb_votes": 2803,
    "lb_rating": 3.52
   },
   "tmdb:9746": {
@@ -65740,7 +65884,7 @@
    "runtime": 134,
    "source": "tmdb",
    "imdb_rating": 7.0,
-   "imdb_votes": 32686,
+   "imdb_votes": 32691,
    "lb_rating": 3.47
   },
   "tmdb:1309373": {
@@ -65757,7 +65901,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.8,
-   "imdb_votes": 1448,
+   "imdb_votes": 1458,
    "lb_rating": 3.94
   },
   "tmdb:47439": {
@@ -65817,7 +65961,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2308,
+   "imdb_votes": 2359,
    "lb_rating": 3.71
   },
   "t:minuscule valea furnicilor pierdute": {
@@ -65935,7 +66079,7 @@
    "runtime": 97,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 12690,
+   "imdb_votes": 12692,
    "lb_rating": 3.88
   },
   "tmdb:1755291": {
@@ -65953,7 +66097,7 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 7588,
+   "imdb_votes": 7642,
    "lb_rating": 4.54
   },
   "t:noul babilon novii vavilon": {
@@ -65994,7 +66138,7 @@
    "runtime": 154,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 120,
+   "imdb_votes": 122,
    "lb_rating": 3.57
   },
   "tmdb:1773633": {
@@ -66025,7 +66169,7 @@
    "runtime": 85,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 143004,
+   "imdb_votes": 143018,
    "lb_rating": 4.37
   },
   "tmdb:1172260": {
@@ -66074,8 +66218,8 @@
    "imdb_id": "tt42558356",
    "runtime": 84,
    "source": "tmdb",
-   "imdb_rating": 8.9,
-   "imdb_votes": 35
+   "imdb_rating": 8.8,
+   "imdb_votes": 36
   },
   "tmdb:1765072": {
    "tmdb_id": 1765072,
@@ -66092,7 +66236,7 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 9.0,
-   "imdb_votes": 35891,
+   "imdb_votes": 36483,
    "lb_rating": 4.58
   },
   "t:proiectie teatru copii jack si vrejul de": {
@@ -66133,7 +66277,7 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1231,
+   "imdb_votes": 1249,
    "lb_rating": 3.83
   },
   "t:ramayana": {
@@ -66162,7 +66306,7 @@
    "runtime": 94,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 168873,
+   "imdb_votes": 170222,
    "lb_rating": 3.73
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
@@ -66239,7 +66383,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 6.4,
-   "imdb_votes": 27667,
+   "imdb_votes": 27762,
    "lb_rating": 3.63
   },
   "t:tipografic majuscul plan contraplan": {
@@ -66279,8 +66423,8 @@
    "imdb_id": "tt44842294",
    "runtime": 110,
    "source": "tmdb",
-   "imdb_rating": 6.2,
-   "imdb_votes": 393,
+   "imdb_rating": 6.3,
+   "imdb_votes": 394,
    "lb_rating": 2.83
   },
   "t:ultimele scrisori ale bunicii": {
@@ -66321,7 +66465,7 @@
    "runtime": null,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 50
+   "imdb_votes": 52
   },
   "tmdb:1283515": {
    "tmdb_id": 1283515,
@@ -66337,7 +66481,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 6.0,
-   "imdb_votes": 38705,
+   "imdb_votes": 39025,
    "lb_rating": 2.63
   },
   "tmdb:891621": {
@@ -66354,7 +66498,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 19661,
+   "imdb_votes": 20739,
    "lb_rating": 4.15
   },
   "tmdb:791523": {
@@ -66371,7 +66515,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 30404,
+   "imdb_votes": 31001,
    "lb_rating": 4.38
   },
   "t:wildwood dub": {
@@ -66412,7 +66556,7 @@
    "runtime": 101,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 58806,
+   "imdb_votes": 59993,
    "lb_rating": 3.29
   },
   "t:sarpele negru blestemul din amazon": {
