@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T21:58:51+00:00",
+ "generated": "2026-11-19T06:12:27+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 34,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,39 +105,39 @@
    "ok": true,
    "stale": false,
    "count": 21,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 634,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "count": 638,
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 549,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "count": 552,
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 499,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "count": 501,
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 592,
-   "updated": "2026-11-18T21:58:51+00:00",
+   "count": 594,
+   "updated": "2026-11-19T06:12:27+00:00",
    "error": null
   }
  },
@@ -58591,6 +58591,300 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/725024?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1806-725087",
+   "cinema": "cc1806",
+   "date": "2026-12-03",
+   "time": "15:40",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D",
+    "IMAX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725087?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1807-724995",
+   "cinema": "cc1807",
+   "date": "2026-12-03",
+   "time": "16:00",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/724995?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1806-733893",
+   "cinema": "cc1806",
+   "date": "2026-12-03",
+   "time": "16:40",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D",
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/733893?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1818-725023",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "16:40",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725023?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1824-725246",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "16:40",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725246?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1806-725089",
+   "cinema": "cc1806",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "IMAX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725089?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1818-725013",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "title": "Dune re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "3D",
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725013?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
+   "year": "2021",
+   "runtime": 166,
+   "film": "t:dune re release"
+  },
+  {
+   "id": "cc1807-724997",
+   "cinema": "cc1807",
+   "date": "2026-12-03",
+   "time": "19:20",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/724997?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1806-725085",
+   "cinema": "cc1806",
+   "date": "2026-12-03",
+   "time": "20:00",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725085?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1824-725247",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "20:00",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725247?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
+   "year": "2024",
+   "runtime": 177,
+   "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1818-725025",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "20:10",
+   "title": "Dune: Part Two re-release",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/725025?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8640S2R.jpg",
    "year": "2024",
    "runtime": 177,
