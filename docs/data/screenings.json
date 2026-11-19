@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T06:12:27+00:00",
+ "generated": "2026-11-19T10:17:36+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 34,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "eforie": {
@@ -97,268 +97,51 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "muzeu": {
    "name": "Muzeul Țăranului",
    "ok": true,
    "stale": false,
-   "count": 21,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "count": 29,
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 638,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "count": 636,
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 552,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "count": 548,
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 501,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "count": 499,
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 594,
-   "updated": "2026-11-19T06:12:27+00:00",
+   "count": 592,
+   "updated": "2026-11-19T10:17:36+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "cc1806-742649",
-   "cinema": "cc1806",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742649?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1806-742663",
-   "cinema": "cc1806",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Cum aș putea trăi fără tine? 2",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "HU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742663?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8296S2R.jpg",
-   "year": "2026",
-   "runtime": 116,
-   "film": "t:cum as putea trai fara tine 2"
-  },
-  {
-   "id": "cc1807-737866",
-   "cinema": "cc1807",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737866?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1807-739154",
-   "cinema": "cc1807",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/739154?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1818-737958",
-   "cinema": "cc1818",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/737958?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-738804",
-   "cinema": "cc1818",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/738804?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1818-739382",
-   "cinema": "cc1818",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/739382?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-739499",
-   "cinema": "cc1818",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/739499?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-742820",
-   "cinema": "cc1824",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/742820?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
   {
    "id": "cc1807-737409",
    "cinema": "cc1807",
@@ -18254,31 +18037,6 @@
    "film": "tmdb:1286656"
   },
   {
-   "id": "cc1824-733580",
-   "cinema": "cc1824",
-   "date": "2026-11-21",
-   "time": "17:00",
-   "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "KO"
-   ],
-   "subs": [
-    "EN"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/733580?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8637O2R.jpg",
-   "year": "2026",
-   "runtime": 195,
-   "film": "tmdb:1820083"
-  },
-  {
    "id": "cc1824-748398",
    "cinema": "cc1824",
    "date": "2026-11-21",
@@ -28860,9 +28618,7 @@
    "audio": [
     "RO"
    ],
-   "subs": [
-    "EN"
-   ],
+   "subs": [],
    "prices": {
     "adult": 100
    },
@@ -40364,6 +40120,30 @@
    "film": "t:lucy lost"
   },
   {
+   "id": "muzeu-2026-11-24-17:30-bilete-copilul-noptii",
+   "cinema": "muzeu",
+   "date": "2026-11-24",
+   "time": "17:30",
+   "title": "Copilul nopții",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "FI",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 300
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-copilul-noptii?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Nightborn_poster.webp",
+   "film": "t:copilul noptii"
+  },
+  {
    "id": "cc1806-721221",
    "cinema": "cc1806",
    "date": "2026-11-24",
@@ -47355,6 +47135,30 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "muzeu-2026-11-25-18:00-bilete-delta-salbatica-film",
+   "cinema": "muzeu",
+   "date": "2026-11-25",
+   "time": "18:00",
+   "title": "DELTA SĂLBATICĂ",
+   "age": "A.G.",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-delta-salbatica-film?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-delta-salbatica-film-nGt.webp",
+   "film": "tmdb:1756136"
+  },
+  {
    "id": "cc1818-721014",
    "cinema": "cc1818",
    "date": "2026-11-25",
@@ -48806,9 +48610,12 @@
     "EN"
    ],
    "prices": {
-    "adult": 300
+    "adult": 40
    },
-   "box": {},
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-piatra-foarfeca-hartie-2?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-piatra-foarfeca-hartie-2-jes.webp",
@@ -53981,6 +53788,32 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "muzeu-2026-11-26-17:45-bilete-regina-si-marea",
+   "cinema": "muzeu",
+   "date": "2026-11-26",
+   "time": "17:45",
+   "title": "Regina și marea",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-regina-si-marea?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-regina-si-marea-Kkx.webp",
+   "film": "tmdb:1021848"
+  },
+  {
    "id": "cc1806-750955",
    "cinema": "cc1806",
    "date": "2026-11-26",
@@ -55582,6 +55415,32 @@
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete-Wdz.webp",
    "film": "t:inimi cicatrizate trece si prin perete"
+  },
+  {
+   "id": "muzeu-2026-11-26-20:00-bilete-craciun-amar",
+   "cinema": "muzeu",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "title": "Crăciun amar",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "SP"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-craciun-amar?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-craciun-amar-mth.webp",
+   "film": "tmdb:1088548"
   },
   {
    "id": "cc1806-750771",
@@ -57395,7 +57254,7 @@
    "date": "2026-11-27",
    "time": "18:00",
    "title": "NU E LOCUL TĂU AICI",
-   "age": null,
+   "age": "12+",
    "note": "Premieră",
    "audio": [
     "RO"
@@ -57446,7 +57305,7 @@
    "date": "2026-11-27",
    "time": "19:30",
    "title": "NU E LOCUL TĂU AICI",
-   "age": null,
+   "age": "12+",
    "note": "Premieră",
    "audio": [
     "RO"
@@ -57562,6 +57421,28 @@
    "film": "t:iesirea trenurilor din gara a pedepsi a supraveghea"
   },
   {
+   "id": "muzeu-2026-11-28-14:15-bilete-mielul-shaun-aventuri-de-halloween",
+   "cinema": "muzeu",
+   "date": "2026-11-28",
+   "time": "14:15",
+   "title": "Mielul Shaun: Aventuri de Halloween",
+   "age": "A.G.",
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-mielul-shaun-aventuri-de-halloween?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Shaun_the_Sheep-afis_med-res.jpg",
+   "film": "t:mielul shaun aventuri de halloween"
+  },
+  {
    "id": "muzeu-2026-11-28-16:00-bilete-cantecul-padurii-proiectie",
    "cinema": "muzeu",
    "date": "2026-11-28",
@@ -57614,7 +57495,7 @@
    "date": "2026-11-28",
    "time": "17:00",
    "title": "NU E LOCUL TĂU AICI",
-   "age": null,
+   "age": "12+",
    "note": null,
    "audio": [
     "RO"
@@ -57639,7 +57520,7 @@
    "date": "2026-11-28",
    "time": "17:40",
    "title": "NU E LOCUL TĂU AICI",
-   "age": null,
+   "age": "12+",
    "note": null,
    "audio": [
     "RO"
@@ -57696,7 +57577,7 @@
     "RO"
    ],
    "subs": [
-    "EN"
+    "RO"
    ],
    "prices": {
     "adult": 27,
@@ -57762,6 +57643,29 @@
    "film": "t:tipografic majuscul plan contraplan"
   },
   {
+   "id": "muzeu-2026-11-29-13:45-bilete-misterul-lui-lucy-lost",
+   "cinema": "muzeu",
+   "date": "2026-11-29",
+   "time": "13:45",
+   "title": "Misterul lui Lucy Lost",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 300
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-misterul-lui-lucy-lost?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://cinema-timisoara.ro/media/original_images/lucy-lost-afis-ro.jpg",
+   "film": "t:misterul lui lucy lost"
+  },
+  {
    "id": "elvire-2026-11-29-15:00-bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose",
    "cinema": "elvire",
    "date": "2026-11-29",
@@ -57785,6 +57689,32 @@
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose-YVQ.webp",
    "film": "t:8 ilustrate din utopia little poems in prose"
+  },
+  {
+   "id": "muzeu-2026-11-29-15:30-bilete-naza",
+   "cinema": "muzeu",
+   "date": "2026-11-29",
+   "time": "15:30",
+   "title": "Naza",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "HE"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-naza?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Naza-afis_low-res.jpg",
+   "film": "tmdb:1755291"
   },
   {
    "id": "apollo111-2026-11-29-16:00-bilete-club-kid",
@@ -57837,6 +57767,32 @@
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-kontinental-25?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-kontinental-25-ff3.webp",
    "film": "tmdb:1410189"
+  },
+  {
+   "id": "muzeu-2026-11-29-17:00-bilete-club-kid",
+   "cinema": "muzeu",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 32
+   },
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-muzeul-taranului-studio-horia-bernea",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
   },
   {
    "id": "apollo111-2026-11-29-18:30-bilete-you-can-see-everything",
@@ -57892,7 +57848,7 @@
    "date": "2026-11-29",
    "time": "19:15",
    "title": "NU E LOCUL TĂU AICI",
-   "age": null,
+   "age": "12+",
    "note": null,
    "audio": [
     "RO"
@@ -58256,7 +58212,7 @@
    "date": "2026-12-01",
    "time": "20:15",
    "title": "NU E LOCUL TĂU AICI",
-   "age": null,
+   "age": "12+",
    "note": null,
    "audio": [
     "RO"
@@ -58918,7 +58874,7 @@
    "date": "2026-12-05",
    "time": "15:15",
    "title": "NU E LOCUL TĂU AICI",
-   "age": null,
+   "age": "12+",
    "note": null,
    "audio": [
     "RO"
@@ -58927,9 +58883,12 @@
     "EN"
    ],
    "prices": {
-    "adult": 300
+    "adult": 40
    },
-   "box": {},
+   "box": {
+    "pensioner": 20,
+    "student": 10
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
@@ -59089,7 +59048,7 @@
    "runtime": 104,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 28557,
+   "imdb_votes": 28560,
    "lb_rating": 4.27
   },
   "t:aferim caricaturana": {
@@ -59118,7 +59077,7 @@
    "runtime": 111,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 6005,
+   "imdb_votes": 6025,
    "lb_rating": 3.15
   },
   "tmdb:915935": {
@@ -59135,7 +59094,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240464,
+   "imdb_votes": 240492,
    "lb_rating": 4.12
   },
   "t:atat de familiar": {
@@ -59204,7 +59163,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 210,
+   "imdb_votes": 214,
    "lb_rating": 3.05
   },
   "tmdb:1152762": {
@@ -59248,7 +59207,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 2315,
+   "imdb_votes": 2426,
    "lb_rating": 4.44
   },
   "tmdb:1400940": {
@@ -59265,7 +59224,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 53808,
+   "imdb_votes": 54231,
    "lb_rating": 3.71
   },
   "t:copilul noptii": {
@@ -59318,7 +59277,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.8,
-   "imdb_votes": 1458,
+   "imdb_votes": 1462,
    "lb_rating": 3.94
   },
   "tmdb:1756136": {
@@ -59351,7 +59310,7 @@
    "runtime": 170,
    "source": "tmdb",
    "imdb_rating": 5.6,
-   "imdb_votes": 1031,
+   "imdb_votes": 1030,
    "lb_rating": 3.14
   },
   "t:daniel si cuptorul de foc": {
@@ -59429,7 +59388,7 @@
    "runtime": 113,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 432,
+   "imdb_votes": 446,
    "lb_rating": 4.18
   },
   "t:godzilla minus zero": {
@@ -59470,7 +59429,7 @@
    "runtime": 128,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 5126,
+   "imdb_votes": 5468,
    "lb_rating": 3.77
   },
   "tmdb:1773720": {
@@ -59559,7 +59518,9 @@
    ],
    "imdb_id": "tt32558705",
    "runtime": 159,
-   "source": "tmdb"
+   "source": "tmdb",
+   "imdb_rating": 7.6,
+   "imdb_votes": 748
   },
   "tmdb:1410189": {
    "tmdb_id": 1410189,
@@ -59575,7 +59536,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2803,
+   "imdb_votes": 2805,
    "lb_rating": 3.52
   },
   "tmdb:9746": {
@@ -59592,7 +59553,7 @@
    "runtime": 134,
    "source": "tmdb",
    "imdb_rating": 7.0,
-   "imdb_votes": 32691,
+   "imdb_votes": 32694,
    "lb_rating": 3.47
   },
   "tmdb:47439": {
@@ -59638,7 +59599,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2359,
+   "imdb_votes": 2401,
    "lb_rating": 3.71
   },
   "t:minuscule valea furnicilor pierdute": {
@@ -59728,6 +59689,30 @@
    "runtime": null,
    "source": "eventbook"
   },
+  "t:mielul shaun aventuri de halloween": {
+   "tmdb_id": null,
+   "title": "Mielul Shaun: Aventuri de Halloween",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/Shaun_the_Sheep-afis_med-res.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:misterul lui lucy lost": {
+   "tmdb_id": null,
+   "title": "Misterul lui Lucy Lost",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://cinema-timisoara.ro/media/original_images/lucy-lost-afis-ro.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
   "tmdb:1815513": {
    "tmdb_id": 1815513,
    "title": "Monarh",
@@ -59757,7 +59742,7 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 7642,
+   "imdb_votes": 7699,
    "lb_rating": 4.54
   },
   "t:noul babilon novii vavilon": {
@@ -59797,8 +59782,8 @@
    "imdb_id": "tt39228759",
    "runtime": 154,
    "source": "tmdb",
-   "imdb_rating": 7.2,
-   "imdb_votes": 122,
+   "imdb_rating": 7.3,
+   "imdb_votes": 126,
    "lb_rating": 3.57
   },
   "tmdb:1773633": {
@@ -59829,7 +59814,7 @@
    "runtime": 85,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 143018,
+   "imdb_votes": 143029,
    "lb_rating": 4.37
   },
   "tmdb:1172260": {
@@ -59879,7 +59864,7 @@
    "runtime": 84,
    "source": "tmdb",
    "imdb_rating": 8.8,
-   "imdb_votes": 36
+   "imdb_votes": 37
   },
   "tmdb:1765072": {
    "tmdb_id": 1765072,
@@ -59896,7 +59881,7 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 9.0,
-   "imdb_votes": 36483,
+   "imdb_votes": 37037,
    "lb_rating": 4.58
   },
   "t:proiectie teatru copii jack si vrejul de": {
@@ -59937,7 +59922,7 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1249,
+   "imdb_votes": 1271,
    "lb_rating": 3.83
   },
   "t:ramayana": {
@@ -59966,7 +59951,7 @@
    "runtime": 94,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 170222,
+   "imdb_votes": 171412,
    "lb_rating": 3.73
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
@@ -60067,7 +60052,7 @@
    "runtime": 110,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 394,
+   "imdb_votes": 397,
    "lb_rating": 2.83
   },
   "t:ultimele scrisori ale bunicii": {
@@ -60108,7 +60093,7 @@
    "runtime": null,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 52
+   "imdb_votes": 53
   },
   "tmdb:1283515": {
    "tmdb_id": 1283515,
@@ -60124,7 +60109,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 6.0,
-   "imdb_votes": 39025,
+   "imdb_votes": 39304,
    "lb_rating": 2.63
   },
   "tmdb:891621": {
@@ -60141,7 +60126,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 20739,
+   "imdb_votes": 21986,
    "lb_rating": 4.15
   },
   "tmdb:791523": {
@@ -60158,7 +60143,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 31001,
+   "imdb_votes": 31550,
    "lb_rating": 4.38
   },
   "t:wildwood dub": {
@@ -60199,7 +60184,7 @@
    "runtime": 101,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 59993,
+   "imdb_votes": 60977,
    "lb_rating": 3.29
   },
   "t:sarpele negru blestemul din amazon": {
