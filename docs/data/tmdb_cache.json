@@ -2325,6 +2325,51 @@
    "fetched": "2026-11-17T18:10:46+00:00",
    "lb": 3.77,
    "lb_ts": "2026-11-17T18:10:47+00:00"
+  },
+  "36245": {
+   "title": "Jurnalul unei cameriste",
+   "original_title": "Le Journal d'une femme de chambre",
+   "orig_lang": "fr",
+   "year": "1964",
+   "poster": "https://image.tmdb.org/t/p/w185/84R02M3LsEdWcg3ToqhRdTEkBMS.jpg",
+   "directors": [
+    "Luis Buñuel"
+   ],
+   "cast": [
+    "Jeanne Moreau",
+    "Georges Géret",
+    "Michel Piccoli",
+    "Françoise Lugagne",
+    "Jean Ozenne",
+    "Daniel Ivernel"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0058249",
+   "runtime": 97,
+   "fetched": "2026-11-20T10:17:45+00:00"
+  },
+  "1750263": {
+   "title": "Persona",
+   "original_title": "Persona",
+   "orig_lang": "eo",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/4ryH4UEuEr9yhm5ehgy7qe7f5oh.jpg",
+   "directors": [
+    "Thomas Mejia"
+   ],
+   "cast": [
+    "Salomon Erazo",
+    "Thomas Mejia",
+    "Nicolas Franco",
+    "Thomas Mejia",
+    "Thomas Mejia"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": 25,
+   "fetched": "2026-11-20T10:17:54+00:00"
   }
  },
  "search": {
@@ -2335,25 +2380,25 @@
      "title": "100 de lei",
      "original_title": "100 de lei",
      "release_date": "1973-11-05",
-     "popularity": 0.1927
+     "popularity": 0.246
     },
     {
      "id": 593696,
      "title": "Auf der anderen Seite der Leinwand - 100 Jahre Moviemento Cinema",
      "original_title": "Auf der anderen Seite der Leinwand - 100 Jahre Moviemento Cinema",
      "release_date": "2009-10-28",
-     "popularity": 0.5364
+     "popularity": 0.532
     }
    ],
-   "ts": "2026-11-16T09:34:52+00:00"
+   "ts": "2026-11-20T10:17:34+00:00"
   },
   "100 lei|2026": {
    "res": [],
-   "ts": "2026-11-16T09:34:52+00:00"
+   "ts": "2026-11-20T10:17:34+00:00"
   },
   "100 lei|2025": {
    "res": [],
-   "ts": "2026-11-16T09:34:52+00:00"
+   "ts": "2026-11-20T10:17:34+00:00"
   },
   "3 zile in septembrie|": {
    "res": [
@@ -2362,10 +2407,10 @@
      "title": "3 zile în septembrie",
      "original_title": "3 zile în septembrie",
      "release_date": "2026-02-03",
-     "popularity": 0.7522
+     "popularity": 0.5679
     }
    ],
-   "ts": "2026-11-16T09:34:52+00:00"
+   "ts": "2026-11-20T10:17:35+00:00"
   },
   "3 zile in septembrie|2026": {
    "res": [
@@ -2374,14 +2419,14 @@
      "title": "3 zile în septembrie",
      "original_title": "3 zile în septembrie",
      "release_date": "2026-02-03",
-     "popularity": 0.7522
+     "popularity": 0.5679
     }
    ],
-   "ts": "2026-11-16T09:34:52+00:00"
+   "ts": "2026-11-20T10:17:35+00:00"
   },
   "3 zile in septembrie|2025": {
    "res": [],
-   "ts": "2026-11-16T09:34:52+00:00"
+   "ts": "2026-11-20T10:17:35+00:00"
   },
   "a matter of life and death|": {
    "res": [
@@ -2390,66 +2435,66 @@
      "title": "O chestiune de viață și de moarte",
      "original_title": "A Matter of Life and Death",
      "release_date": "1946-12-15",
-     "popularity": 2.9263
+     "popularity": 3.0329
     },
     {
      "id": 727178,
      "title": "A Matter of Life and Death",
      "original_title": "A Matter of Life and Death",
      "release_date": "1981-01-13",
-     "popularity": 0.7815
+     "popularity": 0.7342
     },
     {
      "id": 1250059,
      "title": "A Matter of Life and Death",
      "original_title": "A Matter of Life and Death",
      "release_date": "1991-01-01",
-     "popularity": 0.1719
+     "popularity": 0.1305
     },
     {
      "id": 302764,
      "title": "A Matter of Death and Life",
      "original_title": "A Matter of Death and Life",
      "release_date": "2013-05-01",
-     "popularity": 0.0732
+     "popularity": 0.0187
     },
     {
      "id": 154203,
      "title": "Iron Maiden: The Making Of A Matter Of Life And Death",
      "original_title": "Iron Maiden: The Making Of A Matter Of Life And Death",
      "release_date": "2006-08-25",
-     "popularity": 0.378
+     "popularity": 0.387
     },
     {
      "id": 876169,
      "title": "Osher Günsberg: A Matter of Life and Death",
      "original_title": "Osher Günsberg: A Matter of Life and Death",
      "release_date": "",
-     "popularity": 0.1203
+     "popularity": 0.1128
     },
     {
      "id": 1418982,
      "title": "مسألة حياة أو موت",
      "original_title": "مسألة حياة أو موت",
      "release_date": "2026-06-25",
-     "popularity": 1.5467
+     "popularity": 1.2058
     },
     {
      "id": 229256,
      "title": "På liv och död",
      "original_title": "På liv och död",
      "release_date": "1986-11-20",
-     "popularity": 0.4605
+     "popularity": 0.4097
     },
     {
      "id": 808593,
      "title": "Auf Leben und Tod – Meilensteine der Hygiene",
      "original_title": "Auf Leben und Tod – Meilensteine der Hygiene",
      "release_date": "2021-03-19",
-     "popularity": 0.3105
+     "popularity": 0.3645
     }
    ],
-   "ts": "2026-11-16T09:34:55+00:00"
+   "ts": "2026-11-20T10:17:35+00:00"
   },
   "a matter of life and death|2026": {
    "res": [
@@ -2458,14 +2503,14 @@
      "title": "مسألة حياة أو موت",
      "original_title": "مسألة حياة أو موت",
      "release_date": "2026-06-25",
-     "popularity": 1.5467
+     "popularity": 1.2058
     }
    ],
-   "ts": "2026-11-16T09:34:55+00:00"
+   "ts": "2026-11-20T10:17:36+00:00"
   },
   "a matter of life and death|2025": {
    "res": [],
-   "ts": "2026-11-16T09:34:55+00:00"
+   "ts": "2026-11-20T10:17:36+00:00"
   },
   "amarga navidad|": {
    "res": [
@@ -2474,10 +2519,10 @@
      "title": "Amarga Navidad",
      "original_title": "Amarga Navidad",
      "release_date": "2026-03-20",
-     "popularity": 7.4358
+     "popularity": 33.5167
     }
    ],
-   "ts": "2026-11-16T09:34:58+00:00"
+   "ts": "2026-11-20T10:17:36+00:00"
   },
   "amarga navidad|2026": {
    "res": [
@@ -2486,14 +2531,14 @@
      "title": "Amarga Navidad",
      "original_title": "Amarga Navidad",
      "release_date": "2026-03-20",
-     "popularity": 7.4358
+     "popularity": 33.5167
     }
    ],
-   "ts": "2026-11-16T09:34:58+00:00"
+   "ts": "2026-11-20T10:17:36+00:00"
   },
   "amarga navidad|2025": {
    "res": [],
-   "ts": "2026-11-16T09:34:59+00:00"
+   "ts": "2026-11-20T10:17:37+00:00"
   },
   "craciun amar|": {
    "res": [
@@ -2502,25 +2547,25 @@
      "title": "O nouă poveste de Crăciun",
      "original_title": "Last Christmas",
      "release_date": "2019-11-07",
-     "popularity": 5.2445
+     "popularity": 4.9006
     },
     {
      "id": 1377267,
      "title": "Un Crăciun romantic",
      "original_title": "A Carpenter Christmas Romance",
      "release_date": "2024-12-21",
-     "popularity": 1.4033
+     "popularity": 1.3158
     }
    ],
-   "ts": "2026-11-16T09:34:59+00:00"
+   "ts": "2026-11-20T10:17:37+00:00"
   },
   "craciun amar|2026": {
    "res": [],
-   "ts": "2026-11-16T09:34:59+00:00"
+   "ts": "2026-11-20T10:17:37+00:00"
   },
   "craciun amar|2025": {
    "res": [],
-   "ts": "2026-11-16T09:34:59+00:00"
+   "ts": "2026-11-20T10:17:37+00:00"
   },
   "anatomie d une chute|": {
    "res": [
@@ -2529,25 +2574,25 @@
      "title": "Anatomia unei prăbușiri",
      "original_title": "Anatomie d'une chute",
      "release_date": "2023-08-23",
-     "popularity": 13.1885
+     "popularity": 12.2785
     },
     {
      "id": 1251247,
      "title": "Anatomie d'une chute : L'ascension de Justine Triet",
      "original_title": "Anatomie d'une chute : L'ascension de Justine Triet",
      "release_date": "2024-02-27",
-     "popularity": 0.5718
+     "popularity": 0.4741
     }
    ],
-   "ts": "2026-11-16T09:35:02+00:00"
+   "ts": "2026-11-20T10:17:37+00:00"
   },
   "anatomie d une chute|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:02+00:00"
+   "ts": "2026-11-20T10:17:38+00:00"
   },
   "anatomie d une chute|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:02+00:00"
+   "ts": "2026-11-20T10:17:38+00:00"
   },
   "anatomia unei prabusiri|": {
    "res": [
@@ -2556,18 +2601,18 @@
      "title": "Anatomia unei prăbușiri",
      "original_title": "Anatomie d'une chute",
      "release_date": "2023-08-23",
-     "popularity": 13.1885
+     "popularity": 12.2785
     }
    ],
-   "ts": "2026-11-16T09:35:03+00:00"
+   "ts": "2026-11-20T10:17:38+00:00"
   },
   "anatomia unei prabusiri|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:03+00:00"
+   "ts": "2026-11-20T10:17:38+00:00"
   },
   "anatomia unei prabusiri|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:03+00:00"
+   "ts": "2026-11-20T10:17:39+00:00"
   },
   "atat de familiar|": {
    "res": [
@@ -2576,10 +2621,10 @@
      "title": "Something Familiar",
      "original_title": "Something Familiar",
      "release_date": "2026-03-17",
-     "popularity": 0.6624
+     "popularity": 0.4342
     }
    ],
-   "ts": "2026-11-16T09:35:05+00:00"
+   "ts": "2026-11-20T10:17:39+00:00"
   },
   "atat de familiar|2026": {
    "res": [
@@ -2588,26 +2633,26 @@
      "title": "Something Familiar",
      "original_title": "Something Familiar",
      "release_date": "2026-03-17",
-     "popularity": 0.6624
+     "popularity": 0.4342
     }
    ],
-   "ts": "2026-11-16T09:35:06+00:00"
+   "ts": "2026-11-20T10:17:39+00:00"
   },
   "atat de familiar|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:06+00:00"
+   "ts": "2026-11-20T10:17:39+00:00"
   },
   "babardeala cu buclul sau porno balamuc|": {
    "res": [],
-   "ts": "2026-11-16T09:35:06+00:00"
+   "ts": "2026-11-20T10:17:40+00:00"
   },
   "babardeala cu buclul sau porno balamuc|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:06+00:00"
+   "ts": "2026-11-20T10:17:40+00:00"
   },
   "babardeala cu buclul sau porno balamuc|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:06+00:00"
+   "ts": "2026-11-20T10:17:40+00:00"
   },
   "cazul inginerului ursu|": {
    "res": [
@@ -2616,18 +2661,18 @@
      "title": "Cazul inginerului Ursu",
      "original_title": "Cazul inginerului Ursu",
      "release_date": "2023-06-29",
-     "popularity": 0.2378
+     "popularity": 0.0509
     }
    ],
-   "ts": "2026-11-16T09:35:07+00:00"
+   "ts": "2026-11-20T10:17:40+00:00"
   },
   "cazul inginerului ursu|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:07+00:00"
+   "ts": "2026-11-20T10:17:40+00:00"
   },
   "cazul inginerului ursu|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:07+00:00"
+   "ts": "2026-11-20T10:17:41+00:00"
   },
   "club kid|": {
    "res": [
@@ -2636,73 +2681,73 @@
      "title": "Club Kid",
      "original_title": "Club Kid",
      "release_date": "2026-11-04",
-     "popularity": 9.7231
+     "popularity": 11.1396
     },
     {
      "id": 1264961,
      "title": "Club Kid Alley",
      "original_title": "Club Kid Alley",
      "release_date": "2024-03-23",
-     "popularity": 0.0335
+     "popularity": 0.0599
     },
     {
      "id": 1628500,
      "title": "The Jesus Kids' Club",
      "original_title": "The Jesus Kids' Club",
      "release_date": "",
-     "popularity": 0.2937
+     "popularity": 0.2407
     },
     {
      "id": 1168003,
      "title": "Club avant Seine : Kids Return - Rock en Seine 2022",
      "original_title": "Club avant Seine : Kids Return - Rock en Seine 2022",
      "release_date": "2022-08-27",
-     "popularity": 0.3286
+     "popularity": 0.3417
     },
     {
      "id": 312194,
      "title": "Raggs Kids Club Band: Pawsuuup! Tour",
      "original_title": "Raggs Kids Club Band: Pawsuuup! Tour",
      "release_date": "2005-01-01",
-     "popularity": 0.0254
+     "popularity": 0.0307
     },
     {
      "id": 835898,
      "title": "Holly Hippo's Book Club for Kids: Sleeping Beauty",
      "original_title": "Holly Hippo's Book Club for Kids: Sleeping Beauty",
      "release_date": "",
-     "popularity": 0.0643
+     "popularity": 0.0879
     },
     {
      "id": 317765,
      "title": "Gina D's Kids Club: Join in on the Fun",
      "original_title": "Gina D's Kids Club: Join in on the Fun",
      "release_date": "",
-     "popularity": 0.1155
+     "popularity": 0.069
     },
     {
      "id": 14476,
      "title": "Clubbed",
      "original_title": "Clubbed",
      "release_date": "2008-10-02",
-     "popularity": 0.7724
+     "popularity": 0.7538
     },
     {
      "id": 79086,
      "title": "The Bike Squad",
      "original_title": "The Bike Squad",
      "release_date": "2002-01-01",
-     "popularity": 0.3428
+     "popularity": 0.4303
     },
     {
      "id": 288249,
      "title": "Clubhouse Detectives",
      "original_title": "Clubhouse Detectives",
      "release_date": "1996-01-01",
-     "popularity": 0.4469
+     "popularity": 0.3718
     }
    ],
-   "ts": "2026-11-16T09:35:09+00:00"
+   "ts": "2026-11-20T10:17:41+00:00"
   },
   "club kid|2026": {
    "res": [
@@ -2711,14 +2756,14 @@
      "title": "Club Kid",
      "original_title": "Club Kid",
      "release_date": "2026-11-04",
-     "popularity": 9.7231
+     "popularity": 11.1396
     }
    ],
-   "ts": "2026-11-16T09:35:09+00:00"
+   "ts": "2026-11-20T10:17:41+00:00"
   },
   "club kid|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:10+00:00"
+   "ts": "2026-11-20T10:17:41+00:00"
   },
   "delta salbatica|": {
    "res": [
@@ -2727,10 +2772,10 @@
      "title": "Delta Sălbatică",
      "original_title": "Delta Sălbatică",
      "release_date": "2026-06-19",
-     "popularity": 0.205
+     "popularity": 0.19
     }
    ],
-   "ts": "2026-11-16T09:35:13+00:00"
+   "ts": "2026-11-20T10:17:43+00:00"
   },
   "delta salbatica|2026": {
    "res": [
@@ -2739,14 +2784,14 @@
      "title": "Delta Sălbatică",
      "original_title": "Delta Sălbatică",
      "release_date": "2026-06-19",
-     "popularity": 0.205
+     "popularity": 0.19
     }
    ],
-   "ts": "2026-11-16T09:35:13+00:00"
+   "ts": "2026-11-20T10:17:43+00:00"
   },
   "delta salbatica|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:14+00:00"
+   "ts": "2026-11-20T10:17:43+00:00"
   },
   "dracula|": {
    "res": [
@@ -2755,73 +2800,73 @@
      "title": "Dracula: O poveste de iubire",
      "original_title": "Dracula",
      "release_date": "2025-07-30",
-     "popularity": 19.7502
+     "popularity": 17.0349
     },
     {
      "id": 138,
      "title": "Dracula",
      "original_title": "Dracula",
      "release_date": "1931-02-12",
-     "popularity": 4.998
+     "popularity": 4.5368
     },
     {
      "id": 49017,
      "title": "Dracula: Povestea nespusă",
      "original_title": "Dracula Untold",
      "release_date": "2014-10-01",
-     "popularity": 5.3132
+     "popularity": 4.5727
     },
     {
      "id": 11868,
      "title": "Groaza lui Dracula",
      "original_title": "Dracula",
      "release_date": "1958-04-21",
-     "popularity": 2.5796
+     "popularity": 2.9409
     },
     {
      "id": 6114,
      "title": "Dracula lui Bram Stoker",
      "original_title": "Bram Stoker's Dracula",
      "release_date": "1992-11-13",
-     "popularity": 11.1806
+     "popularity": 10.5306
     },
     {
      "id": 10577,
      "title": "Dracula 2000",
      "original_title": "Dracula 2000",
      "release_date": "2000-12-22",
-     "popularity": 2.8143
+     "popularity": 2.6519
     },
     {
      "id": 33521,
      "title": "Dracula",
      "original_title": "Dracula",
      "release_date": "1979-07-20",
-     "popularity": 2.0045
-    },
-    {
-     "id": 86889,
-     "title": "Dracula",
-     "original_title": "Dracula",
-     "release_date": "1974-06-13",
-     "popularity": 1.1286
+     "popularity": 1.8649
     },
     {
      "id": 1323409,
      "title": "Dracula",
      "original_title": "Dracula",
      "release_date": "2025-10-15",
-     "popularity": 1.8566
+     "popularity": 2.0582
+    },
+    {
+     "id": 86889,
+     "title": "Dracula",
+     "original_title": "Dracula",
+     "release_date": "1974-06-13",
+     "popularity": 0.9908
     },
     {
      "id": 1076318,
      "title": "Dracula dezpământenit",
      "original_title": "Dracula Unearthed",
      "release_date": "2022-10-31",
-     "popularity": 0.6588
+     "popularity": 0.5676
     }
    ],
-   "ts": "2026-11-16T09:35:16+00:00"
+   "ts": "2026-11-20T10:17:44+00:00"
   },
   "dracula|2026": {
    "res": [
@@ -2830,73 +2875,73 @@
      "title": "Dracula",
      "original_title": "Dracula",
      "release_date": "2026-08-26",
-     "popularity": 0.8129
+     "popularity": 0.5746
     },
     {
      "id": 1559637,
      "title": "Dracula in Space",
      "original_title": "Dracula in Space",
      "release_date": "2026-02-21",
-     "popularity": 0.8701
+     "popularity": 0.7183
     },
     {
      "id": 1102905,
      "title": "Robot Dracula",
      "original_title": "Robot Dracula",
      "release_date": "2026-03-31",
-     "popularity": 0.5937
+     "popularity": 0.824
     },
     {
      "id": 1492566,
      "title": "Dracula Eternal",
      "original_title": "Dracula Eternal",
      "release_date": "2026-01-16",
-     "popularity": 0.3864
+     "popularity": 14.9581
     },
     {
      "id": 1802904,
      "title": "Restoring Dracula",
      "original_title": "Restoring Dracula",
      "release_date": "2026-10-16",
-     "popularity": 0.1904
+     "popularity": 0.1807
     },
     {
      "id": 1753621,
      "title": "La muerte de Drácula",
      "original_title": "La muerte de Drácula",
      "release_date": "2026-10-08",
-     "popularity": 0.5144
+     "popularity": 0.4906
     },
     {
      "id": 1698022,
      "title": "Dracula: The Night Around Us",
      "original_title": "Dracula: The Night Around Us",
      "release_date": "2026-06-03",
-     "popularity": 0.6022
+     "popularity": 0.7864
     },
     {
      "id": 1805027,
      "title": "Dracula : la véritable histoire",
      "original_title": "Dracula : la véritable histoire",
      "release_date": "2026-10-24",
-     "popularity": 0.4381
+     "popularity": 0.4239
     },
     {
      "id": 1565041,
      "title": "Dracula 2: The Ride Home",
      "original_title": "Dracula 2: The Ride Home",
      "release_date": "2026-04-25",
-     "popularity": 0.2272
+     "popularity": 0.3529
     },
     {
      "id": 1617342,
      "title": "Drácula/Homem-Morcego",
      "original_title": "Drácula/Homem-Morcego",
      "release_date": "2026-01-13",
-     "popularity": 0.1291
+     "popularity": 0.0627
     }
    ],
-   "ts": "2026-11-16T09:35:16+00:00"
+   "ts": "2026-11-20T10:17:44+00:00"
   },
   "dracula|2025": {
    "res": [
@@ -2905,73 +2950,73 @@
      "title": "Dracula: O poveste de iubire",
      "original_title": "Dracula",
      "release_date": "2025-07-30",
-     "popularity": 19.7502
+     "popularity": 17.0349
     },
     {
      "id": 1323409,
      "title": "Dracula",
      "original_title": "Dracula",
      "release_date": "2025-10-15",
-     "popularity": 1.8566
+     "popularity": 2.0582
     },
     {
      "id": 1581471,
      "title": "Dracula",
      "original_title": "Dracula",
      "release_date": "2025-11-21",
-     "popularity": 0.1088
+     "popularity": 0.1113
     },
     {
      "id": 1543944,
      "title": "Dracula Revamped",
      "original_title": "Dracula Revamped",
      "release_date": "2025-10-08",
-     "popularity": 0.3229
+     "popularity": 0.1041
     },
     {
      "id": 1432079,
      "title": "Dracula est amoureux",
      "original_title": "Dracula est amoureux",
      "release_date": "2025-02-08",
-     "popularity": 0.4558
+     "popularity": 0.3565
     },
     {
      "id": 1531928,
      "title": "Dracula: Rise of the Vampire",
      "original_title": "Dracula: Rise of the Vampire",
      "release_date": "2025-08-21",
-     "popularity": 0.5768
+     "popularity": 0.4646
     },
     {
      "id": 1452176,
      "title": "Băieții lui Abraham",
      "original_title": "Abraham's Boys: A Dracula Story",
      "release_date": "2025-07-11",
-     "popularity": 1.7096
+     "popularity": 1.9004
     },
     {
      "id": 1574979,
      "title": "The Last Bride of Dracula",
      "original_title": "The Last Bride of Dracula",
      "release_date": "2025-11-01",
-     "popularity": 0.0687
+     "popularity": 0.0352
     },
     {
      "id": 1368226,
      "title": "Draculas Wiederkehr",
      "original_title": "Draculas Wiederkehr",
      "release_date": "2025-10-31",
-     "popularity": 0.8735
+     "popularity": 0.6961
     },
     {
      "id": 1598522,
      "title": "ミュージカル「ドラキュラ」",
      "original_title": "ミュージカル「ドラキュラ」",
      "release_date": "2025-03-02",
-     "popularity": 0.0726
+     "popularity": 0.0516
     }
    ],
-   "ts": "2026-11-16T09:35:17+00:00"
+   "ts": "2026-11-20T10:17:44+00:00"
   },
   "foldszint|": {
    "res": [
@@ -3190,25 +3235,32 @@
      "title": "Jurnalul unei cameriste",
      "original_title": "Jurnalul unei cameriste",
      "release_date": "",
-     "popularity": 0.059
+     "popularity": 0.0347
+    },
+    {
+     "id": 36245,
+     "title": "Jurnalul unei cameriste",
+     "original_title": "Le Journal d'une femme de chambre",
+     "release_date": "1964-03-04",
+     "popularity": 1.9534
     },
     {
      "id": 320003,
      "title": "Jurnalul unei cameriste",
      "original_title": "Journal d'une femme de chambre",
      "release_date": "2015-04-01",
-     "popularity": 1.7335
+     "popularity": 1.7055
     }
    ],
-   "ts": "2026-11-16T09:35:27+00:00"
+   "ts": "2026-11-20T10:17:44+00:00"
   },
   "jurnalul unei cameriste|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:27+00:00"
+   "ts": "2026-11-20T10:17:45+00:00"
   },
   "jurnalul unei cameriste|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:28+00:00"
+   "ts": "2026-11-20T10:17:45+00:00"
   },
   "kontinental 25|": {
    "res": [
@@ -3217,14 +3269,14 @@
      "title": "Kontinental '25",
      "original_title": "Kontinental '25",
      "release_date": "2025-06-20",
-     "popularity": 1.3458
+     "popularity": 1.1038
     }
    ],
-   "ts": "2026-11-16T09:35:31+00:00"
+   "ts": "2026-11-20T10:17:45+00:00"
   },
   "kontinental 25|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:31+00:00"
+   "ts": "2026-11-20T10:17:46+00:00"
   },
   "kontinental 25|2025": {
    "res": [
@@ -3233,10 +3285,10 @@
      "title": "Kontinental '25",
      "original_title": "Kontinental '25",
      "release_date": "2025-06-20",
-     "popularity": 1.3458
+     "popularity": 1.1038
     }
    ],
-   "ts": "2026-11-16T09:35:31+00:00"
+   "ts": "2026-11-20T10:17:46+00:00"
   },
   "le chant des forets|": {
    "res": [
@@ -3245,14 +3297,14 @@
      "title": "Le Chant des forêts",
      "original_title": "Le Chant des forêts",
      "release_date": "2025-12-17",
-     "popularity": 2.5934
+     "popularity": 2.5176
     }
    ],
-   "ts": "2026-11-16T09:35:34+00:00"
+   "ts": "2026-11-20T10:17:42+00:00"
   },
   "le chant des forets|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:34+00:00"
+   "ts": "2026-11-20T10:17:42+00:00"
   },
   "le chant des forets|2025": {
    "res": [
@@ -3261,22 +3313,22 @@
      "title": "Le Chant des forêts",
      "original_title": "Le Chant des forêts",
      "release_date": "2025-12-17",
-     "popularity": 2.5934
+     "popularity": 2.5176
     }
    ],
-   "ts": "2026-11-16T09:35:34+00:00"
+   "ts": "2026-11-20T10:17:43+00:00"
   },
   "cantecul padurii|": {
    "res": [],
-   "ts": "2026-11-16T09:35:34+00:00"
+   "ts": "2026-11-20T10:17:42+00:00"
   },
   "cantecul padurii|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:35+00:00"
+   "ts": "2026-11-20T10:17:42+00:00"
   },
   "cantecul padurii|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:35+00:00"
+   "ts": "2026-11-20T10:17:42+00:00"
   },
   "le temps retrouve|": {
    "res": [
@@ -3285,44 +3337,44 @@
      "title": "Le Temps retrouvé",
      "original_title": "Le Temps retrouvé",
      "release_date": "1999-05-19",
-     "popularity": 1.1844
+     "popularity": 1.4557
     },
     {
      "id": 246433,
      "title": "Yves Saint Laurent: Le temps retrouvé",
      "original_title": "Yves Saint Laurent: Le temps retrouvé",
      "release_date": "2002-01-09",
-     "popularity": 0.6087
+     "popularity": 0.5506
     },
     {
      "id": 675248,
      "title": "David Hockney - Die wiedergefundene Zeit",
      "original_title": "David Hockney - Die wiedergefundene Zeit",
      "release_date": "2017-07-16",
-     "popularity": 0.5224
+     "popularity": 0.551
     }
    ],
-   "ts": "2026-11-16T09:35:37+00:00"
+   "ts": "2026-11-20T10:17:46+00:00"
   },
   "le temps retrouve|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:38+00:00"
+   "ts": "2026-11-20T10:17:46+00:00"
   },
   "le temps retrouve|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:38+00:00"
+   "ts": "2026-11-20T10:17:46+00:00"
   },
   "timpul regasit|": {
    "res": [],
-   "ts": "2026-11-16T09:35:38+00:00"
+   "ts": "2026-11-20T10:17:47+00:00"
   },
   "timpul regasit|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:38+00:00"
+   "ts": "2026-11-20T10:17:47+00:00"
   },
   "timpul regasit|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:38+00:00"
+   "ts": "2026-11-20T10:17:47+00:00"
   },
   "minotaure|": {
    "res": [
@@ -3331,73 +3383,73 @@
      "title": "Minotaure",
      "original_title": "Minotaure",
      "release_date": "2026-10-14",
-     "popularity": 8.1939
+     "popularity": 8.5135
     },
     {
      "id": 497061,
      "title": "Le minotaure",
      "original_title": "Le minotaure",
      "release_date": "1969-03-07",
-     "popularity": 0.4619
+     "popularity": 0.3939
     },
     {
      "id": 1590954,
      "title": "Les Muses du Minotaure",
      "original_title": "Les Muses du Minotaure",
      "release_date": "",
-     "popularity": 0.1895
+     "popularity": 0.3092
     },
     {
      "id": 527191,
      "title": "Minotaure Mein Führer",
      "original_title": "Minotaure Mein Führer",
      "release_date": "2008-01-01",
-     "popularity": 0.0795
+     "popularity": 0.0472
     },
     {
      "id": 1281963,
      "title": "Le Bal du Minotaure",
      "original_title": "Le Bal du Minotaure",
      "release_date": "1998-01-01",
-     "popularity": 0.1495
+     "popularity": 0.0896
     },
     {
      "id": 1199305,
      "title": "La Grève du Minotaure",
      "original_title": "La Grève du Minotaure",
      "release_date": "2023-10-29",
-     "popularity": 0.0972
+     "popularity": 0.042
     },
     {
      "id": 1108716,
      "title": "Le minotaure, c'est moi ! Picasso et les taureaux",
      "original_title": "Le minotaure, c'est moi ! Picasso et les taureaux",
      "release_date": "2023-04-02",
-     "popularity": 0.2592
+     "popularity": 0.3565
     },
     {
      "id": 70811,
      "title": "Hercule în labirintul Minotaurului",
      "original_title": "Hercules in the Maze of the Minotaur",
      "release_date": "1994-11-19",
-     "popularity": 1.1085
+     "popularity": 1.2658
     },
     {
      "id": 56652,
      "title": "Sinbad and the Minotaur",
      "original_title": "Sinbad and the Minotaur",
      "release_date": "2011-05-07",
-     "popularity": 1.2273
+     "popularity": 1.1721
     },
     {
      "id": 142282,
      "title": "Teseo contro il minotauro",
      "original_title": "Teseo contro il minotauro",
      "release_date": "1960-11-25",
-     "popularity": 1.085
+     "popularity": 0.9645
     }
    ],
-   "ts": "2026-11-16T09:35:41+00:00"
+   "ts": "2026-11-20T10:17:47+00:00"
   },
   "minotaure|2026": {
    "res": [
@@ -3406,14 +3458,14 @@
      "title": "Minotaure",
      "original_title": "Minotaure",
      "release_date": "2026-10-14",
-     "popularity": 8.1939
+     "popularity": 8.5135
     }
    ],
-   "ts": "2026-11-16T09:35:41+00:00"
+   "ts": "2026-11-20T10:17:48+00:00"
   },
   "minotaure|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:41+00:00"
+   "ts": "2026-11-20T10:17:48+00:00"
   },
   "minotaur|": {
    "res": [
@@ -3422,73 +3474,73 @@
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "2006-03-11",
-     "popularity": 1.407
+     "popularity": 1.4293
     },
     {
      "id": 399940,
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "2016-01-29",
-     "popularity": 0.5073
+     "popularity": 0.3908
     },
     {
      "id": 1316375,
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "2009-01-28",
-     "popularity": 0.1955
+     "popularity": 0.1841
     },
     {
      "id": 857471,
      "title": "The Minotaur",
      "original_title": "The Minotaur",
      "release_date": "2016-01-23",
-     "popularity": 0.2454
+     "popularity": 0.2254
     },
     {
      "id": 857962,
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "2020-06-10",
-     "popularity": 0.4348
+     "popularity": 0.2575
     },
     {
      "id": 1651347,
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "",
-     "popularity": 0.3596
+     "popularity": 0.3643
     },
     {
      "id": 576157,
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "2014-06-17",
-     "popularity": 0.2026
+     "popularity": 0.1697
     },
     {
      "id": 688486,
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "1994-06-10",
-     "popularity": 0.3157
+     "popularity": 0.2267
     },
     {
      "id": 1570360,
      "title": "MINOTAUR",
      "original_title": "MINOTAUR",
      "release_date": "2024-07-06",
-     "popularity": 0.3476
+     "popularity": 0.3337
     },
     {
      "id": 1195572,
      "title": "Minotaur",
      "original_title": "Minotaur",
      "release_date": "",
-     "popularity": 0.2502
+     "popularity": 0.2237
     }
    ],
-   "ts": "2026-11-16T09:35:41+00:00"
+   "ts": "2026-11-20T10:17:48+00:00"
   },
   "minotaur|2026": {
    "res": [
@@ -3497,17 +3549,17 @@
      "title": "The Minotaur",
      "original_title": "The Minotaur",
      "release_date": "2026-10-23",
-     "popularity": 0.0953
+     "popularity": 0.1867
     },
     {
      "id": 848700,
      "title": "Minotaure",
      "original_title": "Minotaure",
      "release_date": "2026-10-14",
-     "popularity": 8.1939
+     "popularity": 8.5135
     }
    ],
-   "ts": "2026-11-16T09:35:41+00:00"
+   "ts": "2026-11-20T10:17:48+00:00"
   },
   "minotaur|2025": {
    "res": [
@@ -3516,17 +3568,17 @@
      "title": "Mütter des Minotaurus - Kretas mächtige Frauen",
      "original_title": "Mütter des Minotaurus - Kretas mächtige Frauen",
      "release_date": "2025-08-16",
-     "popularity": 0.3645
+     "popularity": 0.4113
     },
     {
      "id": 1561443,
      "title": "Teseu e o Minotauro",
      "original_title": "Teseu e o Minotauro",
      "release_date": "2025-05-18",
-     "popularity": 0.2385
+     "popularity": 0.1101
     }
    ],
-   "ts": "2026-11-16T09:35:42+00:00"
+   "ts": "2026-11-20T10:17:49+00:00"
   },
   "minuscule valea furnicilor pierdute|": {
    "res": [],
@@ -3547,42 +3599,42 @@
      "title": "Mon Inséparable",
      "original_title": "Mon Inséparable",
      "release_date": "2024-12-25",
-     "popularity": 0.7783
+     "popularity": 0.6946
     }
    ],
-   "ts": "2026-11-16T09:35:46+00:00"
+   "ts": "2026-11-20T10:17:49+00:00"
   },
   "mon inseparable|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:46+00:00"
+   "ts": "2026-11-20T10:17:49+00:00"
   },
   "mon inseparable|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:47+00:00"
+   "ts": "2026-11-20T10:17:49+00:00"
   },
   "tot ce am mai de pret|": {
    "res": [],
-   "ts": "2026-11-16T09:35:47+00:00"
+   "ts": "2026-11-20T10:17:49+00:00"
   },
   "tot ce am mai de pret|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:47+00:00"
+   "ts": "2026-11-20T10:17:50+00:00"
   },
   "tot ce am mai de pret|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:47+00:00"
+   "ts": "2026-11-20T10:17:50+00:00"
   },
   "mici excese a vinganca de uma mulher|": {
    "res": [],
-   "ts": "2026-11-16T09:35:50+00:00"
+   "ts": "2026-11-20T10:17:50+00:00"
   },
   "mici excese a vinganca de uma mulher|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:50+00:00"
+   "ts": "2026-11-20T10:17:50+00:00"
   },
   "mici excese a vinganca de uma mulher|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:50+00:00"
+   "ts": "2026-11-20T10:17:51+00:00"
   },
   "mici excese pas sur la bouche|": {
    "res": [],
@@ -3603,25 +3655,25 @@
      "title": "Monarh",
      "original_title": "Monarh",
      "release_date": "",
-     "popularity": 0.3648
+     "popularity": 0.2779
     },
     {
      "id": 757514,
      "title": "Fiul monarhilor",
      "original_title": "Hijo de monarcas",
      "release_date": "2021-10-15",
-     "popularity": 0.5247
+     "popularity": 0.5742
     }
    ],
-   "ts": "2026-11-16T09:35:51+00:00"
+   "ts": "2026-11-20T10:17:51+00:00"
   },
   "monarh|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:51+00:00"
+   "ts": "2026-11-20T10:17:51+00:00"
   },
   "monarh|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:51+00:00"
+   "ts": "2026-11-20T10:17:51+00:00"
   },
   "morvern callar|": {
    "res": [
@@ -3650,73 +3702,73 @@
      "title": "NAZA",
      "original_title": "NAZA",
      "release_date": "2026-09-25",
-     "popularity": 12.8602
+     "popularity": 10.0139
     },
     {
      "id": 1801889,
      "title": "Naza - Batiment B",
      "original_title": "Naza - Batiment B",
      "release_date": "2026-06-09",
-     "popularity": 0.3039
+     "popularity": 0.1795
     },
     {
      "id": 1801903,
      "title": "Oxmo Puccino invite Naza & Nono La Grinta - Batiment B",
      "original_title": "Oxmo Puccino invite Naza & Nono La Grinta - Batiment B",
      "release_date": "",
-     "popularity": 0.5572
+     "popularity": 0.4755
     },
     {
      "id": 1560392,
      "title": "Remaking the Middle East: Israel vs. Iran",
      "original_title": "Remaking the Middle East: Israel vs. Iran",
      "release_date": "2026-03-11",
-     "popularity": 0.5744
-    },
-    {
-     "id": 35124,
-     "title": "Nazarín",
-     "original_title": "Nazarín",
-     "release_date": "1959-06-04",
-     "popularity": 0.8456
+     "popularity": 0.5233
     },
     {
      "id": 180718,
      "title": "Maria Di Nazaret",
      "original_title": "Maria Di Nazaret",
      "release_date": "2012-04-01",
-     "popularity": 1.2144
+     "popularity": 0.8808
     },
     {
      "id": 206763,
      "title": "Nazaré",
      "original_title": "Nazaré",
      "release_date": "1952-12-12",
-     "popularity": 0.5394
+     "popularity": 0.6571
     },
     {
      "id": 127424,
      "title": "Nazareno Cruz y el lobo",
      "original_title": "Nazareno Cruz y el lobo",
      "release_date": "1975-06-05",
-     "popularity": 1.0061
+     "popularity": 0.8187
+    },
+    {
+     "id": 35124,
+     "title": "Nazarín",
+     "original_title": "Nazarín",
+     "release_date": "1959-06-04",
+     "popularity": 1.152
     },
     {
      "id": 1729613,
      "title": "Saint-Nazaire",
      "original_title": "Saint-Nazaire",
      "release_date": "",
-     "popularity": 0.5261
+     "popularity": 0.4914
     },
     {
      "id": 791707,
      "title": "Nazar",
      "original_title": "Nazar",
      "release_date": "2009-10-15",
-     "popularity": 0.4329
+     "popularity": 0.3296
     }
    ],
-   "ts": "2026-11-16T09:35:57+00:00"
+   "ts": "2026-11-20T10:17:51+00:00"
   },
   "naza|2026": {
    "res": [
@@ -3725,52 +3777,52 @@
      "title": "NAZA",
      "original_title": "NAZA",
      "release_date": "2026-09-25",
-     "popularity": 12.8602
+     "popularity": 10.0139
     },
     {
      "id": 1801889,
      "title": "Naza - Batiment B",
      "original_title": "Naza - Batiment B",
      "release_date": "2026-06-09",
-     "popularity": 0.3039
+     "popularity": 0.1795
     },
     {
      "id": 1560392,
      "title": "Remaking the Middle East: Israel vs. Iran",
      "original_title": "Remaking the Middle East: Israel vs. Iran",
      "release_date": "2026-03-11",
-     "popularity": 0.5744
+     "popularity": 0.5233
     },
     {
      "id": 1682860,
      "title": "Nazar",
      "original_title": "Nazar",
      "release_date": "2026-06-29",
-     "popularity": 0.044
+     "popularity": 0.0632
     },
     {
      "id": 1623343,
      "title": "ਨਜ਼ਰ",
      "original_title": "ਨਜ਼ਰ",
      "release_date": "2026-03-07",
-     "popularity": 1.0478
+     "popularity": 0.7614
     },
     {
      "id": 1376592,
      "title": "নজরবন্দী",
      "original_title": "নজরবন্দী",
      "release_date": "2026-11-19",
-     "popularity": 0.2579
+     "popularity": 0.2907
     },
     {
      "id": 1685248,
      "title": "Шаг назад навстречу",
      "original_title": "Шаг назад навстречу",
      "release_date": "2026-06-14",
-     "popularity": 0.0822
+     "popularity": 0.0802
     }
    ],
-   "ts": "2026-11-16T09:35:57+00:00"
+   "ts": "2026-11-20T10:17:52+00:00"
   },
   "naza|2025": {
    "res": [
@@ -3779,17 +3831,17 @@
      "title": "Nazaten",
      "original_title": "Nazaten",
      "release_date": "2025-02-13",
-     "popularity": 0.4501
+     "popularity": 0.3685
     },
     {
      "id": 1621830,
      "title": "Contos de Nazaré",
      "original_title": "Contos de Nazaré",
      "release_date": "2025-10-23",
-     "popularity": 0.1892
+     "popularity": 0.1127
     }
    ],
-   "ts": "2026-11-16T09:35:57+00:00"
+   "ts": "2026-11-20T10:17:52+00:00"
   },
   "nu e locul tau aici|": {
    "res": [
@@ -3798,10 +3850,10 @@
      "title": "Nu e locul tau aici",
      "original_title": "Nu e locul tau aici",
      "release_date": "2026-11-27",
-     "popularity": 1.0822
+     "popularity": 1.1787
     }
    ],
-   "ts": "2026-11-16T09:36:00+00:00"
+   "ts": "2026-11-20T10:17:52+00:00"
   },
   "nu e locul tau aici|2026": {
    "res": [
@@ -3810,14 +3862,14 @@
      "title": "Nu e locul tau aici",
      "original_title": "Nu e locul tau aici",
      "release_date": "2026-11-27",
-     "popularity": 1.0822
+     "popularity": 1.1787
     }
    ],
-   "ts": "2026-11-16T09:36:00+00:00"
+   "ts": "2026-11-20T10:17:52+00:00"
   },
   "nu e locul tau aici|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:00+00:00"
+   "ts": "2026-11-20T10:17:53+00:00"
   },
   "persona|": {
    "res": [
@@ -3826,73 +3878,73 @@
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "1966-10-18",
-     "popularity": 4.2931
+     "popularity": 5.6465
     },
     {
      "id": 1259735,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2024-12-03",
-     "popularity": 0.6271
+     "popularity": 0.749
     },
     {
      "id": 659481,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2013-11-17",
-     "popularity": 0.2835
+     "popularity": 0.1764
     },
     {
      "id": 1165393,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2025-03-14",
-     "popularity": 0.3258
+     "popularity": 0.3926
     },
     {
      "id": 1697889,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "",
-     "popularity": 0.4138
+     "popularity": 0.3401
     },
     {
      "id": 1270793,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2019-05-18",
-     "popularity": 0.3192
+     "popularity": 0.3348
     },
     {
      "id": 1187364,
      "title": "Mala Persona",
      "original_title": "Mala Persona",
      "release_date": "2024-07-03",
-     "popularity": 0.5468
+     "popularity": 0.6128
     },
     {
      "id": 741572,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2020-07-24",
-     "popularity": 0.0837
+     "popularity": 0.085
     },
     {
      "id": 1470903,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2025-05-10",
-     "popularity": 0.1277
+     "popularity": 0.1062
     },
     {
      "id": 1031499,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2022-06-04",
-     "popularity": 0.2287
+     "popularity": 0.1737
     }
    ],
-   "ts": "2026-11-16T09:36:03+00:00"
+   "ts": "2026-11-20T10:17:53+00:00"
   },
   "persona|2026": {
    "res": [
@@ -3901,73 +3953,73 @@
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2026-08-21",
-     "popularity": 0.1068
+     "popularity": 0.1926
     },
     {
      "id": 1815411,
      "title": "Persona petita",
      "original_title": "Persona petita",
      "release_date": "2026-10-30",
-     "popularity": 0.2544
+     "popularity": 0.2869
     },
     {
      "id": 1606893,
      "title": "In Persona",
      "original_title": "In Persona",
      "release_date": "2026-03-24",
-     "popularity": 0.1915
+     "popularity": 0.1487
     },
     {
      "id": 1732284,
      "title": "Disco Persona",
      "original_title": "Disco Persona",
      "release_date": "2026-07-15",
-     "popularity": 0.0495
+     "popularity": 0.0134
     },
     {
      "id": 1658534,
      "title": "Amigos Sonrientes Una Persona Viciosa",
      "original_title": "Amigos Sonrientes Una Persona Viciosa",
      "release_date": "2026-03-11",
-     "popularity": 0.3974
+     "popularity": 0.2351
     },
     {
      "id": 1319977,
      "title": "Nimic personal",
      "original_title": "A la cara",
      "release_date": "2026-05-29",
-     "popularity": 1.1934
+     "popularity": 1.0105
     },
     {
      "id": 1623123,
      "title": "Tião Personal Dancer",
      "original_title": "Tião Personal Dancer",
      "release_date": "2026-01-26",
-     "popularity": 0.1857
+     "popularity": 0.2368
     },
     {
      "id": 1744762,
      "title": "No Personal Ends To Serve: The Story of Patrick Hughes",
      "original_title": "No Personal Ends To Serve: The Story of Patrick Hughes",
      "release_date": "2026-05-12",
-     "popularity": 0.21
+     "popularity": 0.1223
     },
     {
      "id": 1758325,
      "title": "Mina Hartong: Miss Personality",
      "original_title": "Mina Hartong: Miss Personality",
      "release_date": "2026-09-15",
-     "popularity": 0.3513
+     "popularity": 0.2171
     },
     {
      "id": 1808957,
      "title": "Personal Whore(or): Ho Ho Ho",
      "original_title": "Personal Whore(or): Ho Ho Ho",
      "release_date": "2026-10-20",
-     "popularity": 0.1171
+     "popularity": 0.1174
     }
    ],
-   "ts": "2026-11-16T09:36:04+00:00"
+   "ts": "2026-11-20T10:17:53+00:00"
   },
   "persona|2025": {
    "res": [
@@ -3976,73 +4028,73 @@
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2025-03-14",
-     "popularity": 0.3258
+     "popularity": 0.3926
     },
     {
      "id": 1470903,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2025-05-10",
-     "popularity": 0.1277
+     "popularity": 0.1062
     },
     {
      "id": 675776,
      "title": "Persona",
      "original_title": "Persona",
      "release_date": "2025-03-18",
-     "popularity": 0.1441
+     "popularity": 0.1278
     },
     {
      "id": 1556456,
      "title": "persona a persona",
      "original_title": "persona a persona",
      "release_date": "2025-10-17",
-     "popularity": 0.1713
+     "popularity": 0.1771
     },
     {
      "id": 1453246,
      "title": "Una persona normal",
      "original_title": "Una persona normal",
      "release_date": "2025-07-30",
-     "popularity": 0.2704
+     "popularity": 0.1811
     },
     {
      "id": 1557125,
      "title": "Persona Non Grata",
      "original_title": "Persona Non Grata",
      "release_date": "2025-10-26",
-     "popularity": 0.3673
+     "popularity": 0.1887
     },
     {
      "id": 1682430,
      "title": "Persona: True Never Leaves",
      "original_title": "Persona: True Never Leaves",
      "release_date": "2025-01-22",
-     "popularity": 0.0989
+     "popularity": 0.0502
     },
     {
      "id": 1469230,
      "title": "君がトクベツ",
      "original_title": "君がトクベツ",
      "release_date": "2025-06-20",
-     "popularity": 1.0515
+     "popularity": 0.7692
     },
     {
      "id": 1039374,
      "title": "페르소나: 이상한 여자",
      "original_title": "페르소나: 이상한 여자",
      "release_date": "2025-01-16",
-     "popularity": 0.3827
+     "popularity": 0.4212
     },
     {
      "id": 1529239,
      "title": "Personal Best: Paris 2024",
      "original_title": "Personal Best: Paris 2024",
      "release_date": "2025-08-05",
-     "popularity": 0.3394
+     "popularity": 0.537
     }
    ],
-   "ts": "2026-11-16T09:36:04+00:00"
+   "ts": "2026-11-20T10:17:53+00:00"
   },
   "piatra foarfeca hartie|": {
    "res": [
@@ -4051,28 +4103,28 @@
      "title": "Piatră Foarfecă Hârtie",
      "original_title": "Piatră Foarfecă Hârtie",
      "release_date": "2025-11-19",
-     "popularity": 0.5242
+     "popularity": 0.6222
     },
     {
      "id": 1238096,
      "title": "Piatră, hârtie, foarfecă",
      "original_title": "Rock Paper Scissors",
      "release_date": "2018-06-08",
-     "popularity": 0.2565
+     "popularity": 0.2766
     },
     {
      "id": 765142,
      "title": "Piatră, hârtie, foarfecă.",
      "original_title": "Rock, Paper, Scissors.",
      "release_date": "2020-11-16",
-     "popularity": 0.0658
+     "popularity": 0.0432
     }
    ],
-   "ts": "2026-11-16T09:36:07+00:00"
+   "ts": "2026-11-20T10:17:54+00:00"
   },
   "piatra foarfeca hartie|2026": {
    "res": [],
-   "ts": "2026-11-16T09:36:07+00:00"
+   "ts": "2026-11-20T10:17:54+00:00"
   },
   "piatra foarfeca hartie|2025": {
    "res": [
@@ -4081,10 +4133,10 @@
      "title": "Piatră Foarfecă Hârtie",
      "original_title": "Piatră Foarfecă Hârtie",
      "release_date": "2025-11-19",
-     "popularity": 0.5242
+     "popularity": 0.6222
     }
    ],
-   "ts": "2026-11-16T09:36:07+00:00"
+   "ts": "2026-11-20T10:17:54+00:00"
   },
   "planetes|": {
    "res": [
@@ -4093,73 +4145,73 @@
      "title": "Planètes",
      "original_title": "Planètes",
      "release_date": "2026-03-11",
-     "popularity": 0.9579
+     "popularity": 0.8524
     },
     {
      "id": 1239843,
      "title": "La psychologie des planètes.",
      "original_title": "La psychologie des planètes.",
      "release_date": "",
-     "popularity": 0.2937
+     "popularity": 0.1961
     },
     {
      "id": 1757285,
      "title": "Making Planètes, l'art de façonner des mondes",
      "original_title": "Making Planètes, l'art de façonner des mondes",
      "release_date": "2026-03-08",
-     "popularity": 0.2007
+     "popularity": 0.2758
     },
     {
      "id": 1408907,
      "title": "Sacrilège A l'ombre des planètes qui tombent",
      "original_title": "Sacrilège A l'ombre des planètes qui tombent",
      "release_date": "2024-12-01",
-     "popularity": 0.0746
+     "popularity": 0.1127
     },
     {
      "id": 581978,
      "title": "l’étoile qui dévore les planètes",
      "original_title": "l’étoile qui dévore les planètes",
      "release_date": "2018-01-01",
-     "popularity": 0.1279
+     "popularity": 0.0659
     },
     {
      "id": 536115,
      "title": "GODZILLA 星を喰う者",
      "original_title": "GODZILLA 星を喰う者",
      "release_date": "2018-11-09",
-     "popularity": 9.8464
+     "popularity": 8.3349
     },
     {
      "id": 339964,
      "title": "Valerian și orașul celor o mie de planete",
      "original_title": "Valerian and the City of a Thousand Planets",
      "release_date": "2017-07-19",
-     "popularity": 8.3527
+     "popularity": 7.2659
     },
     {
      "id": 49163,
      "title": "妖星ゴラス",
      "original_title": "妖星ゴラス",
      "release_date": "1962-03-21",
-     "popularity": 1.7296
+     "popularity": 1.5593
     },
     {
      "id": 143040,
      "title": "Парад планет",
      "original_title": "Парад планет",
      "release_date": "1984-12-15",
-     "popularity": 0.5011
+     "popularity": 0.3883
     },
     {
      "id": 542710,
      "title": "Alien Planets Revealed",
      "original_title": "Alien Planets Revealed",
      "release_date": "2014-01-08",
-     "popularity": 0.3235
+     "popularity": 0.3117
     }
    ],
-   "ts": "2026-11-16T09:36:10+00:00"
+   "ts": "2026-11-20T10:17:54+00:00"
   },
   "planetes|2026": {
    "res": [
@@ -4168,21 +4220,21 @@
      "title": "Planètes",
      "original_title": "Planètes",
      "release_date": "2026-03-11",
-     "popularity": 0.9579
+     "popularity": 0.8524
     },
     {
      "id": 1757285,
      "title": "Making Planètes, l'art de façonner des mondes",
      "original_title": "Making Planètes, l'art de façonner des mondes",
      "release_date": "2026-03-08",
-     "popularity": 0.2007
+     "popularity": 0.2758
     }
    ],
-   "ts": "2026-11-16T09:36:10+00:00"
+   "ts": "2026-11-20T10:17:55+00:00"
   },
   "planetes|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:11+00:00"
+   "ts": "2026-11-20T10:17:55+00:00"
   },
   "pionul lui lenin|": {
    "res": [
@@ -4191,10 +4243,10 @@
      "title": "Pionul lui Lenin",
      "original_title": "Pionul lui Lenin",
      "release_date": "2026-06-19",
-     "popularity": 0.8987
+     "popularity": 0.3917
     }
    ],
-   "ts": "2026-11-16T09:36:13+00:00"
+   "ts": "2026-11-20T10:17:55+00:00"
   },
   "pionul lui lenin|2026": {
    "res": [
@@ -4203,14 +4255,14 @@
      "title": "Pionul lui Lenin",
      "original_title": "Pionul lui Lenin",
      "release_date": "2026-06-19",
-     "popularity": 0.8987
+     "popularity": 0.3917
     }
    ],
-   "ts": "2026-11-16T09:36:13+00:00"
+   "ts": "2026-11-20T10:17:55+00:00"
   },
   "pionul lui lenin|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:14+00:00"
+   "ts": "2026-11-20T10:17:56+00:00"
   },
   "queen at sea|": {
    "res": [
@@ -4219,10 +4271,10 @@
      "title": "Queen at Sea",
      "original_title": "Queen at Sea",
      "release_date": "2026-09-18",
-     "popularity": 3.4817
+     "popularity": 2.8261
     }
    ],
-   "ts": "2026-11-16T09:36:16+00:00"
+   "ts": "2026-11-20T10:17:56+00:00"
   },
   "queen at sea|2026": {
    "res": [
@@ -4231,38 +4283,38 @@
      "title": "Queen at Sea",
      "original_title": "Queen at Sea",
      "release_date": "2026-09-18",
-     "popularity": 3.4817
+     "popularity": 2.8261
     }
    ],
-   "ts": "2026-11-16T09:36:16+00:00"
+   "ts": "2026-11-20T10:17:56+00:00"
   },
   "queen at sea|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:16+00:00"
+   "ts": "2026-11-20T10:17:56+00:00"
   },
   "regina si marea|": {
    "res": [],
-   "ts": "2026-11-16T09:36:17+00:00"
+   "ts": "2026-11-20T10:17:57+00:00"
   },
   "regina si marea|2026": {
    "res": [],
-   "ts": "2026-11-16T09:36:17+00:00"
+   "ts": "2026-11-20T10:17:57+00:00"
   },
   "regina si marea|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:17+00:00"
+   "ts": "2026-11-20T10:17:57+00:00"
   },
   "silent reading party jurnalul unei cameriste|": {
    "res": [],
-   "ts": "2026-11-16T09:36:20+00:00"
+   "ts": "2026-11-20T10:17:57+00:00"
   },
   "silent reading party jurnalul unei cameriste|2026": {
    "res": [],
-   "ts": "2026-11-16T09:36:20+00:00"
+   "ts": "2026-11-20T10:17:57+00:00"
   },
   "silent reading party jurnalul unei cameriste|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:20+00:00"
+   "ts": "2026-11-20T10:17:58+00:00"
   },
   "strainul|": {
    "res": [
@@ -4385,15 +4437,15 @@
   },
   "ultimele scrisori ale bunicii|": {
    "res": [],
-   "ts": "2026-11-16T09:36:27+00:00"
+   "ts": "2026-11-20T10:17:58+00:00"
   },
   "ultimele scrisori ale bunicii|2026": {
    "res": [],
-   "ts": "2026-11-16T09:36:27+00:00"
+   "ts": "2026-11-20T10:17:58+00:00"
   },
   "ultimele scrisori ale bunicii|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:28+00:00"
+   "ts": "2026-11-20T10:17:58+00:00"
   },
   "you can see everything|": {
    "res": [
@@ -4402,10 +4454,10 @@
      "title": "Poți Vedea Totul",
      "original_title": "You Can See Everything",
      "release_date": "2026-10-16",
-     "popularity": 62.2463
+     "popularity": 83.3549
     }
    ],
-   "ts": "2026-11-16T09:36:28+00:00"
+   "ts": "2026-11-20T10:17:59+00:00"
   },
   "you can see everything|2026": {
    "res": [
@@ -4414,14 +4466,14 @@
      "title": "Poți Vedea Totul",
      "original_title": "You Can See Everything",
      "release_date": "2026-10-16",
-     "popularity": 62.2463
+     "popularity": 83.3549
     }
    ],
-   "ts": "2026-11-16T09:36:28+00:00"
+   "ts": "2026-11-20T10:17:59+00:00"
   },
   "you can see everything|2025": {
    "res": [],
-   "ts": "2026-11-16T09:36:28+00:00"
+   "ts": "2026-11-20T10:17:59+00:00"
   },
   "inca o dorinta|": {
    "res": [],

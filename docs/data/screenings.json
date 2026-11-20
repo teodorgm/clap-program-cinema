@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T06:16:18+00:00",
+ "generated": "2026-11-20T10:15:58+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -72,8 +72,8 @@
    "name": "Elvire Popesco",
    "ok": true,
    "stale": false,
-   "count": 32,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "count": 31,
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 9,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 13,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,254 +105,43 @@
    "ok": true,
    "stale": false,
    "count": 27,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 565,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "count": 564,
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 482,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "count": 479,
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 440,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "count": 438,
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 524,
-   "updated": "2026-11-20T06:16:18+00:00",
+   "count": 522,
+   "updated": "2026-11-20T10:15:58+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "elvire-2026-11-20-11:00-bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute",
-   "cinema": "elvire",
-   "date": "2026-11-20",
-   "time": "11:00",
-   "title": "MINUSCULE: VALEA FURNICILOR PIERDUTE",
-   "age": "6+",
-   "note": null,
-   "audio": [],
-   "subs": [],
-   "prices": {
-    "student": 16,
-    "pensioner": 16,
-    "adult": 27
-   },
-   "box": {},
-   "status": "ok",
-   "url": "https://eventbook.ro/film/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute?hall=cinema-elvire-popesco",
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute-Dz5.webp",
-   "film": "t:minuscule valea furnicilor pierdute"
-  },
-  {
-   "id": "cc1806-750929",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750929?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-748086",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "Insula pierduta dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748086?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "t:insula pierduta dub"
-  },
-  {
-   "id": "cc1807-749512",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "În inima sălbăticiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749512?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8314S2R.jpg",
-   "year": "2026",
-   "runtime": 101,
-   "film": "tmdb:1263337"
-  },
-  {
-   "id": "cc1818-745780",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/745780?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-749946",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "Delta salbatica",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749946?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8335O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1756136"
-  },
-  {
-   "id": "cc1818-749980",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749980?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-746930",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746930?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-746955",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746955?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
   {
    "id": "cc1824-746757",
    "cinema": "cc1824",
@@ -52862,18 +52651,6 @@
    "imdb_rating": 7.6,
    "imdb_votes": 2430,
    "lb_rating": 3.71
-  },
-  "t:minuscule valea furnicilor pierdute": {
-   "tmdb_id": null,
-   "title": "MINUSCULE: VALEA FURNICILOR PIERDUTE",
-   "original_title": null,
-   "year": null,
-   "orig_lang": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-cinema-fara-bariere-minuscule-valea-furnicilor-pierdute-Dz5.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
   },
   "tmdb:1032765": {
    "tmdb_id": 1032765,
