@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T21:58:40+00:00",
+ "generated": "2026-11-20T06:16:18+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 32,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 9,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 13,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 0,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,7 +105,7 @@
    "ok": true,
    "stale": false,
    "count": 27,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "cc1806": {
@@ -113,7 +113,7 @@
    "ok": true,
    "stale": false,
    "count": 565,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "cc1818": {
@@ -121,7 +121,7 @@
    "ok": true,
    "stale": false,
    "count": 482,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "cc1824": {
@@ -129,15 +129,15 @@
    "ok": true,
    "stale": false,
    "count": 440,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 519,
-   "updated": "2026-11-19T21:58:40+00:00",
+   "count": 524,
+   "updated": "2026-11-20T06:16:18+00:00",
    "error": null
   }
  },
@@ -5478,6 +5478,31 @@
    "film": "tmdb:1783294"
   },
   {
+   "id": "cc1807-751819",
+   "cinema": "cc1807",
+   "date": "2026-11-20",
+   "time": "20:30",
+   "title": "Clayface",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751819?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8222S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "tmdb:1400940"
+  },
+  {
    "id": "cc1824-746960",
    "cinema": "cc1824",
    "date": "2026-11-20",
@@ -5499,31 +5524,6 @@
    "year": "2026",
    "runtime": 100,
    "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1807-747226",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "20:45",
-   "title": "Wild Horse Nine",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747226?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8161S2R.jpg",
-   "year": "2026",
-   "runtime": 116,
-   "film": "tmdb:891621"
   },
   {
    "id": "cc1807-749519",
@@ -5602,6 +5602,31 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1807-748167",
+   "cinema": "cc1807",
+   "date": "2026-11-20",
+   "time": "20:50",
+   "title": "Resident Evil",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/748167?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "tmdb:1423191"
   },
   {
    "id": "cc1824-721107",
@@ -5750,31 +5775,6 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/751163?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "tmdb:1423191"
-  },
-  {
-   "id": "cc1807-748167",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "21:10",
-   "title": "Resident Evil",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748167?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
    "year": "2026",
    "runtime": 90,
@@ -6826,6 +6826,31 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "cc1807-747226",
+   "cinema": "cc1807",
+   "date": "2026-11-20",
+   "time": "22:45",
+   "title": "Wild Horse Nine",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/747226?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8161S2R.jpg",
+   "year": "2026",
+   "runtime": 116,
+   "film": "tmdb:891621"
+  },
+  {
    "id": "cc1807-750468",
    "cinema": "cc1807",
    "date": "2026-11-20",
@@ -7053,6 +7078,31 @@
    "year": "2026",
    "runtime": 92,
    "film": "t:copilul noptii"
+  },
+  {
+   "id": "cc1807-751818",
+   "cinema": "cc1807",
+   "date": "2026-11-20",
+   "time": "22:50",
+   "title": "Resident Evil",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751818?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "tmdb:1423191"
   },
   {
    "id": "cc1818-749301",
@@ -13369,6 +13419,31 @@
    "film": "tmdb:1783294"
   },
   {
+   "id": "cc1807-751821",
+   "cinema": "cc1807",
+   "date": "2026-11-21",
+   "time": "20:30",
+   "title": "Clayface",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751821?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8222S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "tmdb:1400940"
+  },
+  {
    "id": "cc1818-749417",
    "cinema": "cc1818",
    "date": "2026-11-21",
@@ -13463,31 +13538,6 @@
    "year": "2026",
    "runtime": 100,
    "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1807-747276",
-   "cinema": "cc1807",
-   "date": "2026-11-21",
-   "time": "20:45",
-   "title": "Wild Horse Nine",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747276?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8161S2R.jpg",
-   "year": "2026",
-   "runtime": 116,
-   "film": "tmdb:891621"
   },
   {
    "id": "cc1807-749551",
@@ -14788,6 +14838,31 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1807-747276",
+   "cinema": "cc1807",
+   "date": "2026-11-21",
+   "time": "22:45",
+   "title": "Wild Horse Nine",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/747276?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8161S2R.jpg",
+   "year": "2026",
+   "runtime": 116,
+   "film": "tmdb:891621"
   },
   {
    "id": "cc1807-748245",
@@ -21875,6 +21950,31 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "cc1807-748246",
+   "cinema": "cc1807",
+   "date": "2026-11-22",
+   "time": "20:50",
+   "title": "Resident Evil",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/748246?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "tmdb:1423191"
+  },
+  {
    "id": "cc1824-721117",
    "cinema": "cc1824",
    "date": "2026-11-22",
@@ -22021,31 +22121,6 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
-  },
-  {
-   "id": "cc1807-748246",
-   "cinema": "cc1807",
-   "date": "2026-11-22",
-   "time": "21:10",
-   "title": "Resident Evil",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748246?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "tmdb:1423191"
   },
   {
    "id": "cc1818-748488",
@@ -23347,6 +23422,31 @@
    "year": "2026",
    "runtime": 122,
    "film": "t:cum sa spargi o banca"
+  },
+  {
+   "id": "cc1807-751820",
+   "cinema": "cc1807",
+   "date": "2026-11-22",
+   "time": "22:50",
+   "title": "Resident Evil",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751820?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "tmdb:1423191"
   },
   {
    "id": "cc1818-749335",
@@ -35389,6 +35489,31 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "cc1807-748248",
+   "cinema": "cc1807",
+   "date": "2026-11-24",
+   "time": "20:50",
+   "title": "Resident Evil",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/748248?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "tmdb:1423191"
+  },
+  {
    "id": "cc1824-721119",
    "cinema": "cc1824",
    "date": "2026-11-24",
@@ -35537,31 +35662,6 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-748248",
-   "cinema": "cc1807",
-   "date": "2026-11-24",
-   "time": "21:10",
-   "title": "Resident Evil",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748248?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "tmdb:1423191"
   },
   {
    "id": "cc1818-748424",
@@ -36782,6 +36882,31 @@
    "year": "2026",
    "runtime": 122,
    "film": "t:cum sa spargi o banca"
+  },
+  {
+   "id": "cc1807-751823",
+   "cinema": "cc1807",
+   "date": "2026-11-24",
+   "time": "22:50",
+   "title": "Resident Evil",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751823?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8242S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "tmdb:1423191"
   },
   {
    "id": "cc1818-749337",
@@ -52222,7 +52347,7 @@
    "runtime": 104,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 28560,
+   "imdb_votes": 28565,
    "lb_rating": 4.27
   },
   "t:aferim caricaturana": {
@@ -52251,7 +52376,7 @@
    "runtime": 111,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 6025,
+   "imdb_votes": 6031,
    "lb_rating": 3.15
   },
   "tmdb:915935": {
@@ -52268,7 +52393,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240492,
+   "imdb_votes": 240518,
    "lb_rating": 4.12
   },
   "t:atat de familiar": {
@@ -52380,8 +52505,8 @@
    "imdb_id": "tt38058097",
    "runtime": 122,
    "source": "tmdb",
-   "imdb_rating": 8.2,
-   "imdb_votes": 2426,
+   "imdb_rating": 8.1,
+   "imdb_votes": 2536,
    "lb_rating": 4.44
   },
   "tmdb:1400940": {
@@ -52398,7 +52523,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 54231,
+   "imdb_votes": 54533,
    "lb_rating": 3.71
   },
   "t:copilul noptii": {
@@ -52439,7 +52564,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.8,
-   "imdb_votes": 1462,
+   "imdb_votes": 1468,
    "lb_rating": 3.94
   },
   "tmdb:1756136": {
@@ -52550,7 +52675,7 @@
    "runtime": 113,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 446,
+   "imdb_votes": 457,
    "lb_rating": 4.18
   },
   "t:hexe regatul magiei": {
@@ -52579,7 +52704,7 @@
    "runtime": 128,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 5468,
+   "imdb_votes": 5798,
    "lb_rating": 3.77
   },
   "t:iesirea trenurilor din gara a pedepsi a supraveghea": {
@@ -52655,8 +52780,8 @@
    "imdb_id": "tt32558705",
    "runtime": 159,
    "source": "tmdb",
-   "imdb_rating": 7.6,
-   "imdb_votes": 748
+   "imdb_rating": 7.7,
+   "imdb_votes": 3518
   },
   "tmdb:1410189": {
    "tmdb_id": 1410189,
@@ -52672,7 +52797,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2805,
+   "imdb_votes": 2807,
    "lb_rating": 3.52
   },
   "tmdb:9746": {
@@ -52689,7 +52814,7 @@
    "runtime": 134,
    "source": "tmdb",
    "imdb_rating": 7.0,
-   "imdb_votes": 32694,
+   "imdb_votes": 32699,
    "lb_rating": 3.47
   },
   "tmdb:47439": {
@@ -52706,7 +52831,7 @@
    "runtime": 163,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 3022,
+   "imdb_votes": 3023,
    "lb_rating": 3.68
   },
   "t:lucy lost": {
@@ -52735,7 +52860,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2401,
+   "imdb_votes": 2430,
    "lb_rating": 3.71
   },
   "t:minuscule valea furnicilor pierdute": {
@@ -52861,7 +52986,7 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 7699,
+   "imdb_votes": 7767,
    "lb_rating": 4.54
   },
   "t:noul babilon novii vavilon": {
@@ -52901,7 +53026,7 @@
    "imdb_id": "tt39228759",
    "runtime": 154,
    "source": "tmdb",
-   "imdb_rating": 7.3,
+   "imdb_rating": 7.2,
    "imdb_votes": 126,
    "lb_rating": 3.57
   },
@@ -52933,7 +53058,7 @@
    "runtime": 85,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 143029,
+   "imdb_votes": 143047,
    "lb_rating": 4.37
   },
   "tmdb:1172260": {
@@ -52950,7 +53075,7 @@
    "runtime": 91,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 19
+   "imdb_votes": 20
   },
   "tmdb:999140": {
    "tmdb_id": 999140,
@@ -52982,8 +53107,8 @@
    "imdb_id": "tt42558356",
    "runtime": 84,
    "source": "tmdb",
-   "imdb_rating": 8.8,
-   "imdb_votes": 37
+   "imdb_rating": 8.7,
+   "imdb_votes": 41
   },
   "tmdb:1765072": {
    "tmdb_id": 1765072,
@@ -53000,7 +53125,7 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 9.0,
-   "imdb_votes": 37037,
+   "imdb_votes": 37588,
    "lb_rating": 4.58
   },
   "t:proiectie teatru copii jack si vrejul de": {
@@ -53041,7 +53166,7 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1271,
+   "imdb_votes": 1287,
    "lb_rating": 3.83
   },
   "t:ramayana": {
@@ -53070,7 +53195,7 @@
    "runtime": 94,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 171412,
+   "imdb_votes": 172459,
    "lb_rating": 3.73
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
@@ -53158,7 +53283,7 @@
    "imdb_id": "tt44842294",
    "runtime": 110,
    "source": "tmdb",
-   "imdb_rating": 6.3,
+   "imdb_rating": 6.2,
    "imdb_votes": 397,
    "lb_rating": 2.83
   },
@@ -53204,7 +53329,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 21986,
+   "imdb_votes": 22940,
    "lb_rating": 4.15
   },
   "tmdb:791523": {
@@ -53221,7 +53346,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 31550,
+   "imdb_votes": 31977,
    "lb_rating": 4.38
   },
   "t:wildwood dub": {
@@ -53262,7 +53387,7 @@
    "runtime": 101,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 60977,
+   "imdb_votes": 61812,
    "lb_rating": 3.29
   },
   "t:tara moarta amintiri de pe frontul de est": {
