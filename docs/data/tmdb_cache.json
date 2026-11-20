@@ -1385,7 +1385,9 @@
    "overview": "",
    "imdb_id": "tt2368672",
    "runtime": 89,
-   "fetched": "2026-11-16T12:39:18+00:00"
+   "fetched": "2026-11-16T12:39:18+00:00",
+   "lb": 3.69,
+   "lb_ts": "2026-11-20T14:27:35+00:00"
   },
   "89451": {
    "title": "A Vingança de Uma Mulher",
@@ -2370,6 +2372,828 @@
    "imdb_id": null,
    "runtime": 25,
    "fetched": "2026-11-20T10:17:54+00:00"
+  },
+  "29381": {
+   "title": "Caged",
+   "original_title": "Caged",
+   "orig_lang": "en",
+   "year": "1950",
+   "poster": "https://image.tmdb.org/t/p/w185/vvGyjfwGOQkB91XbzLJHmItiBIl.jpg",
+   "directors": [
+    "John Cromwell"
+   ],
+   "cast": [
+    "Eleanor Parker",
+    "Agnes Moorehead",
+    "Ellen Corby",
+    "Hope Emerson",
+    "Betty Garde",
+    "Jan Sterling"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0042296",
+   "runtime": 96,
+   "fetched": "2026-11-20T14:25:50+00:00",
+   "lb": 3.84,
+   "lb_ts": "2026-11-20T14:27:06+00:00"
+  },
+  "777620": {
+   "title": "Caged",
+   "original_title": "Caged",
+   "orig_lang": "en",
+   "year": "2021",
+   "poster": "https://image.tmdb.org/t/p/w185/8NUM43rtQSt0chumXGJPvnYb01I.jpg",
+   "directors": [
+    "Aaron Fjellman"
+   ],
+   "cast": [
+    "Edi Gathegi",
+    "Melora Hardin",
+    "Angela Sarafyan",
+    "Tony Amendola",
+    "Robert R. Shafer",
+    "James Jagger"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt6173712",
+   "runtime": 81,
+   "fetched": "2026-11-20T14:25:50+00:00"
+  },
+  "77844": {
+   "title": "Caged",
+   "original_title": "Caged",
+   "orig_lang": "nl",
+   "year": "2011",
+   "poster": "https://image.tmdb.org/t/p/w185/h7NK9CnHNtTAcBiFVbpRuLTVIWP.jpg",
+   "directors": [
+    "Stephan Brenninkmeijer"
+   ],
+   "cast": [
+    "Chantal Demming",
+    "Babette Holtmann",
+    "Joep Sertons",
+    "Victor Reinier",
+    "Giorgi Devdariani",
+    "Lotte Taminiau"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt1736555",
+   "runtime": 105,
+   "fetched": "2026-11-20T14:25:50+00:00"
+  },
+  "1715334": {
+   "title": "Caged",
+   "original_title": "Caged",
+   "orig_lang": "en",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/jSi2trt65QSDGaiQYS9R0895kpg.jpg",
+   "directors": [
+    "Ben Caplan"
+   ],
+   "cast": [
+    "Victoria Myssik",
+    "Samantha Desman",
+    "Cody Cowell"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt34379114",
+   "runtime": 13,
+   "fetched": "2026-11-20T14:25:50+00:00"
+  },
+  "1720594": {
+   "title": "Caged",
+   "original_title": "Caged",
+   "orig_lang": "en",
+   "year": "1998",
+   "poster": null,
+   "directors": [
+    "Rand Alexander"
+   ],
+   "cast": [
+    "Myers Clark",
+    "Rachel Iverson"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0220347",
+   "runtime": 90,
+   "fetched": "2026-11-20T14:25:50+00:00"
+  },
+  "1285343": {
+   "title": "Caged",
+   "original_title": "Caged",
+   "orig_lang": "en",
+   "year": "2015",
+   "poster": "https://image.tmdb.org/t/p/w185/1H1CxAvsCaYd5JBR7ab7rn2VXf.jpg",
+   "directors": [
+    "Catarina Sousa"
+   ],
+   "cast": [
+    "Joel Hogan",
+    "Lauren Marie",
+    "Emily Meza",
+    "Chelsea Rivera"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt4247804",
+   "runtime": 11,
+   "fetched": "2026-11-20T14:25:51+00:00"
+  },
+  "1399462": {
+   "title": "Calle Málaga",
+   "original_title": "Calle Málaga",
+   "orig_lang": "es",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+   "directors": [
+    "Maryam Touzani"
+   ],
+   "cast": [
+    "Carmen Maura",
+    "Marta Etura",
+    "Ahmed Boulane",
+    "Miguel Garcés",
+    "María Alfonsa Rosso",
+    "La Imèn"
+   ],
+   "v": 2,
+   "overview": "Maria Angeles, o spaniolă în vârstă de 79 de ani, locuiește singură în Tanger, Maroc, și se bucură de rutina zilnică. Viața ei este însă dată peste cap când fiica ei sosește din Madrid pentru a vinde apartamentul în care a locuit dintotdeauna. Hotărâtă să rămână, face tot posibilul pentru a-și recupera casa și bunurile și, în mod neașteptat, redescoperă dragostea și senzualitatea.",
+   "imdb_id": "tt32429174",
+   "runtime": 116,
+   "fetched": "2026-11-20T14:25:54+00:00",
+   "lb": 3.67,
+   "lb_ts": "2026-11-20T14:27:08+00:00"
+  },
+  "34187": {
+   "title": "The Bitter Tea of General Yen",
+   "original_title": "The Bitter Tea of General Yen",
+   "orig_lang": "en",
+   "year": "1933",
+   "poster": "https://image.tmdb.org/t/p/w185/63lQVmPRDuc4fUDfgbKYnvuSYYr.jpg",
+   "directors": [
+    "Frank Capra"
+   ],
+   "cast": [
+    "Barbara Stanwyck",
+    "Nils Asther",
+    "Toshia Mori",
+    "Walter Connolly",
+    "Gavin Gordon",
+    "Lucien Littlefield"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0023814",
+   "runtime": 88,
+   "fetched": "2026-11-20T14:25:57+00:00",
+   "lb": 3.46,
+   "lb_ts": "2026-11-20T14:27:10+00:00"
+  },
+  "8834": {
+   "title": "Teoria conspirației",
+   "original_title": "Conspiracy Theory",
+   "orig_lang": "en",
+   "year": "1997",
+   "poster": "https://image.tmdb.org/t/p/w185/a6pVzfMdvHkdRtFPmx83nafvoOe.jpg",
+   "directors": [
+    "Richard Donner"
+   ],
+   "cast": [
+    "Mel Gibson",
+    "Julia Roberts",
+    "Patrick Stewart",
+    "Cylk Cozart",
+    "Steve Kahan",
+    "Terry Alexander"
+   ],
+   "v": 2,
+   "overview": "Un om obsedat de teoriile conspirației devine o țintă după ce una dintre teoriile sale se dovedește a fi adevărată. Din păcate, pentru a se salva, trebuie să-și dea seama care teorie este.",
+   "imdb_id": "tt0118883",
+   "runtime": 135,
+   "fetched": "2026-11-20T14:26:00+00:00",
+   "lb": 3.18,
+   "lb_ts": "2026-11-20T14:27:12+00:00"
+  },
+  "454963": {
+   "title": "Conspiracy Theory",
+   "original_title": "Conspiracy Theory",
+   "orig_lang": "en",
+   "year": "2016",
+   "poster": "https://image.tmdb.org/t/p/w185/3yK3N6IaNczJJdhfH7JfY9HcPkw.jpg",
+   "directors": [
+    "Jake Myers"
+   ],
+   "cast": [
+    "Ben Kobold",
+    "Jennifer Mills",
+    "Jamie Bragg",
+    "Brian Schroeck",
+    "Jake Myers",
+    "Jeremiah Myers"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt5354458",
+   "runtime": 79,
+   "fetched": "2026-11-20T14:26:01+00:00"
+  },
+  "1790273": {
+   "title": "Conspiracy Theory",
+   "original_title": "Conspiracy Theory",
+   "orig_lang": "en",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/msXr5gsmW9PRiTc7d7pbvMwkXPf.jpg",
+   "directors": [
+    "Andrew Balcof"
+   ],
+   "cast": [
+    "Dylan McTee",
+    "Olivia Rose Keegan",
+    "Daniel Williams-Lopez",
+    "Charlotte McKinney",
+    "Dylan Arnold"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": null,
+   "fetched": "2026-11-20T14:26:01+00:00"
+  },
+  "454294": {
+   "title": "Copilul care ar putea fi rege",
+   "original_title": "The Kid Who Would Be King",
+   "orig_lang": "en",
+   "year": "2019",
+   "poster": "https://image.tmdb.org/t/p/w185/2Z3iHtNmLRSamNi5AMKSSmAZBxM.jpg",
+   "directors": [
+    "Joe Cornish"
+   ],
+   "cast": [
+    "Louis Ashbourne Serkis",
+    "Dean Chaumoo",
+    "Tom Taylor",
+    "Rhianna Dorris",
+    "Denise Gough",
+    "Angus Imrie"
+   ],
+   "v": 2,
+   "overview": "În această aventură de proporții epice, un copil hărțuit de bătăuși, descoperă Excalibur, legendara sabie înfiptă în piatră, și, împreună cu prietenii (dar și dușmanii) săi, se alătură vrăjitorului Merlin în lupta împotriva răului!",
+   "imdb_id": "tt6811018",
+   "runtime": 120,
+   "fetched": "2026-11-20T14:26:04+00:00",
+   "lb": 2.87,
+   "lb_ts": "2026-11-20T14:27:15+00:00"
+  },
+  "265092": {
+   "title": "De-as fi... Harap Alb",
+   "original_title": "De-as fi... Harap Alb",
+   "orig_lang": "ro",
+   "year": "1965",
+   "poster": "https://image.tmdb.org/t/p/w185/bRcUsLKXmnc6Impu1HQYHi5zRBG.jpg",
+   "directors": [
+    "Ion Popescu-Gopo"
+   ],
+   "cast": [
+    "Florin Piersic",
+    "Emil Botta",
+    "Fory Etterle",
+    "Puiu Călinescu",
+    "Chris Avram",
+    "George Demetru"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0059090",
+   "runtime": 91,
+   "fetched": "2026-11-20T14:26:08+00:00",
+   "lb": 3.46,
+   "lb_ts": "2026-11-20T14:27:17+00:00"
+  },
+  "1074074": {
+   "title": "El ser querido",
+   "original_title": "El ser querido",
+   "orig_lang": "es",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
+   "directors": [
+    "Rodrigo Sorogoyen"
+   ],
+   "cast": [
+    "Javier Bardem",
+    "Victoria Luengo",
+    "Melina Matthews",
+    "Malena Villa",
+    "Mourad Ouani",
+    "Pepa Gracia"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt33451014",
+   "runtime": 136,
+   "fetched": "2026-11-20T14:26:12+00:00",
+   "lb": 3.84,
+   "lb_ts": "2026-11-20T14:27:19+00:00"
+  },
+  "11527": {
+   "title": "Excalibur",
+   "original_title": "Excalibur",
+   "orig_lang": "en",
+   "year": "1981",
+   "poster": "https://image.tmdb.org/t/p/w185/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+   "directors": [
+    "John Boorman"
+   ],
+   "cast": [
+    "Nigel Terry",
+    "Nicol Williamson",
+    "Helen Mirren",
+    "Nicholas Clay",
+    "Paul Geoffrey",
+    "Cherie Lunghi"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0082348",
+   "runtime": 141,
+   "fetched": "2026-11-20T14:26:15+00:00",
+   "lb": 3.75,
+   "lb_ts": "2026-11-20T14:27:22+00:00"
+  },
+  "472788": {
+   "title": "Excalibur",
+   "original_title": "Excalibur",
+   "orig_lang": "fr",
+   "year": "1990",
+   "poster": "https://image.tmdb.org/t/p/w185/hVf52YwPGHjStSg6C5ZTSY0N3C6.jpg",
+   "directors": [
+    "Philippe Druillet",
+    "Gianni Corvi"
+   ],
+   "cast": [
+    "William Sheller",
+    "Sophie Durin",
+    "Nadir Legrand",
+    "Didier Cohen",
+    "Michel Smolianoff",
+    "Désiré Bastareaud"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": 6,
+   "fetched": "2026-11-20T14:26:15+00:00"
+  },
+  "1526236": {
+   "title": "Excalibur",
+   "original_title": "Excalibur",
+   "orig_lang": "en",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/kzzAOkfYi4bb6NfKH41RgYrOVoF.jpg",
+   "directors": [
+    "Dan Freedman"
+   ],
+   "cast": [],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt34188300",
+   "runtime": null,
+   "fetched": "2026-11-20T14:26:15+00:00"
+  },
+  "1401459": {
+   "title": "Fjord",
+   "original_title": "Fjord",
+   "orig_lang": "ro",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/rIhqYAVPmMQaTCiBJI5o21KDFM2.jpg",
+   "directors": [
+    "Cristian Mungiu"
+   ],
+   "cast": [
+    "Sebastian Stan",
+    "Renate Reinsve",
+    "Lisa Carlehed",
+    "Ellen Dorrit Petersen",
+    "Lisa Loven Kongsli",
+    "Henrikke Lund Olsen"
+   ],
+   "v": 2,
+   "overview": "Mihai şi Lisbet Gheorghiu se stabilesc într-un sătuc norvegian împreună cu cei cinci copii ai lor şi leagă o prietenie cu vecinii ai căror copii merg la aceeaşi şcoală. Nimic nu pare să tulbure iniţial pacea acestei familii profund religioase, doar că într-o zi unul din copiii Gheorghiu vine la şcoală cu vânătăi, ceea ce îi pune pe jar pe educatori. Este un punct de pornire pentru ca filmul să discute despre două perspective diferite privind creşterea copiilor, educaţia şi în general un stil de viaţă ce pare a contrazice normele sociale ale comunităţii adoptive a familiei Gheorghiu.",
+   "imdb_id": "tt35410859",
+   "runtime": 146,
+   "fetched": "2026-11-20T14:26:18+00:00",
+   "lb": 3.75,
+   "lb_ts": "2026-11-20T14:27:24+00:00"
+  },
+  "345443": {
+   "title": "Fjord",
+   "original_title": "Fjord",
+   "orig_lang": "no",
+   "year": "2009",
+   "poster": null,
+   "directors": [
+    "Skule Eriksen"
+   ],
+   "cast": [],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt4012780",
+   "runtime": 23,
+   "fetched": "2026-11-20T14:26:18+00:00"
+  },
+  "1157869": {
+   "title": "Histoires parallèles",
+   "original_title": "Histoires parallèles",
+   "orig_lang": "fr",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/skVHP9WjL0N7urDMJGXev2RwoK8.jpg",
+   "directors": [
+    "Asqar Farhadi"
+   ],
+   "cast": [
+    "Isabelle Huppert",
+    "Virginie Efira",
+    "Vincent Cassel",
+    "Pierre Niney",
+    "Adam Bessa",
+    "Catherine Deneuve"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt36646880",
+   "runtime": 139,
+   "fetched": "2026-11-20T14:26:22+00:00",
+   "lb": 2.93,
+   "lb_ts": "2026-11-20T14:27:26+00:00"
+  },
+  "1449868": {
+   "title": "L'Illusion de Yakushima",
+   "original_title": "L'Illusion de Yakushima",
+   "orig_lang": "fr",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/39jUDZtRdLq2WlwYqVIf4gsQHIx.jpg",
+   "directors": [
+    "Sentō Naomi"
+   ],
+   "cast": [
+    "Vicky Krieps",
+    "Kanichiro Sato",
+    "Ojiro Nakamura",
+    "Misaki Kakano",
+    "土屋陽翔",
+    "Ukyo Todoshi"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt36364208",
+   "runtime": 122,
+   "fetched": "2026-11-20T14:26:25+00:00",
+   "lb": 3.19,
+   "lb_ts": "2026-11-20T14:27:28+00:00"
+  },
+  "1379924": {
+   "title": "Le Cinquième Plan de « La Jetée »",
+   "original_title": "Le Cinquième Plan de « La Jetée »",
+   "orig_lang": "fr",
+   "year": "2025",
+   "poster": "https://image.tmdb.org/t/p/w185/ffBWRhKLY9BXjTVnkAkiDuvn24f.jpg",
+   "directors": [
+    "Dominique Cabrera"
+   ],
+   "cast": [],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt32134829",
+   "runtime": 104,
+   "fetched": "2026-11-20T14:26:28+00:00",
+   "lb": 3.43,
+   "lb_ts": "2026-11-20T14:27:31+00:00"
+  },
+  "263115": {
+   "title": "Logan",
+   "original_title": "Logan",
+   "orig_lang": "en",
+   "year": "2017",
+   "poster": "https://image.tmdb.org/t/p/w185/1N1eqvSkL1gNBC8aqNmskfLjCsR.jpg",
+   "directors": [
+    "James Mangold"
+   ],
+   "cast": [
+    "Hugh Jackman",
+    "Dafne Keen",
+    "Patrick Stewart",
+    "Elizabeth Rodriguez",
+    "Boyd Holbrook",
+    "Stephen Merchant"
+   ],
+   "v": 2,
+   "overview": "Suntem în 2029. Mutanții au dispărut — sau sunt pe cale să dispară. Un Logan izolat, deznădăjduit, care își pierde zilele bând, ascunzându-se într-o zonă îndepărtată a graniței cu Mexic-ul, făcând rost de mărunțiș lucrând ca șofer.  Companionii lui în exil sunt proscrisul Caliban și un Profesor X suferind, a cărui minte singulară este îmbolnăvită de crize care se înrăutățesc.  Dar încercarea lui Logan de a se ascunde de lume și de moștenirea sa ia sfârșit  brusc când o femeie misterioasă apare cu o solicitare urgentă — ca Logan să aibă grijă de o tânără extraordinară, astfel încât ca aceasta s",
+   "imdb_id": "tt3315342",
+   "runtime": 137,
+   "fetched": "2026-11-20T14:26:30+00:00",
+   "lb": 4.13,
+   "lb_ts": "2026-11-20T14:27:33+00:00"
+  },
+  "44010": {
+   "title": "Logan",
+   "original_title": "Logan",
+   "orig_lang": "en",
+   "year": "2010",
+   "poster": "https://image.tmdb.org/t/p/w185/9Jhk48r4SRaUprLjaAnWeqfdWka.jpg",
+   "directors": [
+    "Kyle Lawrence",
+    "Caleb Doyle"
+   ],
+   "cast": [
+    "Leo Howard",
+    "Patrick Probst",
+    "Booboo Stewart",
+    "Abigail Isom",
+    "Nicole Carmela",
+    "Colin Ritchie"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt1483010",
+   "runtime": 94,
+   "fetched": "2026-11-20T14:26:31+00:00"
+  },
+  "98984": {
+   "title": "Eat a Bowl of Tea",
+   "original_title": "Eat a Bowl of Tea",
+   "orig_lang": "en",
+   "year": "1989",
+   "poster": "https://image.tmdb.org/t/p/w185/4Dnr4mggLVUFqT4NGsqiIE0Ex7z.jpg",
+   "directors": [
+    "Wayne Wang"
+   ],
+   "cast": [
+    "Cora Miao Chien-Jen",
+    "Russell Wong",
+    "Victor Wong",
+    "Siu Ming Lau",
+    "Chen Chih-Wei",
+    "Lee Sau-Kei"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0097261",
+   "runtime": 102,
+   "fetched": "2026-11-20T14:26:41+00:00",
+   "lb": 3.3,
+   "lb_ts": "2026-11-20T14:27:37+00:00"
+  },
+  "1381273": {
+   "title": "Paper Tiger",
+   "original_title": "Paper Tiger",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+   "directors": [
+    "James Gray"
+   ],
+   "cast": [
+    "Miles Teller",
+    "Adam Driver",
+    "Scarlett Johansson",
+    "Gavin Goudey",
+    "Roman Engel",
+    "Cindy Katz"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt34385689",
+   "runtime": 115,
+   "fetched": "2026-11-20T14:26:44+00:00",
+   "lb": 3.38,
+   "lb_ts": "2026-11-20T14:27:40+00:00"
+  },
+  "105240": {
+   "title": "Tigrul de hârtie",
+   "original_title": "Paper Tiger",
+   "orig_lang": "en",
+   "year": "1975",
+   "poster": "https://image.tmdb.org/t/p/w185/b5AUv62D5eUhWpU7WSk3wTybzL1.jpg",
+   "directors": [
+    "Ken Annakin"
+   ],
+   "cast": [
+    "David Niven",
+    "Toshiroh Mifune",
+    "Hardy Krüger",
+    "安藤一人",
+    "Irene Tsu",
+    "Ivan Desny"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0073511",
+   "runtime": 100,
+   "fetched": "2026-11-20T14:26:44+00:00"
+  },
+  "750140": {
+   "title": "Paper Tiger",
+   "original_title": "Paper Tiger",
+   "orig_lang": "en",
+   "year": "2020",
+   "poster": "https://image.tmdb.org/t/p/w185/re21xJZb142USejxhljLxJyZ9m8.jpg",
+   "directors": [
+    "Paul Kowalski"
+   ],
+   "cast": [
+    "Lydia Look",
+    "Alan Trong",
+    "Elaine Kao",
+    "Seth Numrich",
+    "Lynn Chen",
+    "John Harlan Kim"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt10365730",
+   "runtime": 94,
+   "fetched": "2026-11-20T14:26:44+00:00"
+  },
+  "1775806": {
+   "title": "PAPER TIGER",
+   "original_title": "PAPER TIGER",
+   "orig_lang": "en",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/8RwXXdgCtuKhnX0soOIN4mmNkRr.jpg",
+   "directors": [
+    "Don Ahmad"
+   ],
+   "cast": [
+    "Ehsan Mazhar",
+    "Tariq Khateeb",
+    "Brendan Balsamo",
+    "Riyaan Jiwani",
+    "Salma Qarnain",
+    "Riyaan Jiwani"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt38980575",
+   "runtime": 14,
+   "fetched": "2026-11-20T14:26:44+00:00"
+  },
+  "1370949": {
+   "title": "Paper Tiger",
+   "original_title": "Paper Tiger",
+   "orig_lang": "en",
+   "year": "2024",
+   "poster": "https://image.tmdb.org/t/p/w185/16ukrTUu9VgAqUJkhfXg1SKZIuK.jpg",
+   "directors": [
+    "Eva Erhardt"
+   ],
+   "cast": [
+    "Heather Matarazzo",
+    "Valeria Cotto",
+    "Ben Krieger",
+    "Al Dollar"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": 9,
+   "fetched": "2026-11-20T14:26:45+00:00"
+  },
+  "338584": {
+   "title": "Paper Tiger",
+   "original_title": "Paper Tiger",
+   "orig_lang": "en",
+   "year": "2015",
+   "poster": null,
+   "directors": [],
+   "cast": [],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": null,
+   "fetched": "2026-11-20T14:26:45+00:00"
+  },
+  "1375441": {
+   "title": "Primetime",
+   "original_title": "Primetime",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/c3OZ9HxXIRO9tafXJJEDfwEUaft.jpg",
+   "directors": [
+    "Lance Oppenheim"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Merritt Wever",
+    "Skyler Gisondo",
+    "Matthew Maher",
+    "Phoebe Bridgers",
+    "Victor Brunette"
+   ],
+   "v": 2,
+   "overview": "Un jurnalist investighează și demască lumea interlopă, ceea ce duce la o schimbare majoră în domeniul televiziunii.",
+   "imdb_id": "tt34206385",
+   "runtime": 110,
+   "fetched": "2026-11-20T14:26:50+00:00",
+   "lb": 3.63,
+   "lb_ts": "2026-11-20T14:27:42+00:00"
+  },
+  "1204847": {
+   "title": "Primetime",
+   "original_title": "Primetime",
+   "orig_lang": "en",
+   "year": "2021",
+   "poster": "https://image.tmdb.org/t/p/w185/AsKkVChExc5OHx2NAHE018wZtNO.jpg",
+   "directors": [
+    "Corey Brandon-Lee James"
+   ],
+   "cast": [
+    "Joel Rees",
+    "Ian Skinner"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt19890934",
+   "runtime": 12,
+   "fetched": "2026-11-20T14:26:51+00:00"
+  },
+  "46207": {
+   "title": "White Material",
+   "original_title": "White Material",
+   "orig_lang": "fr",
+   "year": "2010",
+   "poster": "https://image.tmdb.org/t/p/w185/yeR8dSW1ip0y7uvkjznP482kSdO.jpg",
+   "directors": [
+    "Claire Denis"
+   ],
+   "cast": [
+    "Isabelle Huppert",
+    "Christopher Lambert",
+    "Nicolas Duvauchelle",
+    "Isaach de Bankolé",
+    "William Nadylam",
+    "Michel Subor"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt1135952",
+   "runtime": 106,
+   "fetched": "2026-11-20T14:26:55+00:00",
+   "lb": 3.75,
+   "lb_ts": "2026-11-20T14:27:44+00:00"
+  },
+  "127585": {
+   "title": "X-Men: Viitorul este trecut",
+   "original_title": "X-Men: Days of Future Past",
+   "orig_lang": "en",
+   "year": "2014",
+   "poster": "https://image.tmdb.org/t/p/w185/vNKbVu3XPKQItbTcDHxSxwYIRWa.jpg",
+   "directors": [
+    "Bryan Singer"
+   ],
+   "cast": [
+    "Hugh Jackman",
+    "James McAvoy",
+    "Michael Fassbender",
+    "Patrick Stewart",
+    "Ian McKellen",
+    "Jennifer Lawrence"
+   ],
+   "v": 2,
+   "overview": "Cea mai populară echipă  Oamenii-X duce o bătălie pentru supraviețuirea speciei lor în două perioade de timp diferite. Eroii din trilogia originală Oamenii-X se alătură eforturilor depuse de versiunile lor mai tinere din trecutul explorat de Oamenii-X: Cei dintâi pentru a schimba un eveniment istoric ce ar putea pecetlui soarta tuturor purtătorilor genei X.",
+   "imdb_id": "tt1877832",
+   "runtime": 132,
+   "fetched": "2026-11-20T14:27:01+00:00",
+   "lb": 3.73,
+   "lb_ts": "2026-11-20T14:27:47+00:00"
+  },
+  "28415": {
+   "title": "The Yakuza",
+   "original_title": "The Yakuza",
+   "orig_lang": "en",
+   "year": "1974",
+   "poster": "https://image.tmdb.org/t/p/w185/AgD8nbLXo6YpBxv71A2vdJHs03D.jpg",
+   "directors": [
+    "Sydney Pollack"
+   ],
+   "cast": [
+    "Robert Mitchum",
+    "Goichi Oda",
+    "Okada Eiji",
+    "Herb Edelman",
+    "Richard Jordan",
+    "James Shigeta"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0073918",
+   "runtime": 112,
+   "fetched": "2026-11-20T14:27:05+00:00",
+   "lb": 3.72,
+   "lb_ts": "2026-11-20T14:27:49+00:00"
   }
  },
  "search": {
@@ -3582,15 +4406,15 @@
   },
   "minuscule valea furnicilor pierdute|": {
    "res": [],
-   "ts": "2026-11-16T09:35:46+00:00"
+   "ts": "2026-11-20T14:26:34+00:00"
   },
   "minuscule valea furnicilor pierdute|2026": {
    "res": [],
-   "ts": "2026-11-16T09:35:46+00:00"
+   "ts": "2026-11-20T14:26:34+00:00"
   },
   "minuscule valea furnicilor pierdute|2025": {
    "res": [],
-   "ts": "2026-11-16T09:35:46+00:00"
+   "ts": "2026-11-20T14:26:34+00:00"
   },
   "mon inseparable|": {
    "res": [
@@ -4494,56 +5318,56 @@
      "title": "Minuscule",
      "original_title": "Minuscule - La Vallée des fourmis perdues",
      "release_date": "2013-11-17",
-     "popularity": 2.8198
+     "popularity": 2.7697
     },
     {
      "id": 513302,
      "title": "Minuscule 2: Mandibule de la capătul lumii",
      "original_title": "Minuscule 2 - Les Mandibules du bout du monde",
      "release_date": "2019-01-30",
-     "popularity": 2.513
+     "popularity": 2.6835
     },
     {
      "id": 552784,
      "title": "Le renard minuscule",
      "original_title": "Le renard minuscule",
      "release_date": "2016-02-08",
-     "popularity": 0.2689
+     "popularity": 0.2089
     },
     {
      "id": 275814,
      "title": "Björk: Minuscule",
      "original_title": "Björk: Minuscule",
      "release_date": "2002-11-18",
-     "popularity": 0.4089
+     "popularity": 0.349
     },
     {
      "id": 1554286,
      "title": "A Minuscule Minority",
      "original_title": "A Minuscule Minority",
      "release_date": "2025-08-24",
-     "popularity": 0.1296
+     "popularity": 0.0596
     },
     {
      "id": 529426,
      "title": "熊出没·变形记",
      "original_title": "熊出没·变形记",
      "release_date": "2018-02-16",
-     "popularity": 1.244
+     "popularity": 1.2836
     },
     {
      "id": 1055160,
      "title": "Las y Los Minúscules",
      "original_title": "Las y Los Minúscules",
      "release_date": "2021-01-01",
-     "popularity": 0.0686
+     "popularity": 0.023
     }
    ],
-   "ts": "2026-11-16T12:39:14+00:00"
+   "ts": "2026-11-20T14:26:34+00:00"
   },
   "minuscule|2026": {
    "res": [],
-   "ts": "2026-11-16T12:39:14+00:00"
+   "ts": "2026-11-20T14:26:34+00:00"
   },
   "minuscule|2025": {
    "res": [
@@ -4552,34 +5376,34 @@
      "title": "A Minuscule Minority",
      "original_title": "A Minuscule Minority",
      "release_date": "2025-08-24",
-     "popularity": 0.1296
+     "popularity": 0.0596
     }
    ],
-   "ts": "2026-11-16T12:39:14+00:00"
+   "ts": "2026-11-20T14:26:34+00:00"
   },
   "valea furnicilor pierdute|": {
    "res": [],
-   "ts": "2026-11-16T12:39:15+00:00"
+   "ts": "2026-11-20T14:26:35+00:00"
   },
   "valea furnicilor pierdute|2026": {
    "res": [],
-   "ts": "2026-11-16T12:39:15+00:00"
+   "ts": "2026-11-20T14:26:35+00:00"
   },
   "valea furnicilor pierdute|2025": {
    "res": [],
-   "ts": "2026-11-16T12:39:15+00:00"
+   "ts": "2026-11-20T14:26:35+00:00"
   },
   "mici excese|": {
    "res": [],
-   "ts": "2026-11-16T12:39:18+00:00"
+   "ts": "2026-11-20T14:26:37+00:00"
   },
   "mici excese|2026": {
    "res": [],
-   "ts": "2026-11-16T12:39:18+00:00"
+   "ts": "2026-11-20T14:26:37+00:00"
   },
   "mici excese|2025": {
    "res": [],
-   "ts": "2026-11-16T12:39:19+00:00"
+   "ts": "2026-11-20T14:26:37+00:00"
   },
   "a vinganca de uma mulher|": {
    "res": [
@@ -4588,25 +5412,25 @@
      "title": "A Vingança de Uma Mulher",
      "original_title": "A Vingança de Uma Mulher",
      "release_date": "2012-03-29",
-     "popularity": 1.1455
+     "popularity": 1.2798
     },
     {
      "id": 22171,
      "title": "Ms .45",
      "original_title": "Ms .45",
      "release_date": "1981-04-24",
-     "popularity": 2.4246
+     "popularity": 2.1992
     }
    ],
-   "ts": "2026-11-16T12:39:19+00:00"
+   "ts": "2026-11-20T14:26:38+00:00"
   },
   "a vinganca de uma mulher|2026": {
    "res": [],
-   "ts": "2026-11-16T12:39:19+00:00"
+   "ts": "2026-11-20T14:26:38+00:00"
   },
   "a vinganca de uma mulher|2025": {
    "res": [],
-   "ts": "2026-11-16T12:39:19+00:00"
+   "ts": "2026-11-20T14:26:38+00:00"
   },
   "pas sur la bouche|": {
    "res": [
@@ -6692,6 +7516,1635 @@
   "misterul lui lucy lost|2025": {
    "res": [],
    "ts": "2026-11-19T10:19:21+00:00"
+  },
+  "100 de lei suta de lei|": {
+   "res": [],
+   "ts": "2026-11-20T14:25:46+00:00"
+  },
+  "100 de lei suta de lei|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:46+00:00"
+  },
+  "100 de lei suta de lei|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:46+00:00"
+  },
+  "a fox under a pink moon|": {
+   "res": [
+    {
+     "id": 951018,
+     "title": "روباه و ماه صورتی",
+     "original_title": "روباه و ماه صورتی",
+     "release_date": "2026-11-13",
+     "popularity": 1.1761
+    }
+   ],
+   "ts": "2026-11-20T14:25:46+00:00"
+  },
+  "a fox under a pink moon|2026": {
+   "res": [
+    {
+     "id": 951018,
+     "title": "روباه و ماه صورتی",
+     "original_title": "روباه و ماه صورتی",
+     "release_date": "2026-11-13",
+     "popularity": 1.1761
+    }
+   ],
+   "ts": "2026-11-20T14:25:47+00:00"
+  },
+  "a fox under a pink moon|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:47+00:00"
+  },
+  "o vulpe sub o luna roz|": {
+   "res": [],
+   "ts": "2026-11-20T14:25:47+00:00"
+  },
+  "o vulpe sub o luna roz|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:47+00:00"
+  },
+  "o vulpe sub o luna roz|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:47+00:00"
+  },
+  "caged|": {
+   "res": [
+    {
+     "id": 400666,
+     "title": "The Caged Pillows",
+     "original_title": "The Caged Pillows",
+     "release_date": "2016-06-03",
+     "popularity": 2.2584
+    },
+    {
+     "id": 29381,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "1950-05-19",
+     "popularity": 1.5349
+    },
+    {
+     "id": 1720594,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "1998-01-17",
+     "popularity": 0.3771
+    },
+    {
+     "id": 77844,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "2011-09-01",
+     "popularity": 1.0559
+    },
+    {
+     "id": 777620,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "2021-01-26",
+     "popularity": 1.0794
+    },
+    {
+     "id": 91612,
+     "title": "Caged Fury",
+     "original_title": "Caged Fury",
+     "release_date": "1990-03-01",
+     "popularity": 1.7716
+    },
+    {
+     "id": 1715334,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "",
+     "popularity": 0.4212
+    },
+    {
+     "id": 39775,
+     "title": "Caged Heat",
+     "original_title": "Caged Heat",
+     "release_date": "1974-04-19",
+     "popularity": 1.7994
+    },
+    {
+     "id": 972929,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "2016-01-01",
+     "popularity": 0.2683
+    },
+    {
+     "id": 1285343,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "2015-09-16",
+     "popularity": 0.2779
+    }
+   ],
+   "ts": "2026-11-20T14:25:47+00:00"
+  },
+  "caged|2026": {
+   "res": [
+    {
+     "id": 1526383,
+     "title": "The Caged",
+     "original_title": "The Caged",
+     "release_date": "2026-12-31",
+     "popularity": 0.792
+    },
+    {
+     "id": 1774232,
+     "title": "Caged",
+     "original_title": "Caged",
+     "release_date": "2026-09-19",
+     "popularity": 0.1078
+    },
+    {
+     "id": 1657534,
+     "title": "蝴蝶楼·惊魂",
+     "original_title": "蝴蝶楼·惊魂",
+     "release_date": "2026-04-03",
+     "popularity": 0.7896
+    }
+   ],
+   "ts": "2026-11-20T14:25:48+00:00"
+  },
+  "caged|2025": {
+   "res": [
+    {
+     "id": 1583673,
+     "title": "The Caged",
+     "original_title": "The Caged",
+     "release_date": "2025-11-02",
+     "popularity": 0.0338
+    },
+    {
+     "id": 1476786,
+     "title": "Caged (In) and Out",
+     "original_title": "Caged (In) and Out",
+     "release_date": "2025-05-06",
+     "popularity": 0.16
+    },
+    {
+     "id": 1606818,
+     "title": "Caged in a Zoo: Ota Benga",
+     "original_title": "Caged in a Zoo: Ota Benga",
+     "release_date": "2025-12-28",
+     "popularity": 0.1578
+    },
+    {
+     "id": 1414712,
+     "title": "BIANG RW 1",
+     "original_title": "BIANG RW 1",
+     "release_date": "2025-11-21",
+     "popularity": 0.2043
+    },
+    {
+     "id": 1297611,
+     "title": "囚犬",
+     "original_title": "囚犬",
+     "release_date": "2025-03-28",
+     "popularity": 0.1571
+    },
+    {
+     "id": 1591251,
+     "title": "Pássaros Enjaulados Não Veem o Céu",
+     "original_title": "Pássaros Enjaulados Não Veem o Céu",
+     "release_date": "2025-11-28",
+     "popularity": 0.0513
+    }
+   ],
+   "ts": "2026-11-20T14:25:48+00:00"
+  },
+  "calle malaga|": {
+   "res": [
+    {
+     "id": 1399462,
+     "title": "Calle Málaga",
+     "original_title": "Calle Málaga",
+     "release_date": "2025-10-31",
+     "popularity": 1.3971
+    }
+   ],
+   "ts": "2026-11-20T14:25:51+00:00"
+  },
+  "calle malaga|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:51+00:00"
+  },
+  "calle malaga|2025": {
+   "res": [
+    {
+     "id": 1399462,
+     "title": "Calle Málaga",
+     "original_title": "Calle Málaga",
+     "release_date": "2025-10-31",
+     "popularity": 1.3971
+    }
+   ],
+   "ts": "2026-11-20T14:25:51+00:00"
+  },
+  "strada malaga|": {
+   "res": [],
+   "ts": "2026-11-20T14:25:51+00:00"
+  },
+  "strada malaga|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:51+00:00"
+  },
+  "strada malaga|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:52+00:00"
+  },
+  "ceaiul amar al generalului yen|": {
+   "res": [],
+   "ts": "2026-11-20T14:25:54+00:00"
+  },
+  "ceaiul amar al generalului yen|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:54+00:00"
+  },
+  "ceaiul amar al generalului yen|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:54+00:00"
+  },
+  "the bitter tea of general yen|": {
+   "res": [
+    {
+     "id": 34187,
+     "title": "The Bitter Tea of General Yen",
+     "original_title": "The Bitter Tea of General Yen",
+     "release_date": "1933-01-06",
+     "popularity": 1.2205
+    }
+   ],
+   "ts": "2026-11-20T14:25:55+00:00"
+  },
+  "the bitter tea of general yen|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:55+00:00"
+  },
+  "the bitter tea of general yen|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:55+00:00"
+  },
+  "conspiracy theory|": {
+   "res": [
+    {
+     "id": 8834,
+     "title": "Teoria conspirației",
+     "original_title": "Conspiracy Theory",
+     "release_date": "1997-08-08",
+     "popularity": 4.0876
+    },
+    {
+     "id": 454963,
+     "title": "Conspiracy Theory",
+     "original_title": "Conspiracy Theory",
+     "release_date": "2016-01-29",
+     "popularity": 0.2138
+    },
+    {
+     "id": 1790273,
+     "title": "Conspiracy Theory",
+     "original_title": "Conspiracy Theory",
+     "release_date": "",
+     "popularity": 0.075
+    },
+    {
+     "id": 272983,
+     "title": "Linkin Park: Conspiracy Theory",
+     "original_title": "Linkin Park: Conspiracy Theory",
+     "release_date": "2004-01-01",
+     "popularity": 0.0263
+    },
+    {
+     "id": 86399,
+     "title": "Conspiracy Theory Global Warming",
+     "original_title": "Conspiracy Theory Global Warming",
+     "release_date": "2009-12-16",
+     "popularity": 0.1039
+    },
+    {
+     "id": 796668,
+     "title": "Viral: The 5G Conspiracy Theory",
+     "original_title": "Viral: The 5G Conspiracy Theory",
+     "release_date": "2020-07-29",
+     "popularity": 0.1629
+    },
+    {
+     "id": 698559,
+     "title": "This is Not a Conspiracy Theory",
+     "original_title": "This is Not a Conspiracy Theory",
+     "release_date": "2020-04-29",
+     "popularity": 0.2489
+    },
+    {
+     "id": 191678,
+     "title": "Conspiracy Theory: Did We Land on the Moon?",
+     "original_title": "Conspiracy Theory: Did We Land on the Moon?",
+     "release_date": "2001-02-15",
+     "popularity": 0.7037
+    },
+    {
+     "id": 38735,
+     "title": "The Illuminati",
+     "original_title": "The Illuminati",
+     "release_date": "2005-01-01",
+     "popularity": 0.3167
+    },
+    {
+     "id": 1426986,
+     "title": "ma théorie du complot",
+     "original_title": "ma théorie du complot",
+     "release_date": "2012-05-16",
+     "popularity": 0.2475
+    }
+   ],
+   "ts": "2026-11-20T14:25:57+00:00"
+  },
+  "conspiracy theory|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:57+00:00"
+  },
+  "conspiracy theory|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:58+00:00"
+  },
+  "teoria conspiratiei|": {
+   "res": [
+    {
+     "id": 8834,
+     "title": "Teoria conspirației",
+     "original_title": "Conspiracy Theory",
+     "release_date": "1997-08-08",
+     "popularity": 4.0876
+    },
+    {
+     "id": 1211264,
+     "title": "BORDEA: Teoria conspirației",
+     "original_title": "BORDEA: Teoria conspirației",
+     "release_date": "2023-12-08",
+     "popularity": 0.0866
+    }
+   ],
+   "ts": "2026-11-20T14:25:58+00:00"
+  },
+  "teoria conspiratiei|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:25:58+00:00"
+  },
+  "teoria conspiratiei|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:25:58+00:00"
+  },
+  "copilul care ar putea fi rege|": {
+   "res": [
+    {
+     "id": 454294,
+     "title": "Copilul care ar putea fi rege",
+     "original_title": "The Kid Who Would Be King",
+     "release_date": "2019-01-16",
+     "popularity": 3.4066
+    }
+   ],
+   "ts": "2026-11-20T14:26:01+00:00"
+  },
+  "copilul care ar putea fi rege|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:01+00:00"
+  },
+  "copilul care ar putea fi rege|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:01+00:00"
+  },
+  "the kid who would be king|": {
+   "res": [
+    {
+     "id": 454294,
+     "title": "Copilul care ar putea fi rege",
+     "original_title": "The Kid Who Would Be King",
+     "release_date": "2019-01-16",
+     "popularity": 3.4066
+    }
+   ],
+   "ts": "2026-11-20T14:26:01+00:00"
+  },
+  "the kid who would be king|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:02+00:00"
+  },
+  "the kid who would be king|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:02+00:00"
+  },
+  "craciun fara semnal misiunea lui yoyo|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:04+00:00"
+  },
+  "craciun fara semnal misiunea lui yoyo|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:04+00:00"
+  },
+  "craciun fara semnal misiunea lui yoyo|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:04+00:00"
+  },
+  "craciun fara semnal|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:04+00:00"
+  },
+  "craciun fara semnal|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:05+00:00"
+  },
+  "craciun fara semnal|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:05+00:00"
+  },
+  "misiunea lui yoyo|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:05+00:00"
+  },
+  "misiunea lui yoyo|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:05+00:00"
+  },
+  "misiunea lui yoyo|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:05+00:00"
+  },
+  "de as fi harap alb|": {
+   "res": [
+    {
+     "id": 265092,
+     "title": "De-as fi... Harap Alb",
+     "original_title": "De-as fi... Harap Alb",
+     "release_date": "1965-07-01",
+     "popularity": 0.8293
+    }
+   ],
+   "ts": "2026-11-20T14:26:05+00:00"
+  },
+  "de as fi harap alb|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:06+00:00"
+  },
+  "de as fi harap alb|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:06+00:00"
+  },
+  "the white moor|": {
+   "res": [
+    {
+     "id": 639368,
+     "title": "The White Stripes: Under Moorhead Lights All Fargo Night",
+     "original_title": "The White Stripes: Under Moorhead Lights All Fargo Night",
+     "release_date": "2011-01-01",
+     "popularity": 0.4065
+    },
+    {
+     "id": 265092,
+     "title": "De-as fi... Harap Alb",
+     "original_title": "De-as fi... Harap Alb",
+     "release_date": "1965-07-01",
+     "popularity": 0.8293
+    }
+   ],
+   "ts": "2026-11-20T14:26:06+00:00"
+  },
+  "the white moor|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:06+00:00"
+  },
+  "the white moor|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:06+00:00"
+  },
+  "el ser querido|": {
+   "res": [
+    {
+     "id": 1074074,
+     "title": "El ser querido",
+     "original_title": "El ser querido",
+     "release_date": "2026-05-16",
+     "popularity": 7.8922
+    }
+   ],
+   "ts": "2026-11-20T14:26:09+00:00"
+  },
+  "el ser querido|2026": {
+   "res": [
+    {
+     "id": 1074074,
+     "title": "El ser querido",
+     "original_title": "El ser querido",
+     "release_date": "2026-05-16",
+     "popularity": 7.8922
+    }
+   ],
+   "ts": "2026-11-20T14:26:09+00:00"
+  },
+  "el ser querido|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:09+00:00"
+  },
+  "persoana iubita|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:09+00:00"
+  },
+  "persoana iubita|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:09+00:00"
+  },
+  "persoana iubita|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:09+00:00"
+  },
+  "excalibur|": {
+   "res": [
+    {
+     "id": 11527,
+     "title": "Excalibur",
+     "original_title": "Excalibur",
+     "release_date": "1981-04-10",
+     "popularity": 4.5815
+    },
+    {
+     "id": 1526236,
+     "title": "Excalibur",
+     "original_title": "Excalibur",
+     "release_date": "",
+     "popularity": 0.5516
+    },
+    {
+     "id": 472788,
+     "title": "Excalibur",
+     "original_title": "Excalibur",
+     "release_date": "1990-04-03",
+     "popularity": 0.6159
+    },
+    {
+     "id": 1566263,
+     "title": "Excalibur City",
+     "original_title": "Excalibur City",
+     "release_date": "2022-05-01",
+     "popularity": 0.2532
+    },
+    {
+     "id": 986051,
+     "title": "Artus - Excalibur",
+     "original_title": "Artus - Excalibur",
+     "release_date": "2014-07-06",
+     "popularity": 0.3337
+    },
+    {
+     "id": 447427,
+     "title": "King Arthur: Excalibur Rising",
+     "original_title": "King Arthur: Excalibur Rising",
+     "release_date": "2017-03-01",
+     "popularity": 1.1781
+    },
+    {
+     "id": 166818,
+     "title": "The Excalibur Kid",
+     "original_title": "The Excalibur Kid",
+     "release_date": "1999-03-23",
+     "popularity": 0.4109
+    },
+    {
+     "id": 829336,
+     "title": "Excalibur: Behind the Movie",
+     "original_title": "Excalibur: Behind the Movie",
+     "release_date": "2013-12-20",
+     "popularity": 0.5578
+    },
+    {
+     "id": 1357564,
+     "title": "Stefano Ghisolfi – Excalibur",
+     "original_title": "Stefano Ghisolfi – Excalibur",
+     "release_date": "2023-02-12",
+     "popularity": 0.0455
+    },
+    {
+     "id": 745217,
+     "title": "The Kevin Steen Show: Excalibur",
+     "original_title": "The Kevin Steen Show: Excalibur",
+     "release_date": "2015-12-05",
+     "popularity": 0.4381
+    }
+   ],
+   "ts": "2026-11-20T14:26:12+00:00"
+  },
+  "excalibur|2026": {
+   "res": [
+    {
+     "id": 1679802,
+     "title": "Excalibur, A Pursuit in Process",
+     "original_title": "Excalibur, A Pursuit in Process",
+     "release_date": "2026-11-21",
+     "popularity": 0.2802
+    }
+   ],
+   "ts": "2026-11-20T14:26:13+00:00"
+  },
+  "excalibur|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:13+00:00"
+  },
+  "fjord|": {
+   "res": [
+    {
+     "id": 1401459,
+     "title": "Fjord",
+     "original_title": "Fjord",
+     "release_date": "2026-06-13",
+     "popularity": 50.9605
+    },
+    {
+     "id": 1220624,
+     "title": "Fjord pony",
+     "original_title": "Fjord pony",
+     "release_date": "1993-01-01",
+     "popularity": 0.2845
+    },
+    {
+     "id": 345443,
+     "title": "Fjord",
+     "original_title": "Fjord",
+     "release_date": "2009-07-01",
+     "popularity": 0.1158
+    },
+    {
+     "id": 16336,
+     "title": "Ein Mann, ein Fjord!",
+     "original_title": "Ein Mann, ein Fjord!",
+     "release_date": "2009-01-21",
+     "popularity": 0.7301
+    },
+    {
+     "id": 1522915,
+     "title": "Fjord Time",
+     "original_title": "Fjord Time",
+     "release_date": "2025-08-06",
+     "popularity": 0.0127
+    },
+    {
+     "id": 962329,
+     "title": "Kralj Fjord!",
+     "original_title": "Kralj Fjord!",
+     "release_date": "2021-04-13",
+     "popularity": 0.1785
+    },
+    {
+     "id": 949075,
+     "title": "Nebel im Fjord",
+     "original_title": "Nebel im Fjord",
+     "release_date": "1987-01-01",
+     "popularity": 0.2361
+    },
+    {
+     "id": 1512797,
+     "title": "Vikingeskibene i Roskilde Fjord",
+     "original_title": "Vikingeskibene i Roskilde Fjord",
+     "release_date": "1964-10-30",
+     "popularity": 0.4475
+    },
+    {
+     "id": 431070,
+     "title": "Liebe am Fjord - Zwei Sommer",
+     "original_title": "Liebe am Fjord - Zwei Sommer",
+     "release_date": "2013-10-25",
+     "popularity": 0.5482
+    },
+    {
+     "id": 444112,
+     "title": "Liebe am Fjord - Sommersturm",
+     "original_title": "Liebe am Fjord - Sommersturm",
+     "release_date": "2010-04-16",
+     "popularity": 0.3557
+    }
+   ],
+   "ts": "2026-11-20T14:26:15+00:00"
+  },
+  "fjord|2026": {
+   "res": [
+    {
+     "id": 1401459,
+     "title": "Fjord",
+     "original_title": "Fjord",
+     "release_date": "2026-06-13",
+     "popularity": 50.9605
+    }
+   ],
+   "ts": "2026-11-20T14:26:16+00:00"
+  },
+  "fjord|2025": {
+   "res": [
+    {
+     "id": 1522915,
+     "title": "Fjord Time",
+     "original_title": "Fjord Time",
+     "release_date": "2025-08-06",
+     "popularity": 0.0127
+    },
+    {
+     "id": 1483573,
+     "title": "Critical Role Live: Jester and Fjord's Wedding",
+     "original_title": "Critical Role Live: Jester and Fjord's Wedding",
+     "release_date": "2025-10-15",
+     "popularity": 0.8096
+    },
+    {
+     "id": 1576359,
+     "title": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ～FJORD～ ON SCREEN",
+     "original_title": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ～FJORD～ ON SCREEN",
+     "release_date": "2025-11-28",
+     "popularity": 0.4709
+    }
+   ],
+   "ts": "2026-11-20T14:26:16+00:00"
+  },
+  "histoires paralleles|": {
+   "res": [
+    {
+     "id": 1157869,
+     "title": "Histoires parallèles",
+     "original_title": "Histoires parallèles",
+     "release_date": "2026-05-14",
+     "popularity": 4.0489
+    }
+   ],
+   "ts": "2026-11-20T14:26:18+00:00"
+  },
+  "histoires paralleles|2026": {
+   "res": [
+    {
+     "id": 1157869,
+     "title": "Histoires parallèles",
+     "original_title": "Histoires parallèles",
+     "release_date": "2026-05-14",
+     "popularity": 4.0489
+    }
+   ],
+   "ts": "2026-11-20T14:26:18+00:00"
+  },
+  "histoires paralleles|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:18+00:00"
+  },
+  "povesti paralele|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:19+00:00"
+  },
+  "povesti paralele|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:19+00:00"
+  },
+  "povesti paralele|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:19+00:00"
+  },
+  "l illusion de yakushima|": {
+   "res": [
+    {
+     "id": 1449868,
+     "title": "L'Illusion de Yakushima",
+     "original_title": "L'Illusion de Yakushima",
+     "release_date": "2025-11-07",
+     "popularity": 1.2789
+    }
+   ],
+   "ts": "2026-11-20T14:26:22+00:00"
+  },
+  "l illusion de yakushima|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:22+00:00"
+  },
+  "l illusion de yakushima|2025": {
+   "res": [
+    {
+     "id": 1449868,
+     "title": "L'Illusion de Yakushima",
+     "original_title": "L'Illusion de Yakushima",
+     "release_date": "2025-11-07",
+     "popularity": 1.2789
+    }
+   ],
+   "ts": "2026-11-20T14:26:22+00:00"
+  },
+  "le cinquieme plan de la jetee|": {
+   "res": [
+    {
+     "id": 1379924,
+     "title": "Le Cinquième Plan de « La Jetée »",
+     "original_title": "Le Cinquième Plan de « La Jetée »",
+     "release_date": "2025-11-05",
+     "popularity": 0.3636
+    }
+   ],
+   "ts": "2026-11-20T14:26:25+00:00"
+  },
+  "le cinquieme plan de la jetee|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:25+00:00"
+  },
+  "le cinquieme plan de la jetee|2025": {
+   "res": [
+    {
+     "id": 1379924,
+     "title": "Le Cinquième Plan de « La Jetée »",
+     "original_title": "Le Cinquième Plan de « La Jetée »",
+     "release_date": "2025-11-05",
+     "popularity": 0.3636
+    }
+   ],
+   "ts": "2026-11-20T14:26:25+00:00"
+  },
+  "al cincilea plan din la jetee|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:25+00:00"
+  },
+  "al cincilea plan din la jetee|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:26+00:00"
+  },
+  "al cincilea plan din la jetee|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:26+00:00"
+  },
+  "logan|": {
+   "res": [
+    {
+     "id": 263115,
+     "title": "Logan",
+     "original_title": "Logan",
+     "release_date": "2017-02-28",
+     "popularity": 16.4649
+    },
+    {
+     "id": 399170,
+     "title": "Cursa norocului",
+     "original_title": "Logan Lucky",
+     "release_date": "2017-08-17",
+     "popularity": 5.6096
+    },
+    {
+     "id": 297608,
+     "title": "Cazul Deborah Logan",
+     "original_title": "The Taking of Deborah Logan",
+     "release_date": "2014-10-21",
+     "popularity": 4.3169
+    },
+    {
+     "id": 10803,
+     "title": "Logan's Run",
+     "original_title": "Logan's Run",
+     "release_date": "1976-06-23",
+     "popularity": 3.5243
+    },
+    {
+     "id": 44010,
+     "title": "Logan",
+     "original_title": "Logan",
+     "release_date": "2010-09-10",
+     "popularity": 0.5589
+    },
+    {
+     "id": 1458039,
+     "title": "Making 'Logan'",
+     "original_title": "Making 'Logan'",
+     "release_date": "2017-05-23",
+     "popularity": 0.4692
+    },
+    {
+     "id": 713950,
+     "title": "Mark Logan",
+     "original_title": "Mark Logan",
+     "release_date": "2007-01-01",
+     "popularity": 0.1271
+    },
+    {
+     "id": 467721,
+     "title": "Giuseppi Logan",
+     "original_title": "Giuseppi Logan",
+     "release_date": "1966-01-01",
+     "popularity": 0.1195
+    },
+    {
+     "id": 1227408,
+     "title": "Your Friend Logan",
+     "original_title": "Your Friend Logan",
+     "release_date": "2025-08-09",
+     "popularity": 0.3878
+    },
+    {
+     "id": 270585,
+     "title": "Agente Logan - missione Ypotron",
+     "original_title": "Agente Logan - missione Ypotron",
+     "release_date": "1966-08-28",
+     "popularity": 0.8774
+    }
+   ],
+   "ts": "2026-11-20T14:26:28+00:00"
+  },
+  "logan|2026": {
+   "res": [
+    {
+     "id": 1738517,
+     "title": "After the Line",
+     "original_title": "After the Line",
+     "release_date": "2026-07-29",
+     "popularity": 0.0589
+    }
+   ],
+   "ts": "2026-11-20T14:26:28+00:00"
+  },
+  "logan|2025": {
+   "res": [
+    {
+     "id": 1227408,
+     "title": "Your Friend Logan",
+     "original_title": "Your Friend Logan",
+     "release_date": "2025-08-09",
+     "popularity": 0.3878
+    },
+    {
+     "id": 1594847,
+     "title": "Logan Guntzelman: Boner Technology",
+     "original_title": "Logan Guntzelman: Boner Technology",
+     "release_date": "2025-08-19",
+     "popularity": 0.0953
+    },
+    {
+     "id": 1747471,
+     "title": "ANDREW LOGAN: SCULPTOR OF JOY",
+     "original_title": "ANDREW LOGAN: SCULPTOR OF JOY",
+     "release_date": "2025-11-02",
+     "popularity": 0.2398
+    },
+    {
+     "id": 1561527,
+     "title": "Don't Think Twice, It's Alright - A Film By Logan Buo",
+     "original_title": "Don't Think Twice, It's Alright - A Film By Logan Buo",
+     "release_date": "2025-10-10",
+     "popularity": 0.0902
+    },
+    {
+     "id": 1770540,
+     "title": "Alone",
+     "original_title": "Alone",
+     "release_date": "2025-10-13",
+     "popularity": 0.469
+    }
+   ],
+   "ts": "2026-11-20T14:26:28+00:00"
+  },
+  "masterclass mehrdad oskouei si soraya akhlaghi|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:33+00:00"
+  },
+  "masterclass mehrdad oskouei si soraya akhlaghi|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:33+00:00"
+  },
+  "masterclass mehrdad oskouei si soraya akhlaghi|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:33+00:00"
+  },
+  "mananca un castron de ceai|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:38+00:00"
+  },
+  "mananca un castron de ceai|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:38+00:00"
+  },
+  "mananca un castron de ceai|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:38+00:00"
+  },
+  "eat a bowl of tea|": {
+   "res": [
+    {
+     "id": 98984,
+     "title": "Eat a Bowl of Tea",
+     "original_title": "Eat a Bowl of Tea",
+     "release_date": "1989-07-21",
+     "popularity": 0.6802
+    }
+   ],
+   "ts": "2026-11-20T14:26:39+00:00"
+  },
+  "eat a bowl of tea|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:39+00:00"
+  },
+  "eat a bowl of tea|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:39+00:00"
+  },
+  "paper tiger|": {
+   "res": [
+    {
+     "id": 1381273,
+     "title": "Paper Tiger",
+     "original_title": "Paper Tiger",
+     "release_date": "2026-11-13",
+     "popularity": 39.3167
+    },
+    {
+     "id": 105240,
+     "title": "Tigrul de hârtie",
+     "original_title": "Paper Tiger",
+     "release_date": "1975-11-05",
+     "popularity": 0.6591
+    },
+    {
+     "id": 1775806,
+     "title": "PAPER TIGER",
+     "original_title": "PAPER TIGER",
+     "release_date": "",
+     "popularity": 0.471
+    },
+    {
+     "id": 750140,
+     "title": "Paper Tiger",
+     "original_title": "Paper Tiger",
+     "release_date": "2020-10-22",
+     "popularity": 0.5196
+    },
+    {
+     "id": 625128,
+     "title": "Bill Burr: Paper Tiger",
+     "original_title": "Bill Burr: Paper Tiger",
+     "release_date": "2019-09-10",
+     "popularity": 0.8162
+    },
+    {
+     "id": 1370949,
+     "title": "Paper Tiger",
+     "original_title": "Paper Tiger",
+     "release_date": "2024-05-29",
+     "popularity": 0.2403
+    },
+    {
+     "id": 338584,
+     "title": "Paper Tiger",
+     "original_title": "Paper Tiger",
+     "release_date": "2015-01-01",
+     "popularity": 0.02
+    },
+    {
+     "id": 853881,
+     "title": "A Paper Tiger Burns",
+     "original_title": "A Paper Tiger Burns",
+     "release_date": "2018-12-12",
+     "popularity": 0.3511
+    },
+    {
+     "id": 711111,
+     "title": "Tiger Cop: Toilet Paper Hero",
+     "original_title": "Tiger Cop: Toilet Paper Hero",
+     "release_date": "2020-04-20",
+     "popularity": 0.3615
+    },
+    {
+     "id": 1317757,
+     "title": "Paper Tiger Television aus New York",
+     "original_title": "Paper Tiger Television aus New York",
+     "release_date": "1989-01-01",
+     "popularity": 0.187
+    }
+   ],
+   "ts": "2026-11-20T14:26:41+00:00"
+  },
+  "paper tiger|2026": {
+   "res": [
+    {
+     "id": 1381273,
+     "title": "Paper Tiger",
+     "original_title": "Paper Tiger",
+     "release_date": "2026-11-13",
+     "popularity": 39.3167
+    }
+   ],
+   "ts": "2026-11-20T14:26:41+00:00"
+  },
+  "paper tiger|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:42+00:00"
+  },
+  "lenin s pawn|": {
+   "res": [
+    {
+     "id": 1709318,
+     "title": "Pionul lui Lenin",
+     "original_title": "Pionul lui Lenin",
+     "release_date": "2026-06-19",
+     "popularity": 0.3917
+    }
+   ],
+   "ts": "2026-11-20T14:26:45+00:00"
+  },
+  "lenin s pawn|2026": {
+   "res": [
+    {
+     "id": 1709318,
+     "title": "Pionul lui Lenin",
+     "original_title": "Pionul lui Lenin",
+     "release_date": "2026-06-19",
+     "popularity": 0.3917
+    }
+   ],
+   "ts": "2026-11-20T14:26:45+00:00"
+  },
+  "lenin s pawn|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:45+00:00"
+  },
+  "primetime|": {
+   "res": [
+    {
+     "id": 1375441,
+     "title": "Primetime",
+     "original_title": "Primetime",
+     "release_date": "2026-09-23",
+     "popularity": 47.2511
+    },
+    {
+     "id": 1791730,
+     "title": "Primetime Preacher$",
+     "original_title": "Primetime Preacher$",
+     "release_date": "2026-11-14",
+     "popularity": 1.2745
+    },
+    {
+     "id": 1204847,
+     "title": "Primetime",
+     "original_title": "Primetime",
+     "release_date": "2021-06-12",
+     "popularity": 0.2276
+    },
+    {
+     "id": 1162967,
+     "title": "Primetime Mother",
+     "original_title": "Primetime Mother",
+     "release_date": "2023-09-07",
+     "popularity": 0.2411
+    },
+    {
+     "id": 15607,
+     "title": "EliteXC: Primetime",
+     "original_title": "EliteXC: Primetime",
+     "release_date": "2008-05-31",
+     "popularity": 0.3704
+    },
+    {
+     "id": 246017,
+     "title": "Welcome to Primetime",
+     "original_title": "Welcome to Primetime",
+     "release_date": "1999-09-08",
+     "popularity": 0.4543
+    },
+    {
+     "id": 1460092,
+     "title": "Pioneers of Primetime",
+     "original_title": "Pioneers of Primetime",
+     "release_date": "2005-11-09",
+     "popularity": 0.3997
+    },
+    {
+     "id": 1771359,
+     "title": "Judge Judy Primetime",
+     "original_title": "Judge Judy Primetime",
+     "release_date": "2014-05-20",
+     "popularity": 0.2315
+    },
+    {
+     "id": 1816764,
+     "title": "Primetime Production Diary",
+     "original_title": "Primetime Production Diary",
+     "release_date": "2026-11-03",
+     "popularity": 0.2601
+    },
+    {
+     "id": 264824,
+     "title": "Frank Sinatra - Primetime",
+     "original_title": "Frank Sinatra - Primetime",
+     "release_date": "1968-11-25",
+     "popularity": 0.2105
+    }
+   ],
+   "ts": "2026-11-20T14:26:48+00:00"
+  },
+  "primetime|2026": {
+   "res": [
+    {
+     "id": 1375441,
+     "title": "Primetime",
+     "original_title": "Primetime",
+     "release_date": "2026-09-23",
+     "popularity": 47.2511
+    },
+    {
+     "id": 1791730,
+     "title": "Primetime Preacher$",
+     "original_title": "Primetime Preacher$",
+     "release_date": "2026-11-14",
+     "popularity": 1.2745
+    },
+    {
+     "id": 1816764,
+     "title": "Primetime Production Diary",
+     "original_title": "Primetime Production Diary",
+     "release_date": "2026-11-03",
+     "popularity": 0.2601
+    },
+    {
+     "id": 1776007,
+     "title": "Primetime Mr. President",
+     "original_title": "Primetime Mr. President",
+     "release_date": "2026-05-24",
+     "popularity": 0.0691
+    }
+   ],
+   "ts": "2026-11-20T14:26:48+00:00"
+  },
+  "primetime|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:48+00:00"
+  },
+  "to dream the same dream practici arhivale ca modele co auctoriale|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:51+00:00"
+  },
+  "to dream the same dream practici arhivale ca modele co auctoriale|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:51+00:00"
+  },
+  "to dream the same dream practici arhivale ca modele co auctoriale|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:51+00:00"
+  },
+  "to dream the same dream|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:51+00:00"
+  },
+  "to dream the same dream|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:51+00:00"
+  },
+  "to dream the same dream|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:52+00:00"
+  },
+  "practici arhivale ca modele co auctoriale|": {
+   "res": [],
+   "ts": "2026-11-20T14:26:52+00:00"
+  },
+  "practici arhivale ca modele co auctoriale|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:52+00:00"
+  },
+  "practici arhivale ca modele co auctoriale|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:52+00:00"
+  },
+  "white material|": {
+   "res": [
+    {
+     "id": 46207,
+     "title": "White Material",
+     "original_title": "White Material",
+     "release_date": "2010-03-24",
+     "popularity": 0.9665
+    }
+   ],
+   "ts": "2026-11-20T14:26:52+00:00"
+  },
+  "white material|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:52+00:00"
+  },
+  "white material|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:53+00:00"
+  },
+  "wildwood taramul fantastic|": {
+   "res": [
+    {
+     "id": 791523,
+     "title": "Wildwood",
+     "original_title": "Wildwood",
+     "release_date": "2026-10-19",
+     "popularity": 87.4698
+    }
+   ],
+   "ts": "2026-11-20T14:26:55+00:00"
+  },
+  "wildwood taramul fantastic|2026": {
+   "res": [
+    {
+     "id": 791523,
+     "title": "Wildwood",
+     "original_title": "Wildwood",
+     "release_date": "2026-10-19",
+     "popularity": 87.4698
+    }
+   ],
+   "ts": "2026-11-20T14:26:55+00:00"
+  },
+  "wildwood taramul fantastic|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:55+00:00"
+  },
+  "taramul fantastic|": {
+   "res": [
+    {
+     "id": 791523,
+     "title": "Wildwood",
+     "original_title": "Wildwood",
+     "release_date": "2026-10-19",
+     "popularity": 87.4698
+    }
+   ],
+   "ts": "2026-11-20T14:26:56+00:00"
+  },
+  "taramul fantastic|2026": {
+   "res": [
+    {
+     "id": 791523,
+     "title": "Wildwood",
+     "original_title": "Wildwood",
+     "release_date": "2026-10-19",
+     "popularity": 87.4698
+    }
+   ],
+   "ts": "2026-11-20T14:26:56+00:00"
+  },
+  "taramul fantastic|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:56+00:00"
+  },
+  "x men viitorul este trecut|": {
+   "res": [
+    {
+     "id": 127585,
+     "title": "X-Men: Viitorul este trecut",
+     "original_title": "X-Men: Days of Future Past",
+     "release_date": "2014-05-15",
+     "popularity": 14.1525
+    }
+   ],
+   "ts": "2026-11-20T14:26:58+00:00"
+  },
+  "x men viitorul este trecut|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:58+00:00"
+  },
+  "x men viitorul este trecut|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:59+00:00"
+  },
+  "x men days of future past|": {
+   "res": [
+    {
+     "id": 127585,
+     "title": "X-Men: Viitorul este trecut",
+     "original_title": "X-Men: Days of Future Past",
+     "release_date": "2014-05-15",
+     "popularity": 14.1525
+    },
+    {
+     "id": 1717662,
+     "title": "X-Men: Days of Future Past - Classification: M",
+     "original_title": "X-Men: Days of Future Past - Classification: M",
+     "release_date": "2014-10-14",
+     "popularity": 0.5485
+    },
+    {
+     "id": 1826932,
+     "title": "Mutant vs. Machine: The Making of 'X-Men: Days of Future Past'",
+     "original_title": "Mutant vs. Machine: The Making of 'X-Men: Days of Future Past'",
+     "release_date": "2015-07-14",
+     "popularity": 0.471
+    }
+   ],
+   "ts": "2026-11-20T14:26:59+00:00"
+  },
+  "x men days of future past|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:26:59+00:00"
+  },
+  "x men days of future past|2025": {
+   "res": [],
+   "ts": "2026-11-20T14:26:59+00:00"
+  },
+  "yakuza|": {
+   "res": [
+    {
+     "id": 28415,
+     "title": "The Yakuza",
+     "original_title": "The Yakuza",
+     "release_date": "1974-12-21",
+     "popularity": 1.8274
+    },
+    {
+     "id": 1453529,
+     "title": "Yakuza Contract",
+     "original_title": "Yakuza Contract",
+     "release_date": "1978-09-21",
+     "popularity": 0.3224
+    },
+    {
+     "id": 36909,
+     "title": "American Yakuza",
+     "original_title": "American Yakuza",
+     "release_date": "1993-12-22",
+     "popularity": 1.7906
+    },
+    {
+     "id": 661595,
+     "title": "Prințesa Yakuza",
+     "original_title": "A Princesa da Yakuza",
+     "release_date": "2021-08-26",
+     "popularity": 1.3742
+    },
+    {
+     "id": 1297763,
+     "title": "Batman Ninja vs. Yakuza League",
+     "original_title": "ニンジャバットマン対ヤクザリーグ",
+     "release_date": "2025-03-17",
+     "popularity": 5.1327
+    },
+    {
+     "id": 65047,
+     "title": "Young Yakuza",
+     "original_title": "Young Yakuza",
+     "release_date": "2007-11-22",
+     "popularity": 0.3839
+    },
+    {
+     "id": 1364114,
+     "title": "Yakuza Girl",
+     "original_title": "Yakuza Girl",
+     "release_date": "2024-08-30",
+     "popularity": 0.3163
+    },
+    {
+     "id": 426405,
+     "title": "Mondo Yakuza",
+     "original_title": "Mondo Yakuza",
+     "release_date": "2016-11-27",
+     "popularity": 0.2131
+    },
+    {
+     "id": 947469,
+     "title": "Yakuza Connection",
+     "original_title": "Yakuza Connection",
+     "release_date": "1995-06-07",
+     "popularity": 0.2568
+    },
+    {
+     "id": 305697,
+     "title": "The Yakuza Way",
+     "original_title": "The Yakuza Way",
+     "release_date": "1999-02-19",
+     "popularity": 0.6257
+    }
+   ],
+   "ts": "2026-11-20T14:27:01+00:00"
+  },
+  "yakuza|2026": {
+   "res": [
+    {
+     "id": 1632510,
+     "title": "龍が如く Powered by 日本統一",
+     "original_title": "龍が如く Powered by 日本統一",
+     "release_date": "2026-02-10",
+     "popularity": 0.8625
+    }
+   ],
+   "ts": "2026-11-20T14:27:02+00:00"
+  },
+  "yakuza|2025": {
+   "res": [
+    {
+     "id": 1297763,
+     "title": "Batman Ninja vs. Yakuza League",
+     "original_title": "ニンジャバットマン対ヤクザリーグ",
+     "release_date": "2025-03-17",
+     "popularity": 5.1327
+    },
+    {
+     "id": 1653196,
+     "title": "Yakuza Ondo",
+     "original_title": "Yakuza Ondo",
+     "release_date": "2025-09-21",
+     "popularity": 0.0836
+    },
+    {
+     "id": 1294972,
+     "title": "ホウセンカ",
+     "original_title": "ホウセンカ",
+     "release_date": "2025-10-10",
+     "popularity": 2.0365
+    }
+   ],
+   "ts": "2026-11-20T14:27:02+00:00"
+  },
+  "the yakuza|": {
+   "res": [
+    {
+     "id": 28415,
+     "title": "The Yakuza",
+     "original_title": "The Yakuza",
+     "release_date": "1974-12-21",
+     "popularity": 1.8274
+    },
+    {
+     "id": 305697,
+     "title": "The Yakuza Way",
+     "original_title": "The Yakuza Way",
+     "release_date": "1999-02-19",
+     "popularity": 0.6257
+    },
+    {
+     "id": 474415,
+     "title": "Twilight of the Yakuza",
+     "original_title": "Twilight of the Yakuza",
+     "release_date": "2013-07-26",
+     "popularity": 0.4706
+    },
+    {
+     "id": 135070,
+     "title": "The Yakuza and the Mermaid",
+     "original_title": "The Yakuza and the Mermaid",
+     "release_date": "2012-09-28",
+     "popularity": 0.245
+    },
+    {
+     "id": 138006,
+     "title": "Ryuji the Yakuza",
+     "original_title": "Ryuji the Yakuza",
+     "release_date": "2008-01-19",
+     "popularity": 0.2161
+    },
+    {
+     "id": 511840,
+     "title": "Battling the Yakuza",
+     "original_title": "Battling the Yakuza",
+     "release_date": "2012-08-18",
+     "popularity": 0.0761
+    },
+    {
+     "id": 464643,
+     "title": "A Journalist's Files on The Yakuza Papers",
+     "original_title": "A Journalist's Files on The Yakuza Papers",
+     "release_date": "2017-07-01",
+     "popularity": 0.0603
+    },
+    {
+     "id": 52980,
+     "title": "仁義なき戦い 広島死闘篇",
+     "original_title": "仁義なき戦い 広島死闘篇",
+     "release_date": "1973-04-28",
+     "popularity": 2.3137
+    },
+    {
+     "id": 45284,
+     "title": "Furie",
+     "original_title": "アウトレイジ",
+     "release_date": "2010-06-12",
+     "popularity": 2.7675
+    },
+    {
+     "id": 736146,
+     "title": "ヤクザと家族 The Family",
+     "original_title": "ヤクザと家族 The Family",
+     "release_date": "2021-01-29",
+     "popularity": 1.7658
+    }
+   ],
+   "ts": "2026-11-20T14:27:02+00:00"
+  },
+  "the yakuza|2026": {
+   "res": [],
+   "ts": "2026-11-20T14:27:02+00:00"
+  },
+  "the yakuza|2025": {
+   "res": [
+    {
+     "id": 1294972,
+     "title": "ホウセンカ",
+     "original_title": "ホウセンカ",
+     "release_date": "2025-10-10",
+     "popularity": 2.0365
+    }
+   ],
+   "ts": "2026-11-20T14:27:02+00:00"
   }
  },
  "pages": {
@@ -6830,6 +9283,98 @@
   "bilete-pionul-lui-lenin": {
    "text": " Bilete la Pionul lui Lenin search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Pionul lui Lenin 15+ volume_up RO notes EN Show description Pionul lui Lenin 15+ notes EN Title: Lenin&#039;s Pawn Director: Dragoș Turea Cast: Sergiu Voloc, Nadejda Voloc, Ion Voloc Genre: Documentar Duration: 1h 24m Country: România, Republica Moldova Language: RO Year: 2026 Un documentar hibrid despre actorul Sergiu Voloc, un Don Quijote al zilelor noastre, care porne&#537;te un r&#259;zboi solitar &icirc;mpotriva monumentelor lui Lenin din Moldova. Revolta sa se transform&#259; treptat &icirc;ntr-o confruntare absurd&#259; cu un sistem invizibil care reconstruie&#537;te monumentele peste noapte. &Icirc;mbin&acirc;nd stilul observa&#539;ional cu umorul negru &#537;i elemente de fic&#539;iune, filmul urm&#259;re&#537;te lupta unui actor care &icirc;ncearc&#259; s&#259; dea sens propriei vie&#539;i &icirc;ntr-o realitate care se &icirc;ntoarce &icirc;mpotriva lui. location_on Hall/Location All locations Cinema Union, București Cinema Studio Timișoara, Timisoara Apollo111 Cinema, București ARTA Cinema, Cluj-Napoca location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Studio Timișoara , Timisoara info calendar_month Date 18:30 - Today, 20 November 2026 Premiere RO EN bookmark Order 30 lei (tarif întreg) / 20 lei (Bilet elev/student) / 20 lei (Bilet pensionar) Choose seats Am abonament Cinefil de Cimișoara location_on Location Apollo111 Cinema , București info calendar_month Date 20:00 - Today, 20 November 2026 RO EN bookmark Order 35 lei (Bilet întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 20 lei (Bilet redus elev/student/pensionar) Number of tickets remove add shopping_cart Add to cart Am Apollo111 Cinema Pass Proiecție urmată de Q&A cu echipa filmului location_on Location Cinema Union , București info calendar_month Date 16:00 - Sunday, 22 November 2026 Premiere RO EN bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location ARTA Cinema , Cluj-Napoca info calendar_month Date 17:45 - Tuesday, 24 November 2026 RO EN bookmark Order 28 lei (preț întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet redus elev/student) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 5 bilete / Voucher / Am carnet de 10 bilete location_on Location Cinema Studio Timișoara , Timisoara info calendar_month Date 18:30 - Thursday, 26 November 2026 RO SUB EN bookmark Order 30 lei (tarif întreg) / 20 lei (Bilet elev/student) / 20 lei (Bilet pensionar) Choose seats Am abonament Cinefil de Cimișoara location_on Location Apollo111 Cinema , București info calendar_month Date 18:30 - Friday, 27 November 2026 RO EN bookmark Order 35 lei (Bilet întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 20 lei (Bilet redus elev/student/pensionar) Number of tickets remove add shopping_cart Add to cart Am Apollo111 Cinema Pass location_on Location ARTA Cinema , Cluj-Napoca info calendar_month Date 15:00 - Saturday, 28 November 2026 RO EN bookmark Order 28 lei (preț întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet redus elev/student) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 5 bilete / Voucher / Am carnet de 10 bilete Pionul lui Lenin Enter Barcode Check Atenție! Toate intrările au fost folosite. Pionul lui Lenin Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Pionul lui Lenin Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Pionul lui Lenin Atenție! Fără anulare prealabilă, rezervările în baza carnetului de 5 bilete vor fi considerate folosite. Rezervările nu se anulează automat în cazul neprezentării la proiecție. Pentru a evita acest lucru, vă rugăm să anulați rezervarea din contul dvs. de client cu cel puțin 6 ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Pionul lui Lenin Enter Barcode Check Atenție! Toate intrările au fost folosite. Pionul lui Lenin Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Pionul lui Lenin Atenție! Fără anulare prealabilă, rezervările în baza carnetului de 5 bilete vor fi considerate folosite. Rezervările nu se anulează automat în cazul neprezentării la proiecție. Pentru a evita acest lucru, vă rugăm să anulați rezervarea din contul dvs. de client cu cel puțin 6 ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului TĂNASE SCATIU / TĂNASE, THE SISKIN location_on Online disponibil 72h de la achiziționarea biletului MUNTELE ASCUNS / THE SECRET MOUNTAIN location_on Online disponibil 72h de la achiziționarea biletului SEZONUL PESCĂRUȘILOR / THE SEASON OF THE SEAGULLS location_on Online 19:00 - Sunday, 29 November Mica Sirie #documentary #social drama #biography #pentru tineri #refugiați #coming-of-age #Europa #film de arta location_on Cinema Studio - sala mică 20:00 - Wednesday, 25 November Crăciun amar location_on Cinema Studio Timișoara 17:15 - Sunday, 22 November Cum aș putea trăi fără tine? location_on Cinema Victoria Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
    "ts": "2026-11-19T22:00:16+00:00"
+  },
+  "bilete-caged": {
+   "text": " Bilete la CAGED search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter CAGED volume_up EN notes RO Show description CAGED volume_up EN notes RO 1950, r: John Cromwell, sub. ro,., 96',&nbsp;SUA, FILM NOIR location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 20:00 - Saturday, 28 November 2026 EN RO bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart CAGED Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend 15:00 - Sunday, 22 November Zootopia location_on Cinema Johnny Freidorf, Timișoara disponibil 72h de la prima accesare Amanda location_on Online disponibil 72h de la achiziționarea biletului TRANDAFIRUL GALBEN / THE YELLOW ROSE location_on Online disponibil 72h de la achiziționarea biletului HOREA location_on Online disponibil 72h de la prima accesare CROSSING / DINCOLO DE GRANIȚE location_on Online 19:00 - Sunday, 29 November DRACULA location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:25:49+00:00"
+  },
+  "bilete-calle-malaga-strada-malaga": {
+   "text": " Bilete la CALLE MÁLAGA / STRADA MÁLAGA search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter CALLE MÁLAGA / STRADA MÁLAGA volume_up ES, AR notes RO Show description CALLE MÁLAGA / STRADA MÁLAGA volume_up ES, AR notes RO Director: Maryam Touzani Cast: Carmen Maura, Marta Etura, Ahmed Boulane, María Alfonsa Rosso Genre: Comedie, Dramă, Romantic, Dragoste Country: Maroc, Franta, Spania, Germania, Belgia Year: 2025 Maria Angeles, o femeie spaniol&#259; de 79 de ani, tr&#259;ie&#537;te singur&#259; &icirc;n Tanger, &icirc;n nordul Marocului, unde se bucur&#259; de ceea ce are de oferit ora&#537;ul &#537;i de via&#539;a ei de zi cu zi. Totul se schimb&#259; c&acirc;nd fiica ei, Clara, sose&#537;te de la Madrid pentru a vinde apartamentul &icirc;n care a locuit toat&#259; via&#539;a. Hot&#259;r&acirc;t&#259; s&#259; r&#259;m&acirc;n&#259; &icirc;n ora&#537;ul &icirc;n care a crescut, ea face tot posibilul pentru a-&#537;i p&#259;stra locuin&#539;a &#537;i a recupera obiectele acumulate de-a lungul vie&#539;ii. &#536;i, &icirc;n mod nea&#537;teptat, redescoper&#259; dragostea &#537;i senzualitatea. Premiul Publicului la Festivalul Interna&#539;ional de Film de la Vene&#539;ia, 2025 Prezentat &icirc;n Selec&#539;ia Oficial&#259; a Festivalului Interna&#539;ional de Film de la Toronto, 2025 &nbsp; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 13:00 - Sunday, 06 December 2026 ES, AR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 13:00 - Saturday, 19 December 2026 ES, AR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete CALLE MÁLAGA / STRADA MÁLAGA Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve CALLE MÁLAGA / STRADA MÁLAGA Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului CROAZIERA / THE CRUISE location_on Online disponibil 72h de la achiziționarea biletului VERONICA location_on Online disponibil 72h de la achiziționarea biletului PREA MIC PENTRU UN RĂZBOI ATÂT DE MARE / TOO LITTLE FOR SUCH A BIG WAR location_on Online disponibil 72h de la achiziționarea biletului MANASSE location_on Online 15:00 - Sunday, 22 November DELTA SĂLBATICĂ #documentary #natură #Delta Dunării #biodiversitate #ecologie #educativ #pentru familie #film românesc location_on Cinema Victoria Timișoara 19:00 - Wednesday, 16 December Dune: Partea a treia location_on Cinema Timiș Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:25:53+00:00"
+  },
+  "bilete-ceaiul-amar-al-generalului-yen-the-bitter-tea-of-general-yen": {
+   "text": " Bilete la CEAIUL AMAR AL GENERALULUI YEN / THE BITTER TEA OF GENERAL YEN search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter CEAIUL AMAR AL GENERALULUI YEN / THE BITTER TEA OF GENERAL YEN Show description CEAIUL AMAR AL GENERALULUI YEN / THE BITTER TEA OF GENERAL YEN Title: The Bitter Tea of General Yen Director: Frank Capra Cast: Barbara Stanwyck, Walter Connolly Genre: Dramă, Război Duration: 1h 28m Country: SUA Year: 1933 Megan Davis, o tanara americana, soseste la Shanghai in perioada razboiului civil chinez, pentru a se casatori cu un misionar... location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 18:15 - Friday, 27 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location Cinemateca Eforie , București info calendar_month Date 18:30 - Sunday, 29 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart CEAIUL AMAR AL GENERALULUI YEN / THE BITTER TEA OF GENERAL YEN Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve CEAIUL AMAR AL GENERALULUI YEN / THE BITTER TEA OF GENERAL YEN Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului RECONSTITUIREA / THE RE-ENACTMENT location_on Online disponibil 72h de la prima accesare ALCARRAS location_on Online 17:00 - Sunday, 22 November TRECERI: SCURTMETRAJE location_on ARTA Cinema 15:00 - Tomorrow, 21 November MON INSÉPARABLE / TOT CE AM MAI DE PREȚ location_on Cinema Elvire Popesco 20:00 - Tuesday, 8 December Donnie Darko location_on ARTA Cinema 17:30 - Thursday, 26 November X-MEN: VIITORUL ESTE TRECUT / X-MEN: DAYS OF FUTURE PAST location_on Cinemateca Eforie Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:25:56+00:00"
+  },
+  "bilete-conspiracy-theory-teoria-conspiratiei": {
+   "text": " Bilete la CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI Show description CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI Title: Conspiracy Theory Director: Richard Donner Cast: Mel Gibson, Julia Roberts Genre: Polițist, Thriller Duration: 2h 09m Country: SUA Year: 1997 Un &#537;ofer de taxi pasionat de teoriile conspira&#539;iei devine o &#539;int&#259; dup&#259; ce una dintre aceste teorii se dovede&#537;te a fi adev&#259;rat&#259;. Din p&#259;cate, pentru a se salva, el trebuie s&#259; afle despre ce teorie este vorba. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 16:30 - Wednesday, 25 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location Cinemateca Eforie , București info calendar_month Date 20:00 - Friday, 27 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului GLISSANDO location_on Online disponibil 72h de la achiziționarea biletului MOMENTUL ADEVĂRULUI (titlu de lucru DREPTATEA) / THE MOMENT OF TRUTH (working title JUSTICE) location_on Online disponibil 72h de la achiziționarea biletului SENATORUL MELCILOR location_on Online disponibil 72h de la achiziționarea biletului SEZONUL PESCĂRUȘILOR / THE SEASON OF THE SEAGULLS location_on Online disponibil 72h de la achiziționarea biletului RĂZBOIUL DOMNIȚELOR / THE WAR OF THE LADIES location_on Online 20:00 - Wednesday, 25 November Crăciun amar location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:25:59+00:00"
+  },
+  "bilete-copilul-care-ar-putea-fi-rege": {
+   "text": " Bilete la COPILUL CARE AR PUTEA FI REGE / THE KID WHO WOULD BE KING search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter COPILUL CARE AR PUTEA FI REGE / THE KID WHO WOULD BE KING volume_up EN notes RO Show description COPILUL CARE AR PUTEA FI REGE / THE KID WHO WOULD BE KING volume_up EN notes RO Director: Joe Cornish Cast: Rebecca Ferguson, Patrick Stewart, Louis Ashbourne Serkis Genre: Film de Aventuri Duration: 2h 00m Country: SUA, Marea Britanie Year: 2019 O ga&#351;c&#259; de pu&#351;ti pornesc &icirc;ntr-o misiune de propor&#355;ii epice la cap&#259;tul c&#259;reia sper&#259; s&#259; contracareze o amenin&#355;are... medieval&#259;. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 20:00 - Thursday, 26 November 2026 EN RO bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart COPILUL CARE AR PUTEA FI REGE / THE KID WHO WOULD BE KING Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului Răscoala location_on Online disponibil 72h de la achiziționarea biletului DRUMEȚ ÎN CALEA LUPILOR / A TRAVELLER IN FRONT OF WOLVES location_on Online disponibil 72h de la achiziționarea biletului EMISIA CONTINUĂ / THE BROADCAST CONTINUES location_on Online 3+1 luni TIFF UNLIMITED 3 +1 LUNI location_on Online 17:00 - Sunday, 22 November Tarzan, omul-maimuță location_on Cinema Johnny Freidorf, Timișoara 17:30 - Sunday, 22 November Primetime #film #thriller #dramă psihologică #biography #crime #pentru adulți #atmosferă intensă #suspans location_on Cinema Timiș Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:03+00:00"
+  },
+  "bilete-the-white-moor": {
+   "text": " Bilete la DE-AȘ FI HARAP ALB / THE WHITE MOOR search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter DE-AȘ FI HARAP ALB / THE WHITE MOOR Show description DE-AȘ FI HARAP ALB / THE WHITE MOOR Rom&acirc;nia / 1965 / 82&rsquo; / color / Basm / AG&nbsp; Regia: Ion Popescu-Gopo Scenariul: Ion Popescu-Gopo, adaptare a pove&#537;tii cu acelasi titlu de Ion Creang&#259; Cu: Florin Piersic, Lica Gheorghiu, Irina Petrescu, Cristea Avram, Eugenia Popovici, George Demetru, Fory Etterle, Emil Botta, Liliana Tomescu, Florin Vasiliu, Puiu C&#259;linescu, Mircea Bogdan, Viorel Manta, Septimiu Sever, Constantin Codrescu, Nae Roman, Nucu P&#259;unescu, Paul Sava, Anca Pandrea Produs de: Studioul Cinematografic Bucure&#537;ti&nbsp; Filmul relateaz&#259; visul unui fiu de &icirc;mp&#259;rat care &icirc;&#351;i imagineaz&#259; c&#259; este Harap Alb (Florin Piersic). Printr-un vicle&#351;ug al Sp&acirc;nului (Cristea Avram), el devine robul acestuia &#351;i este trimis s&#259; i-o aduc&#259; pe fata lui Verde &Icirc;mp&#259;rat. Dup&#259; ce, la cap&#259;tul a numeroase &icirc;ncerc&#259;ri &icirc;n care este ajutat de Geril&#259; (Puiu C&#259;linescu), Fl&#259;m&acirc;nzil&#259; (Mircea Bogdan), Setil&#259; (Florin Vasiliu), Ochil&#259; (Liliana Tomescu ) &#351;i Pas&#259;ril&#259; (Viorel Manta), reu&#351;e&#351;te s&#259; o c&acirc;&#351;tige pe fat&#259;, eroul se &icirc;ntoarce &#351;i se confrunt&#259; &#351;i cu Sp&acirc;nul pe care &icirc;l &icirc;nvinge, salv&acirc;nd astfel &icirc;mp&#259;r&#259;&#355;ia tat&#259;lui s&#259;u. C&acirc;nd se treze&#351;te din somn &#351;i pretinde de la tat&#259;l s&#259;u mul&#355;umiri pentru c&#259; i-a salvat &icirc;mp&#259;r&#259;&#355;ia, t&acirc;n&#259;rul este alergat prin curte de &icirc;mp&#259;ratul care dorea s&#259;-l pedepseasc&#259; pentru obr&#259;znicie. Filmul a avut premiera &icirc;n Rom&acirc;nia &icirc;n data de 15 noiembrie 1965. A primit mai multe premii &icirc;ntre care Premiul pentru originalitatea regiei la Festivalul Interna&#539;ional de Film de la Moscova &icirc;n 1965.&nbsp; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 17:00 - Tuesday, 24 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart DE-AȘ FI HARAP ALB / THE WHITE MOOR Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului UN SURÂS ÎN PLINĂ VARĂ #comedy location_on Online disponibil 72h de la prima accesare Atelierul / The Workshop location_on Online disponibil 72h de la prima accesare Păsări călătoare / Birds of Passage location_on Online 12+1 luni TIFF UNLIMITED 12+1 LUNI location_on Online 16:00 - Today, 20 November Vecina location_on Cinema Johnny Freidorf, Timișoara 20:00 - Thursday, 26 November COPILUL CARE AR PUTEA FI REGE / THE KID WHO WOULD BE KING location_on Cinemateca Eforie Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:07+00:00"
+  },
+  "bilete-film-el-ser-querido": {
+   "text": " Bilete la EL SER QUERIDO / PERSOANA IUBITĂ search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter EL SER QUERIDO / PERSOANA IUBITĂ volume_up ES notes RO Show description EL SER QUERIDO / PERSOANA IUBITĂ volume_up ES notes RO Director: Rodrigo Sorogoyen Cast: Javier Bardem, Melina Matthews, Marina Foïs, Raúl Arévalo, Vicky Luengo Genre: Dramă Duration: 2h 15m Country: Spania, Franța Year: 2026 Celebrul regizor Esteban Mart&iacute;nez e o legend&#259;, at&acirc;t prin filmele sale, c&acirc;t &#537;i prin trecutul marcat de violen&#539;&#259; &#537;i excese. Pentru noul s&#259;u proiect, &icirc;i ofer&#259; un rol fiicei sale, Emilia, sub pretextul c&#259; vrea s-o ajute &icirc;n cariera de actri&#539;&#259;, care stagneaz&#259;. Convie&#539;uirea de pe platou &icirc;i va apropia cum nu au mai fost de ani buni, dar va redeschide &#537;i r&#259;ni vechi, care nu s-au vindecat niciodat&#259;. Prezentat &icirc;n Competi&#539;ia Oficial&#259; a Festivalului de Film de la Cannes 2026.&nbsp; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 17:00 - Monday, 30 November 2026 Preview ES RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:30 - Friday, 04 December 2026 Premiere ES RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:30 - Sunday, 06 December 2026 ES RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 17:30 - Friday, 11 December 2026 ES RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 17:30 - Monday, 14 December 2026 ES RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 15:30 - Sunday, 20 December 2026 ES RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete EL SER QUERIDO / PERSOANA IUBITĂ Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve EL SER QUERIDO / PERSOANA IUBITĂ Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve EL SER QUERIDO / PERSOANA IUBITĂ Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve EL SER QUERIDO / PERSOANA IUBITĂ Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve EL SER QUERIDO / PERSOANA IUBITĂ Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve EL SER QUERIDO / PERSOANA IUBITĂ Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului SALTIMBANCII / THE CLOWNS location_on Online disponibil 72h de la achiziționarea biletului ROCHIA ALBĂ DE DANTELĂ / THE WHITE LACE DRESS location_on Online disponibil 72h de la prima accesare CLOSE location_on Online 20:00 - Today, 20 November CAZUL INGINERULUI URSU location_on Cinema Union 17:00 - Friday, 27 November Zootopia 2 — Zootropolis location_on Cinema Johnny Freidorf, Timișoara 18:00 - Tomorrow, 21 November Retrocinemateca: RĂSCOALA (1966) location_on Cinema “Ion Besoiu”, Sibiu - Sala Mică Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:11+00:00"
+  },
+  "bilete-excalibur-1981": {
+   "text": " Bilete la EXCALIBUR (1981) search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter EXCALIBUR Show description EXCALIBUR Title: Excalibur Director: John Boorman Cast: Helen Mirren, Liam Neeson Genre: Aventuri, Dramă Duration: 2h 20m Country: SUA Year: 1981 Filmul se bazeaza pe interpretarea legendei Regelui Arthur, asa cum apare in romanul lui Thomas Malory, Moartea lui Arthur. Povestea Cavalerilor Mesei Rotunde este prezentata aici in culori mai dure decat s-ar astepta de la o veche legenda cu iz romantic. Nigel Terry este intruchiparea perfecta a Regelui Arthur, un amestec de eroism si naivitate. Scenele din Camelot, cetatea regala, sunt extrem de bine realizate in contextul tradarii reginei Guinevere (Cherie Lunghi) si a lui Lancelot (Nicholas Clay), intre care se infiripa o idila cat se poate de lumeasca. Nicol Williamson apare in rolul vrajitorului Merlin, al carui sacrificiu de sine este remarcabil surprins de pelicula, iar Liam Neeson si Patrick Stewart au si ei un cuvant de spus in completarea acestei partituri. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 16:00 - Sunday, 29 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart EXCALIBUR Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului FAUST XX / FAUSTUS XX location_on Online disponibil 72h de la achiziționarea biletului BUNĂ SEARA, IRINA! / GOOD EVENING, IRINA! #drama location_on Online Valabil 2 luni de la data achiziționării Carnet de 5 Bilete Cinema ARTA location_on ARTA Cinema 13:00 - Tomorrow, 21 November PATRULA CĂȚELUȘILOR: FILMUL CU DINOZAURI / PAW PATROL: THE DINO MOVIE location_on CINEMA UNIREA 19:00 - Sunday, 29 November DRACULA location_on Cinema Elvire Popesco 10:00 - Sunday, 13 December MISTERUL LUI LUCY LOST location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:14+00:00"
+  },
+  "bilete-fjord": {
+   "text": " Bilete la FJORD search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter FJORD 12+ volume_up NOR, EN, RO notes RO Show description FJORD 12+ volume_up NOR, EN, RO notes RO Director: Cristian Mungiu Cast: Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund-Olsen, Vanessa Ceban, Christian Rubeck, Markus Scarth Tønseth Genre: Dramă Duration: 2h 26m Country: România, Norvegia, Franța Language: NO, EN, RO Year: 2026 Filmul spune povestea so&#539;ilor Lisbet &#537;i Mihai Gheorghiu, care se mut&#259; &icirc;ntr-un s&#259;tuc dintr-un mic fiord norvegian, unde cur&acirc;nd se &icirc;mprietenesc cu vecinii lor, so&#539;ii Halberg. Copiii celor dou&#259; familii devin apropia&#539;i, &icirc;n ciuda diferen&#539;elor de educa&#539;ie &#537;i valori. #film #drama #film de arta #pentru familie #prietenie #Europa #intim #coming-of-age location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:00 - Tuesday, 08 December 2026 NOR, EN, RO RO bookmark Order 0 lei Number of tickets remove add shopping_cart Add to cart FJORD Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului MITICĂ POPESCU #comedy location_on Online disponibil 72h de la achiziționarea biletului NUNTA DE PIATRĂ / THE STONE WEDDING location_on Online disponibil 72h de la achiziționarea biletului VALURILE DUNĂRII location_on Online disponibil 72h de la achiziționarea biletului SEZONUL PESCĂRUȘILOR / THE SEASON OF THE SEAGULLS location_on Online disponibil 72h de la achiziționarea biletului PREA MIC PENTRU UN RĂZBOI ATÂT DE MARE / TOO LITTLE FOR SUCH A BIG WAR location_on Online 18:30 - Today, 20 November Pionul lui Lenin location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:17+00:00"
+  },
+  "bilete-film-histoires-paralleles": {
+   "text": " Bilete la HISTOIRES PARALLELES / POVEȘTI PARALELE search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter HISTOIRES PARALLELES / POVEȘTI PARALELE volume_up FR notes RO Show description HISTOIRES PARALLELES / POVEȘTI PARALELE volume_up FR notes RO Director: Asghar Farhadi Cast: Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney, Catherine Deneuve Genre: Dramă, Thriller Duration: 2h 20m Year: 2026 Paris. &Icirc;n c&#259;utarea inspira&#539;iei pentru noul ei roman, Sylvie &icirc;&#537;i spioneaz&#259; cu un telescop vecinii din blocul de vizavi. C&acirc;nd &icirc;l angajeaz&#259; pe t&acirc;n&#259;rul Adam s&#259; o ajute cu treburile de zi cu zi, nu b&#259;nuie&#537;te c&#259; acesta &icirc;i va da peste cap via&#539;a &#537;i munca, iar fic&#539;iunea pe care &#537;i-a imaginat-o ajunge s&#259; dep&#259;&#537;easc&#259; realitatea celor implica&#539;i. Prezentat &icirc;n Selec&#539;ia Oficial&#259; a Festivalului de Film de la Cannes 2026. &nbsp; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:00 - Thursday, 03 December 2026 Gala premiere FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 17:30 - Friday, 04 December 2026 Preview FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:30 - Friday, 11 December 2026 Premiere FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:00 - Saturday, 12 December 2026 FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 17:00 - Sunday, 13 December 2026 FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 18:00 - Friday, 18 December 2026 FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete HISTOIRES PARALLELES / POVEȘTI PARALELE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve HISTOIRES PARALLELES / POVEȘTI PARALELE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve HISTOIRES PARALLELES / POVEȘTI PARALELE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve HISTOIRES PARALLELES / POVEȘTI PARALELE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve HISTOIRES PARALLELES / POVEȘTI PARALELE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve HISTOIRES PARALLELES / POVEȘTI PARALELE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului DRUMEȚ ÎN CALEA LUPILOR / A TRAVELLER IN FRONT OF WOLVES location_on Online disponibil 72h de la prima accesare ARMAND location_on Online disponibil 72h de la prima accesare ÎMPĂRATUL ÎMPĂRAȚILOR location_on Online 11:00 - Tomorrow, 21 November LE CHANT DES FORÊTS / CÂNTECUL PĂDURII location_on Cinema Elvire Popesco 17:30 - Tuesday, 24 November Copilul nopții location_on Cinema Muzeul Țăranului - Studioul Horia Bernea 20:00 - Tuesday, 1 December Testamentul doctorului Mabuse location_on ARTA Cinema Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:21+00:00"
+  },
+  "bilete-film-l-illusion-de-yakushima": {
+   "text": " Bilete la L&#039;ILLUSION DE YAKUSHIMA search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter L&#039;ILLUSION DE YAKUSHIMA volume_up FR, JA, EN notes RO Show description L&#039;ILLUSION DE YAKUSHIMA volume_up FR, JA, EN notes RO Director: Naomi Kawase Cast: Vicky Krieps, Yasufumi Hayashi, Tetsu Hirahara, Yoshiaki Kameda Genre: Dramă Duration: 2h 02m Country: Franța, Belgia, Luxembourg, Japonia Year: 2025 Corry, o coordonatoare francez&#259; de transplanturi cardiace pediatrice, este trimis&#259; &icirc;n Japonia, unde donarea de organe r&#259;m&acirc;ne un subiect tabu. &Icirc;n timp ce lupt&#259; pentru a salva un b&#259;ie&#539;el, partenerul ei, Jin, un fotograf din Yakushima, dispare brusc. El devine un &bdquo;johatsu&rdquo;, a&#537;a cum &icirc;i numesc japonezii pe cei 80.000 de oameni care dispar peste noapte &icirc;n fiecare an. Corry se confrunt&#259; cu o dubl&#259; &icirc;ncercare, s&#259; salveze un copil &#537;i, &icirc;n acela&#537;i timp, s&#259; fac&#259; fa&#539;&#259; pierderii b&#259;rbatului pe care &icirc;l iube&#537;te. Prezentat &icirc;n Competi&#539;ia Interna&#539;ional&#259; a Festivalului de Film de la Locarno 2025. &nbsp; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:30 - Monday, 14 December 2026 Preview FR, JA, EN RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:30 - Friday, 18 December 2026 Premiere FR, JA, EN RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:30 - Saturday, 19 December 2026 FR, JA, EN RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:30 - Sunday, 20 December 2026 FR, JA, EN RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete L&#039;ILLUSION DE YAKUSHIMA Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve L&#039;ILLUSION DE YAKUSHIMA Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve L&#039;ILLUSION DE YAKUSHIMA Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve L&#039;ILLUSION DE YAKUSHIMA Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la prima accesare Amanda location_on Online disponibil 72h de la achiziționarea biletului ULTIMA FRONTIERĂ A MORȚII / DEATH’S LAST FRONTIER location_on Online disponibil 72h de la achiziționarea biletului BING BANG location_on Online disponibil 72h de la prima accesare PENTRU MINE TU EȘTI CEAUȘESCU location_on Online disponibil 72h de la prima accesare PAST LIVES / DIN ALTE VIEȚI location_on Online 19:00 - Thursday, 26 November O vară de nimic location_on Cinema Studio - sala mică Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:24+00:00"
+  },
+  "bilete-film-le-cinquieme-plan-de-la-jetee": {
+   "text": " Bilete la LE CINQUIÈME PLAN DE LA JETÉE / AL CINCILEA PLAN DIN LA JETÉE search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter LE CINQUIÈME PLAN DE LA JETÉE / AL CINCILEA PLAN DIN LA JETÉE EXCLUSIVITATE volume_up FR notes RO Show description LE CINQUIÈME PLAN DE LA JETÉE / AL CINCILEA PLAN DIN LA JETÉE EXCLUSIVITATE volume_up FR notes RO Cast: Jean-Henri Bertrand, Camille Bertrand, Paul Bertrand Genre: Documentar Duration: 1h 37m Country: Franța Year: 2025 V&#259;rul cineastei, Jean-Henri, se recunoa&#537;te &icirc;n La Jet&eacute;e de Chris Marker. Este surprins cu spatele la camer&#259;, al&#259;turi de p&#259;rin&#539;ii s&#259;i, pe terasa din Orly, &icirc;n al cincilea cadru al filmului. Nicio &icirc;ndoial&#259;: &icirc;&#537;i recunoa&#537;te urechile desprinse. &#536;i dac&#259; este el, atunci este copilul erou al filmului&hellip; Dominique Cabrera este imediat captivat&#259; de aceast&#259; anchet&#259; intim&#259; &#537;i istoric&#259;: ce &#537;anse erau ca Marker &#537;i familia Cabrera s&#259; aleag&#259; exact aceea&#537;i duminic&#259; din 1962 pentru a merge pe digul din Orly? location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 18:00 - Wednesday, 09 December 2026 FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete LE CINQUIÈME PLAN DE LA JETÉE / AL CINCILEA PLAN DIN LA JETÉE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului O LACRIMĂ DE FATĂ / A GIRL’S TEAR location_on Online disponibil 72h de la achiziționarea biletului STOP-CADRU LA MASĂ / SNAPSHOT AROUND THE FAMILY TABLE location_on Online disponibil 72h de la achiziționarea biletului URGIA / CALAMITY location_on Online disponibil 72h de la achiziționarea biletului Iancu Jianu zapciul / Iancu Jianu, The Sherrif location_on Online 20:00 - Tuesday, 1 December Testamentul doctorului Mabuse location_on ARTA Cinema 20:00 - Tuesday, 15 December PAPER TIGER location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:27+00:00"
+  },
+  "bilete-logan": {
+   "text": " Bilete la LOGAN search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter LOGAN 15+ volume_up EN notes RO Show description LOGAN 15+ volume_up EN notes RO Director: James Mangold Cast: Hugh Jackman, Patrick Stewart, Dafne Keen Genre: Acţiune ,Dramă, SF Duration: 2h 17m Country: SUA Year: 2017 Suntem &icirc;n 2029. Mutan&#355;ii au disp&#259;rut - sau sunt pe cale s&#259; dispar&#259;. Un Logan izolat, dezn&#259;d&#259;jduit, care &icirc;&#351;i pierde zilele b&acirc;nd, ascunz&acirc;ndu-se &icirc;ntr-o zon&#259; &icirc;ndep&#259;rtat&#259; a grani&#355;ei cu Mexicul, f&#259;c&acirc;nd rost de m&#259;run&#355;i&#351; lucr&acirc;nd ca &#537;ofer. Companionii lui &icirc;n exil sunt proscrisul Caliban &#351;i un Profesor X suferind, a c&#259;rui minte singular&#259; este &icirc;mboln&#259;vit&#259; de crize care se &icirc;nr&#259;ut&#259;&#355;esc. Dar &icirc;ncercarea lui Logan de a se ascunde de lume &#351;i de mo&#351;tenirea sa ia sf&acirc;r&#537;it brusc c&acirc;nd o femeie misterioas&#259; apare cu o solicitare urgent&#259; - ca Logan s&#259; aib&#259; grij&#259; de o t&acirc;n&#259;r&#259; extraordinar&#259;, astfel &icirc;nc&acirc;t ca aceasta s&#259; fie &icirc;n siguran&#355;&#259;. Cur&acirc;nd, se vor produce &icirc;ncle&#351;t&#259;ri, deoarece Logan trebuie s&#259; fac&#259; fa&#355;&#259; for&#355;elor &icirc;ntunecate &#351;i unui tic&#259;los din trecutul s&#259;u &icirc;ntr-o misiune pe via&#355;&#259; &#351;i pe moarte, misiune care &icirc;l va direc&#355;iona pe lupt&#259;torul uitat de vreme c&#259;tre un drum ce &icirc;l va conduce spre &icirc;mplinirea destinului s&#259;u. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 19:00 - Tuesday, 24 November 2026 EN RO bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart LOGAN Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului MEANDRE / MEANDERS location_on Online disponibil 72h de la achiziționarea biletului Întoarcerea lui Voda Lapusneanu location_on Online disponibil 72h de la achiziționarea biletului Ștefan Luchian location_on Online disponibil 72h de la achiziționarea biletului O NOAPTE FURTUNOASĂ / A STORMY NIGHT location_on Online 20:15 - Tomorrow, 21 November 3 zile în septembrie location_on Cinema Muzeul Țăranului - Studioul Horia Bernea 20:00 - Today, 20 November Rocky (1976) location_on Cinema Timiș Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:29+00:00"
+  },
+  "bilete-lumina": {
+   "text": " Bilete la Lumina search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Lumina Show description Lumina Director: Marian Crișan Cast: Ofelia Popii, Marius Cordoș, Andrei Voicu Genre: Aventuri, Dramă, Familie Duration: 1h 26m Country: Romania, Moldova, Slovacia Year: 2026 &Icirc;n noaptea de Pa&#537;ti, un b&#259;iat de 10 ani care poart&#259; cu el Lumina Sf&acirc;nt&#259; de la Ierusalim &icirc;ntr-un felinar, se pierde &icirc;ntr-o p&#259;dure din Mun&#539;ii Apuseni. Desp&#259;r&#539;it de tat&#259;l s&#259;u dup&#259; ce ni&#537;te b&#259;rba&#539;i din satul vecin i-au urm&#259;rit pentru a lua Lumina, Mircea trebuie s&#259; g&#259;seasc&#259; singur drumul spre cas&#259;, curajul &#537;i motiva&#539;ia s&#259; p&#259;streze Lumina aprins&#259;. location_on Hall/Location All locations Cinema Union, București CINEMA UNIREA, Botosani ARTA Cinema, Cluj-Napoca location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Union , București info calendar_month Date 19:30 - Wednesday, 25 November 2026 Premiere followed by a Q&amp;A with the film&#039;s team bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart Premieră + Q&A cu echipa filmului location_on Location ARTA Cinema , Cluj-Napoca info calendar_month Date 12:30 - Sunday, 29 November 2026 bookmark Order 28 lei (preț întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet redus elev/student) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 5 bilete / Voucher / Am carnet de 10 bilete location_on Location Cinema Union , București info calendar_month Date 15:30 - Sunday, 29 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location CINEMA UNIREA , Botosani info calendar_month Date 18:00 - Tuesday, 01 December 2026 bookmark Order 20 lei + 1.21 lei (taxes) Choose seats Lumina Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Lumina Atenție! Fără anulare prealabilă, rezervările în baza carnetului de 5 bilete vor fi considerate folosite. Rezervările nu se anulează automat în cazul neprezentării la proiecție. Pentru a evita acest lucru, vă rugăm să anulați rezervarea din contul dvs. de client cu cel puțin 6 ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Lumina Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Lumina Enter Barcode Check Atenție! Toate intrările au fost folosite. Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului TRECĂTOARELE IUBIRI / EPHEMERAL LOVE location_on Online disponibil 72h de la achiziționarea biletului HOREA location_on Online disponibil 72h de la prima accesare BELLE location_on Online disponibil 72h de la prima accesare THE IRON CLAW / GHEARA DE FIER location_on Online 10:15 - Tomorrow, 21 November Mielul Shaun: Aventuri de Halloween #animation #pentru copii #adventure #Halloween #family #comedy #fantasy #film location_on ARTA Cinema 19:30 - Thursday, 26 November To Dream the Same Dream: Practici arhivale ca modele co-auctoriale location_on Cinema Union Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:32+00:00"
+  },
+  "bilete-minuscule-valea-furnicilor-pierdute-film-pentru-publicul-tanar": {
+   "text": " Bilete la MINUSCULE: VALEA FURNICILOR PIERDUTE search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter MINUSCULE: VALEA FURNICILOR PIERDUTE FILM PENTRU PUBLICUL TÂNĂR volume_up FR notes Fără dialog FILME PENTRU ÎNTREAGA FAMILIE LA CINEMA ELVIRE POPESCO Show description MINUSCULE: VALEA FURNICILOR PIERDUTE FILM PENTRU PUBLICUL TÂNĂR volume_up FR notes Fără dialog FILME PENTRU ÎNTREAGA FAMILIE LA CINEMA ELVIRE POPESCO Director: Thomas Szabo, Hélène Giraud Cast: Serge Biavan, Nicolas Marié, Quentin Faure Genre: animație, aventură Duration: 1h 29m Country: Franța Year: 2013 &Icirc;ntr-o p&#259;dure lini&#537;tit&#259;, resturile unui picnic declan&#537;eaz&#259; un r&#259;zboi f&#259;r&#259; mil&#259; &icirc;ntre dou&#259; bande rivale de furnici, care r&acirc;vnesc la aceea&#537;i prad&#259;: o cutie cu zah&#259;r! &Icirc;n mijlocul acestei &icirc;ncle&#537;t&#259;ri, o t&acirc;n&#259;r&#259; buburuz&#259; se &icirc;mprietene&#537;te cu o furnic&#259; neagr&#259; &#537;i o ajut&#259; s&#259;-&#537;i salveze colonia de temutele furnici ro&#537;ii&hellip; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 11:00 - Sunday, 06 December 2026 FR Fără dialog bookmark Order 35 lei (adult+copil) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (tarif redus elev/student/pensionar) Number of tickets remove add shopping_cart Add to cart bookmark Order 11 lei (copil) Number of tickets remove add shopping_cart Add to cart bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete MINUSCULE: VALEA FURNICILOR PIERDUTE Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la prima accesare Dumnezeu există și numele lui e Petrunija / God Exists, Her Name Is Petrunija location_on Online disponibil 72h de la achiziționarea biletului DRUMEȚ ÎN CALEA LUPILOR / A TRAVELLER IN FRONT OF WOLVES location_on Online disponibil 72h de la achiziționarea biletului A UNSPREZECEA PORUNCĂ / THE ELEVENTH COMMANDMENT location_on Online 19:30 - Wednesday, 25 November ÎMI ESTE INDIFERENT DACĂ ÎN ISTORIE VOM INTRA CA BARBARI + CELE DOUĂ EXECUȚII ALE MAREȘALULUI location_on Cinema Elvire Popesco 19:30 - Sunday, 22 November Cum aș putea trăi fără tine? 2 location_on Cinema Victoria Timișoara 20:00 - Tomorrow, 21 November KUNDUN location_on Cinema Union Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:36+00:00"
+  },
+  "bilete-mananca-un-castron-de-ceai-eat-a-bowl-of-tea": {
+   "text": " Bilete la MĂNÂNCĂ UN CASTRON DE CEAI / EAT A BOWL OF TEA search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter MĂNÂNCĂ UN CASTRON DE CEAI / EAT A BOWL OF TEA Show description MĂNÂNCĂ UN CASTRON DE CEAI / EAT A BOWL OF TEA Title: Eat a Bowl of Tea Director: Wayne Wang Cast: Russell Wong, Eric Tsang Genre: Dramă, Romantic Duration: 1h 42m Country: SUA Year: 1989 Ben Loy, n&#259;scut &icirc;n America, &#537;i Mei Oi, n&#259;scut&#259; &icirc;n China, se confrunt&#259; cu confuzia cultural&#259; &#537;i presiunea comunit&#259;&#539;ii din cartierul chinezesc &icirc;n New York-ul de dup&#259; cel de-al Doilea R&#259;zboi Mondial. E o incercare grea pentru Ben, presat deja de stresul unei noi slujbe, iar c&#259;snicia &icirc;ncepe s&#259; se destrame. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 16:00 - Saturday, 28 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart MĂNÂNCĂ UN CASTRON DE CEAI / EAT A BOWL OF TEA Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului NUNTA DE PIATRĂ / THE STONE WEDDING location_on Online Spectacolul se poate vizualiza pentru 24h de la achiziția biletului. MUC CEL MIC location_on Online disponibil 72h de la achiziționarea biletului DUMBRAVA MINUNATĂ / THE ENCHANTED GROVE location_on Online disponibil 72h de la achiziționarea biletului Întoarcerea lui Voda Lapusneanu location_on Online 19:00 - Thursday, 10 December Mici Excese: A vinganca de uma mulher location_on Apollo111 Cinema 17:30 - Sunday, 22 November Filantropica location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:40+00:00"
+  },
+  "bilete-film-paper-tiger": {
+   "text": " Bilete la PAPER TIGER search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter PAPER TIGER volume_up EN notes RO Show description PAPER TIGER volume_up EN notes RO Director: James Gray Cast: Adam Driver, Scarlett Johansson, Miles Teller, Gavin Goudey Genre: Crimă, Dramă, Thriller Duration: 1h 55m Country: Franța, SUA, Polonia, Italia Year: 2026 &Icirc;n thrillerul intens &#537;i profund emo&#539;ionant a lui James Gray, doi fra&#539;i se implic&#259; &icirc;ntr-o afacere care se dovede&#537;te prea bun&#259; ca s&#259; fie adev&#259;rat&#259;. &Icirc;n timp ce &icirc;ncearc&#259; s&#259; se descurce &icirc;n lumea periculoas&#259; a mafiei ruse, leg&#259;turile de familie &icirc;ncep s&#259; se destrame, iar urm&#259;rile le vor schimba via&#539;a. Prezentat &icirc;n Competi&#539;ia Oficial&#259; a Festivalului de Film de la Cannes 2026. &nbsp; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:00 - Tuesday, 15 December 2026 Gala premiere EN RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete PAPER TIGER Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului DUMBRAVA MINUNATĂ / THE ENCHANTED GROVE location_on Online disponibil 72h de la achiziționarea biletului DECLARAȚIE DE DRAGOSTE / DECLARATION OF LOVE location_on Online disponibil 72h de la achiziționarea biletului EMISIA CONTINUĂ / THE BROADCAST CONTINUES location_on Online disponibil 72h de la prima accesare SUCCES DE PUBLIC | THE BIG HIT location_on Online 20:00 - Sunday, 29 November Rammstein – Live in Mexico City #concert #rock #metal #documentary #energic #pentru adulți #atmosferă intensă #film location_on Cinema Timiș 12:00 - Sunday, 29 November TIPOGRAFIC MAJUSCUL + PLAN CONTRAPLAN location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:43+00:00"
+  },
+  "bilete-film-pionul-lui-lenin": {
+   "text": " Bilete la PIONUL LUI LENIN / LENIN&#039;S PAWN search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter PIONUL LUI LENIN / LENIN&#039;S PAWN volume_up RO notes EN Show description PIONUL LUI LENIN / LENIN&#039;S PAWN volume_up RO notes EN Director: Dragoș Turea Cast: Nadejda Voloc, Ion Voloc, Sergiu Voloc Genre: Documentar Duration: 1h 25m Country: România Year: 2026 Filmul este un documentar hibrid despre actorul Sergiu Voloc, un Don Quijote al zilelor noastre, care porne&#537;te un r&#259;zboi solitar &icirc;mpotriva monumentelor lui Lenin din Moldova. Revolta sa se transform&#259; treptat &icirc;ntr-o confruntare absurd&#259; cu un sistem invizibil care reconstruie&#537;te monumentele peste noapte. &Icirc;mbin&acirc;nd stilul observational cu umorul negru &#537;i elemente de fic&#539;iune, filmul urm&#259;re&#537;te lupta unui actor care &icirc;ncearc&#259; s&#259; dea sens propriei vie&#539;i &icirc;ntr-o realitate care se &icirc;ntoarce &icirc;mpotriva lui. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 12:30 - Saturday, 05 December 2026 RO EN bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete location_on Location Cinema Elvire Popesco , București info calendar_month Date 15:30 - Saturday, 19 December 2026 RO EN bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete PIONUL LUI LENIN / LENIN&#039;S PAWN Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve PIONUL LUI LENIN / LENIN&#039;S PAWN Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului PROBA DE MICROFON / MICROPHONE TEST location_on Online disponibil 72h de la achiziționarea biletului DUMINICĂ LA ORA 6 location_on Online disponibil 72h de la achiziționarea biletului OPERAȚIUNEA ”MONSTRUL” / OPERATION ”MONSTER” location_on Online disponibil 72h de la achiziționarea biletului ACTORUL ȘI SĂLBATICII / THE ACTOR AND THE SAVAGES location_on Online disponibil 72h de la achiziționarea biletului ÎNTRE OGLINZI PARALELE / BETWEEN FACING MIRRORS location_on Online 13:00 - Sunday, 22 November Pisicile de la muzeu 2: Comoara din Egipt location_on CINEMA UNIREA Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:47+00:00"
+  },
+  "bilete-film-primetime": {
+   "text": " Bilete la Primetime search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Primetime 12+ volume_up EN notes RO Show description Primetime 12+ volume_up EN notes RO Director: Lance Oppenheim Cast: Robert Pattinson, Merritt Wever, Skyler Gisondo Genre: Thriller psihologic, Biografic, Crimă Duration: 1h 50m Country: SUA Language: EN Year: 2026 Primetime este un film despre televiziune, faim&#259;, &#537;i limita dintre adev&#259;r &#537;i spectacol.Robert Pattinson &icirc;l interpreteaz&#259; pe jurnalistul Chris Hansen, figura central&#259; a controversatei emisiuni To Catch a Predator, fenomenul TV care a transformat investiga&#539;ia jurnalistic&#259; &icirc;ntr-un spectacol urm&#259;rit de milioane de oameni.Inspirat din evenimente reale, filmul urm&#259;re&#537;te ascensiunea emisiunii &#537;i momentul &icirc;n care succesul &icirc;ncepe s&#259; schimbe regulile jocului. #film #thriller #dramă psihologică #biography #crime #pentru adulți #atmosferă intensă #suspans location_on Hall/Location All locations Cinema Union, București Cinema Timiș, Timisoara location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Timiș , Timisoara info calendar_month Date 17:30 - Sunday, 22 November 2026 EN RO bookmark Order 30 lei (tarif întreg) / 20 lei (Bilet elev/student) / 20 lei (Bilet pensionar) Choose seats Am abonament Cinefil de Cimișoara location_on Location Cinema Union , București info calendar_month Date 18:00 - Friday, 27 November 2026 EN RO bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart Primetime Enter Barcode Check Atenție! Toate intrările au fost folosite. Primetime Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la prima accesare Babyteeth: Prima iubire / Babyteeth location_on Online disponibil 72h de la achiziționarea biletului BRIGADA DIVERSE ÎN ALERTĂ / BRIGADE MISCELLANEOUS IN ALLERT location_on Online disponibil 72h de la prima accesare NELINIȘTIȚI | THE RESTLESS location_on Online disponibil 72h de la prima accesare BEAU IS AFRAID / TOATE FRICILE LUI BEAU location_on Online disponibil 72h de la prima accesare CARTEA CU SOLUȚII / LE LIVRE DES SOLUTIONS location_on Online 17:00 - Sunday, 22 November Tarzan, omul-maimuță location_on Cinema Johnny Freidorf, Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:49+00:00"
+  },
+  "bilete-white-materials-cineclub-f-sides": {
+   "text": " Bilete la WHITE MATERIAL search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter WHITE MATERIAL CINECLUB F-SIDES volume_up FR notes RO Show description WHITE MATERIAL CINECLUB F-SIDES volume_up FR notes RO Director: Claire Denis Cast: Isabelle Huppert, Christopher Lambert, Isaach De Bankolé Genre: Dramă, Război Duration: 1h 46m Country: Franța, Camerun Year: 2010 &Icirc;ntr-o regiune din Africa m&#259;cinat&#259; de r&#259;zboiul civil, Maria refuz&#259; s&#259;-&#537;i abandoneze planta&#539;ia de cafea &icirc;nainte de &icirc;ncheierea recoltei, &icirc;n ciuda amenin&#539;&#259;rilor care planeaz&#259; asupra ei &#537;i a celor apropia&#539;i.&nbsp; location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Elvire Popesco , București info calendar_month Date 20:00 - Thursday, 10 December 2026 FR RO bookmark Order 27 lei (Bilet Întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 16 lei (Bilet Elev / Student / Pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 10 bilete / Am carnet de 5 bilete Proiecție urmată de o discuție WHITE MATERIAL Din 15 ianuarie 2024, politica noastră de rezervare se schimbă: neprezentarea la proiecție fără o anulare prealabilă va duce la considerarea biletelor din carnetul de 5 bilete ca fiind utilizate. Pentru a evita acest lucru, vă rugăm să anulați rezervarea prin contul dvs. cu cel puțin 6 de ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului DUMINICĂ LA ORA 6 location_on Online 12:30 - Tomorrow, 21 November THE POD GENERATION location_on Cinema Unirea 18:00 - Saturday, 12 December Retrocinemateca: VLAD ȚEPEȘ (1979) location_on Cinema “Ion Besoiu”, Sibiu - Sala Mică 16:00 - Sunday, 13 December Carmen 2026 location_on Cinema Timiș 19:30 - Tuesday, 15 December Dune: Part Three #science fiction #film #adventure #action #drama #epic #pentru adulți #atmosferă intensă location_on ARTA Cinema 17:30 - Sunday, 22 November Filantropica location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:54+00:00"
+  },
+  "bilete-wildwood-taramul-fantastic": {
+   "text": " Bilete la Wildwood: Tărâmul fantastic search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Wildwood: Tărâmul fantastic A.G. volume_up EN notes RO Show description Wildwood: Tărâmul fantastic A.G. notes RO Title: Wildwood Director: Travis Knight Genre: Animație Duration: 2h 19m Country: SUA Language: EN Year: 2026 Studiourile LAIKA revin cu unul dintre cele mai impresionante &#537;i ambi&#539;ioase filme stop-motion: Wildwood, o aventur&#259; magic&#259;, &icirc;n care t&acirc;n&#259;ra protagonist&#259; Prue c&#259;l&#259;tore&#537;te &icirc;ntr-o p&#259;dure cu personaje fantastice, &icirc;n &icirc;ncercarea de a-&#537;i salva fratele mai mic. Pe parcurs, ea &icirc;nt&acirc;lne&#537;te popoare aflate &icirc;n r&#259;zboi, creaturi extraordinare &#537;i o lume diferit&#259; de orice ai mai v&#259;zut p&acirc;n&#259; acum!O lume fantastic&#259;, bazat&#259; pe romanul omonim scris de Colin Meloy! location_on Hall/Location All locations Cinema Union, București Cinema Timiș, Timisoara Cinema Studio Timișoara, Timisoara ARTA Cinema, Cluj-Napoca location_on Location calendar_month Date payments Price bookmark Order location_on Location ARTA Cinema , Cluj-Napoca info calendar_month Date 14:00 - Sunday, 22 November 2026 EN RO bookmark Order 28 lei (preț întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet redus elev/student) Number of tickets remove add shopping_cart Add to cart bookmark Order 23 lei (Bilet pensionar) Number of tickets remove add shopping_cart Add to cart Am carnet de 5 bilete / Voucher / Am carnet de 10 bilete location_on Location Cinema Timiș , Timisoara info calendar_month Date 15:00 - Sunday, 22 November 2026 EN RO bookmark Order 30 lei (tarif întreg) / 20 lei (Bilet elev/student) / 20 lei (Bilet pensionar) Choose seats Am abonament Cinefil de Cimișoara location_on Location Cinema Studio Timișoara , Timisoara info calendar_month Date 15:00 - Saturday, 28 November 2026 EN SUB RO bookmark Order 30 lei (tarif întreg) / 20 lei (Bilet elev/student) / 20 lei (Bilet pensionar) Choose seats Am abonament Cinefil de Cimișoara location_on Location Cinema Union , București info calendar_month Date 15:45 - Saturday, 28 November 2026 EN RO bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart Wildwood: Tărâmul fantastic Atenție! Fără anulare prealabilă, rezervările în baza carnetului de 5 bilete vor fi considerate folosite. Rezervările nu se anulează automat în cazul neprezentării la proiecție. Pentru a evita acest lucru, vă rugăm să anulați rezervarea din contul dvs. de client cu cel puțin 6 ore înainte de ora programată a proiecției. Am înţeles Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Wildwood: Tărâmul fantastic Enter Barcode Check Atenție! Toate intrările au fost folosite. Wildwood: Tărâmul fantastic Enter Barcode Check Atenție! Toate intrările au fost folosite. Wildwood: Tărâmul fantastic Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului FRUCTE DE PĂDURE / WOOD BERRIES location_on Online disponibil 72h de la achiziționarea biletului TRANDAFIRUL GALBEN / THE YELLOW ROSE location_on Online disponibil 72h de la prima accesare LA COCINA / POVEȘTI DIN BUCĂTĂRIE location_on Online 13:30 - Tomorrow, 21 November Mia și școala de monștri location_on Cinema Şerban Ionescu Petroșani 17:15 - Today, 20 November Cum aș putea trăi fără tine? 2 location_on Florin Piersic Cinema 17:00 - Wednesday, 25 November Soldatul fantomă location_on Cinema Patria Craiova Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:26:57+00:00"
+  },
+  "bilete-x-men-viitorul-este-trecut": {
+   "text": " Bilete la X-MEN: VIITORUL ESTE TRECUT / X-MEN: DAYS OF FUTURE PAST search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter X-MEN: VIITORUL ESTE TRECUT / X-MEN: DAYS OF FUTURE PAST volume_up EN notes RO Show description X-MEN: VIITORUL ESTE TRECUT / X-MEN: DAYS OF FUTURE PAST volume_up EN notes RO Director: Bryan Singer Cast: Jennifer Lawrence, Ian McKellen, Michael Fassbender, Nicholas Hoult, Hugh Jackman Genre: Acțiune, SF, Thriller Duration: 2h 06m Country: SUA Year: 2014 Cea mai popular&#259; echip&#259; X-Men duce o b&#259;t&#259;lie pentru supravie&#539;uirea speciei lor &icirc;n dou&#259; perioade de timp diferite. Eroii din trilogia original&#259; X-Men se al&#259;tur&#259; eforturilor depuse de versiunile lor mai tinere din trecutul explorat de X-Men: First Class pentru a schimba un eveniment istoric ce ar putea pecetlui soarta tuturor purt&#259;torilor genei X. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 17:30 - Thursday, 26 November 2026 EN RO bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart X-MEN: VIITORUL ESTE TRECUT / X-MEN: DAYS OF FUTURE PAST Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului TĂNASE SCATIU / TĂNASE, THE SISKIN location_on Online disponibil 72h de la prima accesare Amanda location_on Online disponibil 72h de la achiziționarea biletului CIULINII BĂRĂGANULUI / THE THISTLES IN THE BĂRĂGAN location_on Online disponibil 72h de la achiziționarea biletului B. D. LA MUNTE ȘI LA MARE / BRIGADE MISCELLANEOUS IN THE MOUNTAINS AND AT THE SEASIDE location_on Online disponibil 72h de la achiziționarea biletului COLIERUL DE TURCOAZE / THE TURQUOISE NECKLACE location_on Online 17:30 - Thursday, 26 November FILM PENTRU PRIETENI + O UMBRA DE NOR + DIMINEAȚA location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:27:00+00:00"
+  },
+  "bilete-yakuza-the-yakuza": {
+   "text": " Bilete la YAKUZA / THE YAKUZA search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter YAKUZA / THE YAKUZA Show description YAKUZA / THE YAKUZA Title: The Yakuza Director: Sydney Pollack Cast: Robert Mitchum, Eiji Okada Genre: Dramă Duration: 1h 52m Country: SUA, Japonia Year: 1974 Harry Kilmer se intoarce in Japonia dupa o lunga perioada pentru a o salva pe fiica rapita a prietenului sau George... location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 18:00 - Saturday, 28 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location Cinemateca Eforie , București info calendar_month Date 20:15 - Sunday, 29 November 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart YAKUZA / THE YAKUZA Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve YAKUZA / THE YAKUZA Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului PREA MIC PENTRU UN RĂZBOI ATÂT DE MARE / TOO LITTLE FOR SUCH A BIG WAR location_on Online disponibil 72h de la achiziționarea biletului DECLARAȚIE DE DRAGOSTE / DECLARATION OF LOVE location_on Online Valabil 12 luni de la data achiziției Apollo111 Cinema Pass 12 location_on Apollo111 Cinema 20:00 - Sunday, 22 November Ozzy &amp; Black Sabbath: Back To The Beginning #documentary #concert #rock #metal #heavy metal #pentru adulți #energic #history location_on Cinema Timiș 13:00 - Sunday, 22 November QUEEN AT SEA / REGINA ȘI MAREA location_on Cinema Elvire Popesco 13:00 - Saturday, 28 November IEȘIREA TRENURILOR DIN GARĂ + A PEDEPSI, A SUPRAVEGHEA location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-20T14:27:03+00:00"
   }
  }
 }

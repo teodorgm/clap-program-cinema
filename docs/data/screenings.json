@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T10:15:58+00:00",
+ "generated": "2026-11-20T14:24:03+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -72,16 +72,16 @@
    "name": "Elvire Popesco",
    "ok": true,
    "stale": false,
-   "count": 31,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "count": 88,
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "union": {
    "name": "Union",
    "ok": true,
    "stale": false,
-   "count": 9,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "count": 23,
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,15 +89,15 @@
    "ok": true,
    "stale": false,
    "count": 13,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "eforie": {
    "name": "Eforie",
    "ok": true,
    "stale": false,
-   "count": 0,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "count": 14,
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,2056 +105,43 @@
    "ok": true,
    "stale": false,
    "count": 27,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 564,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "count": 551,
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 479,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "count": 453,
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 438,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "count": 420,
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 522,
-   "updated": "2026-11-20T10:15:58+00:00",
+   "count": 496,
+   "updated": "2026-11-20T14:24:03+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "cc1824-746757",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "12:05",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746757?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1806-750991",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "12:10",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750991?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1807-749187",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:10",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749187?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1807-749600",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:10",
-   "title": "Wildwood dub",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749600?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8340D2R.jpg",
-   "year": "2026",
-   "runtime": 139,
-   "film": "t:wildwood dub"
-  },
-  {
-   "id": "cc1818-746331",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:10",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746331?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1818-748699",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:15",
-   "title": "Insula pierduta dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748699?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "t:insula pierduta dub"
-  },
-  {
-   "id": "cc1807-747434",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:20",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747434?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1807-750243",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:20",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750243?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-748723",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:20",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748723?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1806-721231",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "12:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/721231?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-746652",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:30",
-   "title": "Wild Horse Nine",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746652?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8161S2R.jpg",
-   "year": "2026",
-   "runtime": 116,
-   "film": "tmdb:891621"
-  },
-  {
-   "id": "cc1818-720950",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "4DX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/720950?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1818-749805",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:30",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749805?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1824-721032",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "12:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/721032?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-746577",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "12:30",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746577?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1806-751096",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "12:40",
-   "title": "Monarh",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/751096?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8390O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1815513"
-  },
-  {
-   "id": "cc1807-750516",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:40",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750516?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-749001",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:45",
-   "title": "Wildwood",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749001?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8340S2R.jpg",
-   "year": "2026",
-   "runtime": 139,
-   "film": "tmdb:791523"
-  },
-  {
-   "id": "cc1806-721266",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "12:50",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "IMAX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/721266?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-720568",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:50",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/720568?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-749314",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "12:50",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749314?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1818-749134",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:50",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749134?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-749438",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "12:50",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749438?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1824-746685",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "12:50",
-   "title": "Wildwood",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746685?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8340S2R.jpg",
-   "year": "2026",
-   "runtime": 139,
-   "film": "tmdb:791523"
-  },
-  {
-   "id": "cc1818-749821",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "13:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749821?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1818-749622",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "13:10",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749622?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1824-746775",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "13:15",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746775?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1807-746949",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "13:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746949?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1807-747145",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "13:30",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747145?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1807-748743",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "13:30",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748743?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-746187",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "13:30",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746187?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1807-747840",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "13:40",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747840?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1824-745414",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "13:40",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/745414?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1824-746842",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "13:40",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746842?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-746876",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "13:40",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746876?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "t:ebenezer o poveste de craciun"
-  },
-  {
-   "id": "cc1806-751132",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "13:45",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/751132?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1807-750462",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "13:45",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750462?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-745786",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "13:50",
-   "title": "Piatră Foarfecă Hârtie",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/745786?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
-   "year": "2025",
-   "runtime": 91,
-   "film": "tmdb:1172260"
-  },
-  {
-   "id": "cc1818-749294",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "13:50",
-   "title": "George Michael: The Faith Tour",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749294?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8520S2R.jpg",
-   "year": "2026",
-   "runtime": 113,
-   "film": "tmdb:1649403"
-  },
-  {
-   "id": "cc1824-746762",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "13:50",
-   "title": "Minotaur",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746762?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8524S2R.jpg",
-   "year": "2026",
-   "runtime": 141,
-   "film": "tmdb:848700"
-  },
-  {
-   "id": "cc1806-750992",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "14:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750992?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-749981",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "14:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749981?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-746932",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "14:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746932?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1807-749189",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "14:10",
-   "title": "Monarh",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749189?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8390O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1815513"
-  },
-  {
-   "id": "cc1807-749513",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "14:10",
-   "title": "În inima sălbăticiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749513?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8314S2R.jpg",
-   "year": "2026",
-   "runtime": 101,
-   "film": "tmdb:1263337"
-  },
-  {
-   "id": "cc1818-746332",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "14:10",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746332?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1824-746956",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "14:10",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746956?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1807-748103",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "14:20",
-   "title": "Insula pierduta dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748103?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "t:insula pierduta dub"
-  },
-  {
-   "id": "cc1818-749949",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "14:20",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749949?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "t:ebenezer o poveste de craciun"
-  },
-  {
-   "id": "cc1807-749340",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "14:40",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749340?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1807-750244",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "14:40",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750244?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "t:ebenezer o poveste de craciun"
-  },
-  {
-   "id": "cc1818-748700",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "14:40",
-   "title": "Insula pierduta dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748700?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "t:insula pierduta dub"
-  },
-  {
-   "id": "cc1818-749135",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "14:40",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749135?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1807-750517",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "14:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750517?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-747437",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "14:50",
-   "title": "Teambuilding 2",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747437?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
-   "year": "2026",
-   "runtime": 110,
-   "film": "tmdb:1756532"
-  },
-  {
-   "id": "cc1818-720974",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "14:50",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/720974?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-746597",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "14:50",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746597?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1806-751097",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "15:00",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/751097?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1807-746653",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "15:00",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746653?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1818-748730",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "15:00",
-   "title": "Monarh",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748730?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8390O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1815513"
-  },
-  {
-   "id": "cc1818-749822",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "15:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749822?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-746776",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "15:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746776?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1807-749602",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "15:10",
-   "title": "Ramayana",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "3D"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749602?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8566S2R.jpg",
-   "year": "2026",
-   "runtime": 165,
-   "film": "t:ramayana"
-  },
-  {
-   "id": "cc1818-749625",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "15:10",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749625?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1806-750930",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "15:15",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750930?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-747203",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "15:15",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747203?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1807-746951",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "15:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746951?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1807-748744",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "15:30",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748744?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-746186",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "15:30",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746186?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1806-751186",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "15:40",
-   "title": "Mia și școala de monștri dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/751186?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri dub"
-  },
-  {
-   "id": "cc1818-749002",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "15:40",
-   "title": "Wildwood",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749002?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8340S2R.jpg",
-   "year": "2026",
-   "runtime": 139,
-   "film": "tmdb:791523"
-  },
-  {
-   "id": "cc1818-749439",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "15:40",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749439?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1824-746690",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "15:40",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746690?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "t:cum sa spargi o banca"
-  },
-  {
-   "id": "cc1806-721232",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "15:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/721232?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1818-720951",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "15:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "4DX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/720951?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-721033",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "15:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/721033?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-750959",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "15:50",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750959?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1806-750993",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "15:50",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750993?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1806-750848",
-   "cinema": "cc1806",
-   "date": "2026-11-20",
-   "time": "16:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750848?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1807-750463",
-   "cinema": "cc1807",
-   "date": "2026-11-20",
-   "time": "16:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750463?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-745788",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "16:00",
-   "title": "Ramayana",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/745788?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8566S2R.jpg",
-   "year": "2026",
-   "runtime": 165,
-   "film": "t:ramayana"
-  },
-  {
-   "id": "cc1818-749983",
-   "cinema": "cc1818",
-   "date": "2026-11-20",
-   "time": "16:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749983?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-746935",
-   "cinema": "cc1824",
-   "date": "2026-11-20",
-   "time": "16:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746935?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
   {
    "id": "cc1806-721267",
    "cinema": "cc1806",
@@ -7618,31 +5605,6 @@
    "film": "tmdb:791523"
   },
   {
-   "id": "cc1806-750997",
-   "cinema": "cc1806",
-   "date": "2026-11-21",
-   "time": "11:50",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750997?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
    "id": "cc1806-751164",
    "cinema": "cc1806",
    "date": "2026-11-21",
@@ -7812,6 +5774,31 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1806-751836",
+   "cinema": "cc1806",
+   "date": "2026-11-21",
+   "time": "12:00",
+   "title": "Micul mamut: Aventuri în Africa dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751836?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
+   "year": "2026",
+   "runtime": 73,
+   "film": "t:micul mamut aventuri in africa dub"
   },
   {
    "id": "cc1818-745841",
@@ -8702,31 +6689,6 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
-   "id": "cc1806-751002",
-   "cinema": "cc1806",
-   "date": "2026-11-21",
-   "time": "13:40",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/751002?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
    "id": "cc1806-751190",
    "cinema": "cc1806",
    "date": "2026-11-21",
@@ -8975,6 +6937,31 @@
    "year": "2026",
    "runtime": 84,
    "film": "tmdb:1773633"
+  },
+  {
+   "id": "cc1806-751837",
+   "cinema": "cc1806",
+   "date": "2026-11-21",
+   "time": "13:50",
+   "title": "Micul mamut: Aventuri în Africa dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751837?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
+   "year": "2026",
+   "runtime": 73,
+   "film": "t:micul mamut aventuri in africa dub"
   },
   {
    "id": "cc1818-745847",
@@ -32907,6 +30894,28 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "eforie-2026-11-24-17:00-bilete-the-white-moor",
+   "cinema": "eforie",
+   "date": "2026-11-24",
+   "time": "17:00",
+   "title": "DE-AȘ FI HARAP ALB / THE WHITE MOOR",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-the-white-moor?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2021/12/bilete-cinemateca-online-de-as-fi-harap-alb-ZrW.jpg",
+   "film": "tmdb:265092"
+  },
+  {
    "id": "cc1818-749679",
    "cinema": "cc1818",
    "date": "2026-11-24",
@@ -33279,6 +31288,30 @@
    "url": "https://eventbook.ro/film/bilete-copilul-noptii?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/Nightborn_poster.webp",
    "film": "t:copilul noptii"
+  },
+  {
+   "id": "union-2026-11-24-17:30-bilete-delta-salbatica-film",
+   "cinema": "union",
+   "date": "2026-11-24",
+   "time": "17:30",
+   "title": "DELTA SĂLBATICĂ",
+   "age": "A.G.",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-delta-salbatica-film?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-delta-salbatica-film-nGt.webp",
+   "film": "tmdb:1756136"
   },
   {
    "id": "cc1806-721221",
@@ -34205,6 +32238,32 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
+   "id": "eforie-2026-11-24-19:00-bilete-logan",
+   "cinema": "eforie",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "title": "LOGAN",
+   "age": "15+",
+   "note": "In memoriam Patrick Stewart",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-logan?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-logan-7WX.webp",
+   "film": "tmdb:263115"
+  },
+  {
    "id": "cc1807-751742",
    "cinema": "cc1807",
    "date": "2026-11-24",
@@ -34642,6 +32701,28 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
+  },
+  {
+   "id": "union-2026-11-24-19:30-bilete-you-can-see-everything",
+   "cinema": "union",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "title": "You Can See Everything",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
+   "film": "tmdb:1765072"
   },
   {
    "id": "cc1807-748860",
@@ -39205,6 +37286,28 @@
    "film": "t:micul mamut aventuri in africa dub"
   },
   {
+   "id": "eforie-2026-11-25-16:30-bilete-conspiracy-theory-teoria-conspiratiei",
+   "cinema": "eforie",
+   "date": "2026-11-25",
+   "time": "16:30",
+   "title": "CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-conspiracy-theory-teoria-conspiratiei?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-conspiracy-theory-teoria-conspiratiei-pEE.webp",
+   "film": "tmdb:8834"
+  },
+  {
    "id": "cc1806-750842",
    "cinema": "cc1806",
    "date": "2026-11-25",
@@ -40103,6 +38206,33 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "union-2026-11-25-17:45-bilete-jurnalul-unei-cameriste-film",
+   "cinema": "union",
+   "date": "2026-11-25",
+   "time": "17:45",
+   "title": "Jurnalul unei cameriste",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
+   "film": "tmdb:1696174"
+  },
+  {
    "id": "cc1806-750977",
    "cinema": "cc1806",
    "date": "2026-11-25",
@@ -40153,6 +38283,29 @@
    "film": "tmdb:1773633"
   },
   {
+   "id": "cc1824-750597",
+   "cinema": "cc1824",
+   "date": "2026-11-25",
+   "time": "17:50",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750597?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1807-750573",
    "cinema": "cc1807",
    "date": "2026-11-25",
@@ -40199,29 +38352,6 @@
    "year": "2026",
    "runtime": 85,
    "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-750597",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "18:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750597?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
   },
   {
    "id": "muzeu-2026-11-25-18:00-bilete-delta-salbatica-film",
@@ -40847,6 +38977,30 @@
    "film": "t:hexe regatul magiei"
   },
   {
+   "id": "eforie-2026-11-25-19:00-bilete-100-de-lei",
+   "cinema": "eforie",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "title": "100 DE LEI (SUTA DE LEI)",
+   "age": "A.G.",
+   "note": "La marginea certitudinilor + Q&A",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-100-de-lei?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2023/01/bilete-100-de-lei-XhO.jpg",
+   "film": "t:100 de lei suta de lei"
+  },
+  {
    "id": "cc1806-751542",
    "cinema": "cc1806",
    "date": "2026-11-25",
@@ -41204,6 +39358,28 @@
    "film": "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului"
   },
   {
+   "id": "union-2026-11-25-19:30-bilete-lumina",
+   "cinema": "union",
+   "date": "2026-11-25",
+   "time": "19:30",
+   "title": "Lumina",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-lumina?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lumina-GaZ.webp",
+   "film": "tmdb:1501247"
+  },
+  {
    "id": "cc1807-748861",
    "cinema": "cc1807",
    "date": "2026-11-25",
@@ -41481,6 +39657,29 @@
    "film": "t:soldatul fantoma"
   },
   {
+   "id": "cc1824-751842",
+   "cinema": "cc1824",
+   "date": "2026-11-25",
+   "time": "19:50",
+   "title": "Nu e locul tau aici",
+   "age": "AP-12",
+   "note": "Avanpremieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751842?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8532O2R.jpg",
+   "year": "2026",
+   "runtime": 154,
+   "film": "tmdb:1728593"
+  },
+  {
    "id": "cc1806-750892",
    "cinema": "cc1806",
    "date": "2026-11-25",
@@ -41660,29 +39859,6 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
-  },
-  {
-   "id": "cc1824-750595",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "20:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750595?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
   },
   {
    "id": "muzeu-2026-11-25-20:00-bilete-piatra-foarfeca-hartie-2",
@@ -42727,29 +40903,6 @@
    "film": "t:copilul noptii"
   },
   {
-   "id": "cc1824-750378",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "22:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750378?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1824-751502",
    "cinema": "cc1824",
    "date": "2026-11-25",
@@ -43437,6 +41590,29 @@
    "year": "2026",
    "runtime": 92,
    "film": "t:copilul noptii"
+  },
+  {
+   "id": "cc1824-750378",
+   "cinema": "cc1824",
+   "date": "2026-11-25",
+   "time": "22:50",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750378?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
   },
   {
    "id": "cc1818-733944",
@@ -46719,6 +44895,32 @@
    "film": "t:lucy lost"
   },
   {
+   "id": "eforie-2026-11-26-17:30-bilete-x-men-viitorul-este-trecut",
+   "cinema": "eforie",
+   "date": "2026-11-26",
+   "time": "17:30",
+   "title": "X-MEN: VIITORUL ESTE TRECUT / X-MEN: DAYS OF FUTURE PAST",
+   "age": null,
+   "note": "In memoriam Patrick Stewart",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-x-men-viitorul-este-trecut?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-x-men-viitorul-este-trecut-z0H.webp",
+   "film": "tmdb:127585"
+  },
+  {
    "id": "elvire-2026-11-26-17:30-bilete-retrospectiva-integrala-radu-jude-film-pentru-prieteni-o-umbra-de-nor-dimineata",
    "cinema": "elvire",
    "date": "2026-11-26",
@@ -46902,6 +45104,32 @@
    "film": "tmdb:1021848"
   },
   {
+   "id": "union-2026-11-26-17:45-bilete-pionul-lui-lenin",
+   "cinema": "union",
+   "date": "2026-11-26",
+   "time": "17:45",
+   "title": "Pionul lui Lenin",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-pionul-lui-lenin?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/POSTER_RO_Pionul_lui_Lenin_07x1m_small.jpg",
+   "film": "tmdb:1709318"
+  },
+  {
    "id": "cc1806-750955",
    "cinema": "cc1806",
    "date": "2026-11-26",
@@ -46952,6 +45180,29 @@
    "film": "tmdb:1773633"
   },
   {
+   "id": "cc1824-750598",
+   "cinema": "cc1824",
+   "date": "2026-11-26",
+   "time": "17:50",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750598?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1807-750574",
    "cinema": "cc1807",
    "date": "2026-11-26",
@@ -46998,29 +45249,6 @@
    "year": "2026",
    "runtime": 85,
    "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-750598",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "18:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750598?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
   },
   {
    "id": "cc1818-721015",
@@ -48026,6 +46254,27 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "union-2026-11-26-19:30-bilete-to-dream-the-same-dream",
+   "cinema": "union",
+   "date": "2026-11-26",
+   "time": "19:30",
+   "title": "To Dream the Same Dream: Practici arhivale ca modele co-auctoriale",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 30,
+    "pensioner": 20,
+    "student": 10
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-to-dream-the-same-dream?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-to-dream-the-same-dream-e9d.webp",
+   "film": "t:to dream the same dream practici arhivale ca modele co auctoriale"
+  },
+  {
    "id": "cc1807-748862",
    "cinema": "cc1807",
    "date": "2026-11-26",
@@ -48303,6 +46552,29 @@
    "film": "t:soldatul fantoma"
   },
   {
+   "id": "cc1824-751843",
+   "cinema": "cc1824",
+   "date": "2026-11-26",
+   "time": "19:50",
+   "title": "Nu e locul tau aici",
+   "age": "AP-12",
+   "note": "Avanpremieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751843?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8532O2R.jpg",
+   "year": "2026",
+   "runtime": 154,
+   "film": "tmdb:1728593"
+  },
+  {
    "id": "cc1806-750893",
    "cinema": "cc1806",
    "date": "2026-11-26",
@@ -48457,27 +46729,30 @@
    "film": "t:soldatul fantoma"
   },
   {
-   "id": "cc1824-750596",
-   "cinema": "cc1824",
+   "id": "eforie-2026-11-26-20:00-bilete-copilul-care-ar-putea-fi-rege",
+   "cinema": "eforie",
    "date": "2026-11-26",
    "time": "20:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
+   "title": "COPILUL CARE AR PUTEA FI REGE / THE KID WHO WOULD BE KING",
+   "age": null,
+   "note": "In memoriam Patrick Stewart",
    "audio": [
+    "EN"
+   ],
+   "subs": [
     "RO"
    ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
    "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750596?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
+   "url": "https://eventbook.ro/film/bilete-copilul-care-ar-putea-fi-rege?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-copilul-care-ar-putea-fi-rege-Lzr.webp",
+   "film": "tmdb:454294"
   },
   {
    "id": "elvire-2026-11-26-20:00-bilete-retrospectiva-integrala-radu-jude-inimi-cicatrizate-trece-si-prin-perete",
@@ -49520,29 +47795,6 @@
    "film": "t:copilul noptii"
   },
   {
-   "id": "cc1824-750379",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "22:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750379?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1806-721258",
    "cinema": "cc1806",
    "date": "2026-11-26",
@@ -50260,6 +48512,29 @@
    "film": "t:copilul noptii"
   },
   {
+   "id": "cc1824-750379",
+   "cinema": "cc1824",
+   "date": "2026-11-26",
+   "time": "22:50",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750379?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1824-751543",
    "cinema": "cc1824",
    "date": "2026-11-26",
@@ -50363,6 +48638,54 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "union-2026-11-27-18:00-bilete-film-primetime",
+   "cinema": "union",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "title": "Primetime",
+   "age": "12+",
+   "note": "Pattinson e James Bond",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-primetime?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Primetime_poster.jpg",
+   "film": "tmdb:1375441"
+  },
+  {
+   "id": "eforie-2026-11-27-18:15-bilete-ceaiul-amar-al-generalului-yen-the-bitter-tea-of-general-yen",
+   "cinema": "eforie",
+   "date": "2026-11-27",
+   "time": "18:15",
+   "title": "CEAIUL AMAR AL GENERALULUI YEN / THE BITTER TEA OF GENERAL YEN",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-ceaiul-amar-al-generalului-yen-the-bitter-tea-of-general-yen?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-ceaiul-amar-al-generalului-yen-the-bitter-tea-of-general-yen-aGB.webp",
+   "film": "tmdb:34187"
+  },
+  {
    "id": "apollo111-2026-11-27-18:30-bilete-pionul-lui-lenin",
    "cinema": "apollo111",
    "date": "2026-11-27",
@@ -50409,6 +48732,54 @@
    "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
+  },
+  {
+   "id": "eforie-2026-11-27-20:00-bilete-conspiracy-theory-teoria-conspiratiei",
+   "cinema": "eforie",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "title": "CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-conspiracy-theory-teoria-conspiratiei?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-conspiracy-theory-teoria-conspiratiei-pEE.webp",
+   "film": "tmdb:8834"
+  },
+  {
+   "id": "union-2026-11-27-20:00-bilete-nu-e-locul-tau-aici",
+   "cinema": "union",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": "Premieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
   },
@@ -50531,6 +48902,54 @@
    "film": "t:mielul shaun aventuri de halloween"
   },
   {
+   "id": "union-2026-11-28-15:45-bilete-wildwood-taramul-fantastic",
+   "cinema": "union",
+   "date": "2026-11-28",
+   "time": "15:45",
+   "title": "Wildwood: Tărâmul fantastic",
+   "age": "A.G.",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-wildwood-taramul-fantastic?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Wildwood-afis_med-res.jpg",
+   "film": "tmdb:791523"
+  },
+  {
+   "id": "eforie-2026-11-28-16:00-bilete-mananca-un-castron-de-ceai-eat-a-bowl-of-tea",
+   "cinema": "eforie",
+   "date": "2026-11-28",
+   "time": "16:00",
+   "title": "MĂNÂNCĂ UN CASTRON DE CEAI / EAT A BOWL OF TEA",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-mananca-un-castron-de-ceai-eat-a-bowl-of-tea?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-mananca-un-castron-de-ceai-eat-a-bowl-of-tea-Jok.webp",
+   "film": "tmdb:98984"
+  },
+  {
    "id": "muzeu-2026-11-28-16:00-bilete-cantecul-padurii-proiectie",
    "cinema": "muzeu",
    "date": "2026-11-28",
@@ -50629,6 +49048,55 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "eforie-2026-11-28-18:00-bilete-yakuza-the-yakuza",
+   "cinema": "eforie",
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "YAKUZA / THE YAKUZA",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-yakuza-the-yakuza?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-yakuza-the-yakuza-ZBm.webp",
+   "film": "tmdb:28415"
+  },
+  {
+   "id": "union-2026-11-28-18:15-bilete-jurnalul-unei-cameriste-film",
+   "cinema": "union",
+   "date": "2026-11-28",
+   "time": "18:15",
+   "title": "Jurnalul unei cameriste",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
+   "film": "tmdb:1696174"
+  },
+  {
    "id": "apollo111-2026-11-28-20:00-bilete-club-kid",
    "cinema": "apollo111",
    "date": "2026-11-28",
@@ -50654,6 +49122,32 @@
    "film": "tmdb:1585239"
   },
   {
+   "id": "eforie-2026-11-28-20:00-bilete-caged",
+   "cinema": "eforie",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "CAGED",
+   "age": null,
+   "note": "Cineclub Film Menu",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-caged?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-caged-BPq.webp",
+   "film": "tmdb:29381"
+  },
+  {
    "id": "elvire-2026-11-28-20:00-bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc",
    "cinema": "elvire",
    "date": "2026-11-28",
@@ -50677,6 +49171,32 @@
    "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-babardeala-cu-bucluc-sau-porno-balamuc-xhj.webp",
    "film": "t:babardeala cu buclul sau porno balamuc"
+  },
+  {
+   "id": "union-2026-11-28-20:00-bilete-minotaur",
+   "cinema": "union",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "Minotaur",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
+   "film": "tmdb:848700"
   },
   {
    "id": "elvire-2026-11-29-10:00-bilete-le-chant-des-forets-cantecul-padurii",
@@ -50808,6 +49328,28 @@
    "film": "tmdb:1755291"
   },
   {
+   "id": "union-2026-11-29-15:30-bilete-lumina",
+   "cinema": "union",
+   "date": "2026-11-29",
+   "time": "15:30",
+   "title": "Lumina",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-lumina?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lumina-GaZ.webp",
+   "film": "tmdb:1501247"
+  },
+  {
    "id": "apollo111-2026-11-29-16:00-bilete-club-kid",
    "cinema": "apollo111",
    "date": "2026-11-29",
@@ -50831,6 +49373,28 @@
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "eforie-2026-11-29-16:00-bilete-excalibur-1981",
+   "cinema": "eforie",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "title": "EXCALIBUR",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-excalibur-1981?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-excalibur-1981-MHw.webp",
+   "film": "tmdb:11527"
   },
   {
    "id": "elvire-2026-11-29-17:00-bilete-retrospectiva-integrala-radu-jude-kontinental-25",
@@ -50883,6 +49447,32 @@
    "film": "tmdb:1585239"
   },
   {
+   "id": "union-2026-11-29-17:15-bilete-club-kid",
+   "cinema": "union",
+   "date": "2026-11-29",
+   "time": "17:15",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
+  },
+  {
    "id": "apollo111-2026-11-29-18:30-bilete-you-can-see-everything",
    "cinema": "apollo111",
    "date": "2026-11-29",
@@ -50902,6 +49492,28 @@
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
+  },
+  {
+   "id": "eforie-2026-11-29-18:30-bilete-ceaiul-amar-al-generalului-yen-the-bitter-tea-of-general-yen",
+   "cinema": "eforie",
+   "date": "2026-11-29",
+   "time": "18:30",
+   "title": "CEAIUL AMAR AL GENERALULUI YEN / THE BITTER TEA OF GENERAL YEN",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-ceaiul-amar-al-generalului-yen-the-bitter-tea-of-general-yen?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-ceaiul-amar-al-generalului-yen-the-bitter-tea-of-general-yen-aGB.webp",
+   "film": "tmdb:34187"
   },
   {
    "id": "elvire-2026-11-29-19:00-bilete-retrospectiva-integrala-radu-jude-dracula",
@@ -50957,6 +49569,50 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "union-2026-11-29-19:30-bilete-you-can-see-everything",
+   "cinema": "union",
+   "date": "2026-11-29",
+   "time": "19:30",
+   "title": "You Can See Everything",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
+   "film": "tmdb:1765072"
+  },
+  {
+   "id": "eforie-2026-11-29-20:15-bilete-yakuza-the-yakuza",
+   "cinema": "eforie",
+   "date": "2026-11-29",
+   "time": "20:15",
+   "title": "YAKUZA / THE YAKUZA",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-yakuza-the-yakuza?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-yakuza-the-yakuza-ZBm.webp",
+   "film": "tmdb:28415"
+  },
+  {
    "id": "muzeu-2026-11-30-16:00-bilete-you-can-see-everything",
    "cinema": "muzeu",
    "date": "2026-11-30",
@@ -50979,6 +49635,31 @@
    "film": "tmdb:1765072"
   },
   {
+   "id": "elvire-2026-11-30-17:00-bilete-film-el-ser-querido",
+   "cinema": "elvire",
+   "date": "2026-11-30",
+   "time": "17:00",
+   "title": "EL SER QUERIDO / PERSOANA IUBITĂ",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-el-ser-querido?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-el-ser-querido-XRt.webp",
+   "film": "tmdb:1074074"
+  },
+  {
    "id": "muzeu-2026-11-30-19:15-bilete-anatomia-unei-prabusiri-european-cinema-night",
    "cinema": "muzeu",
    "date": "2026-11-30",
@@ -50999,6 +49680,31 @@
    "url": "https://eventbook.ro/film/bilete-anatomia-unei-prabusiri-european-cinema-night?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-anatomia-unei-prabusiri-european-cinema-night-0Dn.webp",
    "film": "tmdb:915935"
+  },
+  {
+   "id": "elvire-2026-11-30-19:30-bilete-film-you-can-see-everything",
+   "cinema": "elvire",
+   "date": "2026-11-30",
+   "time": "19:30",
+   "title": "YOU CAN SEE EVERYTHING / POȚI VEDEA TOTUL",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-you-can-see-everything?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-you-can-see-everything-IyH.webp",
+   "film": "tmdb:1765072"
   },
   {
    "id": "cc1806-725080",
@@ -51458,6 +50164,31 @@
    "film": "t:dune re release"
   },
   {
+   "id": "elvire-2026-12-02-17:30-bilete-nu-e-locul-tau-aici",
+   "cinema": "elvire",
+   "date": "2026-12-02",
+   "time": "17:30",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
+  },
+  {
    "id": "cc1806-725088",
    "cinema": "cc1806",
    "date": "2026-12-02",
@@ -51641,6 +50372,31 @@
    "film": "t:dune part two re release"
   },
   {
+   "id": "elvire-2026-12-02-20:30-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-12-02",
+   "time": "20:30",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
+  },
+  {
    "id": "cc1806-725087",
    "cinema": "cc1806",
    "date": "2026-12-03",
@@ -51778,6 +50534,31 @@
    "film": "t:dune re release"
   },
   {
+   "id": "elvire-2026-12-03-18:00-bilete-le-chant-des-forets-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-03",
+   "time": "18:00",
+   "title": "LE CHANT DES FORÊTS / CÂNTECUL PĂDURII",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM Avanpremieră",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-le-chant-des-forets-cantecul-padurii-YZ5.webp",
+   "film": "tmdb:1309373"
+  },
+  {
    "id": "cc1806-725089",
    "cinema": "cc1806",
    "date": "2026-12-03",
@@ -51910,6 +50691,31 @@
    "film": "t:dune part two re release"
   },
   {
+   "id": "elvire-2026-12-03-20:00-bilete-film-histoires-paralleles",
+   "cinema": "elvire",
+   "date": "2026-12-03",
+   "time": "20:00",
+   "title": "HISTOIRES PARALLELES / POVEȘTI PARALELE",
+   "age": null,
+   "note": "Premieră de gală",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-histoires-paralleles?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-histoires-paralleles-UF2.webp",
+   "film": "tmdb:1157869"
+  },
+  {
    "id": "cc1818-725025",
    "cinema": "cc1818",
    "date": "2026-12-03",
@@ -51935,6 +50741,81 @@
    "film": "t:dune part two re release"
   },
   {
+   "id": "elvire-2026-12-04-17:30-bilete-film-histoires-paralleles",
+   "cinema": "elvire",
+   "date": "2026-12-04",
+   "time": "17:30",
+   "title": "HISTOIRES PARALLELES / POVEȘTI PARALELE",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-histoires-paralleles?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-histoires-paralleles-UF2.webp",
+   "film": "tmdb:1157869"
+  },
+  {
+   "id": "elvire-2026-12-04-20:30-bilete-film-el-ser-querido",
+   "cinema": "elvire",
+   "date": "2026-12-04",
+   "time": "20:30",
+   "title": "EL SER QUERIDO / PERSOANA IUBITĂ",
+   "age": null,
+   "note": "Premieră",
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-el-ser-querido?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-el-ser-querido-XRt.webp",
+   "film": "tmdb:1074074"
+  },
+  {
+   "id": "elvire-2026-12-05-10:00-bilete-hexe-regatul-magiei-film-pentru-publicul-tanar",
+   "cinema": "elvire",
+   "date": "2026-12-05",
+   "time": "10:00",
+   "title": "HEXE: REGATUL MAGIEI",
+   "age": "12+",
+   "note": null,
+   "audio": [],
+   "subs": [
+    "DUB"
+   ],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "pensioner": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-hexe-regatul-magiei-film-pentru-publicul-tanar?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-hexe-regatul-magiei-film-pentru-publicul-tanar-qu2.webp",
+   "film": "t:hexe regatul magiei"
+  },
+  {
    "id": "muzeu-2026-12-05-12:00-bilete-you-can-see-everything",
    "cinema": "muzeu",
    "date": "2026-12-05",
@@ -51955,6 +50836,56 @@
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
+  },
+  {
+   "id": "elvire-2026-12-05-12:30-bilete-film-pionul-lui-lenin",
+   "cinema": "elvire",
+   "date": "2026-12-05",
+   "time": "12:30",
+   "title": "PIONUL LUI LENIN / LENIN'S PAWN",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-pionul-lui-lenin?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-pionul-lui-lenin-pdc.webp",
+   "film": "tmdb:1709318"
+  },
+  {
+   "id": "elvire-2026-12-05-14:30-bilete-nu-e-locul-tau-aici",
+   "cinema": "elvire",
+   "date": "2026-12-05",
+   "time": "14:30",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
   },
   {
    "id": "muzeu-2026-12-05-15:15-bilete-nu-e-locul-tau-aici",
@@ -51983,6 +50914,81 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "elvire-2026-12-05-17:30-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-12-05",
+   "time": "17:30",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
+  },
+  {
+   "id": "elvire-2026-12-05-20:00-bilete-film-you-can-see-everything",
+   "cinema": "elvire",
+   "date": "2026-12-05",
+   "time": "20:00",
+   "title": "YOU CAN SEE EVERYTHING / POȚI VEDEA TOTUL",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-you-can-see-everything?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-you-can-see-everything-IyH.webp",
+   "film": "tmdb:1765072"
+  },
+  {
+   "id": "elvire-2026-12-06-11:00-bilete-minuscule-valea-furnicilor-pierdute-film-pentru-publicul-tanar",
+   "cinema": "elvire",
+   "date": "2026-12-06",
+   "time": "11:00",
+   "title": "MINUSCULE: VALEA FURNICILOR PIERDUTE",
+   "age": null,
+   "note": "FILM PENTRU PUBLICUL TÂNĂR",
+   "audio": [
+    "FR"
+   ],
+   "subs": [],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "pensioner": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minuscule-valea-furnicilor-pierdute-film-pentru-publicul-tanar?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-minuscule-valea-furnicilor-pierdute-film-pentru-publicul-tanar-xDu.webp",
+   "film": "tmdb:140870"
+  },
+  {
    "id": "muzeu-2026-12-06-12:00-bilete-you-can-see-everything",
    "cinema": "muzeu",
    "date": "2026-12-06",
@@ -52003,6 +51009,284 @@
    "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
    "film": "tmdb:1765072"
+  },
+  {
+   "id": "elvire-2026-12-06-13:00-bilete-calle-malaga-strada-malaga",
+   "cinema": "elvire",
+   "date": "2026-12-06",
+   "time": "13:00",
+   "title": "CALLE MÁLAGA / STRADA MÁLAGA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES",
+    "AR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-calle-malaga-strada-malaga?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-calle-malaga-strada-malaga-71M.webp",
+   "film": "tmdb:1399462"
+  },
+  {
+   "id": "elvire-2026-12-06-15:30-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "elvire",
+   "date": "2026-12-06",
+   "time": "15:30",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
+   "film": "tmdb:1696174"
+  },
+  {
+   "id": "elvire-2026-12-06-17:30-bilete-nu-e-locul-tau-aici",
+   "cinema": "elvire",
+   "date": "2026-12-06",
+   "time": "17:30",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
+  },
+  {
+   "id": "elvire-2026-12-06-20:30-bilete-film-el-ser-querido",
+   "cinema": "elvire",
+   "date": "2026-12-06",
+   "time": "20:30",
+   "title": "EL SER QUERIDO / PERSOANA IUBITĂ",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-el-ser-querido?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-el-ser-querido-XRt.webp",
+   "film": "tmdb:1074074"
+  },
+  {
+   "id": "elvire-2026-12-07-18:00-bilete-le-chant-des-forets-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-07",
+   "time": "18:00",
+   "title": "LE CHANT DES FORÊTS / CÂNTECUL PĂDURII",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM Avanpremieră",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-le-chant-des-forets-cantecul-padurii-YZ5.webp",
+   "film": "tmdb:1309373"
+  },
+  {
+   "id": "elvire-2026-12-07-20:00-bilete-film-you-can-see-everything",
+   "cinema": "elvire",
+   "date": "2026-12-07",
+   "time": "20:00",
+   "title": "YOU CAN SEE EVERYTHING / POȚI VEDEA TOTUL",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-you-can-see-everything?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-you-can-see-everything-IyH.webp",
+   "film": "tmdb:1765072"
+  },
+  {
+   "id": "elvire-2026-12-08-18:00-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "elvire",
+   "date": "2026-12-08",
+   "time": "18:00",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
+   "film": "tmdb:1696174"
+  },
+  {
+   "id": "elvire-2026-12-08-20:00-bilete-fjord",
+   "cinema": "elvire",
+   "date": "2026-12-08",
+   "time": "20:00",
+   "title": "FJORD",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "NOR",
+    "EN",
+    "RO"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-fjord?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-fjord-tb6.webp",
+   "film": "tmdb:1401459"
+  },
+  {
+   "id": "elvire-2026-12-09-18:00-bilete-film-le-cinquieme-plan-de-la-jetee",
+   "cinema": "elvire",
+   "date": "2026-12-09",
+   "time": "18:00",
+   "title": "LE CINQUIÈME PLAN DE LA JETÉE / AL CINCILEA PLAN DIN LA JETÉE",
+   "age": null,
+   "note": "EXCLUSIVITATE",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-le-cinquieme-plan-de-la-jetee?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-le-cinquieme-plan-de-la-jetee-GHs.webp",
+   "film": "tmdb:1379924"
+  },
+  {
+   "id": "elvire-2026-12-09-20:00-bilete-nu-e-locul-tau-aici",
+   "cinema": "elvire",
+   "date": "2026-12-09",
+   "time": "20:00",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
+  },
+  {
+   "id": "elvire-2026-12-10-17:30-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-12-10",
+   "time": "17:30",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
   },
   {
    "id": "apollo111-2026-12-10-19:00-bilete-mici-excese-a-vinganca-de-uma-mulher",
@@ -52030,6 +51314,156 @@
    "film": "tmdb:89451"
   },
   {
+   "id": "elvire-2026-12-10-20:00-bilete-white-materials-cineclub-f-sides",
+   "cinema": "elvire",
+   "date": "2026-12-10",
+   "time": "20:00",
+   "title": "WHITE MATERIAL",
+   "age": null,
+   "note": "CINECLUB F-SIDES",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-white-materials-cineclub-f-sides?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/files/2025/08/postergeneral.jpg",
+   "film": "tmdb:46207"
+  },
+  {
+   "id": "elvire-2026-12-11-17:30-bilete-film-el-ser-querido",
+   "cinema": "elvire",
+   "date": "2026-12-11",
+   "time": "17:30",
+   "title": "EL SER QUERIDO / PERSOANA IUBITĂ",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-el-ser-querido?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-el-ser-querido-XRt.webp",
+   "film": "tmdb:1074074"
+  },
+  {
+   "id": "elvire-2026-12-11-20:30-bilete-film-histoires-paralleles",
+   "cinema": "elvire",
+   "date": "2026-12-11",
+   "time": "20:30",
+   "title": "HISTOIRES PARALLELES / POVEȘTI PARALELE",
+   "age": null,
+   "note": "Premieră",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-histoires-paralleles?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-histoires-paralleles-UF2.webp",
+   "film": "tmdb:1157869"
+  },
+  {
+   "id": "elvire-2026-12-12-11:30-bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar",
+   "cinema": "elvire",
+   "date": "2026-12-12",
+   "time": "11:30",
+   "title": "CRĂCIUN FĂRĂ SEMNAL: MISIUNEA LUI YOYO",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [
+    "DUB"
+   ],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "pensioner": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar-PHs.webp",
+   "film": "t:craciun fara semnal misiunea lui yoyo"
+  },
+  {
+   "id": "elvire-2026-12-12-13:30-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-12-12",
+   "time": "13:30",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
+  },
+  {
+   "id": "elvire-2026-12-12-16:00-bilete-minotaure-minotaur-cadre-interioare",
+   "cinema": "elvire",
+   "date": "2026-12-12",
+   "time": "16:00",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": "CADRE INTERIOARE",
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur-cadre-interioare?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-minotaure-minotaur-cadre-interioare-0FN.webp",
+   "film": "tmdb:848700"
+  },
+  {
    "id": "apollo111-2026-12-12-20:00-bilete-film-persona",
    "cinema": "apollo111",
    "date": "2026-12-12",
@@ -52055,6 +51489,135 @@
    "film": "tmdb:797"
   },
   {
+   "id": "elvire-2026-12-12-20:00-bilete-film-histoires-paralleles",
+   "cinema": "elvire",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "title": "HISTOIRES PARALLELES / POVEȘTI PARALELE",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-histoires-paralleles?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-histoires-paralleles-UF2.webp",
+   "film": "tmdb:1157869"
+  },
+  {
+   "id": "elvire-2026-12-13-10:00-bilete-lucy-lost-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-13",
+   "time": "10:00",
+   "title": "MISTERUL LUI LUCY LOST",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "SUB"
+   ],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "pensioner": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-lucy-lost-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lucy-lost-film-pentru-publicul-tanar-2Me.webp",
+   "film": "t:misterul lui lucy lost"
+  },
+  {
+   "id": "elvire-2026-12-13-12:00-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "elvire",
+   "date": "2026-12-13",
+   "time": "12:00",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
+   "film": "tmdb:1696174"
+  },
+  {
+   "id": "elvire-2026-12-13-14:00-bilete-minotaure-minotaur-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-13",
+   "time": "14:00",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM",
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
+   "film": "tmdb:848700"
+  },
+  {
+   "id": "elvire-2026-12-13-17:00-bilete-film-histoires-paralleles",
+   "cinema": "elvire",
+   "date": "2026-12-13",
+   "time": "17:00",
+   "title": "HISTOIRES PARALLELES / POVEȘTI PARALELE",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-histoires-paralleles?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-histoires-paralleles-UF2.webp",
+   "film": "tmdb:1157869"
+  },
+  {
    "id": "union-2026-12-13-18:00-bilete-3-zile-inseptembrie",
    "cinema": "union",
    "date": "2026-12-13",
@@ -52077,9 +51640,553 @@
    "url": "https://eventbook.ro/film/bilete-3-zile-inseptembrie?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-3-zile-inseptembrie-3Lv.webp",
    "film": "tmdb:1599428"
+  },
+  {
+   "id": "elvire-2026-12-13-20:00-bilete-film-you-can-see-everything",
+   "cinema": "elvire",
+   "date": "2026-12-13",
+   "time": "20:00",
+   "title": "YOU CAN SEE EVERYTHING / POȚI VEDEA TOTUL",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-you-can-see-everything?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-you-can-see-everything-IyH.webp",
+   "film": "tmdb:1765072"
+  },
+  {
+   "id": "elvire-2026-12-14-17:30-bilete-film-el-ser-querido",
+   "cinema": "elvire",
+   "date": "2026-12-14",
+   "time": "17:30",
+   "title": "EL SER QUERIDO / PERSOANA IUBITĂ",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-el-ser-querido?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-el-ser-querido-XRt.webp",
+   "film": "tmdb:1074074"
+  },
+  {
+   "id": "elvire-2026-12-14-20:30-bilete-film-l-illusion-de-yakushima",
+   "cinema": "elvire",
+   "date": "2026-12-14",
+   "time": "20:30",
+   "title": "L'ILLUSION DE YAKUSHIMA",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "FR",
+    "JA",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-l-illusion-de-yakushima?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-l-illusion-de-yakushima-aLG.webp",
+   "film": "tmdb:1449868"
+  },
+  {
+   "id": "elvire-2026-12-15-18:00-bilete-film-jurnalul-unei-cameriste",
+   "cinema": "elvire",
+   "date": "2026-12-15",
+   "time": "18:00",
+   "title": "JURNALUL UNEI CAMERISTE",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "FR",
+    "RO",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
+   "film": "tmdb:1696174"
+  },
+  {
+   "id": "elvire-2026-12-15-20:00-bilete-film-paper-tiger",
+   "cinema": "elvire",
+   "date": "2026-12-15",
+   "time": "20:00",
+   "title": "PAPER TIGER",
+   "age": null,
+   "note": "Premieră de gală",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-paper-tiger?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-paper-tiger-oaJ.webp",
+   "film": "tmdb:1381273"
+  },
+  {
+   "id": "elvire-2026-12-16-18:00-bilete-a-fox-under-a-pink-moon-owr-cinema-elvire-popesco",
+   "cinema": "elvire",
+   "date": "2026-12-16",
+   "time": "18:00",
+   "title": "A FOX UNDER A PINK MOON / O VULPE SUB O LUNĂ ROZ",
+   "age": null,
+   "note": "ONE WORLD ROMANIA X CINEMA ELVIRE POPESCO",
+   "audio": [
+    "FA",
+    "PRS",
+    "TR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-a-fox-under-a-pink-moon-owr-cinema-elvire-popesco?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-a-fox-under-a-pink-moon-owr-cinema-elvire-popesco-KuY.webp",
+   "film": "t:a fox under a pink moon o vulpe sub o luna roz"
+  },
+  {
+   "id": "elvire-2026-12-16-20:00-bilete-masterclass-mehrdad-oskouei-soraya-akhlaghi",
+   "cinema": "elvire",
+   "date": "2026-12-16",
+   "time": "20:00",
+   "title": "MASTERCLASS MEHRDAD OSKOUEI ȘI SORAYA AKHLAGHI",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-masterclass-mehrdad-oskouei-soraya-akhlaghi?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/files/2025/08/postergeneral.jpg",
+   "film": "t:masterclass mehrdad oskouei si soraya akhlaghi"
+  },
+  {
+   "id": "elvire-2026-12-17-17:30-bilete-minotaure-minotaur-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-17",
+   "time": "17:30",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM",
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
+   "film": "tmdb:848700"
+  },
+  {
+   "id": "elvire-2026-12-17-20:00-bilete-nu-e-locul-tau-aici",
+   "cinema": "elvire",
+   "date": "2026-12-17",
+   "time": "20:00",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
+  },
+  {
+   "id": "elvire-2026-12-18-18:00-bilete-film-histoires-paralleles",
+   "cinema": "elvire",
+   "date": "2026-12-18",
+   "time": "18:00",
+   "title": "HISTOIRES PARALLELES / POVEȘTI PARALELE",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-histoires-paralleles?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-histoires-paralleles-UF2.webp",
+   "film": "tmdb:1157869"
+  },
+  {
+   "id": "elvire-2026-12-18-20:30-bilete-film-l-illusion-de-yakushima",
+   "cinema": "elvire",
+   "date": "2026-12-18",
+   "time": "20:30",
+   "title": "L'ILLUSION DE YAKUSHIMA",
+   "age": null,
+   "note": "Premieră",
+   "audio": [
+    "FR",
+    "JA",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-l-illusion-de-yakushima?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-l-illusion-de-yakushima-aLG.webp",
+   "film": "tmdb:1449868"
+  },
+  {
+   "id": "elvire-2026-12-19-11:00-bilete-le-chant-des-forets-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-19",
+   "time": "11:00",
+   "title": "LE CHANT DES FORÊTS / CÂNTECUL PĂDURII",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM Avanpremieră",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "SUB"
+   ],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "pensioner": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-le-chant-des-forets-cantecul-padurii-YZ5.webp",
+   "film": "tmdb:1309373"
+  },
+  {
+   "id": "elvire-2026-12-19-13:00-bilete-calle-malaga-strada-malaga",
+   "cinema": "elvire",
+   "date": "2026-12-19",
+   "time": "13:00",
+   "title": "CALLE MÁLAGA / STRADA MÁLAGA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES",
+    "AR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-calle-malaga-strada-malaga?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-calle-malaga-strada-malaga-71M.webp",
+   "film": "tmdb:1399462"
+  },
+  {
+   "id": "elvire-2026-12-19-15:30-bilete-film-pionul-lui-lenin",
+   "cinema": "elvire",
+   "date": "2026-12-19",
+   "time": "15:30",
+   "title": "PIONUL LUI LENIN / LENIN'S PAWN",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-pionul-lui-lenin?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-pionul-lui-lenin-pdc.webp",
+   "film": "tmdb:1709318"
+  },
+  {
+   "id": "elvire-2026-12-19-17:30-bilete-minotaure-minotaur-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-19",
+   "time": "17:30",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM",
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
+   "film": "tmdb:848700"
+  },
+  {
+   "id": "elvire-2026-12-19-20:30-bilete-film-l-illusion-de-yakushima",
+   "cinema": "elvire",
+   "date": "2026-12-19",
+   "time": "20:30",
+   "title": "L'ILLUSION DE YAKUSHIMA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR",
+    "JA",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-l-illusion-de-yakushima?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-l-illusion-de-yakushima-aLG.webp",
+   "film": "tmdb:1449868"
+  },
+  {
+   "id": "elvire-2026-12-20-10:30-bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar",
+   "cinema": "elvire",
+   "date": "2026-12-20",
+   "time": "10:30",
+   "title": "CRĂCIUN FĂRĂ SEMNAL: MISIUNEA LUI YOYO",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [
+    "DUB"
+   ],
+   "prices": {
+    "family": 35,
+    "student": 16,
+    "pensioner": 16,
+    "child": 11,
+    "adult": 27
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar-PHs.webp",
+   "film": "t:craciun fara semnal misiunea lui yoyo"
+  },
+  {
+   "id": "elvire-2026-12-20-12:30-bilete-minotaure-minotaur-premiile-academiei-europene-de-film",
+   "cinema": "elvire",
+   "date": "2026-12-20",
+   "time": "12:30",
+   "title": "MINOTAURE / MINOTAUR",
+   "age": null,
+   "note": "NOMINALIZARE PREMIILE ACADEMIEI EUROPENE DE FILM",
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaure-minotaur-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
+   "film": "tmdb:848700"
+  },
+  {
+   "id": "elvire-2026-12-20-15:30-bilete-film-el-ser-querido",
+   "cinema": "elvire",
+   "date": "2026-12-20",
+   "time": "15:30",
+   "title": "EL SER QUERIDO / PERSOANA IUBITĂ",
+   "age": null,
+   "note": null,
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-el-ser-querido?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-el-ser-querido-XRt.webp",
+   "film": "tmdb:1074074"
+  },
+  {
+   "id": "elvire-2026-12-20-18:00-bilete-club-kid",
+   "cinema": "elvire",
+   "date": "2026-12-20",
+   "time": "18:00",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
+  },
+  {
+   "id": "elvire-2026-12-20-20:30-bilete-film-l-illusion-de-yakushima",
+   "cinema": "elvire",
+   "date": "2026-12-20",
+   "time": "20:30",
+   "title": "L'ILLUSION DE YAKUSHIMA",
+   "age": null,
+   "note": null,
+   "audio": [
+    "FR",
+    "JA",
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 27,
+    "student": 16,
+    "pensioner": 16
+   },
+   "box": {},
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-l-illusion-de-yakushima?hall=cinema-elvire-popesco",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-l-illusion-de-yakushima-aLG.webp",
+   "film": "tmdb:1449868"
   }
  ],
  "films": {
+  "t:100 de lei suta de lei": {
+   "tmdb_id": null,
+   "title": "100 DE LEI (SUTA DE LEI)",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2023/01/bilete-100-de-lei-XhO.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
   "t:100 lei": {
    "tmdb_id": null,
    "title": "100 LEI",
@@ -52116,6 +52223,18 @@
    "year": null,
    "orig_lang": null,
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose-YVQ.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "t:a fox under a pink moon o vulpe sub o luna roz": {
+   "tmdb_id": null,
+   "title": "O VULPE SUB O LUNĂ ROZ",
+   "original_title": "A FOX UNDER A PINK MOON",
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-a-fox-under-a-pink-moon-owr-cinema-elvire-popesco-KuY.webp",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
@@ -52254,6 +52373,40 @@
    "imdb_votes": 214,
    "lb_rating": 3.05
   },
+  "tmdb:29381": {
+   "tmdb_id": 29381,
+   "title": "Caged",
+   "original_title": "Caged",
+   "year": "1950",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/vvGyjfwGOQkB91XbzLJHmItiBIl.jpg",
+   "directors": [
+    "John Cromwell"
+   ],
+   "imdb_id": "tt0042296",
+   "runtime": 96,
+   "source": "tmdb",
+   "imdb_rating": 7.6,
+   "imdb_votes": 5750,
+   "lb_rating": 3.84
+  },
+  "tmdb:1399462": {
+   "tmdb_id": 1399462,
+   "title": "Calle Málaga",
+   "original_title": "Calle Málaga",
+   "year": "2025",
+   "orig_lang": "es",
+   "poster": "https://image.tmdb.org/t/p/w185/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+   "directors": [
+    "Maryam Touzani"
+   ],
+   "imdb_id": "tt32429174",
+   "runtime": 116,
+   "source": "tmdb",
+   "imdb_rating": 7.1,
+   "imdb_votes": 2705,
+   "lb_rating": 3.67
+  },
   "tmdb:1152762": {
    "tmdb_id": 1152762,
    "title": "Cazul inginerului Ursu",
@@ -52281,6 +52434,23 @@
    "runtime": null,
    "source": "eventbook"
   },
+  "tmdb:34187": {
+   "tmdb_id": 34187,
+   "title": "The Bitter Tea of General Yen",
+   "original_title": "The Bitter Tea of General Yen",
+   "year": "1933",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/63lQVmPRDuc4fUDfgbKYnvuSYYr.jpg",
+   "directors": [
+    "Frank Capra"
+   ],
+   "imdb_id": "tt0023814",
+   "runtime": 88,
+   "source": "tmdb",
+   "imdb_rating": 6.9,
+   "imdb_votes": 4916,
+   "lb_rating": 3.46
+  },
   "tmdb:1585239": {
    "tmdb_id": 1585239,
    "title": "Club Kid",
@@ -52297,6 +52467,52 @@
    "imdb_rating": 8.1,
    "imdb_votes": 2536,
    "lb_rating": 4.44
+  },
+  "tmdb:8834": {
+   "tmdb_id": 8834,
+   "title": "Teoria conspirației",
+   "original_title": "Conspiracy Theory",
+   "year": "1997",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/a6pVzfMdvHkdRtFPmx83nafvoOe.jpg",
+   "directors": [
+    "Richard Donner"
+   ],
+   "imdb_id": "tt0118883",
+   "runtime": 135,
+   "source": "tmdb",
+   "imdb_rating": 6.7,
+   "imdb_votes": 116151,
+   "lb_rating": 3.18
+  },
+  "tmdb:454294": {
+   "tmdb_id": 454294,
+   "title": "Copilul care ar putea fi rege",
+   "original_title": "The Kid Who Would Be King",
+   "year": "2019",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/2Z3iHtNmLRSamNi5AMKSSmAZBxM.jpg",
+   "directors": [
+    "Joe Cornish"
+   ],
+   "imdb_id": "tt6811018",
+   "runtime": 120,
+   "source": "tmdb",
+   "imdb_rating": 6.1,
+   "imdb_votes": 20998,
+   "lb_rating": 2.87
+  },
+  "t:craciun fara semnal misiunea lui yoyo": {
+   "tmdb_id": null,
+   "title": "CRĂCIUN FĂRĂ SEMNAL: MISIUNEA LUI YOYO",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar-PHs.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
   },
   "tmdb:1400940": {
    "tmdb_id": 1400940,
@@ -52355,6 +52571,23 @@
    "imdb_rating": 7.8,
    "imdb_votes": 1468,
    "lb_rating": 3.94
+  },
+  "tmdb:265092": {
+   "tmdb_id": 265092,
+   "title": "De-as fi... Harap Alb",
+   "original_title": "De-as fi... Harap Alb",
+   "year": "1965",
+   "orig_lang": "ro",
+   "poster": "https://image.tmdb.org/t/p/w185/bRcUsLKXmnc6Impu1HQYHi5zRBG.jpg",
+   "directors": [
+    "Ion Popescu-Gopo"
+   ],
+   "imdb_id": "tt0059090",
+   "runtime": 91,
+   "source": "tmdb",
+   "imdb_rating": 6.9,
+   "imdb_votes": 319,
+   "lb_rating": 3.46
   },
   "tmdb:1756136": {
    "tmdb_id": 1756136,
@@ -52425,6 +52658,40 @@
    "runtime": null,
    "source": "eventbook"
   },
+  "tmdb:1074074": {
+   "tmdb_id": 1074074,
+   "title": "El ser querido",
+   "original_title": "El ser querido",
+   "year": "2026",
+   "orig_lang": "es",
+   "poster": "https://image.tmdb.org/t/p/w185/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
+   "directors": [
+    "Rodrigo Sorogoyen"
+   ],
+   "imdb_id": "tt33451014",
+   "runtime": 136,
+   "source": "tmdb",
+   "imdb_rating": 7.2,
+   "imdb_votes": 4461,
+   "lb_rating": 3.84
+  },
+  "tmdb:11527": {
+   "tmdb_id": 11527,
+   "title": "Excalibur",
+   "original_title": "Excalibur",
+   "year": "1981",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+   "directors": [
+    "John Boorman"
+   ],
+   "imdb_id": "tt0082348",
+   "runtime": 141,
+   "source": "tmdb",
+   "imdb_rating": 7.3,
+   "imdb_votes": 75589,
+   "lb_rating": 3.75
+  },
   "t:ebenezer o poveste de craciun": {
    "tmdb_id": null,
    "title": "Ebenezer:O poveste de Craciun",
@@ -52449,6 +52716,23 @@
    "runtime": null,
    "source": "eventbook"
   },
+  "tmdb:1401459": {
+   "tmdb_id": 1401459,
+   "title": "Fjord",
+   "original_title": "Fjord",
+   "year": "2026",
+   "orig_lang": "ro",
+   "poster": "https://image.tmdb.org/t/p/w185/rIhqYAVPmMQaTCiBJI5o21KDFM2.jpg",
+   "directors": [
+    "Cristian Mungiu"
+   ],
+   "imdb_id": "tt35410859",
+   "runtime": 146,
+   "source": "tmdb",
+   "imdb_rating": 7.6,
+   "imdb_votes": 7738,
+   "lb_rating": 3.75
+  },
   "tmdb:1649403": {
    "tmdb_id": 1649403,
    "title": "George Michael: The Faith Tour",
@@ -52469,15 +52753,32 @@
   },
   "t:hexe regatul magiei": {
    "tmdb_id": null,
-   "title": "Hexe: Regatul magiei",
+   "title": "HEXE: REGATUL MAGIEI",
    "original_title": null,
    "year": null,
    "orig_lang": null,
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-hexe-regatul-magiei-film-pentru-publicul-tanar-qu2.webp",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
+  },
+  "tmdb:1157869": {
+   "tmdb_id": 1157869,
+   "title": "Histoires parallèles",
+   "original_title": "Histoires parallèles",
+   "year": "2026",
+   "orig_lang": "fr",
+   "poster": "https://image.tmdb.org/t/p/w185/skVHP9WjL0N7urDMJGXev2RwoK8.jpg",
+   "directors": [
+    "Asqar Farhadi"
+   ],
+   "imdb_id": "tt36646880",
+   "runtime": 139,
+   "source": "tmdb",
+   "imdb_rating": 5.9,
+   "imdb_votes": 1750,
+   "lb_rating": 2.93
   },
   "tmdb:1286656": {
    "tmdb_id": 1286656,
@@ -52606,6 +52907,40 @@
    "imdb_votes": 32699,
    "lb_rating": 3.47
   },
+  "tmdb:1449868": {
+   "tmdb_id": 1449868,
+   "title": "L'Illusion de Yakushima",
+   "original_title": "L'Illusion de Yakushima",
+   "year": "2025",
+   "orig_lang": "fr",
+   "poster": "https://image.tmdb.org/t/p/w185/39jUDZtRdLq2WlwYqVIf4gsQHIx.jpg",
+   "directors": [
+    "Sentō Naomi"
+   ],
+   "imdb_id": "tt36364208",
+   "runtime": 122,
+   "source": "tmdb",
+   "imdb_rating": 6.8,
+   "imdb_votes": 138,
+   "lb_rating": 3.19
+  },
+  "tmdb:1379924": {
+   "tmdb_id": 1379924,
+   "title": "Le Cinquième Plan de « La Jetée »",
+   "original_title": "Le Cinquième Plan de « La Jetée »",
+   "year": "2025",
+   "orig_lang": "fr",
+   "poster": "https://image.tmdb.org/t/p/w185/ffBWRhKLY9BXjTVnkAkiDuvn24f.jpg",
+   "directors": [
+    "Dominique Cabrera"
+   ],
+   "imdb_id": "tt32134829",
+   "runtime": 104,
+   "source": "tmdb",
+   "imdb_rating": 6.8,
+   "imdb_votes": 45,
+   "lb_rating": 3.43
+  },
   "tmdb:47439": {
    "tmdb_id": 47439,
    "title": "Le Temps retrouvé",
@@ -52623,6 +52958,23 @@
    "imdb_votes": 3023,
    "lb_rating": 3.68
   },
+  "tmdb:263115": {
+   "tmdb_id": 263115,
+   "title": "Logan",
+   "original_title": "Logan",
+   "year": "2017",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/1N1eqvSkL1gNBC8aqNmskfLjCsR.jpg",
+   "directors": [
+    "James Mangold"
+   ],
+   "imdb_id": "tt3315342",
+   "runtime": 137,
+   "source": "tmdb",
+   "imdb_rating": 8.1,
+   "imdb_votes": 947840,
+   "lb_rating": 4.13
+  },
   "t:lucy lost": {
    "tmdb_id": null,
    "title": "Lucy Lost",
@@ -52630,6 +52982,34 @@
    "year": null,
    "orig_lang": null,
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
+  "tmdb:1501247": {
+   "tmdb_id": 1501247,
+   "title": "Lumina",
+   "original_title": "Lumina",
+   "year": "2026",
+   "orig_lang": "ro",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lumina-GaZ.webp",
+   "directors": [
+    "Marian Crișan"
+   ],
+   "imdb_id": "tt37376190",
+   "runtime": 87,
+   "source": "tmdb",
+   "imdb_rating": 7.6,
+   "imdb_votes": 5
+  },
+  "t:masterclass mehrdad oskouei si soraya akhlaghi": {
+   "tmdb_id": null,
+   "title": "MASTERCLASS MEHRDAD OSKOUEI ȘI SORAYA AKHLAGHI",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/files/2025/08/postergeneral.jpg",
    "directors": [],
    "imdb_id": null,
    "runtime": null,
@@ -52651,6 +53031,36 @@
    "imdb_rating": 7.6,
    "imdb_votes": 2430,
    "lb_rating": 3.71
+  },
+  "tmdb:140870": {
+   "tmdb_id": 140870,
+   "title": "Minuscule",
+   "original_title": "Minuscule - La Vallée des fourmis perdues",
+   "year": "2013",
+   "orig_lang": "fr",
+   "poster": "https://image.tmdb.org/t/p/w185/zOoAoHhOcunlUsB4FXhbfwu52rT.jpg",
+   "directors": [
+    "Hélène Giraud",
+    "Thomas Szabo"
+   ],
+   "imdb_id": "tt2368672",
+   "runtime": 89,
+   "source": "tmdb",
+   "imdb_rating": 7.1,
+   "imdb_votes": 9802,
+   "lb_rating": 3.69
+  },
+  "t:misterul lui lucy lost": {
+   "tmdb_id": null,
+   "title": "MISTERUL LUI LUCY LOST",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lucy-lost-film-pentru-publicul-tanar-2Me.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
   },
   "tmdb:1032765": {
    "tmdb_id": 1032765,
@@ -52722,18 +53132,6 @@
    "runtime": null,
    "source": "eventbook"
   },
-  "t:misterul lui lucy lost": {
-   "tmdb_id": null,
-   "title": "Misterul lui Lucy Lost",
-   "original_title": null,
-   "year": null,
-   "orig_lang": null,
-   "poster": "https://cinema-timisoara.ro/media/original_images/lucy-lost-afis-ro.jpg",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
-  },
   "tmdb:1815513": {
    "tmdb_id": 1815513,
    "title": "Monarh",
@@ -52747,6 +53145,23 @@
    "imdb_id": "tt39378852",
    "runtime": 103,
    "source": "tmdb"
+  },
+  "tmdb:98984": {
+   "tmdb_id": 98984,
+   "title": "Eat a Bowl of Tea",
+   "original_title": "Eat a Bowl of Tea",
+   "year": "1989",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/4Dnr4mggLVUFqT4NGsqiIE0Ex7z.jpg",
+   "directors": [
+    "Wayne Wang"
+   ],
+   "imdb_id": "tt0097261",
+   "runtime": 102,
+   "source": "tmdb",
+   "imdb_rating": 6.3,
+   "imdb_votes": 872,
+   "lb_rating": 3.3
   },
   "tmdb:1755291": {
    "tmdb_id": 1755291,
@@ -52821,6 +53236,23 @@
    "runtime": 84,
    "source": "tmdb"
   },
+  "tmdb:1381273": {
+   "tmdb_id": 1381273,
+   "title": "Paper Tiger",
+   "original_title": "Paper Tiger",
+   "year": "2026",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+   "directors": [
+    "James Gray"
+   ],
+   "imdb_id": "tt34385689",
+   "runtime": 115,
+   "source": "tmdb",
+   "imdb_rating": 6.9,
+   "imdb_votes": 1658,
+   "lb_rating": 3.38
+  },
   "tmdb:797": {
    "tmdb_id": 797,
    "title": "Persona",
@@ -52854,6 +53286,22 @@
    "imdb_rating": 7.1,
    "imdb_votes": 20
   },
+  "tmdb:1709318": {
+   "tmdb_id": 1709318,
+   "title": "Pionul lui Lenin",
+   "original_title": "Pionul lui Lenin",
+   "year": "2026",
+   "orig_lang": "ro",
+   "poster": "https://image.tmdb.org/t/p/w185/dKK4HOhznlKy7Hv1piCENGDyTiE.jpg",
+   "directors": [
+    "Dragos Turea"
+   ],
+   "imdb_id": "tt42558356",
+   "runtime": 84,
+   "source": "tmdb",
+   "imdb_rating": 8.7,
+   "imdb_votes": 41
+  },
   "tmdb:999140": {
    "tmdb_id": 999140,
    "title": "Planètes",
@@ -52870,22 +53318,6 @@
    "imdb_rating": 6.2,
    "imdb_votes": 281,
    "lb_rating": 3.19
-  },
-  "tmdb:1709318": {
-   "tmdb_id": 1709318,
-   "title": "Pionul lui Lenin",
-   "original_title": "Pionul lui Lenin",
-   "year": "2026",
-   "orig_lang": "ro",
-   "poster": "https://image.tmdb.org/t/p/w185/dKK4HOhznlKy7Hv1piCENGDyTiE.jpg",
-   "directors": [
-    "Dragos Turea"
-   ],
-   "imdb_id": "tt42558356",
-   "runtime": 84,
-   "source": "tmdb",
-   "imdb_rating": 8.7,
-   "imdb_votes": 41
   },
   "tmdb:1765072": {
    "tmdb_id": 1765072,
@@ -52904,6 +53336,23 @@
    "imdb_rating": 9.0,
    "imdb_votes": 37588,
    "lb_rating": 4.58
+  },
+  "tmdb:1375441": {
+   "tmdb_id": 1375441,
+   "title": "Primetime",
+   "original_title": "Primetime",
+   "year": "2026",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/c3OZ9HxXIRO9tafXJJEDfwEUaft.jpg",
+   "directors": [
+    "Lance Oppenheim"
+   ],
+   "imdb_id": "tt34206385",
+   "runtime": 110,
+   "source": "tmdb",
+   "imdb_rating": 6.8,
+   "imdb_votes": 47918,
+   "lb_rating": 3.63
   },
   "t:proiectie teatru copii jack si vrejul de": {
    "tmdb_id": null,
@@ -53064,6 +53513,18 @@
    "imdb_votes": 397,
    "lb_rating": 2.83
   },
+  "t:to dream the same dream practici arhivale ca modele co auctoriale": {
+   "tmdb_id": null,
+   "title": "To Dream the Same Dream: Practici arhivale ca modele co-auctoriale",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-to-dream-the-same-dream-e9d.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
   "t:ultimele scrisori ale bunicii": {
    "tmdb_id": null,
    "title": "Ultimele scrisori ale bunicii",
@@ -53091,6 +53552,23 @@
    "source": "tmdb",
    "imdb_rating": 6.3,
    "imdb_votes": 53
+  },
+  "tmdb:46207": {
+   "tmdb_id": 46207,
+   "title": "White Material",
+   "original_title": "White Material",
+   "year": "2010",
+   "orig_lang": "fr",
+   "poster": "https://image.tmdb.org/t/p/w185/yeR8dSW1ip0y7uvkjznP482kSdO.jpg",
+   "directors": [
+    "Claire Denis"
+   ],
+   "imdb_id": "tt1135952",
+   "runtime": 106,
+   "source": "tmdb",
+   "imdb_rating": 6.9,
+   "imdb_votes": 9090,
+   "lb_rating": 3.75
   },
   "tmdb:891621": {
    "tmdb_id": 891621,
@@ -53137,6 +53615,40 @@
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
+  },
+  "tmdb:127585": {
+   "tmdb_id": 127585,
+   "title": "X-Men: Viitorul este trecut",
+   "original_title": "X-Men: Days of Future Past",
+   "year": "2014",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/vNKbVu3XPKQItbTcDHxSxwYIRWa.jpg",
+   "directors": [
+    "Bryan Singer"
+   ],
+   "imdb_id": "tt1877832",
+   "runtime": 132,
+   "source": "tmdb",
+   "imdb_rating": 7.9,
+   "imdb_votes": 802448,
+   "lb_rating": 3.73
+  },
+  "tmdb:28415": {
+   "tmdb_id": 28415,
+   "title": "The Yakuza",
+   "original_title": "The Yakuza",
+   "year": "1974",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/AgD8nbLXo6YpBxv71A2vdJHs03D.jpg",
+   "directors": [
+    "Sydney Pollack"
+   ],
+   "imdb_id": "tt0073918",
+   "runtime": 112,
+   "source": "tmdb",
+   "imdb_rating": 7.2,
+   "imdb_votes": 11925,
+   "lb_rating": 3.72
   },
   "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului": {
    "tmdb_id": null,
