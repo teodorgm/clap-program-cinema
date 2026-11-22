@@ -3277,6 +3277,77 @@
    "fetched": "2026-11-22T17:52:26+00:00",
    "lb": 2.39,
    "lb_ts": "2026-11-22T17:52:30+00:00"
+  },
+  "557": {
+   "title": "Omul-Păianjen",
+   "original_title": "Spider-Man",
+   "orig_lang": "en",
+   "year": "2002",
+   "poster": "https://image.tmdb.org/t/p/w185/tc3HbIUNU1RPv6rr3spZTHykz7Z.jpg",
+   "directors": [
+    "Sam Raimi"
+   ],
+   "cast": [
+    "Tobey Maguire",
+    "Willem Dafoe",
+    "Kirsten Dunst",
+    "James Franco",
+    "Cliff Robertson",
+    "Rosemary Harris"
+   ],
+   "v": 2,
+   "overview": "După ce e mușcat de un păianjen modificat genetic, un licean timid obține abilitățile acestuia și le folosește pentru a lupta contra răului.",
+   "imdb_id": "tt0145487",
+   "runtime": 121,
+   "fetched": "2026-11-22T21:55:23+00:00",
+   "lb": 3.88,
+   "lb_ts": "2026-11-22T21:55:25+00:00"
+  },
+  "559": {
+   "title": "Omul-Păianjen 3",
+   "original_title": "Spider-Man 3",
+   "orig_lang": "en",
+   "year": "2007",
+   "poster": "https://image.tmdb.org/t/p/w185/sp5pmdVda7UEu3ZJBoo5QiTV5nh.jpg",
+   "directors": [
+    "Sam Raimi"
+   ],
+   "cast": [
+    "Tobey Maguire",
+    "Kirsten Dunst",
+    "James Franco",
+    "Thomas Haden Church",
+    "Topher Grace",
+    "Bryce Dallas Howard"
+   ],
+   "v": 2,
+   "overview": "Odată cu noul costum, latura mai întunecată și mai răzbunătoare a Omului-Păianjen începe să preia controlul asupra vieții lui.",
+   "imdb_id": "tt0413300",
+   "runtime": 139,
+   "fetched": "2026-11-22T21:55:23+00:00"
+  },
+  "558": {
+   "title": "Omul-Păianjen 2",
+   "original_title": "Spider-Man 2",
+   "orig_lang": "en",
+   "year": "2004",
+   "poster": "https://image.tmdb.org/t/p/w185/zTMJ90xc2gBF37mt80XQnPKScyi.jpg",
+   "directors": [
+    "Sam Raimi"
+   ],
+   "cast": [
+    "Tobey Maguire",
+    "Kirsten Dunst",
+    "James Franco",
+    "Alfred Molina",
+    "Rosemary Harris",
+    "J.K. Simmons"
+   ],
+   "v": 2,
+   "overview": "În timp ce Peter Parker se gândește să renunțe la viața de supererou, Omul Păianjen are un nou dușman, pe Dr. Otto Octavius.",
+   "imdb_id": "tt0316654",
+   "runtime": 127,
+   "fetched": "2026-11-22T21:55:23+00:00"
   }
  },
  "search": {
@@ -9308,6 +9379,189 @@
   "dragoste la tara|2025": {
    "res": [],
    "ts": "2026-11-22T17:52:26+00:00"
+  },
+  "omul paianjen o noua noua zi|": {
+   "res": [
+    {
+     "id": 969681,
+     "title": "Omul-Păianjen: O nouă zi",
+     "original_title": "Spider-Man: Brand New Day",
+     "release_date": "2026-07-29",
+     "popularity": 301.1391
+    }
+   ],
+   "ts": "2026-11-22T21:55:21+00:00"
+  },
+  "omul paianjen o noua noua zi|2026": {
+   "res": [
+    {
+     "id": 969681,
+     "title": "Omul-Păianjen: O nouă zi",
+     "original_title": "Spider-Man: Brand New Day",
+     "release_date": "2026-07-29",
+     "popularity": 301.1391
+    }
+   ],
+   "ts": "2026-11-22T21:55:21+00:00"
+  },
+  "omul paianjen o noua noua zi|2025": {
+   "res": [],
+   "ts": "2026-11-22T21:55:21+00:00"
+  },
+  "omul paianjen|": {
+   "res": [
+    {
+     "id": 969681,
+     "title": "Omul-Păianjen: O nouă zi",
+     "original_title": "Spider-Man: Brand New Day",
+     "release_date": "2026-07-29",
+     "popularity": 301.1391
+    },
+    {
+     "id": 557,
+     "title": "Omul-Păianjen",
+     "original_title": "Spider-Man",
+     "release_date": "2002-05-01",
+     "popularity": 27.9348
+    },
+    {
+     "id": 634649,
+     "title": "Omul-Păianjen: Niciun drum spre casă",
+     "original_title": "Spider-Man: No Way Home",
+     "release_date": "2021-12-15",
+     "popularity": 40.0745
+    },
+    {
+     "id": 569094,
+     "title": "Omul-Păianjen: Prin lumea păianjenului",
+     "original_title": "Spider-Man: Across the Spider-Verse",
+     "release_date": "2023-05-31",
+     "popularity": 28.0281
+    },
+    {
+     "id": 559,
+     "title": "Omul-Păianjen 3",
+     "original_title": "Spider-Man 3",
+     "release_date": "2007-05-01",
+     "popularity": 18.1416
+    },
+    {
+     "id": 429617,
+     "title": "Omul-Păianjen: Departe de casă",
+     "original_title": "Spider-Man: Far From Home",
+     "release_date": "2019-06-28",
+     "popularity": 21.4935
+    },
+    {
+     "id": 315635,
+     "title": "Omul-Păianjen: Întoarcerea acasă",
+     "original_title": "Spider-Man: Homecoming",
+     "release_date": "2017-07-05",
+     "popularity": 23.4636
+    },
+    {
+     "id": 324857,
+     "title": "Omul-Păianjen: În lumea păianjenului",
+     "original_title": "Spider-Man: Into the Spider-Verse",
+     "release_date": "2018-12-06",
+     "popularity": 25.0284
+    },
+    {
+     "id": 558,
+     "title": "Omul-Păianjen 2",
+     "original_title": "Spider-Man 2",
+     "release_date": "2004-06-25",
+     "popularity": 9.641
+    },
+    {
+     "id": 911916,
+     "title": "Omul-Păianjen: Dincolo de lumea păianjenului",
+     "original_title": "Spider-Man: Beyond the Spider-Verse",
+     "release_date": "2027-06-16",
+     "popularity": 6.1413
+    }
+   ],
+   "ts": "2026-11-22T21:55:22+00:00"
+  },
+  "omul paianjen|2026": {
+   "res": [
+    {
+     "id": 969681,
+     "title": "Omul-Păianjen: O nouă zi",
+     "original_title": "Spider-Man: Brand New Day",
+     "release_date": "2026-07-29",
+     "popularity": 301.1391
+    }
+   ],
+   "ts": "2026-11-22T21:55:22+00:00"
+  },
+  "omul paianjen|2025": {
+   "res": [],
+   "ts": "2026-11-22T21:55:22+00:00"
+  },
+  "o noua noua zi|": {
+   "res": [
+    {
+     "id": 969681,
+     "title": "Omul-Păianjen: O nouă zi",
+     "original_title": "Spider-Man: Brand New Day",
+     "release_date": "2026-07-29",
+     "popularity": 301.1391
+    },
+    {
+     "id": 1254786,
+     "title": "Mâine e o nouă zi",
+     "original_title": "The Life List",
+     "release_date": "2025-03-27",
+     "popularity": 4.1121
+    },
+    {
+     "id": 578814,
+     "title": "Mâine este o nouă zi",
+     "original_title": "Domani è un altro giorno",
+     "release_date": "2019-02-28",
+     "popularity": 0.5915
+    },
+    {
+     "id": 549053,
+     "title": "O nouă poveste de Crăciun",
+     "original_title": "Last Christmas",
+     "release_date": "2019-11-07",
+     "popularity": 5.6136
+    },
+    {
+     "id": 11400,
+     "title": "Lumea Nouă",
+     "original_title": "The New World",
+     "release_date": "2005-12-25",
+     "popularity": 3.8677
+    }
+   ],
+   "ts": "2026-11-22T21:55:22+00:00"
+  },
+  "o noua noua zi|2026": {
+   "res": [
+    {
+     "id": 969681,
+     "title": "Omul-Păianjen: O nouă zi",
+     "original_title": "Spider-Man: Brand New Day",
+     "release_date": "2026-07-29",
+     "popularity": 301.1391
+    }
+   ],
+   "ts": "2026-11-22T21:55:22+00:00"
+  },
+  "o noua noua zi|2025": {
+   "res": [
+    {
+     "id": 1254786,
+     "title": "Mâine e o nouă zi",
+     "original_title": "The Life List",
+     "release_date": "2025-03-27",
+     "popularity": 4.1121
+    }
+   ],
+   "ts": "2026-11-22T21:55:23+00:00"
   }
  },
  "pages": {
