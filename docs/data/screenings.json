@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T21:50:55+00:00",
+ "generated": "2026-11-22T06:05:12+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 79,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 18,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,15 +105,15 @@
    "ok": true,
    "stale": false,
    "count": 22,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 400,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "count": 401,
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "cc1818": {
@@ -121,7 +121,7 @@
    "ok": true,
    "stale": false,
    "count": 345,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "cc1824": {
@@ -129,7 +129,7 @@
    "ok": true,
    "stale": false,
    "count": 312,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   },
   "cc1807": {
@@ -137,7 +137,7 @@
    "ok": true,
    "stale": false,
    "count": 373,
-   "updated": "2026-11-21T21:50:55+00:00",
+   "updated": "2026-11-22T06:05:12+00:00",
    "error": null
   }
  },
@@ -5080,7 +5080,7 @@
     "pensioner": 16
    },
    "box": {},
-   "status": "sold_out",
+   "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaure-minotaur?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-minotaure-minotaur-zx0.webp",
    "film": "tmdb:848700"
@@ -19646,31 +19646,6 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
-   "id": "cc1824-750115",
-   "cinema": "cc1824",
-   "date": "2026-11-24",
-   "time": "19:20",
-   "title": "Minotaur",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750115?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8524S2R.jpg",
-   "year": "2026",
-   "runtime": 141,
-   "film": "tmdb:848700"
-  },
-  {
    "id": "cc1806-721285",
    "cinema": "cc1806",
    "date": "2026-11-24",
@@ -19895,6 +19870,31 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/751373?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-752084",
+   "cinema": "cc1824",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/752084?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
    "runtime": 158,
@@ -21397,31 +21397,6 @@
    "film": "t:ebenezer o poveste de craciun"
   },
   {
-   "id": "cc1824-750119",
-   "cinema": "cc1824",
-   "date": "2026-11-24",
-   "time": "22:15",
-   "title": "Minotaur",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750119?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8524S2R.jpg",
-   "year": "2026",
-   "runtime": 141,
-   "film": "tmdb:848700"
-  },
-  {
    "id": "cc1806-751179",
    "cinema": "cc1806",
    "date": "2026-11-24",
@@ -21752,6 +21727,31 @@
    "year": "2026",
    "runtime": 100,
    "film": "tmdb:1783294"
+  },
+  {
+   "id": "cc1824-750119",
+   "cinema": "cc1824",
+   "date": "2026-11-24",
+   "time": "22:45",
+   "title": "Minotaur",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/750119?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8524S2R.jpg",
+   "year": "2026",
+   "runtime": 141,
+   "film": "tmdb:848700"
   },
   {
    "id": "cc1824-750127",
@@ -35935,7 +35935,7 @@
     "pensioner": 16
    },
    "box": {},
-   "status": "sold_out",
+   "status": "ok",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
@@ -38290,6 +38290,34 @@
    "url": "https://eventbook.ro/film/bilete-calle-malaga-strada-malaga?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-calle-malaga-strada-malaga-71M.webp",
    "film": "tmdb:1399462"
+  },
+  {
+   "id": "cc1806-751738",
+   "cinema": "cc1806",
+   "date": "2026-12-06",
+   "time": "15:00",
+   "title": "Concertul de Crăciun al lui André Rieu d",
+   "age": null,
+   "note": null,
+   "audio": [
+    "EN",
+    "NL"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/751738?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8658S2R.jpg",
+   "year": "2026",
+   "runtime": 165,
+   "film": "t:concertul de craciun al lui andre rieu d"
   },
   {
    "id": "elvire-2026-12-06-15:30-bilete-film-jurnalul-unei-cameriste",
