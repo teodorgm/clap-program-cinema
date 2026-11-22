@@ -3228,6 +3228,30 @@
    "imdb_id": null,
    "runtime": 35,
    "fetched": "2026-11-20T21:59:11+00:00"
+  },
+  "1472684": {
+   "title": "Atlasul universului",
+   "original_title": "Atlasul universului",
+   "orig_lang": "ro",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/hdOTtLw94VEOuy4S0ZkCGJXHysF.jpg",
+   "directors": [
+    "Paul Negoescu"
+   ],
+   "cast": [
+    "Matei Donciu",
+    "Johanna Mild Keresztúri",
+    "Calin Petru",
+    "Sofia Marinescu",
+    "Marin Gregore"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt28084471",
+   "runtime": 85,
+   "fetched": "2026-11-22T14:07:17+00:00",
+   "lb": 3.43,
+   "lb_ts": "2026-11-22T14:07:19+00:00"
   }
  },
  "search": {
@@ -5995,17 +6019,17 @@
      "title": "ゴジラ-0.0",
      "original_title": "ゴジラ-0.0",
      "release_date": "2026-11-03",
-     "popularity": 150.003
+     "popularity": 122.4366
     },
     {
      "id": 940721,
      "title": "Godzilla Minus One",
      "original_title": "ゴジラ-1.0",
      "release_date": "2023-11-03",
-     "popularity": 88.2766
+     "popularity": 70.373
     }
    ],
-   "ts": "2026-11-16T20:43:06+00:00"
+   "ts": "2026-11-22T14:07:17+00:00"
   },
   "godzilla minus zero|2026": {
    "res": [
@@ -6014,14 +6038,14 @@
      "title": "ゴジラ-0.0",
      "original_title": "ゴジラ-0.0",
      "release_date": "2026-11-03",
-     "popularity": 150.003
+     "popularity": 122.4366
     }
    ],
-   "ts": "2026-11-16T20:43:06+00:00"
+   "ts": "2026-11-22T14:07:17+00:00"
   },
   "godzilla minus zero|2025": {
    "res": [],
-   "ts": "2026-11-16T20:43:07+00:00"
+   "ts": "2026-11-22T14:07:18+00:00"
   },
   "insula pierduta dub|": {
    "res": [],
@@ -9203,6 +9227,34 @@
   "proiectie teatru copii capra cu trei iezi|2025": {
    "res": [],
    "ts": "2026-11-21T06:04:56+00:00"
+  },
+  "atlasul universului|": {
+   "res": [
+    {
+     "id": 1472684,
+     "title": "Atlasul universului",
+     "original_title": "Atlasul universului",
+     "release_date": "2026-02-14",
+     "popularity": 1.0798
+    }
+   ],
+   "ts": "2026-11-22T14:07:16+00:00"
+  },
+  "atlasul universului|2026": {
+   "res": [
+    {
+     "id": 1472684,
+     "title": "Atlasul universului",
+     "original_title": "Atlasul universului",
+     "release_date": "2026-02-14",
+     "popularity": 1.0798
+    }
+   ],
+   "ts": "2026-11-22T14:07:17+00:00"
+  },
+  "atlasul universului|2025": {
+   "res": [],
+   "ts": "2026-11-22T14:07:17+00:00"
   }
  },
  "pages": {
