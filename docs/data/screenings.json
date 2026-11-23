@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T21:53:31+00:00",
+ "generated": "2026-11-23T06:15:11+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 74,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 15,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 9,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,7 +105,7 @@
    "ok": true,
    "stale": false,
    "count": 20,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "cc1806": {
@@ -113,31 +113,31 @@
    "ok": true,
    "stale": false,
    "count": 361,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 309,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "count": 317,
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 277,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "count": 281,
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 331,
-   "updated": "2026-11-22T21:53:31+00:00",
+   "count": 332,
+   "updated": "2026-11-23T06:15:11+00:00",
    "error": null
   }
  },
@@ -33562,6 +33562,33 @@
    "film": "t:dune part two re release"
   },
   {
+   "id": "cc1818-753486",
+   "cinema": "cc1818",
+   "date": "2026-12-04",
+   "time": "16:30",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753486?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
    "id": "elvire-2026-12-04-17:30-bilete-film-histoires-paralleles",
    "cinema": "elvire",
    "date": "2026-12-04",
@@ -33606,6 +33633,56 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/753272?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1818-753487",
+   "cinema": "cc1818",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753487?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1824-753472",
+   "cinema": "cc1824",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753472?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
    "year": "2026",
    "runtime": 160,
@@ -33813,6 +33890,33 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "cc1818-753488",
+   "cinema": "cc1818",
+   "date": "2026-12-05",
+   "time": "16:30",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753488?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
    "id": "elvire-2026-12-05-17:30-bilete-club-kid",
    "cinema": "elvire",
    "date": "2026-12-05",
@@ -33857,6 +33961,56 @@
    "box": {},
    "status": "ok",
    "url": "https://tickets.cinemacity.ro/api/order/753273?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1818-753496",
+   "cinema": "cc1818",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753496?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1824-753473",
+   "cinema": "cc1824",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753473?lang=ro",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
    "year": "2026",
    "runtime": 160,
@@ -34013,6 +34167,33 @@
    "film": "tmdb:1696174"
   },
   {
+   "id": "cc1818-753489",
+   "cinema": "cc1818",
+   "date": "2026-12-06",
+   "time": "16:30",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753489?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
    "id": "elvire-2026-12-06-17:30-bilete-nu-e-locul-tau-aici",
    "cinema": "elvire",
    "date": "2026-12-06",
@@ -34063,6 +34244,56 @@
    "film": "tmdb:557"
   },
   {
+   "id": "cc1818-753497",
+   "cinema": "cc1818",
+   "date": "2026-12-06",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753497?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1824-753474",
+   "cinema": "cc1824",
+   "date": "2026-12-06",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753474?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
    "id": "elvire-2026-12-06-20:30-bilete-film-el-ser-querido",
    "cinema": "elvire",
    "date": "2026-12-06",
@@ -34088,6 +34319,33 @@
    "film": "tmdb:1074074"
   },
   {
+   "id": "cc1818-753490",
+   "cinema": "cc1818",
+   "date": "2026-12-07",
+   "time": "16:30",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753490?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
    "id": "elvire-2026-12-07-18:00-bilete-le-chant-des-forets-premiile-academiei-europene-de-film",
    "cinema": "elvire",
    "date": "2026-12-07",
@@ -34111,6 +34369,81 @@
    "url": "https://eventbook.ro/film/bilete-le-chant-des-forets-premiile-academiei-europene-de-film?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-le-chant-des-forets-cantecul-padurii-YZ5.webp",
    "film": "tmdb:1309373"
+  },
+  {
+   "id": "cc1807-753275",
+   "cinema": "cc1807",
+   "date": "2026-12-07",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753275?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1818-753498",
+   "cinema": "cc1818",
+   "date": "2026-12-07",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753498?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1824-753475",
+   "cinema": "cc1824",
+   "date": "2026-12-07",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753475?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
   },
   {
    "id": "elvire-2026-12-07-20:00-bilete-film-you-can-see-everything",
