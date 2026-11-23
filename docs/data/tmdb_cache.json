@@ -3374,6 +3374,145 @@
    "fetched": "2026-11-23T10:24:21+00:00",
    "lb": 3.57,
    "lb_ts": "2026-11-23T10:24:23+00:00"
+  },
+  "1514026": {
+   "title": "Buddy",
+   "original_title": "Buddy",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+   "directors": [
+    "Casper Kelly"
+   ],
+   "cast": [
+    "Keegan-Michael Key",
+    "Delaney Quinn",
+    "Tristan Borders",
+    "Madison Skyy Polan",
+    "Caleb Williams",
+    "Cristin Milioti"
+   ],
+   "v": 2,
+   "overview": "Un grup de copii amnezici, captivi în lumea suprarealistă a unei emisiuni TV pentru copii din anii '90, trebuie să găsească o cale de a evada atunci când gazda emisiunii – un unicorn aparent prietenos – își dezvăluie latura violentă și sinistră.",
+   "imdb_id": "tt37281055",
+   "runtime": 96,
+   "fetched": "2026-11-23T18:11:13+00:00",
+   "lb": 3.07,
+   "lb_ts": "2026-11-23T18:11:15+00:00"
+  },
+  "15170": {
+   "title": "Buddy",
+   "original_title": "Buddy",
+   "orig_lang": "en",
+   "year": "1997",
+   "poster": "https://image.tmdb.org/t/p/w185/jdKwul2ePJ7vjdlzgxB1mme5S8B.jpg",
+   "directors": [
+    "Caroline Thompson"
+   ],
+   "cast": [
+    "Rene Russo",
+    "Robbie Coltrane",
+    "Alan Cumming",
+    "Irma P. Hall",
+    "Paul Reubens",
+    "John Aylward"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0118787",
+   "runtime": 84,
+   "fetched": "2026-11-23T18:11:13+00:00"
+  },
+  "940002": {
+   "title": "Buddy",
+   "original_title": "Buddy",
+   "orig_lang": "en",
+   "year": "1993",
+   "poster": "https://image.tmdb.org/t/p/w185/bTtGUbgXYnALUFuJ9PucBYUKgDT.jpg",
+   "directors": [
+    "Kevin Lofton"
+   ],
+   "cast": [
+    "Rob Schneider",
+    "Tim Herlihy",
+    "Adam Sandler",
+    "David Spade",
+    "Tim Meadows",
+    "Robert Smigel"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt6516474",
+   "runtime": 2,
+   "fetched": "2026-11-23T18:11:14+00:00"
+  },
+  "15177": {
+   "title": "Buddy",
+   "original_title": "Buddy",
+   "orig_lang": "no",
+   "year": "2003",
+   "poster": "https://image.tmdb.org/t/p/w185/6lBBUi4Ac9r2OzD9byOTsIlYQXs.jpg",
+   "directors": [
+    "Morten Tyldum"
+   ],
+   "cast": [
+    "Nicolai Cleve Broch",
+    "Aksel Hennie",
+    "Anders Baasmo Christiansen",
+    "Pia Tjelta",
+    "Janne Formoe",
+    "Henrik Giæver"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0371589",
+   "runtime": 104,
+   "fetched": "2026-11-23T18:11:14+00:00"
+  },
+  "246894": {
+   "title": "Buddy",
+   "original_title": "Buddy",
+   "orig_lang": "de",
+   "year": "2013",
+   "poster": "https://image.tmdb.org/t/p/w185/uWGfl0DHyUvCdXLdQmC3n5bZsPR.jpg",
+   "directors": [
+    "Michael Herbig"
+   ],
+   "cast": [
+    "Alexander Fehling",
+    "Michael Herbig",
+    "Mina Tander",
+    "Daniel Zillmann",
+    "Piet Puddu",
+    "Christian Berkel"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt3062170",
+   "runtime": 94,
+   "fetched": "2026-11-23T18:11:14+00:00"
+  },
+  "1664252": {
+   "title": "BUDDY",
+   "original_title": "BUDDY",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/fdUJRAai72JM5sbvVoIvkw9dsaW.jpg",
+   "directors": [
+    "Tristan Deschamps"
+   ],
+   "cast": [
+    "Tristan Deschamps",
+    "Kianna Willmore",
+    "Alex Templin",
+    "Mark Templin",
+    "Curtis Farrell"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": 21,
+   "fetched": "2026-11-23T18:11:14+00:00"
   }
  },
  "search": {
@@ -9604,6 +9743,154 @@
     }
    ],
    "ts": "2026-11-22T21:55:23+00:00"
+  },
+  "buddy|": {
+   "res": [
+    {
+     "id": 1514026,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2026-08-27",
+     "popularity": 91.4174
+    },
+    {
+     "id": 472815,
+     "title": "Provocări între prieteni",
+     "original_title": "Buddy Games",
+     "release_date": "2019-11-18",
+     "popularity": 3.0543
+    },
+    {
+     "id": 15170,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "1997-06-06",
+     "popularity": 1.5763
+    },
+    {
+     "id": 36133,
+     "title": "Buddy Buddy",
+     "original_title": "Buddy Buddy",
+     "release_date": "1981-04-02",
+     "popularity": 1.3891
+    },
+    {
+     "id": 246894,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2013-12-25",
+     "popularity": 0.6083
+    },
+    {
+     "id": 940002,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "1993-09-28",
+     "popularity": 0.7996
+    },
+    {
+     "id": 1816662,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2026-11-04",
+     "popularity": 0.2664
+    },
+    {
+     "id": 15177,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2003-08-29",
+     "popularity": 0.7771
+    },
+    {
+     "id": 562688,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2019-01-03",
+     "popularity": 0.3232
+    },
+    {
+     "id": 1664252,
+     "title": "BUDDY",
+     "original_title": "BUDDY",
+     "release_date": "2026-04-06",
+     "popularity": 0.4117
+    }
+   ],
+   "ts": "2026-11-23T18:11:10+00:00"
+  },
+  "buddy|2026": {
+   "res": [
+    {
+     "id": 1514026,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2026-08-27",
+     "popularity": 91.4174
+    },
+    {
+     "id": 1816662,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2026-11-04",
+     "popularity": 0.2664
+    },
+    {
+     "id": 1664252,
+     "title": "BUDDY",
+     "original_title": "BUDDY",
+     "release_date": "2026-04-06",
+     "popularity": 0.4117
+    },
+    {
+     "id": 1640500,
+     "title": "Gym Buddy",
+     "original_title": "Gym Buddy",
+     "release_date": "2026-02-18",
+     "popularity": 0.5314
+    },
+    {
+     "id": 1663217,
+     "title": "My Buddy Bruce",
+     "original_title": "My Buddy Bruce",
+     "release_date": "2026-03-04",
+     "popularity": 0.0127
+    },
+    {
+     "id": 1565069,
+     "title": "Suka Duka Tawa",
+     "original_title": "Suka Duka Tawa",
+     "release_date": "2026-01-08",
+     "popularity": 0.9824
+    }
+   ],
+   "ts": "2026-11-23T18:11:10+00:00"
+  },
+  "buddy|2025": {
+   "res": [
+    {
+     "id": 1469902,
+     "title": "Saving Buddy Charles",
+     "original_title": "Saving Buddy Charles",
+     "release_date": "2025-12-16",
+     "popularity": 0.8444
+    },
+    {
+     "id": 1689895,
+     "title": "Regal Studio Presents: Buddy & Sue",
+     "original_title": "Regal Studio Presents: Buddy & Sue",
+     "release_date": "2025-02-09",
+     "popularity": 0.6807
+    },
+    {
+     "id": 1511704,
+     "title": "Good Buddy, Best Friend: THE MOVIE",
+     "original_title": "Good Buddy, Best Friend: THE MOVIE",
+     "release_date": "2025-08-01",
+     "popularity": 0.0976
+    }
+   ],
+   "ts": "2026-11-23T18:11:11+00:00"
   }
  },
  "pages": {
@@ -9846,6 +10133,10 @@
   "bilete-mielul-shaun-aventuri-de-halloween": {
    "text": " Bilete la Mielul Shaun: Aventuri de Halloween search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Mielul Shaun: Aventuri de Halloween A.G. volume_up Nonverbal Show description Mielul Shaun: Aventuri de Halloween A.G. volume_up Nonverbal Title: Shaun the Sheep: The Beast of Mossy Bottom Director: SteveMatthew CoxWalker Genre: Animație Duration: 1h 20m Country: Marea Britanie Language: Nonverbal Year: 2026 &Icirc;n ajunul Halloween-ului la ferma Mossy Bottom, entuziasmul se transform&#259; &icirc;n &icirc;ngrijorare atunci c&acirc;nd ne&icirc;ndem&acirc;naticul fermier stric&#259; planta&#539;ia de dovleci. Shaun &icirc;ncearc&#259; s&#259; o salveze cu experimente &#537;tiin&#539;ifice, dar lucrurile o iau razna c&acirc;nd o bestie s&#259;lbatic&#259; apare &icirc;n p&#259;dure. #animation #pentru copii #adventure #Halloween #family #comedy #fantasy #film location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinema Muzeul Țăranului - Studioul Horia Bernea , București info calendar_month Date 14:15 - Saturday, 28 November 2026 Nonverbal bookmark Order 32 lei Choose seats Barco SP 2K-11 laser | audio Dolby Surround 7.1, Atmos Mielul Shaun: Aventuri de Halloween Enter Barcode Check Atenție! Toate intrările au fost folosite. Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la prima accesare Atelierul / The Workshop location_on Online disponibil 72h de la prima accesare CARTEA CU SOLUȚII / LE LIVRE DES SOLUTIONS location_on Online disponibil 72h de la prima accesare Iubire fără limite / L&#039;Amour ouf location_on Online 17:30 - Tomorrow, 24 November DELTA SĂLBATICĂ #documentary #natură #Delta Dunării #biodiversitate #ecologie #educativ #pentru familie #film românesc location_on Cinema Union 20:30 - Friday, 27 November JURNALUL UNEI CAMERISTE location_on Apollo111 Cinema 20:00 - Sunday, 29 November Teenage Sex and Death at Camp Miasma location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
    "ts": "2026-11-23T10:24:20+00:00"
+  },
+  "bilete-buddy": {
+   "text": " Bilete la Buddy search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Buddy volume_up EN notes RO Show description Buddy volume_up EN notes RO Title: Buddy Director: Casper Kelly Cast: Cristin Milioti, Delaney Quinn, Topher Grace, Keegan-Michael Key, Michael Shannon, Patton Oswalt Genre: Horror, Comedie Duration: 1h 36m Language: engleză Year: 2026 &Icirc;ntr-o emisiune pentru copii, un unicorn portocaliu pe nume Buddy &#537;i micii lui prieteni &icirc;&#537;i petrec zilele c&acirc;nt&acirc;nd &#537;i dans&acirc;nd &icirc;ntr-o lume vesel&#259; &#537;i colorat&#259;. C&acirc;nd unul dintre copii refuz&#259; s&#259; mai joace dup&#259; regulile lui, Buddy se &icirc;nfurie, iar lumea perfect&#259; a emisiunii &icirc;ncepe s&#259; se crape. location_on Location calendar_month Date payments Price bookmark Order location_on Location Apollo111 Cinema , București info calendar_month Date 20:30 - Friday, 11 December 2026 EN RO bookmark Order 35 lei (Bilet întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 20 lei (Bilet redus elev/student/pensionar) Number of tickets remove add shopping_cart Add to cart Am Apollo111 Cinema Pass Buddy Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului RĂMÂNEREA / REMAINDERS location_on Online disponibil 72h de la achiziționarea biletului DRUMEȚ ÎN CALEA LUPILOR / A TRAVELLER IN FRONT OF WOLVES location_on Online disponibil 72h de la achiziționarea biletului MASCA DE ARGINT / THE SILVER MASK location_on Online disponibil 72h de la prima accesare ALI(E)NARE / FALLING location_on Online 6+1 luni TIFF UNLIMITED 6+1 LUNI location_on Online 20:00 - Friday, 4 December Johnny&#039;s back! location_on Cinema Victoria Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-23T18:11:12+00:00"
   }
  }
 }
