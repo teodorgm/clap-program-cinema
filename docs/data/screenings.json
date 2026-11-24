@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T06:08:04+00:00",
+ "generated": "2026-11-24T10:19:54+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 72,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 15,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,329 +105,43 @@
    "ok": true,
    "stale": false,
    "count": 21,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 293,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "count": 291,
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 251,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "count": 285,
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 221,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "count": 218,
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 260,
-   "updated": "2026-11-24T06:08:04+00:00",
+   "count": 255,
+   "updated": "2026-11-24T10:19:54+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "cc1806-751615",
-   "cinema": "cc1806",
-   "date": "2026-11-24",
-   "time": "10:30",
-   "title": "Insula pierduta dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/751615?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "t:insula pierduta dub"
-  },
-  {
-   "id": "cc1806-750943",
-   "cinema": "cc1806",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750943?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-746814",
-   "cinema": "cc1807",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Wild Horse Nine",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/746814?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8161S2R.jpg",
-   "year": "2026",
-   "runtime": 116,
-   "film": "tmdb:891621"
-  },
-  {
-   "id": "cc1807-747255",
-   "cinema": "cc1807",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/747255?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1807-748224",
-   "cinema": "cc1807",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Insula pierduta dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748224?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "t:insula pierduta dub"
-  },
-  {
-   "id": "cc1807-749530",
-   "cinema": "cc1807",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "În inima sălbăticiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749530?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8314S2R.jpg",
-   "year": "2026",
-   "runtime": 101,
-   "film": "tmdb:1263337"
-  },
-  {
-   "id": "cc1807-750275",
-   "cinema": "cc1807",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750275?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-745844",
-   "cinema": "cc1818",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/745844?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
-  {
-   "id": "cc1818-749995",
-   "cinema": "cc1818",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Delta salbatica",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/749995?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8335O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1756136"
-  },
-  {
-   "id": "cc1824-750373",
-   "cinema": "cc1824",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750373?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1824-750397",
-   "cinema": "cc1824",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750397?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-750103",
-   "cinema": "cc1824",
-   "date": "2026-11-24",
-   "time": "12:05",
-   "title": "Micul mamut: Aventuri în Africa dub",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/750103?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa dub"
-  },
   {
    "id": "cc1806-751000",
    "cinema": "cc1806",
@@ -5701,29 +5415,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1818-748424",
-   "cinema": "cc1818",
-   "date": "2026-11-24",
-   "time": "21:10",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://tickets.cinemacity.ro/api/order/748424?lang=ro",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
    "id": "cc1824-750401",
    "cinema": "cc1824",
    "date": "2026-11-24",
@@ -6181,6 +5872,31 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
+  },
+  {
+   "id": "cc1818-753680",
+   "cinema": "cc1818",
+   "date": "2026-11-24",
+   "time": "22:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753680?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1824-751375",
@@ -20738,6 +20454,52 @@
    "film": "t:soldatul fantoma"
   },
   {
+   "id": "cc1818-753759",
+   "cinema": "cc1818",
+   "date": "2026-11-27",
+   "time": "12:15",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753759?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
+  },
+  {
+   "id": "cc1818-753761",
+   "cinema": "cc1818",
+   "date": "2026-11-27",
+   "time": "14:45",
+   "title": "Piatră Foarfecă Hârtie",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753761?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
+   "year": "2025",
+   "runtime": 91,
+   "film": "tmdb:1172260"
+  },
+  {
    "id": "elvire-2026-11-27-15:00-bilete-club-kid",
    "cinema": "elvire",
    "date": "2026-11-27",
@@ -20761,6 +20523,31 @@
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1818-753762",
+   "cinema": "cc1818",
+   "date": "2026-11-27",
+   "time": "17:00",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753762?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "elvire-2026-11-27-17:00-bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante",
@@ -20912,6 +20699,31 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "cc1818-753763",
+   "cinema": "cc1818",
+   "date": "2026-11-27",
+   "time": "19:40",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753763?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "eforie-2026-11-27-20:00-bilete-conspiracy-theory-teoria-conspiratiei",
    "cinema": "eforie",
    "date": "2026-11-27",
@@ -21010,6 +20822,31 @@
    "film": "t:atat de familiar"
   },
   {
+   "id": "cc1818-753767",
+   "cinema": "cc1818",
+   "date": "2026-11-27",
+   "time": "22:20",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753767?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1806-693205",
    "cinema": "cc1806",
    "date": "2026-11-28",
@@ -21033,6 +20870,29 @@
    "year": null,
    "runtime": 56,
    "film": "t:proiectie teatru pentru copii hansel si"
+  },
+  {
+   "id": "cc1818-753768",
+   "cinema": "cc1818",
+   "date": "2026-11-28",
+   "time": "12:15",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753768?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
   },
   {
    "id": "elvire-2026-11-28-13:00-bilete-retrospectiva-integrala-radu-jude-iesirea-trenurilor-din-gara-a-pedepsi-a-supraveghea",
@@ -21076,6 +20936,29 @@
    "url": "https://eventbook.ro/film/bilete-mielul-shaun-aventuri-de-halloween?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/Shaun_the_Sheep-afis_med-res.jpg",
    "film": "tmdb:1477104"
+  },
+  {
+   "id": "cc1818-753774",
+   "cinema": "cc1818",
+   "date": "2026-11-28",
+   "time": "14:45",
+   "title": "Piatră Foarfecă Hârtie",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753774?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
+   "year": "2025",
+   "runtime": 91,
+   "film": "tmdb:1172260"
   },
   {
    "id": "union-2026-11-28-15:45-bilete-wildwood-taramul-fantastic",
@@ -21198,6 +21081,31 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "cc1818-753780",
+   "cinema": "cc1818",
+   "date": "2026-11-28",
+   "time": "17:00",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753780?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "muzeu-2026-11-28-17:40-bilete-nu-e-locul-tau-aici",
    "cinema": "muzeu",
    "date": "2026-11-28",
@@ -21268,6 +21176,31 @@
    "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
    "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
    "film": "tmdb:1696174"
+  },
+  {
+   "id": "cc1818-753786",
+   "cinema": "cc1818",
+   "date": "2026-11-28",
+   "time": "19:40",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753786?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "apollo111-2026-11-28-20:00-bilete-club-kid",
@@ -21372,6 +21305,31 @@
    "film": "tmdb:848700"
   },
   {
+   "id": "cc1818-753792",
+   "cinema": "cc1818",
+   "date": "2026-11-28",
+   "time": "22:20",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753792?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "elvire-2026-11-29-10:00-bilete-le-chant-des-forets-cantecul-padurii",
    "cinema": "elvire",
    "date": "2026-11-29",
@@ -21424,6 +21382,29 @@
    "film": "t:tipografic majuscul plan contraplan"
   },
   {
+   "id": "cc1818-753769",
+   "cinema": "cc1818",
+   "date": "2026-11-29",
+   "time": "12:15",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753769?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
+  },
+  {
    "id": "muzeu-2026-11-29-13:45-bilete-misterul-lui-lucy-lost",
    "cinema": "muzeu",
    "date": "2026-11-29",
@@ -21448,6 +21429,29 @@
    "url": "https://eventbook.ro/film/bilete-misterul-lui-lucy-lost?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/lucy-lost-afis-ro.jpg",
    "film": "t:misterul lui lucy lost"
+  },
+  {
+   "id": "cc1818-753775",
+   "cinema": "cc1818",
+   "date": "2026-11-29",
+   "time": "14:45",
+   "title": "Piatră Foarfecă Hârtie",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753775?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
+   "year": "2025",
+   "runtime": 91,
+   "film": "tmdb:1172260"
   },
   {
    "id": "elvire-2026-11-29-15:00-bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose",
@@ -21568,6 +21572,31 @@
    "url": "https://eventbook.ro/film/bilete-excalibur-1981?hall=cinema-eforie",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-excalibur-1981-MHw.webp",
    "film": "tmdb:11527"
+  },
+  {
+   "id": "cc1818-753781",
+   "cinema": "cc1818",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753781?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "elvire-2026-11-29-17:00-bilete-retrospectiva-integrala-radu-jude-kontinental-25",
@@ -21767,6 +21796,31 @@
    "film": "tmdb:1765072"
   },
   {
+   "id": "cc1818-753787",
+   "cinema": "cc1818",
+   "date": "2026-11-29",
+   "time": "19:40",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753787?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "eforie-2026-11-29-20:15-bilete-yakuza-the-yakuza",
    "cinema": "eforie",
    "date": "2026-11-29",
@@ -21787,6 +21841,31 @@
    "url": "https://eventbook.ro/film/bilete-yakuza-the-yakuza?hall=cinema-eforie",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-yakuza-the-yakuza-ZBm.webp",
    "film": "tmdb:28415"
+  },
+  {
+   "id": "cc1818-753793",
+   "cinema": "cc1818",
+   "date": "2026-11-29",
+   "time": "22:20",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753793?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "cc1806-752751",
@@ -22123,6 +22202,29 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "cc1818-753770",
+   "cinema": "cc1818",
+   "date": "2026-11-30",
+   "time": "12:15",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753770?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
+  },
+  {
    "id": "cc1807-752399",
    "cinema": "cc1807",
    "date": "2026-11-30",
@@ -22403,6 +22505,29 @@
    "year": "2026",
    "runtime": 100,
    "film": "tmdb:1783294"
+  },
+  {
+   "id": "cc1818-753776",
+   "cinema": "cc1818",
+   "date": "2026-11-30",
+   "time": "14:45",
+   "title": "Piatră Foarfecă Hârtie",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753776?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
+   "year": "2025",
+   "runtime": 91,
+   "film": "tmdb:1172260"
   },
   {
    "id": "cc1806-752771",
@@ -22784,6 +22909,31 @@
    "year": "2026",
    "runtime": 85,
    "film": "tmdb:1679416"
+  },
+  {
+   "id": "cc1818-753782",
+   "cinema": "cc1818",
+   "date": "2026-11-30",
+   "time": "17:00",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753782?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "cc1824-752686",
@@ -23309,6 +23459,31 @@
    "film": "tmdb:1765072"
   },
   {
+   "id": "cc1818-753788",
+   "cinema": "cc1818",
+   "date": "2026-11-30",
+   "time": "19:40",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753788?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1806-752733",
    "cinema": "cc1806",
    "date": "2026-11-30",
@@ -23739,6 +23914,31 @@
    "film": "tmdb:1609104"
   },
   {
+   "id": "cc1818-753794",
+   "cinema": "cc1818",
+   "date": "2026-11-30",
+   "time": "22:20",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753794?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1818-752297",
    "cinema": "cc1818",
    "date": "2026-11-30",
@@ -23925,6 +24125,29 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
+  },
+  {
+   "id": "cc1818-753822",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "10:00",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753822?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
   },
   {
    "id": "cc1806-752861",
@@ -24284,6 +24507,29 @@
    "film": "tmdb:1472684"
   },
   {
+   "id": "cc1818-753771",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "12:20",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753771?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
+  },
+  {
    "id": "cc1824-752768",
    "cinema": "cc1824",
    "date": "2026-12-01",
@@ -24566,6 +24812,29 @@
    "year": "2026",
    "runtime": 100,
    "film": "tmdb:1783294"
+  },
+  {
+   "id": "cc1818-753777",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "14:45",
+   "title": "Piatră Foarfecă Hârtie",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753777?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
+   "year": "2025",
+   "runtime": 91,
+   "film": "tmdb:1172260"
   },
   {
    "id": "cc1806-752860",
@@ -25037,6 +25306,31 @@
    "year": "2026",
    "runtime": 85,
    "film": "tmdb:1679416"
+  },
+  {
+   "id": "cc1818-753783",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "17:00",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753783?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "cc1824-752754",
@@ -25545,6 +25839,31 @@
    "film": "tmdb:1783294"
   },
   {
+   "id": "cc1818-753789",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "19:40",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753789?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1824-725243",
    "cinema": "cc1824",
    "date": "2026-12-01",
@@ -26007,6 +26326,31 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "cc1818-753795",
+   "cinema": "cc1818",
+   "date": "2026-12-01",
+   "time": "22:20",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753795?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1818-752335",
    "cinema": "cc1818",
    "date": "2026-12-01",
@@ -26099,6 +26443,52 @@
    "year": "2026",
    "runtime": 110,
    "film": "tmdb:1756532"
+  },
+  {
+   "id": "cc1818-753772",
+   "cinema": "cc1818",
+   "date": "2026-12-02",
+   "time": "12:15",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753772?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
+  },
+  {
+   "id": "cc1818-753778",
+   "cinema": "cc1818",
+   "date": "2026-12-02",
+   "time": "14:45",
+   "title": "Piatră Foarfecă Hârtie",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753778?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
+   "year": "2025",
+   "runtime": 91,
+   "film": "tmdb:1172260"
   },
   {
    "id": "cc1806-725086",
@@ -26238,6 +26628,31 @@
    "film": "t:dune re release"
   },
   {
+   "id": "cc1818-753784",
+   "cinema": "cc1818",
+   "date": "2026-12-02",
+   "time": "17:00",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753784?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "elvire-2026-12-02-17:30-bilete-nu-e-locul-tau-aici",
    "cinema": "elvire",
    "date": "2026-12-02",
@@ -26369,6 +26784,31 @@
    "film": "t:daniel si cuptorul de foc"
   },
   {
+   "id": "cc1818-753790",
+   "cinema": "cc1818",
+   "date": "2026-12-02",
+   "time": "19:40",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753790?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1806-725084",
    "cinema": "cc1806",
    "date": "2026-12-02",
@@ -26469,6 +26909,77 @@
    "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
    "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1818-753796",
+   "cinema": "cc1818",
+   "date": "2026-12-02",
+   "time": "22:20",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753796?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
+   "id": "cc1818-753773",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "12:15",
+   "title": "Insula pierduta dub",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753773?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
+   "year": "2026",
+   "runtime": 109,
+   "film": "t:insula pierduta dub"
+  },
+  {
+   "id": "cc1818-753779",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "14:45",
+   "title": "Piatră Foarfecă Hârtie",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753779?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8693O2R.jpg",
+   "year": "2025",
+   "runtime": 91,
+   "film": "tmdb:1172260"
   },
   {
    "id": "cc1806-725087",
@@ -26608,6 +27119,31 @@
    "film": "t:dune re release"
   },
   {
+   "id": "cc1818-753785",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "17:00",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753785?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "elvire-2026-12-03-18:00-bilete-le-chant-des-forets-premiile-academiei-europene-de-film",
    "cinema": "elvire",
    "date": "2026-12-03",
@@ -26713,6 +27249,31 @@
    "film": "t:dune part two re release"
   },
   {
+   "id": "cc1818-753791",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "19:40",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753791?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
+  },
+  {
    "id": "cc1806-725085",
    "cinema": "cc1806",
    "date": "2026-12-03",
@@ -26813,6 +27374,31 @@
    "year": "2024",
    "runtime": 177,
    "film": "t:dune part two re release"
+  },
+  {
+   "id": "cc1818-753797",
+   "cinema": "cc1818",
+   "date": "2026-12-03",
+   "time": "22:20",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753797?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
+   "year": "2026",
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "cc1818-753486",
