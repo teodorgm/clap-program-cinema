@@ -1662,8 +1662,8 @@
    "imdb_id": "tt44708617",
    "runtime": 99,
    "fetched": "2026-11-16T20:43:01+00:00",
-   "lb": 3.05,
-   "lb_ts": "2026-11-16T20:43:36+00:00"
+   "lb": 3.04,
+   "lb_ts": "2026-11-24T22:09:53+00:00"
   },
   "1400940": {
    "title": "Clayface",
@@ -1688,7 +1688,7 @@
    "runtime": 109,
    "fetched": "2026-11-16T20:43:01+00:00",
    "lb": 3.71,
-   "lb_ts": "2026-11-16T20:43:39+00:00"
+   "lb_ts": "2026-11-24T22:09:55+00:00"
   },
   "1649403": {
    "title": "George Michael: The Faith Tour",
@@ -1709,7 +1709,7 @@
    "runtime": 113,
    "fetched": "2026-11-16T20:43:06+00:00",
    "lb": 4.18,
-   "lb_ts": "2026-11-16T20:43:41+00:00"
+   "lb_ts": "2026-11-24T22:10:01+00:00"
   },
   "1300968": {
    "title": "Jocurile foamei: Răsăritul în ziua extragerii",
@@ -1733,8 +1733,8 @@
    "imdb_id": "tt32558705",
    "runtime": 159,
    "fetched": "2026-11-16T20:43:08+00:00",
-   "lb": null,
-   "lb_ts": "2026-11-16T20:43:43+00:00"
+   "lb": 4.02,
+   "lb_ts": "2026-11-24T22:10:04+00:00"
   },
   "1113231": {
    "title": "Lumina",
@@ -1779,7 +1779,7 @@
    "runtime": 87,
    "fetched": "2026-11-16T20:43:10+00:00",
    "lb": null,
-   "lb_ts": "2026-11-16T20:43:45+00:00"
+   "lb_ts": "2026-11-24T22:10:06+00:00"
   },
   "818943": {
    "title": "Lumina",
@@ -1886,7 +1886,7 @@
    "runtime": 84,
    "fetched": "2026-11-16T20:43:15+00:00",
    "lb": null,
-   "lb_ts": "2026-11-16T20:43:48+00:00"
+   "lb_ts": "2026-11-24T22:10:08+00:00"
   },
   "969681": {
    "title": "Omul-Păianjen: O nouă zi",
@@ -1936,7 +1936,7 @@
    "runtime": 94,
    "fetched": "2026-11-16T20:43:19+00:00",
    "lb": 3.73,
-   "lb_ts": "2026-11-16T20:43:52+00:00"
+   "lb_ts": "2026-11-24T22:10:10+00:00"
   },
   "1576": {
    "title": "Resident Evil: Experiment fatal",
@@ -2004,8 +2004,8 @@
    "imdb_id": "tt44842294",
    "runtime": 110,
    "fetched": "2026-11-16T20:43:21+00:00",
-   "lb": 2.83,
-   "lb_ts": "2026-11-16T20:43:54+00:00"
+   "lb": 2.81,
+   "lb_ts": "2026-11-24T22:10:13+00:00"
   },
   "19899": {
    "title": "Vacanță all inclusive",
@@ -2053,7 +2053,7 @@
    "runtime": null,
    "fetched": "2026-11-16T20:43:23+00:00",
    "lb": null,
-   "lb_ts": "2026-11-16T20:43:56+00:00"
+   "lb_ts": "2026-11-24T22:10:15+00:00"
   },
   "1283515": {
    "title": "Verity",
@@ -2164,8 +2164,8 @@
    "imdb_id": "tt15799564",
    "runtime": 117,
    "fetched": "2026-11-16T20:43:26+00:00",
-   "lb": 4.15,
-   "lb_ts": "2026-11-16T20:44:01+00:00"
+   "lb": 4.14,
+   "lb_ts": "2026-11-24T22:10:17+00:00"
   },
   "791523": {
    "title": "Wildwood",
@@ -2189,8 +2189,8 @@
    "imdb_id": "tt2056785",
    "runtime": 132,
    "fetched": "2026-11-16T20:43:27+00:00",
-   "lb": 4.38,
-   "lb_ts": "2026-11-16T20:44:03+00:00"
+   "lb": 4.37,
+   "lb_ts": "2026-11-24T22:10:19+00:00"
   },
   "1702928": {
    "title": "Wildwood",
@@ -2255,7 +2255,7 @@
    "runtime": 101,
    "fetched": "2026-11-16T20:43:29+00:00",
    "lb": 3.29,
-   "lb_ts": "2026-11-16T20:44:05+00:00"
+   "lb_ts": "2026-11-24T22:10:22+00:00"
   },
   "438631": {
    "title": "Dune",
@@ -3683,6 +3683,56 @@
    "imdb_id": null,
    "runtime": 1,
    "fetched": "2026-11-24T14:28:57+00:00"
+  },
+  "1437511": {
+   "title": "Cum să spargi o bancă",
+   "original_title": "How to Rob a Bank",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/mUkXvYruD7q97hRVTPyY3F5qXxq.jpg",
+   "directors": [
+    "David Leitch"
+   ],
+   "cast": [
+    "Nicholas Hoult",
+    "Zoë Kravitz",
+    "Pete Davidson",
+    "John C. Reilly",
+    "Anna Sawai",
+    "Rhenzy Feliz"
+   ],
+   "v": 2,
+   "overview": "Povestea unor spărgători de bănci care hotărăsc să-și transforme jafurile în conținut pentru rețelele sociale și care pun autoritățile pe jar, forțându-le să apeleze la metode neortodoxe pentru a-i prinde.",
+   "imdb_id": "tt35866986",
+   "runtime": 122,
+   "fetched": "2026-11-24T22:09:42+00:00",
+   "lb": 3.06,
+   "lb_ts": "2026-11-24T22:09:57+00:00"
+  },
+  "1567605": {
+   "title": "Ebenezer: O poveste de Craciun",
+   "original_title": "Ebenezer",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/3iyg4LUbsN6IMVFzYWnAFoYXxty.jpg",
+   "directors": [
+    "Ti West"
+   ],
+   "cast": [
+    "Johnny Depp",
+    "Rupert Grint",
+    "Daisy Ridley",
+    "Ian McKellen",
+    "Andrea Riseborough",
+    "Sam Claflin"
+   ],
+   "v": 2,
+   "overview": "O poveste palpitantă cu fantome, plasată în Londra lui Dickens, care urmărește confruntarea supranaturală a lui Ebenezer Scrooge cu trecutul, prezentul și viitorului său, în timp ce luptă pentru o a doua șansă la mântuire.",
+   "imdb_id": "tt38773219",
+   "runtime": 115,
+   "fetched": "2026-11-24T22:09:42+00:00",
+   "lb": 3.22,
+   "lb_ts": "2026-11-24T22:09:59+00:00"
   }
  },
  "search": {
@@ -6306,10 +6356,10 @@
      "title": "Băiat de milioane",
      "original_title": "Băiat de milioane",
      "release_date": "2026-10-12",
-     "popularity": 0.3263
+     "popularity": 0.4264
     }
    ],
-   "ts": "2026-11-20T21:59:04+00:00"
+   "ts": "2026-11-24T22:09:40+00:00"
   },
   "baiat de milioane|2026": {
    "res": [
@@ -6318,14 +6368,14 @@
      "title": "Băiat de milioane",
      "original_title": "Băiat de milioane",
      "release_date": "2026-10-12",
-     "popularity": 0.3263
+     "popularity": 0.4264
     }
    ],
-   "ts": "2026-11-20T21:59:04+00:00"
+   "ts": "2026-11-24T22:09:40+00:00"
   },
   "baiat de milioane|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:05+00:00"
+   "ts": "2026-11-24T22:09:40+00:00"
   },
   "clayface|": {
    "res": [
@@ -6334,10 +6384,10 @@
      "title": "Clayface",
      "original_title": "Clayface",
      "release_date": "2026-10-19",
-     "popularity": 83.2891
+     "popularity": 54.6313
     }
    ],
-   "ts": "2026-11-20T21:59:05+00:00"
+   "ts": "2026-11-24T22:09:40+00:00"
   },
   "clayface|2026": {
    "res": [
@@ -6346,26 +6396,26 @@
      "title": "Clayface",
      "original_title": "Clayface",
      "release_date": "2026-10-19",
-     "popularity": 83.2891
+     "popularity": 54.6313
     }
    ],
-   "ts": "2026-11-20T21:59:05+00:00"
+   "ts": "2026-11-24T22:09:40+00:00"
   },
   "clayface|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:05+00:00"
+   "ts": "2026-11-24T22:09:41+00:00"
   },
   "copilul noptii|": {
    "res": [],
-   "ts": "2026-11-20T21:59:05+00:00"
+   "ts": "2026-11-24T22:09:41+00:00"
   },
   "copilul noptii|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:06+00:00"
+   "ts": "2026-11-24T22:09:41+00:00"
   },
   "copilul noptii|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:06+00:00"
+   "ts": "2026-11-24T22:09:41+00:00"
   },
   "coyote vs acme dub|": {
    "res": [],
@@ -6392,28 +6442,60 @@
    "ts": "2026-11-16T20:43:04+00:00"
   },
   "cum sa spargi o banca|": {
-   "res": [],
-   "ts": "2026-11-20T21:59:06+00:00"
+   "res": [
+    {
+     "id": 1437511,
+     "title": "Cum să spargi o bancă",
+     "original_title": "How to Rob a Bank",
+     "release_date": "2026-11-10",
+     "popularity": 49.9393
+    }
+   ],
+   "ts": "2026-11-24T22:09:41+00:00"
   },
   "cum sa spargi o banca|2026": {
-   "res": [],
-   "ts": "2026-11-20T21:59:06+00:00"
+   "res": [
+    {
+     "id": 1437511,
+     "title": "Cum să spargi o bancă",
+     "original_title": "How to Rob a Bank",
+     "release_date": "2026-11-10",
+     "popularity": 49.9393
+    }
+   ],
+   "ts": "2026-11-24T22:09:41+00:00"
   },
   "cum sa spargi o banca|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:06+00:00"
+   "ts": "2026-11-24T22:09:42+00:00"
   },
   "ebenezer o poveste de craciun|": {
-   "res": [],
-   "ts": "2026-11-20T21:59:07+00:00"
+   "res": [
+    {
+     "id": 1567605,
+     "title": "Ebenezer: O poveste de Craciun",
+     "original_title": "Ebenezer",
+     "release_date": "2026-11-11",
+     "popularity": 89.7007
+    }
+   ],
+   "ts": "2026-11-24T22:09:42+00:00"
   },
   "ebenezer o poveste de craciun|2026": {
-   "res": [],
-   "ts": "2026-11-20T21:59:07+00:00"
+   "res": [
+    {
+     "id": 1567605,
+     "title": "Ebenezer: O poveste de Craciun",
+     "original_title": "Ebenezer",
+     "release_date": "2026-11-11",
+     "popularity": 89.7007
+    }
+   ],
+   "ts": "2026-11-24T22:09:42+00:00"
   },
   "ebenezer o poveste de craciun|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:07+00:00"
+   "ts": "2026-11-24T22:09:42+00:00"
   },
   "george michael the faith tour|": {
    "res": [
@@ -6422,10 +6504,10 @@
      "title": "George Michael: The Faith Tour",
      "original_title": "George Michael: The Faith Tour",
      "release_date": "2026-11-04",
-     "popularity": 3.3088
+     "popularity": 2.9655
     }
    ],
-   "ts": "2026-11-20T21:59:07+00:00"
+   "ts": "2026-11-24T22:09:43+00:00"
   },
   "george michael the faith tour|2026": {
    "res": [
@@ -6434,14 +6516,14 @@
      "title": "George Michael: The Faith Tour",
      "original_title": "George Michael: The Faith Tour",
      "release_date": "2026-11-04",
-     "popularity": 3.3088
+     "popularity": 2.9655
     }
    ],
-   "ts": "2026-11-20T21:59:08+00:00"
+   "ts": "2026-11-24T22:09:43+00:00"
   },
   "george michael the faith tour|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:08+00:00"
+   "ts": "2026-11-24T22:09:43+00:00"
   },
   "godzilla minus zero|": {
    "res": [
@@ -6480,15 +6562,15 @@
   },
   "insula pierduta dub|": {
    "res": [],
-   "ts": "2026-11-20T21:59:08+00:00"
+   "ts": "2026-11-24T22:09:43+00:00"
   },
   "insula pierduta dub|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:08+00:00"
+   "ts": "2026-11-24T22:09:43+00:00"
   },
   "insula pierduta dub|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:08+00:00"
+   "ts": "2026-11-24T22:09:43+00:00"
   },
   "jocurile foamei rasaritul in ziua extra|": {
    "res": [
@@ -6497,10 +6579,10 @@
      "title": "Jocurile foamei: Răsăritul în ziua extragerii",
      "original_title": "The Hunger Games: Sunrise on the Reaping",
      "release_date": "2026-11-18",
-     "popularity": 223.4513
+     "popularity": 385.9271
     }
    ],
-   "ts": "2026-11-20T21:59:09+00:00"
+   "ts": "2026-11-24T22:09:44+00:00"
   },
   "jocurile foamei rasaritul in ziua extra|2026": {
    "res": [
@@ -6509,14 +6591,14 @@
      "title": "Jocurile foamei: Răsăritul în ziua extragerii",
      "original_title": "The Hunger Games: Sunrise on the Reaping",
      "release_date": "2026-11-18",
-     "popularity": 223.4513
+     "popularity": 385.9271
     }
    ],
-   "ts": "2026-11-20T21:59:09+00:00"
+   "ts": "2026-11-24T22:09:44+00:00"
   },
   "jocurile foamei rasaritul in ziua extra|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:09+00:00"
+   "ts": "2026-11-24T22:09:44+00:00"
   },
   "lucy lost|": {
    "res": [
@@ -6525,17 +6607,17 @@
      "title": "Le Mystère Lucy Lost",
      "original_title": "Le Mystère Lucy Lost",
      "release_date": "2026-10-28",
-     "popularity": 2.3252
+     "popularity": 2.3208
     },
     {
      "id": 513481,
      "title": "Lucy's Really Lost Moments",
      "original_title": "Lucy's Really Lost Moments",
      "release_date": "1956-01-01",
-     "popularity": 0.5013
+     "popularity": 0.5852
     }
    ],
-   "ts": "2026-11-20T21:59:09+00:00"
+   "ts": "2026-11-24T22:09:44+00:00"
   },
   "lucy lost|2026": {
    "res": [
@@ -6544,89 +6626,89 @@
      "title": "Le Mystère Lucy Lost",
      "original_title": "Le Mystère Lucy Lost",
      "release_date": "2026-10-28",
-     "popularity": 2.3252
+     "popularity": 2.3208
     }
    ],
-   "ts": "2026-11-20T21:59:10+00:00"
+   "ts": "2026-11-24T22:09:44+00:00"
   },
   "lucy lost|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:10+00:00"
+   "ts": "2026-11-24T22:09:44+00:00"
   },
   "lumina|": {
    "res": [
-    {
-     "id": 1501247,
-     "title": "Lumina",
-     "original_title": "Lumina",
-     "release_date": "2026-11-13",
-     "popularity": 0.4109
-    },
     {
      "id": 1113231,
      "title": "Lumina",
      "original_title": "Lumina",
      "release_date": "2024-07-12",
-     "popularity": 0.4239
+     "popularity": 0.6208
+    },
+    {
+     "id": 1501247,
+     "title": "Lumina",
+     "original_title": "Lumina",
+     "release_date": "2026-11-13",
+     "popularity": 0.4444
     },
     {
      "id": 818943,
      "title": "Lumina",
      "original_title": "Lumina",
      "release_date": "2021-06-03",
-     "popularity": 0.2792
-    },
-    {
-     "id": 795551,
-     "title": "Lumina",
-     "original_title": "Lumina",
-     "release_date": "2020-01-01",
-     "popularity": 0.1761
+     "popularity": 0.2455
     },
     {
      "id": 766146,
      "title": "Lumina",
      "original_title": "Lumina",
      "release_date": "2020-11-15",
-     "popularity": 0.1221
-    },
-    {
-     "id": 1693215,
-     "title": "Lumina",
-     "original_title": "Lumina",
-     "release_date": "",
-     "popularity": 0.1431
-    },
-    {
-     "id": 1449991,
-     "title": "Lumina",
-     "original_title": "Lumina",
-     "release_date": "2025-02-18",
-     "popularity": 0.1015
+     "popularity": 0.1458
     },
     {
      "id": 376867,
      "title": "În lumina lunii",
      "original_title": "Moonlight",
      "release_date": "2016-10-21",
-     "popularity": 9.3024
+     "popularity": 10.5729
     },
     {
-     "id": 1208538,
-     "title": "Astra Lumina",
-     "original_title": "Astra Lumina",
-     "release_date": "2023-11-17",
-     "popularity": 0.125
+     "id": 1693215,
+     "title": "Lumina",
+     "original_title": "Lumina",
+     "release_date": "",
+     "popularity": 0.1054
+    },
+    {
+     "id": 1449991,
+     "title": "Lumina",
+     "original_title": "Lumina",
+     "release_date": "2025-02-18",
+     "popularity": 0.0625
+    },
+    {
+     "id": 795551,
+     "title": "Lumina",
+     "original_title": "Lumina",
+     "release_date": "2020-01-01",
+     "popularity": 0.0563
     },
     {
      "id": 345911,
      "title": "Nu stinge lumina",
      "original_title": "Lights Out",
      "release_date": "2016-07-21",
-     "popularity": 5.1944
+     "popularity": 5.6981
+    },
+    {
+     "id": 676547,
+     "title": "Lumina infernului",
+     "original_title": "Prey for the Devil",
+     "release_date": "2022-10-23",
+     "popularity": 3.4474
     }
    ],
-   "ts": "2026-11-20T21:59:10+00:00"
+   "ts": "2026-11-24T22:09:44+00:00"
   },
   "lumina|2026": {
    "res": [
@@ -6635,24 +6717,24 @@
      "title": "Lumina",
      "original_title": "Lumina",
      "release_date": "2026-11-13",
-     "popularity": 0.4109
+     "popularity": 0.4444
     },
     {
      "id": 1692530,
      "title": "În spatele gratiilor: Crimă în lumina reflectoarelor",
      "original_title": "Desde la Celda: Crimen en León",
      "release_date": "2026-05-13",
-     "popularity": 0.1495
+     "popularity": 0.1808
     },
     {
      "id": 1708435,
      "title": "Luminary",
      "original_title": "Luminary",
      "release_date": "2026-06-05",
-     "popularity": 0.1282
+     "popularity": 0.0757
     }
    ],
-   "ts": "2026-11-20T21:59:10+00:00"
+   "ts": "2026-11-24T22:09:45+00:00"
   },
   "lumina|2025": {
    "res": [
@@ -6661,107 +6743,107 @@
      "title": "Lumina",
      "original_title": "Lumina",
      "release_date": "2025-02-18",
-     "popularity": 0.1015
+     "popularity": 0.0625
     },
     {
      "id": 1428261,
      "title": "Lumina Qibla",
      "original_title": "Lumina Qibla",
      "release_date": "2025-02-01",
-     "popularity": 0.1473
+     "popularity": 0.0534
     },
     {
      "id": 1285961,
      "title": "Lumina zilei",
      "original_title": "Sunlight",
      "release_date": "2025-06-06",
-     "popularity": 0.6693
+     "popularity": 0.5655
     },
     {
      "id": 1407862,
      "title": "Pierdut în lumina reflectoarelor",
      "original_title": "Lupa Daratan",
      "release_date": "2025-12-02",
-     "popularity": 1.072
+     "popularity": 1.1521
     },
     {
      "id": 1207627,
      "title": "Leonora în lumina dimineții",
      "original_title": "Leonora im Morgenlicht",
      "release_date": "2025-07-17",
-     "popularity": 0.774
+     "popularity": 1.2118
     },
     {
      "id": 1374686,
      "title": "Light of the World",
      "original_title": "Light of the World",
      "release_date": "2025-09-04",
-     "popularity": 3.5457
+     "popularity": 3.7518
     },
     {
      "id": 1544161,
      "title": "Luminarias",
      "original_title": "Luminarias",
      "release_date": "2025-10-03",
-     "popularity": 0.1313
+     "popularity": 0.0481
     },
     {
      "id": 1489520,
      "title": "Luminara",
      "original_title": "Luminara",
      "release_date": "2025-05-10",
-     "popularity": 0.0799
+     "popularity": 0.1416
     }
    ],
-   "ts": "2026-11-20T21:59:10+00:00"
+   "ts": "2026-11-24T22:09:45+00:00"
   },
   "mia si scoala de monstri dub|": {
    "res": [],
-   "ts": "2026-11-20T21:59:11+00:00"
+   "ts": "2026-11-24T22:09:45+00:00"
   },
   "mia si scoala de monstri dub|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:11+00:00"
+   "ts": "2026-11-24T22:09:45+00:00"
   },
   "mia si scoala de monstri dub|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:11+00:00"
+   "ts": "2026-11-24T22:09:45+00:00"
   },
   "micul mamut aventuri in africa dub|": {
    "res": [],
-   "ts": "2026-11-20T21:59:12+00:00"
+   "ts": "2026-11-24T22:09:45+00:00"
   },
   "micul mamut aventuri in africa dub|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:12+00:00"
+   "ts": "2026-11-24T22:09:46+00:00"
   },
   "micul mamut aventuri in africa dub|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:12+00:00"
+   "ts": "2026-11-24T22:09:46+00:00"
   },
   "micul mamut|": {
    "res": [],
-   "ts": "2026-11-20T21:59:12+00:00"
+   "ts": "2026-11-24T22:09:46+00:00"
   },
   "micul mamut|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:13+00:00"
+   "ts": "2026-11-24T22:09:46+00:00"
   },
   "micul mamut|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:13+00:00"
+   "ts": "2026-11-24T22:09:46+00:00"
   },
   "aventuri in africa dub|": {
    "res": [],
-   "ts": "2026-11-20T21:59:13+00:00"
+   "ts": "2026-11-24T22:09:46+00:00"
   },
   "aventuri in africa dub|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:13+00:00"
+   "ts": "2026-11-24T22:09:47+00:00"
   },
   "aventuri in africa dub|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:13+00:00"
+   "ts": "2026-11-24T22:09:47+00:00"
   },
   "nimic mai mult si nimic diferit|": {
    "res": [
@@ -6770,10 +6852,10 @@
      "title": "Nimic mai mult și nimic diferit",
      "original_title": "Nimic mai mult și nimic diferit",
      "release_date": "2026-11-13",
-     "popularity": 0.4316
+     "popularity": 0.4496
     }
    ],
-   "ts": "2026-11-20T21:59:14+00:00"
+   "ts": "2026-11-24T22:09:47+00:00"
   },
   "nimic mai mult si nimic diferit|2026": {
    "res": [
@@ -6782,14 +6864,14 @@
      "title": "Nimic mai mult și nimic diferit",
      "original_title": "Nimic mai mult și nimic diferit",
      "release_date": "2026-11-13",
-     "popularity": 0.4316
+     "popularity": 0.4496
     }
    ],
-   "ts": "2026-11-20T21:59:14+00:00"
+   "ts": "2026-11-24T22:09:47+00:00"
   },
   "nimic mai mult si nimic diferit|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:14+00:00"
+   "ts": "2026-11-24T22:09:47+00:00"
   },
   "omul paianjen o noua zi|": {
    "res": [
@@ -6833,15 +6915,15 @@
   },
   "proiectie teatru pentru copii hansel si|": {
    "res": [],
-   "ts": "2026-11-20T21:59:15+00:00"
+   "ts": "2026-11-24T22:09:47+00:00"
   },
   "proiectie teatru pentru copii hansel si|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:15+00:00"
+   "ts": "2026-11-24T22:09:48+00:00"
   },
   "proiectie teatru pentru copii hansel si|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:15+00:00"
+   "ts": "2026-11-24T22:09:48+00:00"
   },
   "ramayana|": {
    "res": [
@@ -6850,73 +6932,73 @@
      "title": "Ramayana: The Legend of Prince Rama",
      "original_title": "Ramayana: The Legend of Prince Rama",
      "release_date": "1997-11-03",
-     "popularity": 7.6632
+     "popularity": 7.491
     },
     {
      "id": 54892,
      "title": "Ramayana: The Epic",
      "original_title": "Ramayana: The Epic",
      "release_date": "2010-10-15",
-     "popularity": 1.732
-    },
-    {
-     "id": 1449061,
-     "title": "Ramayana/Legong",
-     "original_title": "Ramayana/Legong",
-     "release_date": "1995-06-08",
-     "popularity": 0.1018
+     "popularity": 1.3365
     },
     {
      "id": 1228328,
      "title": "The Ramayana",
      "original_title": "The Ramayana",
      "release_date": "1965-01-01",
-     "popularity": 0.1832
+     "popularity": 0.3252
+    },
+    {
+     "id": 1449061,
+     "title": "Ramayana/Legong",
+     "original_title": "Ramayana/Legong",
+     "release_date": "1995-06-08",
+     "popularity": 0.0758
     },
     {
      "id": 1174248,
      "title": "Kaliyuga Ramayana",
      "original_title": "Kaliyuga Ramayana",
      "release_date": "",
-     "popularity": 0.0559
+     "popularity": 0.04
     },
     {
      "id": 1809572,
      "title": "The Vision of Ramayana",
      "original_title": "The Vision of Ramayana",
      "release_date": "",
-     "popularity": 0.1878
+     "popularity": 0.1192
     },
     {
      "id": 656908,
      "title": "रामायणम्",
      "original_title": "रामायणम्",
      "release_date": "2026-11-05",
-     "popularity": 148.3231
+     "popularity": 113.3388
     },
     {
      "id": 1383500,
      "title": "रामायण: द्वितीय भाग",
      "original_title": "रामायण: द्वितीय भाग",
      "release_date": "2028-10-17",
-     "popularity": 7.6731
+     "popularity": 6.9839
     },
     {
      "id": 1252019,
      "title": "Рамаяна",
      "original_title": "Рамаяна",
      "release_date": "1976-06-06",
-     "popularity": 0.4996
+     "popularity": 0.332
     },
     {
-     "id": 777478,
-     "title": "ラーマーヤナ",
-     "original_title": "ラーマーヤナ",
-     "release_date": "1942-01-01",
-     "popularity": 0.3876
+     "id": 622144,
+     "title": "บุษบา",
+     "original_title": "บุษบา",
+     "release_date": "2019-07-25",
+     "popularity": 0.3612
     }
    ],
-   "ts": "2026-11-20T21:59:16+00:00"
+   "ts": "2026-11-24T22:09:48+00:00"
   },
   "ramayana|2026": {
    "res": [
@@ -6925,14 +7007,14 @@
      "title": "रामायणम्",
      "original_title": "रामायणम्",
      "release_date": "2026-11-05",
-     "popularity": 148.3231
+     "popularity": 113.3388
     }
    ],
-   "ts": "2026-11-20T21:59:16+00:00"
+   "ts": "2026-11-24T22:09:48+00:00"
   },
   "ramayana|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:16+00:00"
+   "ts": "2026-11-24T22:09:48+00:00"
   },
   "resident evil|": {
    "res": [
@@ -6941,73 +7023,73 @@
      "title": "Resident Evil",
      "original_title": "Resident Evil",
      "release_date": "2026-09-16",
-     "popularity": 326.5543
+     "popularity": 257.3999
     },
     {
      "id": 1576,
      "title": "Resident Evil: Experiment fatal",
      "original_title": "Resident Evil",
      "release_date": "2002-03-15",
-     "popularity": 7.4762
-    },
-    {
-     "id": 460458,
-     "title": "Resident Evil: Bun venit în Raccoon City",
-     "original_title": "Resident Evil: Welcome to Raccoon City",
-     "release_date": "2021-11-24",
-     "popularity": 12.8917
+     "popularity": 7.6563
     },
     {
      "id": 1577,
      "title": "Resident Evil 2: Ultimul război",
      "original_title": "Resident Evil: Apocalypse",
      "release_date": "2004-09-10",
-     "popularity": 5.9776
+     "popularity": 6.358
+    },
+    {
+     "id": 460458,
+     "title": "Resident Evil: Bun venit în Raccoon City",
+     "original_title": "Resident Evil: Welcome to Raccoon City",
+     "release_date": "2021-11-24",
+     "popularity": 12.3587
     },
     {
      "id": 7737,
      "title": "Resident Evil: Dispariția",
      "original_title": "Resident Evil: Extinction",
      "release_date": "2007-09-20",
-     "popularity": 2.1665
-    },
-    {
-     "id": 71679,
-     "title": "Resident Evil: Răsplata",
-     "original_title": "Resident Evil: Retribution",
-     "release_date": "2012-09-12",
-     "popularity": 0.849
+     "popularity": 2.5086
     },
     {
      "id": 1083862,
      "title": "Resident Evil: Insula morții",
      "original_title": "バイオハザード：デスアイランド",
      "release_date": "2023-06-22",
-     "popularity": 7.5176
+     "popularity": 7.9549
+    },
+    {
+     "id": 71679,
+     "title": "Resident Evil: Răsplata",
+     "original_title": "Resident Evil: Retribution",
+     "release_date": "2012-09-12",
+     "popularity": 1.0469
     },
     {
      "id": 35791,
      "title": "Resident Evil : Viața de apoi",
      "original_title": "Resident Evil: Afterlife",
      "release_date": "2010-09-01",
-     "popularity": 0.4111
+     "popularity": 0.4958
     },
     {
      "id": 1595301,
      "title": "Resident Evil",
      "original_title": "Resident Evil",
      "release_date": "2023-10-27",
-     "popularity": 0.2696
+     "popularity": 0.3883
     },
     {
      "id": 173897,
      "title": "Resident Evil: Capitolul final",
      "original_title": "Resident Evil: The Final Chapter",
      "release_date": "2016-12-23",
-     "popularity": 0.4583
+     "popularity": 0.4876
     }
    ],
-   "ts": "2026-11-20T21:59:16+00:00"
+   "ts": "2026-11-24T22:09:48+00:00"
   },
   "resident evil|2026": {
    "res": [
@@ -7016,24 +7098,24 @@
      "title": "Resident Evil",
      "original_title": "Resident Evil",
      "release_date": "2026-09-16",
-     "popularity": 326.5543
+     "popularity": 257.3999
     },
     {
      "id": 1712451,
      "title": "Resident Dead",
      "original_title": "Resident Dead",
      "release_date": "2026-09-04",
-     "popularity": 16.5798
+     "popularity": 12.2627
     },
     {
      "id": 1627865,
      "title": "Evil Has Always Had a Name",
      "original_title": "Evil Has Always Had a Name",
      "release_date": "2026-02-02",
-     "popularity": 1.2202
+     "popularity": 1.2053
     }
    ],
-   "ts": "2026-11-20T21:59:16+00:00"
+   "ts": "2026-11-24T22:09:49+00:00"
   },
   "resident evil|2025": {
    "res": [
@@ -7042,10 +7124,10 @@
      "title": "George A. Romero's Resident Evil",
      "original_title": "George A. Romero's Resident Evil",
      "release_date": "2025-01-07",
-     "popularity": 1.2781
+     "popularity": 1.3133
     }
    ],
-   "ts": "2026-11-20T21:59:17+00:00"
+   "ts": "2026-11-24T22:09:49+00:00"
   },
   "teambuilding 2|": {
    "res": [
@@ -7054,10 +7136,10 @@
      "title": "Teambuilding 2",
      "original_title": "Teambuilding 2",
      "release_date": "2026-10-09",
-     "popularity": 3.1032
+     "popularity": 2.5983
     }
    ],
-   "ts": "2026-11-20T21:59:17+00:00"
+   "ts": "2026-11-24T22:09:49+00:00"
   },
   "teambuilding 2|2026": {
    "res": [
@@ -7066,14 +7148,14 @@
      "title": "Teambuilding 2",
      "original_title": "Teambuilding 2",
      "release_date": "2026-10-09",
-     "popularity": 3.1032
+     "popularity": 2.5983
     }
    ],
-   "ts": "2026-11-20T21:59:17+00:00"
+   "ts": "2026-11-24T22:09:49+00:00"
   },
   "teambuilding 2|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:17+00:00"
+   "ts": "2026-11-24T22:09:49+00:00"
   },
   "un talent criminal|": {
    "res": [],
@@ -7094,17 +7176,17 @@
      "title": "Vacanță all inclusive",
      "original_title": "Couples Retreat",
      "release_date": "2009-09-19",
-     "popularity": 3.8636
+     "popularity": 4.2033
     },
     {
      "id": 1679416,
      "title": "Vacanță all inclusive",
      "original_title": "Vacanță all inclusive",
      "release_date": "2026-11-06",
-     "popularity": 0.6938
+     "popularity": 0.5545
     }
    ],
-   "ts": "2026-11-20T21:59:18+00:00"
+   "ts": "2026-11-24T22:09:49+00:00"
   },
   "vacanta all inclusive|2026": {
    "res": [
@@ -7113,14 +7195,14 @@
      "title": "Vacanță all inclusive",
      "original_title": "Vacanță all inclusive",
      "release_date": "2026-11-06",
-     "popularity": 0.6938
+     "popularity": 0.5545
     }
    ],
-   "ts": "2026-11-20T21:59:18+00:00"
+   "ts": "2026-11-24T22:09:49+00:00"
   },
   "vacanta all inclusive|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:18+00:00"
+   "ts": "2026-11-24T22:09:50+00:00"
   },
   "verity|": {
    "res": [
@@ -7206,10 +7288,10 @@
      "title": "Wild Horse Nine",
      "original_title": "Wild Horse Nine",
      "release_date": "2026-10-30",
-     "popularity": 77.4323
+     "popularity": 43.9759
     }
    ],
-   "ts": "2026-11-20T21:59:18+00:00"
+   "ts": "2026-11-24T22:09:50+00:00"
   },
   "wild horse nine|2026": {
    "res": [
@@ -7218,14 +7300,14 @@
      "title": "Wild Horse Nine",
      "original_title": "Wild Horse Nine",
      "release_date": "2026-10-30",
-     "popularity": 77.4323
+     "popularity": 43.9759
     }
    ],
-   "ts": "2026-11-20T21:59:18+00:00"
+   "ts": "2026-11-24T22:09:50+00:00"
   },
   "wild horse nine|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:19+00:00"
+   "ts": "2026-11-24T22:09:50+00:00"
   },
   "wildwood|": {
    "res": [
@@ -7233,74 +7315,74 @@
      "id": 791523,
      "title": "Wildwood",
      "original_title": "Wildwood",
-     "release_date": "2026-10-19",
-     "popularity": 87.4698
+     "release_date": "2026-10-22",
+     "popularity": 61.1033
     },
     {
      "id": 1702928,
      "title": "Wildwood",
      "original_title": "Wildwood",
      "release_date": "2014-01-01",
-     "popularity": 0.3744
+     "popularity": 0.3431
     },
     {
      "id": 846780,
      "title": "Wildwood",
      "original_title": "Wildwood",
      "release_date": "",
-     "popularity": 0.2596
+     "popularity": 0.1937
     },
     {
      "id": 1722901,
      "title": "Wildwood Nights",
      "original_title": "Wildwood Nights",
      "release_date": "1990-05-09",
-     "popularity": 0.4028
+     "popularity": 0.3675
     },
     {
      "id": 205248,
      "title": "Wildwood, NJ",
      "original_title": "Wildwood, NJ",
      "release_date": "1994-03-16",
-     "popularity": 0.4017
+     "popularity": 0.3086
     },
     {
      "id": 669683,
      "title": "Wildwood Days",
      "original_title": "Wildwood Days",
      "release_date": "2004-07-15",
-     "popularity": 0.3527
-    },
-    {
-     "id": 428721,
-     "title": "Wildwood Flower",
-     "original_title": "Wildwood Flower",
-     "release_date": "1971-01-01",
-     "popularity": 0.1733
+     "popularity": 0.2761
     },
     {
      "id": 1032126,
      "title": "Wildwood, NJ",
      "original_title": "Wildwood, NJ",
      "release_date": "",
-     "popularity": 0.1754
+     "popularity": 0.1291
+    },
+    {
+     "id": 428721,
+     "title": "Wildwood Flower",
+     "original_title": "Wildwood Flower",
+     "release_date": "1971-01-01",
+     "popularity": 0.1445
     },
     {
      "id": 1019980,
      "title": "In the Wildwood",
      "original_title": "In the Wildwood",
      "release_date": "2018-10-28",
-     "popularity": 0.4268
+     "popularity": 0.2879
     },
     {
-     "id": 593326,
-     "title": "Church in the Wildwood",
-     "original_title": "Church in the Wildwood",
-     "release_date": "2005-01-01",
-     "popularity": 0.3058
+     "id": 488193,
+     "title": "The Song of the Wildwood Flute",
+     "original_title": "The Song of the Wildwood Flute",
+     "release_date": "1910-11-21",
+     "popularity": 0.5765
     }
    ],
-   "ts": "2026-11-20T21:59:19+00:00"
+   "ts": "2026-11-24T22:09:50+00:00"
   },
   "wildwood|2026": {
    "res": [
@@ -7308,27 +7390,27 @@
      "id": 791523,
      "title": "Wildwood",
      "original_title": "Wildwood",
-     "release_date": "2026-10-19",
-     "popularity": 87.4698
+     "release_date": "2026-10-22",
+     "popularity": 61.1033
     }
    ],
-   "ts": "2026-11-20T21:59:19+00:00"
+   "ts": "2026-11-24T22:09:50+00:00"
   },
   "wildwood|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:19+00:00"
+   "ts": "2026-11-24T22:09:51+00:00"
   },
   "wildwood dub|": {
    "res": [],
-   "ts": "2026-11-20T21:59:19+00:00"
+   "ts": "2026-11-24T22:09:51+00:00"
   },
   "wildwood dub|2026": {
    "res": [],
-   "ts": "2026-11-20T21:59:20+00:00"
+   "ts": "2026-11-24T22:09:51+00:00"
   },
   "wildwood dub|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:20+00:00"
+   "ts": "2026-11-24T22:09:51+00:00"
   },
   "in inima salbaticiei|": {
    "res": [
@@ -7337,10 +7419,10 @@
      "title": "În inima sălbăticiei",
      "original_title": "Heart of the Beast",
      "release_date": "2026-09-19",
-     "popularity": 431.8908
+     "popularity": 343.4337
     }
    ],
-   "ts": "2026-11-20T21:59:20+00:00"
+   "ts": "2026-11-24T22:09:51+00:00"
   },
   "in inima salbaticiei|2026": {
    "res": [
@@ -7349,14 +7431,14 @@
      "title": "În inima sălbăticiei",
      "original_title": "Heart of the Beast",
      "release_date": "2026-09-19",
-     "popularity": 431.8908
+     "popularity": 343.4337
     }
    ],
-   "ts": "2026-11-20T21:59:20+00:00"
+   "ts": "2026-11-24T22:09:51+00:00"
   },
   "in inima salbaticiei|2025": {
    "res": [],
-   "ts": "2026-11-20T21:59:21+00:00"
+   "ts": "2026-11-24T22:09:52+00:00"
   },
   "sarpele negru blestemul din amazon|": {
    "res": [],
