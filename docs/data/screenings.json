@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T21:59:40+00:00",
+ "generated": "2026-11-24T06:08:04+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 72,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 15,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,7 +105,7 @@
    "ok": true,
    "stale": false,
    "count": 21,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "cc1806": {
@@ -113,31 +113,31 @@
    "ok": true,
    "stale": false,
    "count": 293,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 249,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "count": 251,
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 220,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "count": 221,
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 259,
-   "updated": "2026-11-23T21:59:40+00:00",
+   "count": 260,
+   "updated": "2026-11-24T06:08:04+00:00",
    "error": null
   }
  },
@@ -27724,6 +27724,33 @@
    "film": "tmdb:1765072"
   },
   {
+   "id": "cc1818-753491",
+   "cinema": "cc1818",
+   "date": "2026-12-08",
+   "time": "16:30",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753491?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
    "id": "elvire-2026-12-08-18:00-bilete-film-jurnalul-unei-cameriste",
    "cinema": "elvire",
    "date": "2026-12-08",
@@ -27749,6 +27776,81 @@
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
    "film": "tmdb:1696174"
+  },
+  {
+   "id": "cc1807-753276",
+   "cinema": "cc1807",
+   "date": "2026-12-08",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753276?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1818-753499",
+   "cinema": "cc1818",
+   "date": "2026-12-08",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753499?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1824-753476",
+   "cinema": "cc1824",
+   "date": "2026-12-08",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753476?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
   },
   {
    "id": "elvire-2026-12-09-18:00-bilete-film-le-cinquieme-plan-de-la-jetee",
@@ -28915,7 +29017,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240622,
+   "imdb_votes": 240668,
    "lb_rating": 4.12
   },
   "tmdb:1472684": {
@@ -28973,7 +29075,7 @@
    "runtime": 96,
    "source": "tmdb",
    "imdb_rating": 6.6,
-   "imdb_votes": 26556,
+   "imdb_votes": 26707,
    "lb_rating": 3.07
   },
   "tmdb:1783294": {
@@ -29007,7 +29109,7 @@
    "runtime": 96,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 5752,
+   "imdb_votes": 5753,
    "lb_rating": 3.84
   },
   "tmdb:1399462": {
@@ -29024,7 +29126,7 @@
    "runtime": 116,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 2716,
+   "imdb_votes": 2721,
    "lb_rating": 3.67
   },
   "tmdb:34187": {
@@ -29041,7 +29143,7 @@
    "runtime": 88,
    "source": "tmdb",
    "imdb_rating": 6.9,
-   "imdb_votes": 4920,
+   "imdb_votes": 4919,
    "lb_rating": 3.46
   },
   "tmdb:1585239": {
@@ -29057,8 +29159,8 @@
    "imdb_id": "tt38058097",
    "runtime": 122,
    "source": "tmdb",
-   "imdb_rating": 8.1,
-   "imdb_votes": 3094,
+   "imdb_rating": 8.2,
+   "imdb_votes": 3308,
    "lb_rating": 4.44
   },
   "tmdb:8834": {
@@ -29075,7 +29177,7 @@
    "runtime": 135,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 116192,
+   "imdb_votes": 116209,
    "lb_rating": 3.18
   },
   "tmdb:454294": {
@@ -29092,7 +29194,7 @@
    "runtime": 120,
    "source": "tmdb",
    "imdb_rating": 6.1,
-   "imdb_votes": 21005,
+   "imdb_votes": 21008,
    "lb_rating": 2.87
   },
   "t:craciun fara semnal misiunea lui yoyo": {
@@ -29121,7 +29223,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 55409,
+   "imdb_votes": 55656,
    "lb_rating": 3.71
   },
   "t:concertul de craciun al lui andre rieu d": {
@@ -29186,7 +29288,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.7,
-   "imdb_votes": 1489,
+   "imdb_votes": 1499,
    "lb_rating": 3.94
   },
   "tmdb:265092": {
@@ -29265,7 +29367,7 @@
    "runtime": 80,
    "source": "tmdb",
    "imdb_rating": 4.3,
-   "imdb_votes": 673,
+   "imdb_votes": 675,
    "lb_rating": 2.39
   },
   "t:dune re release": {
@@ -29306,7 +29408,7 @@
    "runtime": 136,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 4549,
+   "imdb_votes": 4584,
    "lb_rating": 3.84
   },
   "tmdb:11527": {
@@ -29323,7 +29425,7 @@
    "runtime": 141,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 75625,
+   "imdb_votes": 75636,
    "lb_rating": 3.75
   },
   "t:ebenezer o poveste de craciun": {
@@ -29365,7 +29467,7 @@
    "runtime": 113,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 478,
+   "imdb_votes": 488,
    "lb_rating": 4.18
   },
   "t:hexe regatul magiei": {
@@ -29394,7 +29496,7 @@
    "runtime": 139,
    "source": "tmdb",
    "imdb_rating": 5.9,
-   "imdb_votes": 1773,
+   "imdb_votes": 1783,
    "lb_rating": 2.93
   },
   "tmdb:1286656": {
@@ -29411,7 +29513,7 @@
    "runtime": 128,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 8795,
+   "imdb_votes": 9835,
    "lb_rating": 3.77
   },
   "t:iesirea trenurilor din gara a pedepsi a supraveghea": {
@@ -29475,8 +29577,8 @@
    "imdb_id": "tt32558705",
    "runtime": 159,
    "source": "tmdb",
-   "imdb_rating": 7.6,
-   "imdb_votes": 20361
+   "imdb_rating": 7.5,
+   "imdb_votes": 25680
   },
   "tmdb:1410189": {
    "tmdb_id": 1410189,
@@ -29509,7 +29611,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 138,
+   "imdb_votes": 139,
    "lb_rating": 3.19
   },
   "tmdb:1379924": {
@@ -29543,7 +29645,7 @@
    "runtime": 137,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 948115,
+   "imdb_votes": 948233,
    "lb_rating": 4.13
   },
   "t:lucy lost": {
@@ -29600,7 +29702,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2669,
+   "imdb_votes": 2773,
    "lb_rating": 3.71
   },
   "tmdb:140870": {
@@ -29618,7 +29720,7 @@
    "runtime": 89,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 9805,
+   "imdb_votes": 9804,
    "lb_rating": 3.69
   },
   "t:misterul lui lucy lost": {
@@ -29689,7 +29791,7 @@
    "runtime": 81,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 4191,
+   "imdb_votes": 4228,
    "lb_rating": 3.57
   },
   "tmdb:1815513": {
@@ -29749,7 +29851,7 @@
    "runtime": 154,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 136,
+   "imdb_votes": 139,
    "lb_rating": 3.57
   },
   "tmdb:1755291": {
@@ -29766,8 +29868,8 @@
    "imdb_id": "tt44766123",
    "runtime": 77,
    "source": "tmdb",
-   "imdb_rating": 8.3,
-   "imdb_votes": 7904,
+   "imdb_rating": 8.4,
+   "imdb_votes": 7979,
    "lb_rating": 4.54
   },
   "tmdb:1773633": {
@@ -29800,7 +29902,7 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1005090,
+   "imdb_votes": 1005179,
    "lb_rating": 3.88
   },
   "tmdb:1381273": {
@@ -29817,7 +29919,7 @@
    "runtime": 115,
    "source": "tmdb",
    "imdb_rating": 6.9,
-   "imdb_votes": 1896,
+   "imdb_votes": 1993,
    "lb_rating": 3.38
   },
   "tmdb:797": {
@@ -29834,7 +29936,7 @@
    "runtime": 85,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 143076,
+   "imdb_votes": 143085,
    "lb_rating": 4.37
   },
   "tmdb:1172260": {
@@ -29866,8 +29968,8 @@
    "imdb_id": "tt42558356",
    "runtime": 84,
    "source": "tmdb",
-   "imdb_rating": 8.6,
-   "imdb_votes": 47
+   "imdb_rating": 8.7,
+   "imdb_votes": 48
   },
   "tmdb:1765072": {
    "tmdb_id": 1765072,
@@ -29884,7 +29986,7 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 9.0,
-   "imdb_votes": 42246,
+   "imdb_votes": 43846,
    "lb_rating": 4.58
   },
   "tmdb:1375441": {
@@ -29901,7 +30003,7 @@
    "runtime": 110,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 50004,
+   "imdb_votes": 50740,
    "lb_rating": 3.63
   },
   "t:proiectie teatru copii capra cu trei iezi": {
@@ -29966,7 +30068,7 @@
    "runtime": 94,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 176333,
+   "imdb_votes": 177651,
    "lb_rating": 3.73
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
@@ -30088,7 +30190,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 25684,
+   "imdb_votes": 26593,
    "lb_rating": 4.15
   },
   "tmdb:791523": {
@@ -30105,7 +30207,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 33208,
+   "imdb_votes": 33657,
    "lb_rating": 4.38
   },
   "t:wildwood dub": {
@@ -30134,7 +30236,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 7.9,
-   "imdb_votes": 802668,
+   "imdb_votes": 802753,
    "lb_rating": 3.73
   },
   "tmdb:28415": {
@@ -30151,7 +30253,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 11932,
+   "imdb_votes": 11934,
    "lb_rating": 3.72
   },
   "t:imi este indiferent daca in istorie vom intra ca barbari cele doua executii ale maresalului": {
@@ -30180,7 +30282,7 @@
    "runtime": 101,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 65225,
+   "imdb_votes": 66306,
    "lb_rating": 3.29
   },
   "t:tara moarta amintiri de pe frontul de est": {
