@@ -2327,8 +2327,8 @@
    "imdb_id": "tt11995650",
    "runtime": 128,
    "fetched": "2026-11-17T18:10:46+00:00",
-   "lb": 3.77,
-   "lb_ts": "2026-11-17T18:10:47+00:00"
+   "lb": 3.83,
+   "lb_ts": "2026-11-25T22:08:19+00:00"
   },
   "36245": {
    "title": "Jurnalul unei cameriste",
@@ -7818,15 +7818,15 @@
   },
   "i play rocky povestea din spatele legen|": {
    "res": [],
-   "ts": "2026-11-21T21:52:30+00:00"
+   "ts": "2026-11-25T22:08:16+00:00"
   },
   "i play rocky povestea din spatele legen|2026": {
    "res": [],
-   "ts": "2026-11-21T21:52:30+00:00"
+   "ts": "2026-11-25T22:08:16+00:00"
   },
   "i play rocky povestea din spatele legen|2025": {
    "res": [],
-   "ts": "2026-11-21T21:52:30+00:00"
+   "ts": "2026-11-25T22:08:17+00:00"
   },
   "i play rocky|": {
    "res": [
@@ -7835,10 +7835,10 @@
      "title": "I Play Rocky",
      "original_title": "I Play Rocky",
      "release_date": "2026-11-06",
-     "popularity": 54.6296
+     "popularity": 53.9845
     }
    ],
-   "ts": "2026-11-21T21:52:31+00:00"
+   "ts": "2026-11-25T22:08:17+00:00"
   },
   "i play rocky|2026": {
    "res": [
@@ -7847,26 +7847,26 @@
      "title": "I Play Rocky",
      "original_title": "I Play Rocky",
      "release_date": "2026-11-06",
-     "popularity": 54.6296
+     "popularity": 53.9845
     }
    ],
-   "ts": "2026-11-21T21:52:31+00:00"
+   "ts": "2026-11-25T22:08:17+00:00"
   },
   "i play rocky|2025": {
    "res": [],
-   "ts": "2026-11-21T21:52:31+00:00"
+   "ts": "2026-11-25T22:08:17+00:00"
   },
   "povestea din spatele legen|": {
    "res": [],
-   "ts": "2026-11-21T21:52:31+00:00"
+   "ts": "2026-11-25T22:08:18+00:00"
   },
   "povestea din spatele legen|2026": {
    "res": [],
-   "ts": "2026-11-21T21:52:31+00:00"
+   "ts": "2026-11-25T22:08:18+00:00"
   },
   "povestea din spatele legen|2025": {
    "res": [],
-   "ts": "2026-11-21T21:52:32+00:00"
+   "ts": "2026-11-25T22:08:18+00:00"
   },
   "hexe regatul magiei|": {
    "res": [],
@@ -10500,6 +10500,42 @@
   "ma intorc de craciun 12|2025": {
    "res": [],
    "ts": "2026-11-25T14:32:01+00:00"
+  },
+  "atractii vaste filme de calatorie cu acompaniament muzical|": {
+   "res": [],
+   "ts": "2026-11-25T22:08:14+00:00"
+  },
+  "atractii vaste filme de calatorie cu acompaniament muzical|2026": {
+   "res": [],
+   "ts": "2026-11-25T22:08:14+00:00"
+  },
+  "atractii vaste filme de calatorie cu acompaniament muzical|2025": {
+   "res": [],
+   "ts": "2026-11-25T22:08:15+00:00"
+  },
+  "atractii vaste|": {
+   "res": [],
+   "ts": "2026-11-25T22:08:15+00:00"
+  },
+  "atractii vaste|2026": {
+   "res": [],
+   "ts": "2026-11-25T22:08:15+00:00"
+  },
+  "atractii vaste|2025": {
+   "res": [],
+   "ts": "2026-11-25T22:08:15+00:00"
+  },
+  "filme de calatorie cu acompaniament muzical|": {
+   "res": [],
+   "ts": "2026-11-25T22:08:16+00:00"
+  },
+  "filme de calatorie cu acompaniament muzical|2026": {
+   "res": [],
+   "ts": "2026-11-25T22:08:16+00:00"
+  },
+  "filme de calatorie cu acompaniament muzical|2025": {
+   "res": [],
+   "ts": "2026-11-25T22:08:16+00:00"
   }
  },
  "pages": {
