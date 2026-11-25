@@ -265,8 +265,8 @@
    "imdb_id": "tt28088049",
    "runtime": 111,
    "fetched": "2026-11-16T12:39:07+00:00",
-   "lb": 3.15,
-   "lb_ts": "2026-11-16T12:39:37+00:00"
+   "lb": 3.14,
+   "lb_ts": "2026-11-25T12:04:03+00:00"
   },
   "915935": {
    "title": "Anatomia unei prăbușiri",
@@ -784,7 +784,7 @@
    "runtime": 121,
    "fetched": "2026-11-16T12:39:29+00:00",
    "lb": 3.83,
-   "lb_ts": "2026-11-16T12:40:29+00:00"
+   "lb_ts": "2026-11-25T12:04:12+00:00"
   },
   "379149": {
    "title": "Străinul",
@@ -2278,7 +2278,9 @@
    "overview": "Paul Atreides, un tânăr strălucit și talentat născut cu un mare destin, dincolo de capacitatea lui de înțelegere, trebuie să călătorească pe cea mai periculoasă planetă din univers pentru a asigura viitorul familiei și poporului său. Pe măsură ce forțe malefice intră în conflict pentru monopolul asupra celei mai de preț resurse a planetei - o marfă capabilă să descătușeze cel mai mare potențial al umanității, doar cei care își pot învinge frica vor supraviețui.",
    "imdb_id": "tt1160419",
    "runtime": 155,
-   "fetched": "2026-11-17T06:11:10+00:00"
+   "fetched": "2026-11-17T06:11:10+00:00",
+   "lb": 3.9,
+   "lb_ts": "2026-11-25T12:04:05+00:00"
   },
   "841": {
    "title": "Dune",
@@ -3733,6 +3735,83 @@
    "fetched": "2026-11-24T22:09:42+00:00",
    "lb": 3.22,
    "lb_ts": "2026-11-24T22:09:59+00:00"
+  },
+  "1117898": {
+   "title": "Cotoi cu pălărioi",
+   "original_title": "The Cat in the Hat",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+   "directors": [
+    "Erica Rivinoja",
+    "Alessandro Carloni"
+   ],
+   "cast": [
+    "Bill Hader",
+    "Xochitl Gomez",
+    "Tiago Martinez",
+    "Matt Berry",
+    "Quinta Brunson",
+    "Bowen Yang"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt2321555",
+   "runtime": 108,
+   "fetched": "2026-11-25T12:03:57+00:00",
+   "lb": 3.07,
+   "lb_ts": "2026-11-25T12:04:01+00:00"
+  },
+  "693134": {
+   "title": "Dune: Partea II",
+   "original_title": "Dune: Part Two",
+   "orig_lang": "en",
+   "year": "2024",
+   "poster": "https://image.tmdb.org/t/p/w185/lkVVuYM9eHo4wBFm766qId4PNhE.jpg",
+   "directors": [
+    "Denis Villeneuve"
+   ],
+   "cast": [
+    "Timothée Chalamet",
+    "Zendaya",
+    "Rebecca Ferguson",
+    "Javier Bardem",
+    "Josh Brolin",
+    "Austin Butler"
+   ],
+   "v": 2,
+   "overview": "Dune: Partea II explorează călătoria mitică a lui Paul Atreides în timp ce se asociază cu Chani și Fremen pentru a pune la cale răzbunarea împotriva conspiratorilor care i-au distrus familia. În fața alegerii între dragostea vieții sale și soarta universului, el se străduiește să prevină un viitor teribil ce doar el îl poate vedea.",
+   "imdb_id": "tt15239678",
+   "runtime": 167,
+   "fetched": "2026-11-25T12:03:58+00:00",
+   "lb": 4.38,
+   "lb_ts": "2026-11-25T12:04:07+00:00"
+  },
+  "1465063": {
+   "title": "Insula pierdută",
+   "original_title": "Forgotten Island",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/kd3ByVY5ln7nxAHUe8QRl3NZC0R.jpg",
+   "directors": [
+    "Januel Mercado",
+    "Joel Crawford"
+   ],
+   "cast": [
+    "H.E.R.",
+    "Liza Soberano",
+    "Dave Franco",
+    "Jenny Slate",
+    "Manny Jacinto",
+    "Lea Salonga"
+   ],
+   "v": 2,
+   "overview": "Jo și Raissa, absolvente de liceu, sunt cele mai bune prietene încă din școala primară, dar se pregătesc acum să pornească pe drumuri diferite în viață. În timp ce își petrec ultima seară împreună, Jo și Raissa descoperă din întâmplare un portal misterios, care le transportă pe fantastica insulă Nakali, plină de făpturi magice și mitologice despre care au auzit povești în familiile lor filipineze.",
+   "imdb_id": "tt36583977",
+   "runtime": 109,
+   "fetched": "2026-11-25T12:03:58+00:00",
+   "lb": 3.85,
+   "lb_ts": "2026-11-25T12:04:09+00:00"
   }
  },
  "search": {
@@ -10297,6 +10376,118 @@
   "misiunea lui yoyo d|2025": {
    "res": [],
    "ts": "2026-11-25T11:48:14+00:00"
+  },
+  "cotoi cu palarioi|": {
+   "res": [
+    {
+     "id": 1117898,
+     "title": "Cotoi cu pălărioi",
+     "original_title": "The Cat in the Hat",
+     "release_date": "2026-10-31",
+     "popularity": 39.9058
+    }
+   ],
+   "ts": "2026-11-25T12:03:57+00:00"
+  },
+  "cotoi cu palarioi|2026": {
+   "res": [
+    {
+     "id": 1117898,
+     "title": "Cotoi cu pălărioi",
+     "original_title": "The Cat in the Hat",
+     "release_date": "2026-10-31",
+     "popularity": 39.9058
+    }
+   ],
+   "ts": "2026-11-25T12:03:57+00:00"
+  },
+  "cotoi cu palarioi|2025": {
+   "res": [],
+   "ts": "2026-11-25T12:03:57+00:00"
+  },
+  "dune part two|": {
+   "res": [
+    {
+     "id": 693134,
+     "title": "Dune: Partea II",
+     "original_title": "Dune: Part Two",
+     "release_date": "2024-02-27",
+     "popularity": 55.8793
+    }
+   ],
+   "ts": "2026-11-25T12:03:57+00:00"
+  },
+  "dune part two|2026": {
+   "res": [],
+   "ts": "2026-11-25T12:03:57+00:00"
+  },
+  "dune part two|2025": {
+   "res": [],
+   "ts": "2026-11-25T12:03:57+00:00"
+  },
+  "insula pierduta|": {
+   "res": [
+    {
+     "id": 1465063,
+     "title": "Insula pierdută",
+     "original_title": "Forgotten Island",
+     "release_date": "2026-09-10",
+     "popularity": 58.063
+    }
+   ],
+   "ts": "2026-11-25T12:03:58+00:00"
+  },
+  "insula pierduta|2026": {
+   "res": [
+    {
+     "id": 1465063,
+     "title": "Insula pierdută",
+     "original_title": "Forgotten Island",
+     "release_date": "2026-09-10",
+     "popularity": 58.063
+    }
+   ],
+   "ts": "2026-11-25T12:03:58+00:00"
+  },
+  "insula pierduta|2025": {
+   "res": [],
+   "ts": "2026-11-25T12:03:58+00:00"
+  },
+  "mia si scoala de monstri|": {
+   "res": [],
+   "ts": "2026-11-25T12:03:58+00:00"
+  },
+  "mia si scoala de monstri|2026": {
+   "res": [],
+   "ts": "2026-11-25T12:03:59+00:00"
+  },
+  "mia si scoala de monstri|2025": {
+   "res": [],
+   "ts": "2026-11-25T12:03:59+00:00"
+  },
+  "micul mamut aventuri in africa|": {
+   "res": [],
+   "ts": "2026-11-25T12:03:59+00:00"
+  },
+  "micul mamut aventuri in africa|2026": {
+   "res": [],
+   "ts": "2026-11-25T12:03:59+00:00"
+  },
+  "micul mamut aventuri in africa|2025": {
+   "res": [],
+   "ts": "2026-11-25T12:03:59+00:00"
+  },
+  "aventuri in africa|": {
+   "res": [],
+   "ts": "2026-11-25T12:03:59+00:00"
+  },
+  "aventuri in africa|2026": {
+   "res": [],
+   "ts": "2026-11-25T12:03:59+00:00"
+  },
+  "aventuri in africa|2025": {
+   "res": [],
+   "ts": "2026-11-25T12:04:00+00:00"
   }
  },
  "pages": {
