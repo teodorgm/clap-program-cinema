@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T14:29:35+00:00",
+ "generated": "2026-11-25T17:57:01+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -72,16 +72,16 @@
    "name": "Elvire Popesco",
    "ok": true,
    "stale": false,
-   "count": 71,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 70,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "union": {
    "name": "Union",
    "ok": true,
    "stale": false,
-   "count": 13,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 12,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,2093 +89,59 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "eforie": {
    "name": "Eforie",
    "ok": true,
    "stale": false,
-   "count": 12,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 11,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "muzeu": {
    "name": "Muzeul Țăranului",
    "ok": true,
    "stale": false,
-   "count": 34,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 33,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 774,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 750,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 622,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 600,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 556,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 539,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 653,
-   "updated": "2026-11-25T14:29:35+00:00",
+   "count": 631,
+   "updated": "2026-11-25T17:57:01+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "cc1806-750916",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "16:20",
-   "title": "Mia și școala de monștri",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/mia-si-scoala-de-monstri-dub/8337d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750916?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri"
-  },
-  {
-   "id": "cc1807-747898",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "16:20",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/747898?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1818-749323",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "16:20",
-   "title": "Insula pierduta",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/insula-pierduta-dub/8095s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749323?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1465063"
-  },
-  {
-   "id": "cc1824-745914",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "16:20",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/745914?lang=ro",
-   "hall": "1",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1806-751146",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "16:30",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751146?lang=ro",
-   "hall": "15",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1807-749228",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "16:30",
-   "title": "Wildwood",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/wildwood/8340s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/749228?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8340S2R.jpg",
-   "year": "2026",
-   "runtime": 139,
-   "film": "tmdb:791523"
-  },
-  {
-   "id": "cc1807-749543",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "16:30",
-   "title": "Copilul nopții",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/copilul-noptii/8159s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/749543?lang=ro",
-   "hall": "10",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8159S2R.jpg",
-   "year": "2026",
-   "runtime": 92,
-   "film": "t:copilul noptii"
-  },
-  {
-   "id": "cc1818-749166",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "16:30",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749166?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "eforie-2026-11-25-16:30-bilete-conspiracy-theory-teoria-conspiratiei",
-   "cinema": "eforie",
-   "date": "2026-11-25",
-   "time": "16:30",
-   "title": "CONSPIRACY THEORY / TEORIA CONSPIRAȚIEI",
-   "age": null,
-   "note": null,
-   "audio": [],
-   "subs": [],
-   "prices": {
-    "adult": 15
-   },
-   "box": {
-    "student": 5,
-    "pensioner": 5
-   },
-   "status": "ok",
-   "url": "https://eventbook.ro/film/bilete-conspiracy-theory-teoria-conspiratiei?hall=cinema-eforie",
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-conspiracy-theory-teoria-conspiratiei-pEE.webp",
-   "film": "tmdb:8834"
-  },
-  {
-   "id": "cc1806-750842",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "16:40",
-   "title": "Teambuilding 2",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/teambuilding-2/8329o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750842?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
-   "year": "2026",
-   "runtime": 110,
-   "film": "tmdb:1756532"
-  },
-  {
-   "id": "cc1807-748243",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "16:40",
-   "title": "Mia și școala de monștri",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/mia-si-scoala-de-monstri-dub/8337d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/748243?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri"
-  },
-  {
-   "id": "cc1818-749027",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "16:40",
-   "title": "Wildwood",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/wildwood/8340s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749027?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8340S2R.jpg",
-   "year": "2026",
-   "runtime": 139,
-   "film": "tmdb:791523"
-  },
-  {
-   "id": "cc1824-750366",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "16:40",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/baiat-de-milioane/8334o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750366?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-748421",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "16:45",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/baiat-de-milioane/8334o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/748421?lang=ro",
-   "hall": "2",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1824-750140",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "16:45",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750140?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "cc1818-750008",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "16:50",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/750008?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
-   "id": "cc1824-750422",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "16:50",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750422?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-762189",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "16:50",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762189?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1806-750471",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750471?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
-   "id": "cc1806-750661",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750661?lang=ro",
-   "hall": "4",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1806-751180",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/lucy-lost/8523s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751180?lang=ro",
-   "hall": "16",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1806-751205",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Minotaur",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/minotaur/8524s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751205?lang=ro",
-   "hall": "17",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8524S2R.jpg",
-   "year": "2026",
-   "runtime": 141,
-   "film": "tmdb:848700"
-  },
-  {
-   "id": "cc1807-747268",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/747268?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "cc1818-748785",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/748785?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1818-749844",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749844?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-750108",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750108?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1824-750644",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750644?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
-   "id": "elvire-2026-11-25-17:00-bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est",
-   "cinema": "elvire",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "title": "ȚARA MOARTĂ + AMINTIRI DE PE FRONTUL DE EST",
-   "age": null,
-   "note": null,
-   "audio": [],
-   "subs": [],
-   "prices": {
-    "adult": 27,
-    "student": 16,
-    "pensioner": 16
-   },
-   "box": {},
-   "status": "ok",
-   "url": "https://eventbook.ro/film/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est?hall=cinema-elvire-popesco",
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est-5aU.webp",
-   "film": "t:tara moarta amintiri de pe frontul de est"
-  },
-  {
-   "id": "cc1807-750287",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "17:10",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/750287?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
-   "id": "cc1818-749680",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "17:10",
-   "title": "Mia și școala de monștri",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/mia-si-scoala-de-monstri-dub/8337d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749680?lang=ro",
-   "hall": "10",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri"
-  },
-  {
-   "id": "cc1824-749890",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "17:10",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/749890?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1807-749370",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "17:15",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/749370?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1807-747554",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "17:20",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/747554?lang=ro",
-   "hall": "4",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1818-748815",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "17:20",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/748815?lang=ro",
-   "hall": "4",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1806-750889",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:30",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750889?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
-   "id": "cc1806-751216",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:30",
-   "title": "Wildwood",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/wildwood/8340s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751216?lang=ro",
-   "hall": "18",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8340S2R.jpg",
-   "year": "2026",
-   "runtime": 139,
-   "film": "tmdb:791523"
-  },
-  {
-   "id": "cc1807-746974",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "17:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/746974?lang=ro",
-   "hall": "2",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1807-748855",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "17:30",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/lucy-lost/8523s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/748855?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-749736",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "17:30",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/lucy-lost/8523s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/749736?lang=ro",
-   "hall": "2",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1806-721222",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:40",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/721222?lang=ro",
-   "hall": "1",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-750764",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:40",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/cum-sa-spargi-o-banca/8309s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750764?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1437511"
-  },
-  {
-   "id": "cc1806-751117",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:40",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751117?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1806-751275",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:40",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/baiat-de-milioane/8334o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751275?lang=ro",
-   "hall": "20",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1807-746827",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "17:40",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/cum-sa-spargi-o-banca/8309s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/746827?lang=ro",
-   "hall": "1",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1437511"
-  },
-  {
-   "id": "cc1824-721114",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "17:40",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/721114?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "union-2026-11-25-17:45-bilete-jurnalul-unei-cameriste-film",
-   "cinema": "union",
-   "date": "2026-11-25",
-   "time": "17:45",
-   "title": "Jurnalul unei cameriste",
-   "age": "15+",
-   "note": null,
-   "audio": [
-    "RO",
-    "FR"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "prices": {
-    "adult": 15
-   },
-   "box": {
-    "student": 5,
-    "pensioner": 5
-   },
-   "status": "ok",
-   "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
-   "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1806-750977",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:50",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750977?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1806-751236",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "17:50",
-   "title": "Nimic mai mult si nimic diferit",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/nimic-mai-mult-si-nimic-diferit/8526o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751236?lang=ro",
-   "hall": "19",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8526O2R.jpg",
-   "year": "2026",
-   "runtime": 84,
-   "film": "tmdb:1773633"
-  },
-  {
-   "id": "cc1824-750597",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "17:50",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750597?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1807-750573",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "18:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/750573?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1818-750044",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "18:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/lucy-lost/8523s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/750044?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "muzeu-2026-11-25-18:00-bilete-delta-salbatica-film",
-   "cinema": "muzeu",
-   "date": "2026-11-25",
-   "time": "18:00",
-   "title": "DELTA SĂLBATICĂ",
-   "age": "A.G.",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "prices": {
-    "adult": 32
-   },
-   "box": {
-    "pensioner": 16,
-    "student": 8
-   },
-   "status": "ok",
-   "url": "https://eventbook.ro/film/bilete-delta-salbatica-film?hall=cinema-muzeul-taranului-studio-horia-bernea",
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-delta-salbatica-film-nGt.webp",
-   "film": "tmdb:1756136"
-  },
-  {
-   "id": "cc1818-721014",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "18:05",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/721014?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-750870",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "18:15",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/baiat-de-milioane/8334o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750870?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1807-750490",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "18:15",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/baiat-de-milioane/8334o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/750490?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1818-749172",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "18:15",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749172?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "cc1806-750917",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "18:20",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750917?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1818-749573",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "18:20",
-   "title": "Teambuilding 2",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/teambuilding-2/8329o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749573?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
-   "year": "2026",
-   "runtime": 110,
-   "film": "tmdb:1756532"
-  },
-  {
-   "id": "cc1824-750080",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "18:20",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/cum-sa-spargi-o-banca/8309s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750080?lang=ro",
-   "hall": "4",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1437511"
-  },
-  {
-   "id": "cc1824-750144",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "18:30",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750144?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "cc1807-748237",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "18:35",
-   "title": "Insula pierduta",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/insula-pierduta-dub/8095s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/748237?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1465063"
-  },
-  {
-   "id": "cc1807-749549",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "18:40",
-   "title": "Copilul nopții",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/copilul-noptii/8159s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/749549?lang=ro",
-   "hall": "10",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8159S2R.jpg",
-   "year": "2026",
-   "runtime": 92,
-   "film": "t:copilul noptii"
-  },
-  {
-   "id": "cc1818-749328",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "18:40",
-   "title": "Copilul nopții",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/copilul-noptii/8159s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749328?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8159S2R.jpg",
-   "year": "2026",
-   "runtime": 92,
-   "film": "t:copilul noptii"
-  },
-  {
-   "id": "cc1824-750406",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "18:40",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750406?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
-   "id": "cc1806-750229",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "18:45",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750229?lang=ro",
-   "hall": "2",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-750843",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750843?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-751064",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D",
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751064?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1806-751544",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "3D",
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751544?lang=ro",
-   "hall": "16",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1807-747336",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/747336?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1807-749814",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Poți vedea totul",
-   "age": "N-15",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/poti-vedea-totul/8661s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/749814?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8661S2R.jpg",
-   "year": "2026",
-   "runtime": 174,
-   "film": "tmdb:1765072"
-  },
-  {
-   "id": "cc1818-720996",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "4DX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/720996?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1818-748669",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/748669?lang=ro",
-   "hall": "2",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
-   "id": "cc1818-749849",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749849?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-721054",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/721054?lang=ro",
-   "hall": "10",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1824-745920",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/745920?lang=ro",
-   "hall": "1",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1824-750603",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750603?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
   {
    "id": "eforie-2026-11-25-19:00-bilete-100-de-lei",
    "cinema": "eforie",
@@ -2199,364 +165,6 @@
    "url": "https://eventbook.ro/film/bilete-100-de-lei?hall=cinema-eforie",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2023/01/bilete-100-de-lei-XhO.jpg",
    "film": "t:100 de lei suta de lei"
-  },
-  {
-   "id": "cc1806-751542",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "19:10",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751542?lang=ro",
-   "hall": "15",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
-   "id": "cc1807-748066",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "19:10",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/748066?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "cc1824-750694",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "19:10",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750694?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-750667",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "19:20",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750667?lang=ro",
-   "hall": "4",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1807-749298",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "19:20",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/749298?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1818-746019",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:20",
-   "title": "Cum să spargi o bancă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/cum-sa-spargi-o-banca/8309s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/746019?lang=ro",
-   "hall": "1",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8309S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1437511"
-  },
-  {
-   "id": "cc1818-749727",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:20",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749727?lang=ro",
-   "hall": "10",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1818-750014",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:20",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/750014?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
-   "id": "cc1824-750116",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "19:20",
-   "title": "Minotaur",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RU"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/minotaur/8524s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750116?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8524S2R.jpg",
-   "year": "2026",
-   "runtime": 141,
-   "film": "tmdb:848700"
-  },
-  {
-   "id": "cc1806-721286",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "19:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "IMAX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/721286?lang=ro",
-   "hall": "21",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-750473",
-   "cinema": "cc1806",
-   "date": "2026-11-25",
-   "time": "19:30",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750473?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
-   "id": "cc1807-720631",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "19:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/720631?lang=ro",
-   "hall": "15",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-746979",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "19:30",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/746979?lang=ro",
-   "hall": "2",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
   },
   {
    "id": "elvire-2026-11-25-19:30-bilete-retrospectiva-integrala-radu-jude-imi-este-indiferent-daca-in-istorie-vom-intra-ca-barbari-cele-doua-executii-ale-maresal",
@@ -2604,114 +212,6 @@
    "url": "https://eventbook.ro/film/bilete-lumina?hall=cinema-union",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lumina-GaZ.webp",
    "film": "tmdb:1501247"
-  },
-  {
-   "id": "cc1807-748861",
-   "cinema": "cc1807",
-   "date": "2026-11-25",
-   "time": "19:40",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/748861?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1818-748791",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:40",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/748791?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
-   "id": "cc1818-749052",
-   "cinema": "cc1818",
-   "date": "2026-11-25",
-   "time": "19:40",
-   "title": "Soldatul fantomă",
-   "age": "N-15",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749052?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "t:soldatul fantoma"
-  },
-  {
-   "id": "cc1824-749804",
-   "cinema": "cc1824",
-   "date": "2026-11-25",
-   "time": "19:40",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": "Avanpremieră",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/749804?lang=ro",
-   "hall": "2",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
   },
   {
    "id": "cc1807-747794",
@@ -18194,35 +15694,6 @@
    "film": "tmdb:1567605"
   },
   {
-   "id": "cc1824-760392",
-   "cinema": "cc1824",
-   "date": "2026-11-27",
-   "time": "20:10",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760392?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1807-755672",
    "cinema": "cc1807",
    "date": "2026-11-27",
@@ -27186,35 +24657,6 @@
    "film": "tmdb:1567605"
   },
   {
-   "id": "cc1824-760432",
-   "cinema": "cc1824",
-   "date": "2026-11-28",
-   "time": "20:10",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760432?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1807-759252",
    "cinema": "cc1807",
    "date": "2026-11-28",
@@ -30847,7 +28289,7 @@
    "film": "t:micul mamut aventuri in africa"
   },
   {
-   "id": "cc1824-762219",
+   "id": "cc1824-762221",
    "cinema": "cc1824",
    "date": "2026-11-29",
    "time": "13:10",
@@ -30866,8 +28308,8 @@
    "box": {},
    "status": "ok",
    "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762219?lang=ro",
-   "hall": "13",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762221?lang=ro",
+   "hall": "14",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
    "year": "2026",
    "runtime": 73,
@@ -31033,6 +28475,34 @@
    "film": "t:hexe regatul magiei"
   },
   {
+   "id": "cc1824-762218",
+   "cinema": "cc1824",
+   "date": "2026-11-29",
+   "time": "13:30",
+   "title": "Cotoi cu pălărioi",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "3D",
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/cotoi-cu-palarioi-dub/7482s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762218?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7482S2R.jpg",
+   "year": "2026",
+   "runtime": 107,
+   "film": "tmdb:1117898"
+  },
+  {
    "id": "cc1806-758474",
    "cinema": "cc1806",
    "date": "2026-11-29",
@@ -31169,34 +28639,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1824-762218",
-   "cinema": "cc1824",
-   "date": "2026-11-29",
-   "time": "13:40",
-   "title": "Cotoi cu pălărioi",
-   "age": null,
-   "note": "Avanpremieră",
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/cotoi-cu-palarioi-dub/7482s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762218?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7482S2R.jpg",
-   "year": "2026",
-   "runtime": 107,
-   "film": "tmdb:1117898"
-  },
-  {
    "id": "cc1806-759909",
    "cinema": "cc1806",
    "date": "2026-11-29",
@@ -31267,9 +28709,12 @@
     "RO"
    ],
    "prices": {
-    "adult": 300
+    "adult": 32
    },
-   "box": {},
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-misterul-lui-lucy-lost?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/lucy-lost-afis-ro.jpg",
@@ -31410,6 +28855,35 @@
    "film": "tmdb:1679416"
   },
   {
+   "id": "cc1824-760436",
+   "cinema": "cc1824",
+   "date": "2026-11-29",
+   "time": "14:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760436?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1818-753980",
    "cinema": "cc1818",
    "date": "2026-11-29",
@@ -31514,35 +28988,6 @@
    "year": "2026",
    "runtime": 112,
    "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1824-760436",
-   "cinema": "cc1824",
-   "date": "2026-11-29",
-   "time": "14:10",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760436?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-756403",
@@ -32191,35 +29636,6 @@
    "film": "t:micul mamut aventuri in africa"
   },
   {
-   "id": "cc1824-760134",
-   "cinema": "cc1824",
-   "date": "2026-11-29",
-   "time": "15:00",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760134?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
    "id": "elvire-2026-11-29-15:00-bilete-retrospectiva-integrala-radu-jude-8-ilustrate-din-utopia-little-poems-in-prose",
    "cinema": "elvire",
    "date": "2026-11-29",
@@ -32515,6 +29931,33 @@
    "film": "t:lucy lost"
   },
   {
+   "id": "cc1824-762249",
+   "cinema": "cc1824",
+   "date": "2026-11-29",
+   "time": "15:20",
+   "title": "Cotoi cu pălărioi",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/cotoi-cu-palarioi-dub/7482s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762249?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7482S2R.jpg",
+   "year": "2026",
+   "runtime": 107,
+   "film": "tmdb:1117898"
+  },
+  {
    "id": "cc1807-759786",
    "cinema": "cc1807",
    "date": "2026-11-29",
@@ -32633,12 +30076,9 @@
     "RO"
    ],
    "prices": {
-    "adult": 32
+    "adult": 300
    },
-   "box": {
-    "pensioner": 16,
-    "student": 8
-   },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-naza?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/Naza-afis_low-res.jpg",
@@ -33910,6 +31350,35 @@
    "film": "t:mia si scoala de monstri"
   },
   {
+   "id": "cc1824-760135",
+   "cinema": "cc1824",
+   "date": "2026-11-29",
+   "time": "17:10",
+   "title": "Socri de coșmar",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760135?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
+  },
+  {
    "id": "cc1806-756855",
    "cinema": "cc1806",
    "date": "2026-11-29",
@@ -34072,35 +31541,6 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1824-760135",
-   "cinema": "cc1824",
-   "date": "2026-11-29",
-   "time": "17:20",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760135?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
   },
   {
    "id": "cc1807-759812",
@@ -36831,35 +34271,6 @@
    "film": "tmdb:1501247"
   },
   {
-   "id": "cc1824-759974",
-   "cinema": "cc1824",
-   "date": "2026-11-29",
-   "time": "21:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/759974?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1806-757381",
    "cinema": "cc1806",
    "date": "2026-11-29",
@@ -36970,6 +34381,35 @@
    "year": "2026",
    "runtime": 128,
    "film": "tmdb:1286656"
+  },
+  {
+   "id": "cc1824-759974",
+   "cinema": "cc1824",
+   "date": "2026-11-29",
+   "time": "21:40",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/759974?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-759822",
@@ -37490,35 +34930,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1824-760137",
-   "cinema": "cc1824",
-   "date": "2026-11-29",
-   "time": "22:10",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760137?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
    "id": "cc1807-759777",
    "cinema": "cc1807",
    "date": "2026-11-29",
@@ -37656,6 +35067,35 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-760137",
+   "cinema": "cc1824",
+   "date": "2026-11-29",
+   "time": "22:20",
+   "title": "Socri de coșmar",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760137?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
   },
   {
    "id": "cc1806-756366",
@@ -40817,6 +38257,34 @@
    "film": "tmdb:848700"
   },
   {
+   "id": "cc1824-762271",
+   "cinema": "cc1824",
+   "date": "2026-11-30",
+   "time": "13:45",
+   "title": "Cotoi cu pălărioi",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "3D",
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/cotoi-cu-palarioi-dub/7482s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762271?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7482S2R.jpg",
+   "year": "2026",
+   "runtime": 107,
+   "film": "tmdb:1117898"
+  },
+  {
    "id": "cc1806-752792",
    "cinema": "cc1806",
    "date": "2026-11-30",
@@ -41083,7 +38551,7 @@
    "time": "14:20",
    "title": "Hexe: Regatul magiei",
    "age": "AP-12",
-   "note": "Avanpremieră",
+   "note": null,
    "audio": [
     "RO"
    ],
@@ -41187,34 +38655,6 @@
    "film": "tmdb:1696174"
   },
   {
-   "id": "cc1824-760015",
-   "cinema": "cc1824",
-   "date": "2026-11-30",
-   "time": "14:20",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760015?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
    "id": "cc1806-760827",
    "cinema": "cc1806",
    "date": "2026-11-30",
@@ -41294,6 +38734,34 @@
    "year": "2026",
    "runtime": 85,
    "film": "t:lucy lost"
+  },
+  {
+   "id": "cc1824-760015",
+   "cinema": "cc1824",
+   "date": "2026-11-30",
+   "time": "14:30",
+   "title": "Hexe: Regatul magiei",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "3D",
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760015?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
+   "year": "2026",
+   "runtime": 112,
+   "film": "t:hexe regatul magiei"
   },
   {
    "id": "cc1806-757364",
@@ -42290,35 +39758,6 @@
    "film": "t:lucy lost"
   },
   {
-   "id": "cc1824-760144",
-   "cinema": "cc1824",
-   "date": "2026-11-30",
-   "time": "15:50",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760144?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1806-752807",
    "cinema": "cc1806",
    "date": "2026-11-30",
@@ -42454,6 +39893,35 @@
    "year": "2026",
    "runtime": 85,
    "film": "tmdb:1679416"
+  },
+  {
+   "id": "cc1824-760144",
+   "cinema": "cc1824",
+   "date": "2026-11-30",
+   "time": "16:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760144?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "muzeu-2026-11-30-16:00-bilete-you-can-see-everything",
@@ -50036,6 +47504,34 @@
    "film": "t:hexe regatul magiei"
   },
   {
+   "id": "cc1824-762272",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "13:20",
+   "title": "Cotoi cu pălărioi",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "3D",
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/cotoi-cu-palarioi-dub/7482s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762272?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7482S2R.jpg",
+   "year": "2026",
+   "runtime": 107,
+   "film": "tmdb:1117898"
+  },
+  {
    "id": "cc1806-752820",
    "cinema": "cc1806",
    "date": "2026-12-01",
@@ -50330,6 +47826,35 @@
    "film": "t:micul mamut aventuri in africa"
   },
   {
+   "id": "cc1824-762281",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "13:50",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762281?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1806-759288",
    "cinema": "cc1806",
    "date": "2026-12-01",
@@ -50565,6 +48090,33 @@
    "film": "t:hexe regatul magiei"
   },
   {
+   "id": "cc1824-762283",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "14:10",
+   "title": "Hexe: Regatul magiei",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762283?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
+   "year": "2026",
+   "runtime": 112,
+   "film": "t:hexe regatul magiei"
+  },
+  {
    "id": "cc1807-760678",
    "cinema": "cc1807",
    "date": "2026-12-01",
@@ -50671,34 +48223,6 @@
    "year": "2026",
    "runtime": 109,
    "film": "tmdb:1696174"
-  },
-  {
-   "id": "cc1824-760039",
-   "cinema": "cc1824",
-   "date": "2026-12-01",
-   "time": "14:20",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D",
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760039?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
   },
   {
    "id": "cc1806-760852",
@@ -51204,35 +48728,6 @@
    "year": "2026",
    "runtime": 73,
    "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "cc1824-760523",
-   "cinema": "cc1824",
-   "date": "2026-12-01",
-   "time": "15:00",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760523?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
   },
   {
    "id": "cc1806-752855",
@@ -53010,35 +50505,6 @@
    "film": "t:socri de cosmar"
   },
   {
-   "id": "cc1824-760527",
-   "cinema": "cc1824",
-   "date": "2026-12-01",
-   "time": "17:40",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760527?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1806-752828",
    "cinema": "cc1806",
    "date": "2026-12-01",
@@ -53702,6 +51168,35 @@
    "film": "tmdb:1783294"
   },
   {
+   "id": "cc1824-760241",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "18:50",
+   "title": "Socri de coșmar",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760241?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
+  },
+  {
    "id": "cc1806-725081",
    "cinema": "cc1806",
    "date": "2026-12-01",
@@ -54137,6 +51632,35 @@
    "film": "t:hexe regatul magiei"
   },
   {
+   "id": "cc1824-762284",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "19:20",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762284?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1806-756636",
    "cinema": "cc1806",
    "date": "2026-12-01",
@@ -54332,35 +51856,6 @@
    "year": "2026",
    "runtime": 122,
    "film": "tmdb:1585239"
-  },
-  {
-   "id": "cc1824-760241",
-   "cinema": "cc1824",
-   "date": "2026-12-01",
-   "time": "19:30",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760241?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
   },
   {
    "id": "cc1807-752434",
@@ -54822,6 +52317,35 @@
    "film": "tmdb:693134"
   },
   {
+   "id": "cc1824-760271",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "20:10",
+   "title": "Socri de coșmar",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760271?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
+  },
+  {
    "id": "cc1807-760624",
    "cinema": "cc1807",
    "date": "2026-12-01",
@@ -55069,35 +52593,6 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
-  },
-  {
-   "id": "cc1824-760043",
-   "cinema": "cc1824",
-   "date": "2026-12-01",
-   "time": "20:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760043?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-760607",
@@ -55939,35 +53434,6 @@
    "film": "tmdb:1585239"
   },
   {
-   "id": "cc1824-760271",
-   "cinema": "cc1824",
-   "date": "2026-12-01",
-   "time": "22:00",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760271?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
    "id": "cc1806-759503",
    "cinema": "cc1806",
    "date": "2026-12-01",
@@ -56292,6 +53758,35 @@
    "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
    "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/755667?lang=ro",
    "hall": "6",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-760043",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "22:25",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760043?lang=ro",
+   "hall": "13",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
    "runtime": 158,
@@ -56728,6 +54223,35 @@
    "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
    "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/755452?lang=ro",
    "hall": "2",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1824-762287",
+   "cinema": "cc1824",
+   "date": "2026-12-01",
+   "time": "22:50",
+   "title": "Soldatul fantomă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762287?lang=ro",
+   "hall": "12",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
    "year": "2026",
    "runtime": 90,
@@ -59536,6 +57060,35 @@
    "film": "t:soldatul fantoma"
   },
   {
+   "id": "cc1824-762277",
+   "cinema": "cc1824",
+   "date": "2026-12-02",
+   "time": "16:30",
+   "title": "Socri de coșmar",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762277?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
+  },
+  {
    "id": "cc1806-733892",
    "cinema": "cc1806",
    "date": "2026-12-02",
@@ -60792,35 +58345,6 @@
    "film": "t:soldatul fantoma"
   },
   {
-   "id": "cc1824-760072",
-   "cinema": "cc1824",
-   "date": "2026-12-02",
-   "time": "18:20",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760072?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1806-757724",
    "cinema": "cc1806",
    "date": "2026-12-02",
@@ -61035,6 +58559,35 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1824-760072",
+   "cinema": "cc1824",
+   "date": "2026-12-02",
+   "time": "18:40",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760072?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1807-761146",
@@ -62817,35 +60370,6 @@
    "film": "tmdb:1501247"
   },
   {
-   "id": "cc1824-760073",
-   "cinema": "cc1824",
-   "date": "2026-12-02",
-   "time": "21:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760073?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1806-756369",
    "cinema": "cc1806",
    "date": "2026-12-02",
@@ -63032,6 +60556,35 @@
    "year": "2026",
    "runtime": 154,
    "film": "tmdb:1728593"
+  },
+  {
+   "id": "cc1824-760073",
+   "cinema": "cc1824",
+   "date": "2026-12-02",
+   "time": "21:50",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760073?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-760080",
@@ -63477,35 +61030,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1824-760534",
-   "cinema": "cc1824",
-   "date": "2026-12-02",
-   "time": "22:10",
-   "title": "Soldatul fantomă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760534?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "t:soldatul fantoma"
-  },
-  {
    "id": "cc1807-761002",
    "cinema": "cc1807",
    "date": "2026-12-02",
@@ -63587,6 +61111,35 @@
    "year": "2026",
    "runtime": 105,
    "film": "t:socri de cosmar"
+  },
+  {
+   "id": "cc1824-760534",
+   "cinema": "cc1824",
+   "date": "2026-12-02",
+   "time": "22:20",
+   "title": "Soldatul fantomă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760534?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "t:soldatul fantoma"
   },
   {
    "id": "cc1806-757736",
@@ -63894,35 +61447,6 @@
    "film": "tmdb:1585239"
   },
   {
-   "id": "cc1824-760319",
-   "cinema": "cc1824",
-   "date": "2026-12-02",
-   "time": "22:40",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760319?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
    "id": "cc1807-760993",
    "cinema": "cc1807",
    "date": "2026-12-02",
@@ -64194,6 +61718,35 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1824-760319",
+   "cinema": "cc1824",
+   "date": "2026-12-02",
+   "time": "22:50",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760319?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "tmdb:1567605"
   },
   {
    "id": "cc1806-759387",
@@ -67059,6 +64612,34 @@
    "film": "tmdb:438631"
   },
   {
+   "id": "cc1824-762275",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "16:40",
+   "title": "Cotoi cu pălărioi",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "3D",
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/cotoi-cu-palarioi-dub/7482s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762275?lang=ro",
+   "hall": "12",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7482S2R.jpg",
+   "year": "2026",
+   "runtime": 107,
+   "film": "tmdb:1117898"
+  },
+  {
    "id": "cc1824-756896",
    "cinema": "cc1824",
    "date": "2026-12-03",
@@ -67443,35 +65024,6 @@
    "film": "t:hexe regatul magiei"
   },
   {
-   "id": "cc1824-760366",
-   "cinema": "cc1824",
-   "date": "2026-12-03",
-   "time": "17:00",
-   "title": "Socri de coșmar",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760366?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "t:socri de cosmar"
-  },
-  {
    "id": "cc1807-761269",
    "cinema": "cc1807",
    "date": "2026-12-03",
@@ -67551,6 +65103,35 @@
    "year": "2026",
    "runtime": 81,
    "film": "t:mia si scoala de monstri"
+  },
+  {
+   "id": "cc1824-760366",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "17:10",
+   "title": "Socri de coșmar",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760366?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
+   "year": "2026",
+   "runtime": 105,
+   "film": "t:socri de cosmar"
   },
   {
    "id": "cc1807-761297",
@@ -67815,9 +65396,12 @@
     "RO"
    ],
    "prices": {
-    "adult": 300
+    "adult": 32
    },
-   "box": {},
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
@@ -68197,35 +65781,6 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
-  },
-  {
-   "id": "cc1824-760077",
-   "cinema": "cc1824",
-   "date": "2026-12-03",
-   "time": "18:20",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760077?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-757725",
@@ -68793,6 +66348,35 @@
    "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
    "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/759357?lang=ro",
    "hall": "10",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-760077",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760077?lang=ro",
+   "hall": "12",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
    "runtime": 158,
@@ -69832,12 +67416,9 @@
    "audio": [],
    "subs": [],
    "prices": {
-    "adult": 32
+    "adult": 300
    },
-   "box": {
-    "pensioner": 16,
-    "student": 8
-   },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-lumina?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lumina-GaZ.webp",
@@ -70252,35 +67833,6 @@
    "film": "tmdb:1501247"
   },
   {
-   "id": "cc1824-760078",
-   "cinema": "cc1824",
-   "date": "2026-12-03",
-   "time": "21:30",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760078?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
    "id": "cc1806-756370",
    "cinema": "cc1806",
    "date": "2026-12-03",
@@ -70467,6 +68019,35 @@
    "year": "2026",
    "runtime": 154,
    "film": "tmdb:1728593"
+  },
+  {
+   "id": "cc1824-760378",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "21:50",
+   "title": "Soldatul fantomă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760378?lang=ro",
+   "hall": "13",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "t:soldatul fantoma"
   },
   {
    "id": "cc1806-760102",
@@ -70912,35 +68493,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1824-760378",
-   "cinema": "cc1824",
-   "date": "2026-12-03",
-   "time": "22:10",
-   "title": "Soldatul fantomă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760378?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "t:soldatul fantoma"
-  },
-  {
    "id": "cc1807-761298",
    "cinema": "cc1807",
    "date": "2026-12-03",
@@ -71047,6 +68599,35 @@
    "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
    "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/755669?lang=ro",
    "hall": "6",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-760078",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "22:20",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760078?lang=ro",
+   "hall": "12",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
    "year": "2026",
    "runtime": 158,
@@ -71358,35 +68939,6 @@
    "film": "tmdb:1585239"
   },
   {
-   "id": "cc1824-760544",
-   "cinema": "cc1824",
-   "date": "2026-12-03",
-   "time": "22:40",
-   "title": "Ebenezer:O poveste de Craciun",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760544?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
-   "year": "2026",
-   "runtime": 115,
-   "film": "tmdb:1567605"
-  },
-  {
    "id": "cc1807-761304",
    "cinema": "cc1807",
    "date": "2026-12-03",
@@ -71658,6 +69210,62 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1824-760544",
+   "cinema": "cc1824",
+   "date": "2026-12-03",
+   "time": "22:50",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760544?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "tmdb:1567605"
+  },
+  {
+   "id": "cc1806-762223",
+   "cinema": "cc1806",
+   "date": "2026-12-04",
+   "time": "16:30",
+   "title": "Lucy Lost",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": true,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/lucy-lost/8523s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/762223?lang=ro",
+   "hall": "16",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "t:lucy lost"
   },
   {
    "id": "cc1818-753486",
@@ -72601,9 +70209,12 @@
     "RO"
    ],
    "prices": {
-    "adult": 300
+    "adult": 32
    },
-   "box": {},
+   "box": {
+    "pensioner": 16,
+    "student": 8
+   },
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-film-primetime?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/Primetime_poster.jpg",
@@ -72944,12 +70555,9 @@
    ],
    "subs": [],
    "prices": {
-    "adult": 40
+    "adult": 300
    },
-   "box": {
-    "pensioner": 20,
-    "student": 10
-   },
+   "box": {},
    "status": "ok",
    "url": "https://eventbook.ro/film/bilete-iertarea?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/08/bilete-iertarea-0rV.webp",
@@ -74602,22 +72210,6 @@
    "imdb_votes": 1502,
    "lb_rating": 3.95
   },
-  "tmdb:1756136": {
-   "tmdb_id": 1756136,
-   "title": "Delta Sălbatică",
-   "original_title": "Delta Sălbatică",
-   "year": "2026",
-   "orig_lang": "ro",
-   "poster": "https://image.tmdb.org/t/p/w185/fFNIQPfgO4mB6nC8LPmZNGTfxEi.jpg",
-   "directors": [
-    "Dan Dinu"
-   ],
-   "imdb_id": "tt43609729",
-   "runtime": 125,
-   "source": "tmdb",
-   "imdb_rating": 8.3,
-   "imdb_votes": 12
-  },
   "tmdb:1323409": {
    "tmdb_id": 1323409,
    "title": "Dracula",
@@ -74646,6 +72238,22 @@
    "imdb_id": null,
    "runtime": null,
    "source": "eventbook"
+  },
+  "tmdb:1756136": {
+   "tmdb_id": 1756136,
+   "title": "Delta Sălbatică",
+   "original_title": "Delta Sălbatică",
+   "year": "2026",
+   "orig_lang": "ro",
+   "poster": "https://image.tmdb.org/t/p/w185/fFNIQPfgO4mB6nC8LPmZNGTfxEi.jpg",
+   "directors": [
+    "Dan Dinu"
+   ],
+   "imdb_id": "tt43609729",
+   "runtime": 125,
+   "source": "tmdb",
+   "imdb_rating": 8.3,
+   "imdb_votes": 12
   },
   "tmdb:1609104": {
    "tmdb_id": 1609104,
@@ -75602,18 +73210,6 @@
    "imdb_rating": 7.1,
    "imdb_votes": 66974,
    "lb_rating": 3.29
-  },
-  "t:tara moarta amintiri de pe frontul de est": {
-   "tmdb_id": null,
-   "title": "ȚARA MOARTĂ + AMINTIRI DE PE FRONTUL DE EST",
-   "original_title": null,
-   "year": null,
-   "orig_lang": null,
-   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-retrospectiva-integrala-radu-jude-tara-moarta-amintiri-de-pe-frontul-de-est-5aU.webp",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
   }
  }
 }
