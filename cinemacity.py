@@ -58,7 +58,7 @@ def discover():
 def scrape_cinema(c):
     cid = c["id"]
     stats = {"zile": 0, "evenimente": 0, "fara_film": 0}
-    items, seen_keys = {}, set()
+    items, seen_keys, sample = {}, set(), None
     dates = get_json(f"dates/in-cinema/{cid}/until/{until()}?attr=&lang=ro_RO")["body"].get("dates", [])
     for d in dates:
         body = get_json(f"film-events/in-cinema/{cid}/at-date/{d}?attr=&lang=ro_RO")["body"]
@@ -79,16 +79,50 @@ def scrape_cinema(c):
             if len(dt) < 16:
                 continue
             sold = bool(ev.get("soldOut") or ev.get("isSoldOut"))
+            title = re.sub(r"\s+dub$", "", f.get("name") or "", flags=re.I)
+            rerel = bool(re.search(r"\s+re-?release$", title, re.I))
+            title = re.sub(r"\s+re-?release$", "", title, flags=re.I)
+            dubbed = dubbed or title != (f.get("name") or "") and (f.get("name") or "").lower().endswith(" dub")
+            if sample is None:
+                sample = ev
             items[ev["id"]] = {
                 "id": f"{c['key']}-{ev['id']}", "cinema": c["key"], "date": ev.get("businessDay") or dt[:10], "time": dt[11:16],
-                "title": f.get("name"), "age": next((AGE[a] for a in attrs if a in AGE), None),
-                "note": "Avanpremieră" if "preview" in attrs else None,
+                "title": title, "age": next((AGE[a] for a in attrs if a in AGE), None),
+                "note": "Avanpremieră" if "preview" in attrs else ("Re-release" if rerel else None),
                 "audio": audio, "subs": [x.upper() for x in lang.get("subtitles") or []], "dubbed": dubbed,
                 "tech": [TECH[a] for a in attrs if a in TECH], "prices": {}, "box": {},
-                "status": "sold_out" if sold else "ok", "url": ev.get("bookingLink") or f.get("link"),
+                "status": "sold_out" if sold else "ok", "url": f.get("link") or ev.get("bookingLink"),
+                "book": ev.get("bookingRouterLaunchLink") or ev.get("bookingLink"), "hall": ev.get("auditoriumTinyName") or ev.get("auditorium"),
                 "poster": f.get("posterLink"), "year": f.get("releaseYear"), "runtime": f.get("length"),
             }
         time.sleep(0.6)
     known = {"id", "filmId", "cinemaId", "businessDay", "eventDateTime", "attributeIds", "languages", "bookingLink", "compositeBookingLink"}
     print("  Cinema City: chei necunoscute în evenimente:", sorted(seen_keys - known) or "-")
+    debug(sample)
     return list(items.values()), stats
+
+
+_DEBUG_DONE = False
+
+
+def debug(ev):
+    """O singură dată pe rulare: arată valorile câmpurilor noi și ce întorc linkurile de rezervare."""
+    global _DEBUG_DONE
+    if _DEBUG_DONE or not ev:
+        return
+    _DEBUG_DONE = True
+    for k in ("auditorium", "auditoriumTinyName", "presentationCode", "availabilityRatio", "soldOut", "bookingRouterLaunchLink", "bookingLink"):
+        print(f"  DEBUG {k} = {ev.get(k)!r}")
+    print("  DEBUG compositeBookingLink =", json.dumps(ev.get("compositeBookingLink"), ensure_ascii=False)[:500])
+    for k in ("bookingRouterLaunchLink", "bookingLink"):
+        u = ev.get(k)
+        if not u or not str(u).startswith("http"):
+            continue
+        try:
+            req = urllib.request.Request(u, headers={"User-Agent": UA, "Accept": "text/html,application/json;q=0.9,*/*;q=0.8"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                body = r.read(900).decode("utf-8", "replace")
+                print(f"  DEBUG GET {k}: status {r.status} | final {r.geturl()} | {r.headers.get('Content-Type')}")
+                print("  DEBUG corp:", re.sub(r"\s+", " ", body)[:600])
+        except Exception as e:
+            print(f"  DEBUG GET {k}: {e!r}")
