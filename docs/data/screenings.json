@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:07:47+00:00",
+ "generated": "2026-11-25T06:08:03+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 71,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 13,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 12,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,7 +105,7 @@
    "ok": true,
    "stale": false,
    "count": 31,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "cc1806": {
@@ -113,31 +113,31 @@
    "ok": true,
    "stale": false,
    "count": 784,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 648,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "count": 650,
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 575,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "count": 576,
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 681,
-   "updated": "2026-11-24T22:07:47+00:00",
+   "count": 682,
+   "updated": "2026-11-25T06:08:03+00:00",
    "error": null
   }
  },
@@ -21829,7 +21829,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -23285,7 +23284,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -30112,7 +30110,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -31573,7 +31570,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -38968,7 +38964,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -40423,7 +40418,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -47739,7 +47733,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -49213,7 +49206,6 @@
    "subs": [],
    "dubbed": true,
    "tech": [
-    "3D",
     "Barco laser"
    ],
    "prices": {},
@@ -69837,6 +69829,33 @@
    "film": "tmdb:557"
   },
   {
+   "id": "cc1818-753492",
+   "cinema": "cc1818",
+   "date": "2026-12-09",
+   "time": "16:30",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753492?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
    "id": "elvire-2026-12-09-18:00-bilete-film-le-cinquieme-plan-de-la-jetee",
    "cinema": "elvire",
    "date": "2026-12-09",
@@ -69860,6 +69879,81 @@
    "url": "https://eventbook.ro/film/bilete-film-le-cinquieme-plan-de-la-jetee?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-le-cinquieme-plan-de-la-jetee-GHs.webp",
    "film": "tmdb:1379924"
+  },
+  {
+   "id": "cc1807-753277",
+   "cinema": "cc1807",
+   "date": "2026-12-09",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753277?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1818-753500",
+   "cinema": "cc1818",
+   "date": "2026-12-09",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753500?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
+  },
+  {
+   "id": "cc1824-753477",
+   "cinema": "cc1824",
+   "date": "2026-12-09",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://tickets.cinemacity.ro/api/order/753477?lang=ro",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "tmdb:557"
   },
   {
    "id": "elvire-2026-12-09-20:00-bilete-nu-e-locul-tau-aici",
