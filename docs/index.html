@@ -45,6 +45,17 @@ a.t:hover small{color:inherit}
 .t.so b{text-decoration:line-through}
 .t.past{opacity:.4}
 .nt{font-size:11px;line-height:1.25;color:var(--mu);overflow-wrap:anywhere}
+.srch{position:relative;margin:2px 0 12px}
+.srch input{width:100%;padding:10px 16px;border:1px solid var(--ln);border-radius:999px;background:var(--sf);color:var(--tx);font:inherit;font-size:15px}
+.sug{position:absolute;left:0;right:0;top:100%;z-index:5;background:var(--sf);border:1px solid var(--ln);border-radius:10px;margin-top:4px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.3)}
+.sug button{display:block;width:100%;text-align:left;border:0;background:none;color:var(--tx);padding:8px 14px;font:inherit;font-size:14px;cursor:pointer}
+.sug button:hover,.sug button:focus{background:var(--bg)}
+.sug small{display:block;color:var(--mu);font-size:12px}
+.more{margin-top:8px;border:1px dashed var(--ln);background:none;color:var(--mu);border-radius:6px;padding:4px 10px;font:inherit;font-size:13px;cursor:pointer}
+.tm[hidden]{display:none}
+.evn{margin:3px 0 0;font-size:13px;color:var(--mu);font-style:italic;line-height:1.35}
+.dh{font:600 13px system-ui,sans-serif;color:var(--mu);margin:12px 0 0;text-transform:capitalize}
+.fb{display:flex;align-items:center;gap:10px;margin:2px 0 6px}
 .empty{padding:28px 8px;color:var(--mu);text-align:center}
 .note{font-size:13px;color:var(--mu);border-top:1px solid var(--ln);margin-top:28px;padding-top:14px}
 .note p{margin:0 0 8px}
@@ -59,13 +70,15 @@ a.t:hover small{color:inherit}
 <h1>Proiectul CLAP</h1>
 <p class="tag">Cinema Local, Arhive și Proiecții</p>
 <p class="sub" id="upd">Se încarcă programul…</p>
+<div class="srch"><input id="q" type="search" placeholder="Caută un film (titlu sau regizor)…" autocomplete="off"><div class="sug" id="sug" hidden></div></div>
+<div class="row fb" id="fbar" hidden></div>
 <div class="lbl">Tip</div>
 <div class="row" id="typ"></div>
 <div class="lbl">Cinema</div>
 <div class="row" id="cin"></div>
-<div class="lbl">Săptămâna</div>
+<div id="wd"><div class="lbl">Săptămâna</div>
 <div class="row" id="weeks"></div>
-<div class="row days" id="days"></div>
+<div class="row days" id="days"></div></div>
 <div class="lbl">Preț afișat</div>
 <div class="row" id="pr"></div>
 <div class="row"><button class="chip" id="sold" aria-pressed="false">Ascunde sold out</button></div>
@@ -73,7 +86,7 @@ a.t:hover small{color:inherit}
 <div class="note" id="note"></div>
 </main>
 <script>
-var D=null,S={cin:{},type:"all",week:"",day:"",tier:"adult",sold:false},TZ="Europe/Bucharest";
+var D=null,FI=[],S={cin:{},type:"all",week:"",day:"",tier:"adult",sold:false,film:null},TZ="Europe/Bucharest";
 function today(){return new Intl.DateTimeFormat("en-CA",{timeZone:TZ}).format(new Date())}
 function nowHM(){return new Intl.DateTimeFormat("en-GB",{timeZone:TZ,hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).format(new Date())}
 function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
@@ -82,7 +95,7 @@ function iso(x){return x.getFullYear()+"-"+("0"+(x.getMonth()+1)).slice(-2)+"-"+
 function dt(d){return new Date(d+"T12:00:00")}
 function addDays(d,n){var x=dt(d);x.setDate(x.getDate()+n);return iso(x)}
 function weekStart(d){return addDays(d,-((dt(d).getDay()+6)%7))}
-function fmt(iso8){return new Date(iso8).toLocaleString("ro-RO",{timeZone:TZ,day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}
+function fmt(i){return new Date(i).toLocaleString("ro-RO",{timeZone:TZ,day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}
 function mon(d){return dt(d).toLocaleDateString("ro-RO",{month:"short"})}
 function weekLabel(w){
   if(w===weekStart(today()))return "Săptămâna asta";
@@ -96,24 +109,11 @@ function nice(s){
   return s.toLocaleLowerCase("ro").replace(/(^|[\s\/:(\-])(\p{L})/gu,function(m,a,b){return a+b.toLocaleUpperCase("ro")});
 }
 function price(s){
-  var p=s.prices,b=s.box||{},t=S.tier;
+  var p=s.prices||{},b=s.box||{},t=S.tier;
   if(p[t]!=null)return p[t]+" lei";
   if(b[t]!=null)return b[t]+" lei †";
   if(p.adult!=null)return p.adult+" lei*";
   return "";
-}
-function shortNote(n){
-  if(!n)return "";
-  var p=[];
-  if(/avanpremier/i.test(n))p.push("Avanpremieră");else if(/premier/i.test(n))p.push("Premieră");else if(/preview/i.test(n))p.push("Preview");
-  if(/q\s*&\s*a/i.test(n))p.push("Q&A");else if(/discu[tț]i/i.test(n))p.push("Discuție");
-  return p.length?p.join(" + "):(n.length>30?n.slice(0,28)+"…":n);
-}
-function tags(s,F){
-  var t=(s.tech||[]).filter(function(x){return x!=="Barco laser"}),a=s.audio||[],sub=(s.subs||[]).filter(function(x){return x!=="RO"});
-  if(s.dubbed||(a.length&&a.every(function(x){return x==="RO"})&&F.orig_lang&&F.orig_lang!=="ro"))t.push("dublat");
-  if(sub.length)t.push("sub "+sub.join("/"));
-  return t.join(" · ");
 }
 function kind(k){return (D.cinemas[k]&&D.cinemas[k].kind)||"independent"}
 function visible(s){return S.cin[s.cinema]&&(S.type==="all"||kind(s.cinema)===S.type)&&!(S.sold&&s.status==="sold_out")}
@@ -124,23 +124,102 @@ function pickDay(){
   for(i=0;i<7;i++){d=addDays(S.week,i);if(count(d))return d}
   return S.week;
 }
-function load(){
-  fetch("data/screenings.json?"+Date.now()).then(function(r){
-    if(!r.ok)throw new Error(r.status);return r.json();
-  }).then(function(d){
-    D=d;D.films=D.films||{};var t=today(),ws={};
-    D.screenings=D.screenings.filter(function(s){return s.date>=t});
-    D.screenings.forEach(function(s){S.cin[s.cinema]=1;ws[weekStart(s.date)]=1});
-    D.weeks=Object.keys(ws).sort();
-    S.week=ws[weekStart(t)]?weekStart(t):D.weeks[0];
-    S.day=pickDay();
-    ui();
-  }).catch(function(e){
-    document.getElementById("upd").textContent="Nu am putut încărca programul ("+e.message+"). Încearcă mai târziu.";
+function fk(s){return s.film||("t:"+s.title)}
+function noteInfo(n){
+  if(!n)return {s:"",l:""};
+  var p=[];
+  if(/avanpremier/i.test(n))p.push("Avanpremieră");else if(/premier/i.test(n))p.push("Premieră");else if(/preview/i.test(n))p.push("Preview");
+  if(/q\s*&\s*a/i.test(n))p.push("Q&A");else if(/discu[tț]i/i.test(n))p.push("Discuție");
+  var rest=n.replace(/avanpremier\w*|premier\w*|preview|q\s*&\s*a|discu[tț]i\w*|urmat\w*|prezen\w*|echipei|filmului|proiec[tț]ie|re-release|[+:\-]/gi," ").replace(/(^|\s)(de|în|și|a|al|cu)(?=\s|$)/gi," ").replace(/\s+/g," ").trim();
+  return {s:p.join(" + "),l:rest.length>=5?n:""};
+}
+function tags(s,F){
+  var t=(s.tech||[]).filter(function(x){return x!=="Barco laser"}),a=s.audio||[],sub=(s.subs||[]).filter(function(x){return x!=="RO"});
+  if(s.dubbed||(a.length&&a.every(function(x){return x==="RO"})&&F.orig_lang&&F.orig_lang!=="ro"))t.push("dublat");
+  if(sub.length)t.push("sub "+sub.join("/"));
+  return t.join(" · ");
+}
+function special(s){return (s.tech||[]).some(function(x){return x==="IMAX"||x==="4DX"||x==="VIP"})}
+function itemEl(s,F,past){
+  var ci=D.cinemas[s.cinema],so=s.status==="sold_out",it=el("div","it"),cn=el("div","cn");
+  it.style.setProperty("--cc",ci.color);
+  cn.appendChild(el("i"));cn.appendChild(el("span","",ci.short||ci.name));it.appendChild(cn);
+  var a=so?el("span","t so"):el("a","t");
+  if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
+  if(past)a.className+=" past";
+  a.appendChild(el("b","",s.time));
+  a.appendChild(el("small","",so?"sold out":price(s)));
+  it.appendChild(a);
+  var nt=[noteInfo(s.note).s,tags(s,F)].filter(Boolean).join(" · ");
+  if(nt){var n=el("div","nt",nt);if(s.note)n.title=s.note;it.appendChild(n)}
+  return it;
+}
+function head(k,rs){
+  var F=D.films[k]||{title:rs[0].title},f=el("section","film"),info=el("div","info"),title=nice(F.title||rs[0].title);
+  if(F.poster){var im=el("img","pos");im.src=F.poster;im.alt="";im.loading="lazy";im.onerror=function(){im.replaceWith(el("div","pos",title.charAt(0)))};f.appendChild(im)}
+  else f.appendChild(el("div","pos",title.charAt(0)));
+  var h=el("h2","",title),age=rs.map(function(s){return s.age}).filter(Boolean)[0];
+  if(age)h.appendChild(el("span","bd",age));info.appendChild(h);
+  if(F.original_title&&nz(F.original_title)!==nz(F.title))info.appendChild(el("p","orig",nice(F.original_title)));
+  var meta=el("p","meta"),parts=[];
+  if(F.directors&&F.directors.length)parts.push(document.createTextNode("r. "+F.directors.join(", ")));
+  if(F.year)parts.push(document.createTextNode(F.year));
+  if(F.imdb_rating){var a1=el("a","","IMDb "+F.imdb_rating.toFixed(1));a1.href="https://www.imdb.com/title/"+F.imdb_id+"/";a1.target="_blank";a1.rel="noopener";parts.push(a1)}
+  if(F.lb_rating){var a2=el("a","","Letterboxd "+F.lb_rating.toFixed(1));a2.href="https://letterboxd.com/tmdb/"+F.tmdb_id+"/";a2.target="_blank";a2.rel="noopener";parts.push(a2)}
+  parts.forEach(function(p,i){if(i)meta.appendChild(document.createTextNode(" · "));meta.appendChild(p)});
+  if(parts.length)info.appendChild(meta);
+  var seen={};
+  rs.forEach(function(s){
+    var l=noteInfo(s.note).l;if(!l)return;
+    var tx=(rs.length>1?s.time+" · ":"")+nice(l);
+    if(!seen[tx]){seen[tx]=1;info.appendChild(el("p","evn",tx))}
+  });
+  f.appendChild(info);
+  return {f:f,info:info,F:F};
+}
+function sortRs(rs){return rs.sort(function(x,y){return tk(x.time)<tk(y.time)?-1:tk(x.time)>tk(y.time)?1:(x.cinema<y.cinema?-1:1)})}
+function fill(box,rs,F,isToday,now){rs.forEach(function(s){box.appendChild(itemEl(s,F,isToday&&s.time<now))})}
+function list(){
+  var out=document.getElementById("list");out.innerHTML="";
+  var g={},order=[],now=nowHM(),isToday=S.day===today();
+  D.screenings.forEach(function(s){
+    if(s.date!==S.day||!visible(s))return;
+    var k=fk(s);if(!g[k]){g[k]=[];order.push(k)}g[k].push(s);
+  });
+  order.forEach(function(k){sortRs(g[k])});
+  order.sort(function(a,b){return tk(g[a][0].time)<tk(g[b][0].time)?-1:1});
+  if(!order.length){out.appendChild(el("div","empty","Nicio proiecție pentru filtrele alese."));return}
+  order.forEach(function(k){
+    var rs=g[k],H=head(k,rs),main=rs,rest=[];
+    if(rs.length>6){
+      main=rs.filter(function(s){return kind(s.cinema)!=="multiplex"||special(s)});
+      rest=rs.filter(function(s){return main.indexOf(s)<0});
+    }
+    if(main.length){var tm=el("div","tm");fill(tm,main,H.F,isToday,now);H.info.appendChild(tm)}
+    if(rest.length){
+      var more=el("div","tm"),lab="Alte "+rest.length+" proiecții ▾",b=el("button","more",lab);
+      more.hidden=true;fill(more,rest,H.F,isToday,now);
+      b.onclick=function(){more.hidden=!more.hidden;b.textContent=more.hidden?lab:"Ascunde ▴"};
+      H.info.appendChild(b);H.info.appendChild(more);
+    }
+    out.appendChild(H.f);
   });
 }
+function filmView(){
+  var out=document.getElementById("list");out.innerHTML="";
+  var rs=D.screenings.filter(function(s){return fk(s)===S.film&&visible(s)}),now=nowHM(),t=today();
+  if(!rs.length){out.appendChild(el("div","empty","Nicio proiecție pentru filtrele alese."));return}
+  var H=head(S.film,rs),days={},order=[];
+  rs.forEach(function(s){if(!days[s.date]){days[s.date]=[];order.push(s.date)}days[s.date].push(s)});
+  order.sort();
+  order.forEach(function(d){
+    H.info.appendChild(el("div","dh",dt(d).toLocaleDateString("ro-RO",{weekday:"long",day:"numeric",month:"long"})));
+    var tm=el("div","tm");fill(tm,sortRs(days[d]),H.F,d===t,now);H.info.appendChild(tm);
+  });
+  out.appendChild(H.f);
+}
 function ui(){
-  var ty=document.getElementById("typ");ty.innerHTML="";
+  var inFilm=!!S.film,ty=document.getElementById("typ");ty.innerHTML="";
   [["all","Toate"],["independent","Independente"],["multiplex","Multiplex"]].forEach(function(x){
     ty.appendChild(chip(x[1],S.type===x[0],function(){S.type=x[0];S.day=pickDay();ui()}));
   });
@@ -149,6 +228,9 @@ function ui(){
     if(!(k in S.cin)||(S.type!=="all"&&kind(k)!==S.type))return;
     c.appendChild(chip(D.cinemas[k].name,S.cin[k],function(){S.cin[k]=S.cin[k]?0:1;S.day=pickDay();ui()}));
   });
+  document.getElementById("wd").hidden=inFilm;
+  var fb=document.getElementById("fbar");fb.hidden=!inFilm;fb.innerHTML="";
+  if(inFilm)fb.appendChild(chip("← Înapoi la program",false,function(){S.film=null;ui()}));
   var w=document.getElementById("weeks");w.innerHTML="";
   D.weeks.forEach(function(v){w.appendChild(chip(weekLabel(v),S.week===v,function(){S.week=v;S.day=pickDay();ui()}))});
   var d=document.getElementById("days");d.innerHTML="";
@@ -164,55 +246,37 @@ function ui(){
   });
   document.getElementById("sold").setAttribute("aria-pressed",S.sold?"true":"false");
   document.getElementById("upd").textContent="Actualizat "+fmt(D.generated);
-  list();notes();
+  if(inFilm)filmView();else list();
+  notes();
 }
-function list(){
-  var out=document.getElementById("list");out.innerHTML="";
-  var g={},order=[],now=nowHM(),isToday=S.day===today();
-  D.screenings.forEach(function(s){
-    if(s.date!==S.day||!visible(s))return;
-    var k=s.film||("t:"+s.title);if(!g[k]){g[k]=[];order.push(k)}g[k].push(s);
+function suggest(q){
+  q=nz(q);if(q.length<2)return [];
+  var out=[];
+  FI.forEach(function(f){
+    var sc=0,words=(" "+f.t+" "+f.o).split(" ");
+    if(f.t.indexOf(q)===0)sc=4;
+    else if(words.some(function(w){return w&&w.indexOf(q)===0}))sc=3;
+    else if(f.t.indexOf(q)>=0||f.o.indexOf(q)>=0)sc=2;
+    else if(f.d.indexOf(q)>=0)sc=1;
+    if(sc)out.push({k:f.k,F:f.F,n:f.n,sc:sc});
   });
-  order.forEach(function(k){g[k].sort(function(a,b){return tk(a.time)<tk(b.time)?-1:tk(a.time)>tk(b.time)?1:0})});
-  order.sort(function(a,b){return tk(g[a][0].time)<tk(g[b][0].time)?-1:1});
-  if(!order.length){out.appendChild(el("div","empty","Nicio proiecție pentru filtrele alese."));return}
-  order.forEach(function(k){
-    var rs=g[k],r=rs[0],F=D.films[k]||{title:r.title};
-    var f=el("section","film"),info=el("div","info");
-    var title=nice(F.title||r.title);
-    if(F.poster){var im=el("img","pos");im.src=F.poster;im.alt="";im.loading="lazy";
-      im.onerror=function(){im.replaceWith(el("div","pos",title.charAt(0)))};f.appendChild(im)}
-    else f.appendChild(el("div","pos",title.charAt(0)));
-    var h=el("h2","",title),age=rs.map(function(s){return s.age}).filter(Boolean)[0];
-    if(age)h.appendChild(el("span","bd",age));info.appendChild(h);
-    if(F.original_title&&nz(F.original_title)!==nz(F.title))info.appendChild(el("p","orig",nice(F.original_title)));
-    var meta=el("p","meta"),parts=[];
-    function add(x){parts.push(x)}
-    if(F.directors&&F.directors.length)add(document.createTextNode("r. "+F.directors.join(", ")));
-    if(F.year)add(document.createTextNode(F.year));
-    if(F.imdb_rating){var a1=el("a","","IMDb "+F.imdb_rating.toFixed(1));a1.href="https://www.imdb.com/title/"+F.imdb_id+"/";a1.target="_blank";a1.rel="noopener";add(a1)}
-    if(F.lb_rating){var a2=el("a","","Letterboxd "+F.lb_rating.toFixed(1));a2.href="https://letterboxd.com/tmdb/"+F.tmdb_id+"/";a2.target="_blank";a2.rel="noopener";add(a2)}
-    parts.forEach(function(p,i){if(i)meta.appendChild(document.createTextNode(" · "));meta.appendChild(p)});
-    if(parts.length)info.appendChild(meta);
-    var tm=el("div","tm");
-    rs.sort(function(x,y){return tk(x.time)<tk(y.time)?-1:tk(x.time)>tk(y.time)?1:(x.cinema<y.cinema?-1:1)});
-    rs.forEach(function(s){
-      var ci=D.cinemas[s.cinema],so=s.status==="sold_out",it=el("div","it"),cn=el("div","cn");
-      it.style.setProperty("--cc",ci.color);
-      cn.appendChild(el("i"));cn.appendChild(el("span","",ci.short||ci.name));it.appendChild(cn);
-      var a=so?el("span","t so"):el("a","t");
-      if(!so){a.href=s.url;a.target="_blank";a.rel="noopener"}
-      if(isToday&&s.time<now)a.className+=" past";
-      a.appendChild(el("b","",s.time));
-      a.appendChild(el("small","",so?"sold out":price(s)));
-      it.appendChild(a);
-      var nt=[shortNote(s.note),tags(s,F)].filter(Boolean).join(" · ");
-      if(nt){var n=el("div","nt",nt);if(s.note)n.title=s.note;it.appendChild(n)}
-      tm.appendChild(it);
-    });
-    info.appendChild(tm);
-    f.appendChild(info);out.appendChild(f);
+  out.sort(function(a,b){return b.sc-a.sc||b.n-a.n});
+  return out.slice(0,8);
+}
+function hideSug(){var s=document.getElementById("sug");s.hidden=true;s.innerHTML=""}
+function pick(k){S.film=k;document.getElementById("q").value="";hideSug();ui();if(typeof window!=="undefined"&&window.scrollTo)window.scrollTo(0,0)}
+function showSug(){
+  var q=document.getElementById("q").value,r=suggest(q),s=document.getElementById("sug");
+  s.innerHTML="";
+  if(!r.length){s.hidden=true;return}
+  r.forEach(function(x){
+    var b=el("button","",nice(x.F.title)+(x.F.year?" ("+x.F.year+")":""));
+    var sm=[x.F.directors&&x.F.directors.length?"r. "+x.F.directors.join(", "):"",x.n+" proiecții"].filter(Boolean).join(" · ");
+    b.appendChild(el("small","",sm));
+    b.onmousedown=function(e){if(e.preventDefault)e.preventDefault();pick(x.k)};
+    s.appendChild(b);
   });
+  s.hidden=false;
 }
 function notes(){
   var n=document.getElementById("note");n.innerHTML="";
@@ -231,7 +295,32 @@ function notes(){
   t.appendChild(im);t.appendChild(el("p","","This product uses the TMDB API but is not endorsed or certified by TMDB."));
   n.appendChild(t);
 }
+function load(){
+  fetch("data/screenings.json?"+Date.now()).then(function(r){
+    if(!r.ok)throw new Error(r.status);return r.json();
+  }).then(function(d){
+    D=d;D.films=D.films||{};var t=today(),ws={},cnt={};
+    D.screenings=D.screenings.filter(function(s){return s.date>=t});
+    D.screenings.forEach(function(s){S.cin[s.cinema]=1;ws[weekStart(s.date)]=1;var k=fk(s);cnt[k]=(cnt[k]||0)+1});
+    FI=Object.keys(cnt).map(function(k){
+      var F=D.films[k]||{title:(D.screenings.filter(function(s){return fk(s)===k})[0]||{}).title||""};
+      return {k:k,F:F,n:cnt[k],t:nz(F.title),o:nz(F.original_title),d:nz((F.directors||[]).join(" "))};
+    });
+    D.weeks=Object.keys(ws).sort();
+    S.week=ws[weekStart(t)]?weekStart(t):D.weeks[0];
+    S.day=pickDay();
+    ui();
+  }).catch(function(e){
+    document.getElementById("upd").textContent="Nu am putut încărca programul ("+e.message+"). Încearcă mai târziu.";
+  });
+}
 document.getElementById("sold").onclick=function(){S.sold=!S.sold;S.day=pickDay();ui()};
+var qi=document.getElementById("q");
+qi.addEventListener("input",showSug);
+qi.addEventListener("keydown",function(e){
+  if(e.key==="Enter"){var r=suggest(qi.value);if(r[0])pick(r[0].k)}else if(e.key==="Escape")hideSug();
+});
+document.addEventListener("click",function(e){if(!e.target.closest||!e.target.closest(".srch"))hideSug()});
 load();
 </script>
 </body>
