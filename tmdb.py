@@ -265,7 +265,7 @@ def resolve(grp, items, cache):
                     names = [n for n in (norm(r.get("title")), norm(r.get("original_title"))) if n]
                     if not names:
                         continue
-                    if any(qn in names for qn in qns):
+                    if any(qn in names or (len(qn) >= 38 and any(n.startswith(qn) for n in names)) for qn in qns):
                         kind = "exact"
                     elif max(SequenceMatcher(None, qn, n).ratio() for qn in qns for n in names) >= 0.92:
                         kind = "aproximativ"
@@ -308,6 +308,8 @@ def resolve(grp, items, cache):
     info = f"scor {best[0]}: {', '.join(best[4]) or 'doar titlul'}"
     if second:
         info += f" | al doilea: #{second[1]} {second[3]['title']!r} ({second[3]['year']}) scor {second[0]}"
+    if "anul nu coincide" in best[4] and "regia apare în descriere" not in best[4]:
+        return None, None, f"RESPINS (anul nu coincide) #{best[1]} {best[3]['title']!r} ({best[3]['year']}); {info}"
     if need_ev and best[0] < 5:
         return None, None, f"RESPINS (căutat după ':', dovezi insuficiente) #{best[1]} {best[3]['title']!r} ({best[3]['year']}); {info}"
     if best[0] < 3:
