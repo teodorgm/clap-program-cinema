@@ -3812,6 +3812,31 @@
    "fetched": "2026-11-25T12:03:58+00:00",
    "lb": 3.85,
    "lb_ts": "2026-11-25T12:04:09+00:00"
+  },
+  "1400336": {
+   "title": "Socri de coșmar",
+   "original_title": "Focker In-Law",
+   "orig_lang": "en",
+   "year": "2026",
+   "poster": "https://image.tmdb.org/t/p/w185/zIqRXJWwjG8PCRVl7p3MU3gYxZO.jpg",
+   "directors": [
+    "John Hamburg"
+   ],
+   "cast": [
+    "Ben Stiller",
+    "Robert De Niro",
+    "Ariana Grande",
+    "Skyler Gisondo",
+    "Owen Wilson",
+    "Blythe Danner"
+   ],
+   "v": 2,
+   "overview": "Henry, fiul acum adult al lui Greg și Pam Focker, își anunță intenția de a se căsători cu Olivia, o fostă negociatoare FBI în situații cu ostatici, isteață și cu replici pe măsură. Greg, tatăl lui autoritar, o privește cu mare suspiciune pe viitoarea noră. În schimb, Jack, bunicul lui Henry, este complet cucerit de farmecul ei.",
+   "imdb_id": "tt34966140",
+   "runtime": 105,
+   "fetched": "2026-11-26T06:09:17+00:00",
+   "lb": 3.17,
+   "lb_ts": "2026-11-26T06:09:18+00:00"
   }
  },
  "search": {
@@ -7870,15 +7895,15 @@
   },
   "hexe regatul magiei|": {
    "res": [],
-   "ts": "2026-11-22T06:06:47+00:00"
+   "ts": "2026-11-26T06:09:14+00:00"
   },
   "hexe regatul magiei|2026": {
    "res": [],
-   "ts": "2026-11-22T06:06:47+00:00"
+   "ts": "2026-11-26T06:09:14+00:00"
   },
   "hexe regatul magiei|2025": {
    "res": [],
-   "ts": "2026-11-22T06:06:48+00:00"
+   "ts": "2026-11-26T06:09:14+00:00"
   },
   "hexe|": {
    "res": [
@@ -7887,73 +7912,73 @@
      "title": "Die kleine Hexe",
      "original_title": "Die kleine Hexe",
      "release_date": "2018-02-01",
-     "popularity": 2.1461
+     "popularity": 2.4472
     },
     {
      "id": 79859,
      "title": "Olle Hexe",
      "original_title": "Olle Hexe",
      "release_date": "1991-02-11",
-     "popularity": 0.4192
+     "popularity": 0.8468
     },
     {
      "id": 297500,
      "title": "Die Hexe",
      "original_title": "Die Hexe",
      "release_date": "1954-10-14",
-     "popularity": 0.2836
-    },
-    {
-     "id": 435943,
-     "title": "Geburt der Hexe",
-     "original_title": "Geburt der Hexe",
-     "release_date": "1980-02-15",
-     "popularity": 0.4181
+     "popularity": 0.3701
     },
     {
      "id": 430173,
      "title": "Hexe Lilli rettet Weihnachten",
      "original_title": "Hexe Lilli rettet Weihnachten",
      "release_date": "2017-11-09",
-     "popularity": 0.765
+     "popularity": 0.9026
     },
     {
-     "id": 327185,
-     "title": "Küss mich, Hexe!",
-     "original_title": "Küss mich, Hexe!",
-     "release_date": "2005-03-23",
-     "popularity": 0.3604
+     "id": 435943,
+     "title": "Geburt der Hexe",
+     "original_title": "Geburt der Hexe",
+     "release_date": "1980-02-15",
+     "popularity": 0.3112
     },
     {
      "id": 44422,
      "title": "Die kleine Hexe",
      "original_title": "Die kleine Hexe",
      "release_date": "1983-02-04",
-     "popularity": 0.2131
+     "popularity": 0.266
     },
     {
-     "id": 430660,
-     "title": "Die kleine Hexe",
-     "original_title": "Die kleine Hexe",
-     "release_date": "1969-06-01",
-     "popularity": 0.169
+     "id": 272876,
+     "title": "Anna Göldin, letzte Hexe",
+     "original_title": "Anna Göldin, letzte Hexe",
+     "release_date": "1991-08-01",
+     "popularity": 0.7506
     },
     {
      "id": 54486,
      "title": "Hexe Lilli - Die Reise nach Mandolan",
      "original_title": "Hexe Lilli - Die Reise nach Mandolan",
      "release_date": "2011-02-17",
-     "popularity": 1.244
+     "popularity": 1.6405
     },
     {
-     "id": 1204512,
-     "title": "Die Hexe von Köln",
-     "original_title": "Die Hexe von Köln",
-     "release_date": "1989-04-07",
-     "popularity": 0.6965
+     "id": 430660,
+     "title": "Die kleine Hexe",
+     "original_title": "Die kleine Hexe",
+     "release_date": "1969-06-01",
+     "popularity": 0.1002
+    },
+    {
+     "id": 1701659,
+     "title": "Die Hexe Nebenan",
+     "original_title": "Die Hexe Nebenan",
+     "release_date": "2026-05-31",
+     "popularity": 0.0624
     }
    ],
-   "ts": "2026-11-22T06:06:48+00:00"
+   "ts": "2026-11-26T06:09:15+00:00"
   },
   "hexe|2026": {
    "res": [
@@ -7962,24 +7987,24 @@
      "title": "Die Hexe Nebenan",
      "original_title": "Die Hexe Nebenan",
      "release_date": "2026-05-31",
-     "popularity": 0.1162
+     "popularity": 0.0624
     },
     {
      "id": 1538497,
      "title": "Hexed",
      "original_title": "Hexed",
      "release_date": "2026-11-25",
-     "popularity": 42.4685
+     "popularity": 69.8904
     },
     {
      "id": 1694711,
      "title": "装甲騎兵ボトムズ 灰色の魔女 第1作",
      "original_title": "装甲騎兵ボトムズ 灰色の魔女 第1作",
      "release_date": "2026-11-20",
-     "popularity": 2.1919
+     "popularity": 2.4133
     }
    ],
-   "ts": "2026-11-22T06:06:48+00:00"
+   "ts": "2026-11-26T06:09:15+00:00"
   },
   "hexe|2025": {
    "res": [
@@ -7988,50 +8013,50 @@
      "title": "Bibi Blocksberg - Das große Hexentreffen",
      "original_title": "Bibi Blocksberg - Das große Hexentreffen",
      "release_date": "2025-12-06",
-     "popularity": 1.1044
-    },
-    {
-     "id": 1456146,
-     "title": "THE HEXED",
-     "original_title": "THE HEXED",
-     "release_date": "2025-04-03",
-     "popularity": 0.3769
+     "popularity": 0.9827
     },
     {
      "id": 1549548,
      "title": "Hexed",
      "original_title": "Hexed",
      "release_date": "2025-07-20",
-     "popularity": 0.5324
+     "popularity": 0.5951
+    },
+    {
+     "id": 1456146,
+     "title": "THE HEXED",
+     "original_title": "THE HEXED",
+     "release_date": "2025-04-03",
+     "popularity": 0.1687
     },
     {
      "id": 1440743,
      "title": "Hexenhaus",
      "original_title": "Hexenhaus",
      "release_date": "2025-08-12",
-     "popularity": 0.121
+     "popularity": 0.0631
     },
     {
      "id": 1425709,
      "title": "Sorcières : chronique d'un massacre",
      "original_title": "Sorcières : chronique d'un massacre",
      "release_date": "2025-10-11",
-     "popularity": 0.6078
+     "popularity": 0.6014
     }
    ],
-   "ts": "2026-11-22T06:06:48+00:00"
+   "ts": "2026-11-26T06:09:15+00:00"
   },
   "regatul magiei|": {
    "res": [],
-   "ts": "2026-11-22T06:06:48+00:00"
+   "ts": "2026-11-26T06:09:15+00:00"
   },
   "regatul magiei|2026": {
    "res": [],
-   "ts": "2026-11-22T06:06:49+00:00"
+   "ts": "2026-11-26T06:09:15+00:00"
   },
   "regatul magiei|2025": {
    "res": [],
-   "ts": "2026-11-22T06:06:49+00:00"
+   "ts": "2026-11-26T06:09:15+00:00"
   },
   "poti vedea totul|": {
    "res": [
@@ -8040,10 +8065,10 @@
      "title": "Poți Vedea Totul",
      "original_title": "You Can See Everything",
      "release_date": "2026-10-16",
-     "popularity": 67.4938
+     "popularity": 123.4705
     }
    ],
-   "ts": "2026-11-22T06:06:49+00:00"
+   "ts": "2026-11-26T06:09:16+00:00"
   },
   "poti vedea totul|2026": {
    "res": [
@@ -8052,38 +8077,54 @@
      "title": "Poți Vedea Totul",
      "original_title": "You Can See Everything",
      "release_date": "2026-10-16",
-     "popularity": 67.4938
+     "popularity": 123.4705
     }
    ],
-   "ts": "2026-11-22T06:06:49+00:00"
+   "ts": "2026-11-26T06:09:16+00:00"
   },
   "poti vedea totul|2025": {
    "res": [],
-   "ts": "2026-11-22T06:06:49+00:00"
+   "ts": "2026-11-26T06:09:16+00:00"
   },
   "socri de cosmar|": {
-   "res": [],
-   "ts": "2026-11-22T06:06:50+00:00"
+   "res": [
+    {
+     "id": 1400336,
+     "title": "Socri de coșmar",
+     "original_title": "Focker In-Law",
+     "release_date": "2026-11-21",
+     "popularity": 55.3602
+    }
+   ],
+   "ts": "2026-11-26T06:09:16+00:00"
   },
   "socri de cosmar|2026": {
-   "res": [],
-   "ts": "2026-11-22T06:06:50+00:00"
+   "res": [
+    {
+     "id": 1400336,
+     "title": "Socri de coșmar",
+     "original_title": "Focker In-Law",
+     "release_date": "2026-11-21",
+     "popularity": 55.3602
+    }
+   ],
+   "ts": "2026-11-26T06:09:16+00:00"
   },
   "socri de cosmar|2025": {
    "res": [],
-   "ts": "2026-11-22T06:06:50+00:00"
+   "ts": "2026-11-26T06:09:17+00:00"
   },
   "soldatul fantoma|": {
    "res": [],
-   "ts": "2026-11-22T06:06:50+00:00"
+   "ts": "2026-11-26T06:09:17+00:00"
   },
   "soldatul fantoma|2026": {
    "res": [],
-   "ts": "2026-11-22T06:06:50+00:00"
+   "ts": "2026-11-26T06:09:17+00:00"
   },
   "soldatul fantoma|2025": {
    "res": [],
-   "ts": "2026-11-22T06:06:51+00:00"
+   "ts": "2026-11-26T06:09:17+00:00"
   },
   "daniel si cuptorul de foc|": {
    "res": [],

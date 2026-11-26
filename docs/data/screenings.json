@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:05:56+00:00",
+ "generated": "2026-11-26T06:07:14+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 69,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,7 +105,7 @@
    "ok": true,
    "stale": false,
    "count": 32,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "cc1806": {
@@ -113,31 +113,31 @@
    "ok": true,
    "stale": false,
    "count": 723,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 584,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "count": 586,
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 522,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "count": 523,
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 610,
-   "updated": "2026-11-25T22:05:56+00:00",
+   "count": 611,
+   "updated": "2026-11-26T06:07:14+00:00",
    "error": null
   }
  },
@@ -4598,7 +4598,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-749850",
@@ -4733,7 +4733,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-750255",
@@ -5069,7 +5069,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-751091",
@@ -5278,7 +5278,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-750741",
@@ -5334,7 +5334,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-749895",
@@ -6446,7 +6446,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-750674",
@@ -8394,7 +8394,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758113",
@@ -8450,7 +8450,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759065",
@@ -8504,7 +8504,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756053",
@@ -8558,7 +8558,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759022",
@@ -9586,7 +9586,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753892",
@@ -9613,7 +9613,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759406",
@@ -9665,7 +9665,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759370",
@@ -9748,7 +9748,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-758619",
@@ -10613,7 +10613,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757389",
@@ -10915,7 +10915,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "elvire-2026-11-27-17:00-bilete-retrospectiva-integrala-radu-jude-sleep-2-plastic-semiotic-trailer-pentru-paradisul-lui-dante",
@@ -11156,7 +11156,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-758813",
@@ -11208,7 +11208,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759527",
@@ -11235,7 +11235,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-760389",
@@ -11293,7 +11293,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760330",
@@ -12584,7 +12584,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758132",
@@ -12807,7 +12807,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "elvire-2026-11-27-19:30-bilete-nu-e-locul-tau-aici",
@@ -12994,7 +12994,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-755751",
@@ -13048,7 +13048,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759528",
@@ -13075,7 +13075,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758664",
@@ -13162,7 +13162,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756070",
@@ -14479,7 +14479,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753895",
@@ -14506,7 +14506,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-758662",
@@ -14589,7 +14589,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-755492",
@@ -14643,7 +14643,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760242",
@@ -14672,7 +14672,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753767",
@@ -16599,7 +16599,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757454",
@@ -16709,7 +16709,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759254",
@@ -16761,7 +16761,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756230",
@@ -16869,7 +16869,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759083",
@@ -17827,7 +17827,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757362",
@@ -18042,7 +18042,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757708",
@@ -18364,7 +18364,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753905",
@@ -18391,7 +18391,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759447",
@@ -18443,7 +18443,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759388",
@@ -18526,7 +18526,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759203",
@@ -19621,7 +19621,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757368",
@@ -19866,7 +19866,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759235",
@@ -20107,7 +20107,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753911",
@@ -20134,7 +20134,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759639",
@@ -20161,7 +20161,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-760423",
@@ -20249,7 +20249,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "muzeu-2026-11-28-17:40-bilete-nu-e-locul-tau-aici",
@@ -21488,7 +21488,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758179",
@@ -21711,7 +21711,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759225",
@@ -21873,7 +21873,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759257",
@@ -21927,7 +21927,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759642",
@@ -21954,7 +21954,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "apollo111-2026-11-28-20:00-bilete-teenage-sex-and-death-at-camp-miasma",
@@ -22066,7 +22066,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756254",
@@ -23421,7 +23421,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753923",
@@ -23448,7 +23448,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-758755",
@@ -23531,7 +23531,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759233",
@@ -23585,7 +23585,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-756852",
@@ -23644,7 +23644,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753792",
@@ -25566,7 +25566,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757440",
@@ -25674,7 +25674,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759836",
@@ -25728,7 +25728,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756231",
@@ -25836,7 +25836,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759084",
@@ -26833,7 +26833,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757363",
@@ -27366,7 +27366,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753906",
@@ -27393,7 +27393,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759448",
@@ -27445,7 +27445,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759389",
@@ -27528,7 +27528,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759819",
@@ -28625,7 +28625,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757369",
@@ -29001,7 +29001,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-756855",
@@ -29217,7 +29217,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753912",
@@ -29244,7 +29244,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759640",
@@ -29271,7 +29271,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760255",
@@ -29300,7 +29300,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-760437",
@@ -30923,7 +30923,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759915",
@@ -31007,7 +31007,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759800",
@@ -31061,7 +31061,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753918",
@@ -31088,7 +31088,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759643",
@@ -31115,7 +31115,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758780",
@@ -31202,7 +31202,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756255",
@@ -32471,7 +32471,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753924",
@@ -32498,7 +32498,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-758756",
@@ -32606,7 +32606,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760259",
@@ -32635,7 +32635,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753793",
@@ -32720,7 +32720,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-756366",
@@ -33393,7 +33393,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759722",
@@ -33448,7 +33448,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760519",
@@ -33706,7 +33706,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-752751",
@@ -35233,7 +35233,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757426",
@@ -35316,7 +35316,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760199",
@@ -35395,7 +35395,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759727",
@@ -35478,7 +35478,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-752316",
@@ -36683,7 +36683,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-752404",
@@ -36866,7 +36866,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-752780",
@@ -36949,7 +36949,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753907",
@@ -36976,7 +36976,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759449",
@@ -37028,7 +37028,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759390",
@@ -37111,7 +37111,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760182",
@@ -38594,7 +38594,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-752312",
@@ -38646,7 +38646,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759641",
@@ -38673,7 +38673,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-756872",
@@ -38732,7 +38732,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-760515",
@@ -39752,7 +39752,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-760146",
@@ -39781,7 +39781,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "muzeu-2026-11-30-19:15-bilete-anatomia-unei-prabusiri-european-cinema-night",
@@ -40348,7 +40348,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760223",
@@ -40402,7 +40402,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759644",
@@ -40429,7 +40429,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758781",
@@ -40516,7 +40516,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-752296",
@@ -41273,7 +41273,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757382",
@@ -41414,7 +41414,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760180",
@@ -41819,7 +41819,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753925",
@@ -41846,7 +41846,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-757495",
@@ -42008,7 +42008,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760280",
@@ -42037,7 +42037,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753794",
@@ -42942,7 +42942,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759495",
@@ -42997,7 +42997,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760634",
@@ -43280,7 +43280,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-752861",
@@ -44838,7 +44838,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757464",
@@ -44919,7 +44919,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760623",
@@ -44971,7 +44971,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756233",
@@ -46252,7 +46252,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-752428",
@@ -46489,7 +46489,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753908",
@@ -46516,7 +46516,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-759450",
@@ -46570,7 +46570,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759391",
@@ -47966,7 +47966,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760652",
@@ -48070,7 +48070,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-752336",
@@ -48122,7 +48122,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-756923",
@@ -48181,7 +48181,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-752828",
@@ -48873,7 +48873,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-725081",
@@ -49367,7 +49367,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760749",
@@ -49694,7 +49694,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-752829",
@@ -49802,7 +49802,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753920",
@@ -49829,7 +49829,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-725079",
@@ -49916,7 +49916,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-752334",
@@ -50022,7 +50022,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760624",
@@ -50919,7 +50919,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760051",
@@ -51166,7 +51166,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753926",
@@ -51193,7 +51193,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-757496",
@@ -51274,7 +51274,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759361",
@@ -51384,7 +51384,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753795",
@@ -51988,7 +51988,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759386",
@@ -52046,7 +52046,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760967",
@@ -52308,7 +52308,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-755069",
@@ -52861,7 +52861,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753903",
@@ -52888,7 +52888,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756234",
@@ -53447,7 +53447,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760995",
@@ -53501,7 +53501,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760966",
@@ -53952,7 +53952,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753909",
@@ -53979,7 +53979,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759392",
@@ -54765,7 +54765,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-733892",
@@ -54987,7 +54987,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757378",
@@ -55072,7 +55072,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760862",
@@ -55534,7 +55534,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753915",
@@ -55561,7 +55561,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "elvire-2026-12-02-17:30-bilete-nu-e-locul-tau-aici",
@@ -55885,7 +55885,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759020",
@@ -56564,7 +56564,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759356",
@@ -56816,7 +56816,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760863",
@@ -56983,7 +56983,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-760994",
@@ -57176,7 +57176,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753921",
@@ -57203,7 +57203,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-725084",
@@ -57319,7 +57319,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761114",
@@ -58625,7 +58625,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753927",
@@ -58652,7 +58652,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-758759",
@@ -58789,7 +58789,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-760534",
@@ -59013,7 +59013,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758240",
@@ -59483,7 +59483,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761251",
@@ -59745,7 +59745,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761245",
@@ -60298,7 +60298,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753904",
@@ -60325,7 +60325,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-756235",
@@ -60884,7 +60884,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761306",
@@ -60938,7 +60938,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761252",
@@ -61389,7 +61389,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753910",
@@ -61416,7 +61416,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-759393",
@@ -62423,7 +62423,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757379",
@@ -62508,7 +62508,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760868",
@@ -62810,7 +62810,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761297",
@@ -62945,7 +62945,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753916",
@@ -62972,7 +62972,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-757076",
@@ -63298,7 +63298,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "elvire-2026-12-03-18:00-bilete-le-chant-des-forets-premiile-academiei-europene-de-film",
@@ -64003,7 +64003,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1824-759357",
@@ -64255,7 +64255,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-760778",
@@ -64451,7 +64451,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761305",
@@ -64644,7 +64644,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753922",
@@ -64671,7 +64671,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-725085",
@@ -64787,7 +64787,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-761280",
@@ -66091,7 +66091,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-753928",
@@ -66118,7 +66118,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-758760",
@@ -66255,7 +66255,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1818-755669",
@@ -66479,7 +66479,7 @@
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
    "runtime": 105,
-   "film": "t:socri de cosmar"
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1806-758247",
@@ -68428,6 +68428,35 @@
    "film": "tmdb:1728593"
   },
   {
+   "id": "cc1818-753493",
+   "cinema": "cc1818",
+   "date": "2026-12-10",
+   "time": "16:30",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "4DX"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/omul-paianjen-o-noua-noua-zi/8085s2rr",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/753493?lang=ro",
+   "hall": "6",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "t:omul paianjen o noua noua zi"
+  },
+  {
    "id": "elvire-2026-12-10-17:30-bilete-club-kid",
    "cinema": "elvire",
    "date": "2026-12-10",
@@ -68476,6 +68505,87 @@
    "url": "https://eventbook.ro/film/bilete-mici-excese-a-vinganca-de-uma-mulher?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/09/bilete-mici-excese-a-vinganca-de-uma-mulher-5Rz.webp",
    "film": "tmdb:89451"
+  },
+  {
+   "id": "cc1807-753278",
+   "cinema": "cc1807",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/omul-paianjen-o-noua-noua-zi/8085s2rr",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/753278?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "t:omul paianjen o noua noua zi"
+  },
+  {
+   "id": "cc1818-753501",
+   "cinema": "cc1818",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/omul-paianjen-o-noua-noua-zi/8085s2rr",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/753501?lang=ro",
+   "hall": "10",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "t:omul paianjen o noua noua zi"
+  },
+  {
+   "id": "cc1824-753478",
+   "cinema": "cc1824",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "title": "Omul-Păianjen: O nouă nouă zi",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/omul-paianjen-o-noua-noua-zi/8085s2rr",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/753478?lang=ro",
+   "hall": "11",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8085S2RR.jpg",
+   "year": "2026",
+   "runtime": 160,
+   "film": "t:omul paianjen o noua noua zi"
   },
   {
    "id": "elvire-2026-12-11-17:30-bilete-film-el-ser-querido",
@@ -70717,17 +70827,20 @@
    "runtime": null,
    "source": "eventbook"
   },
-  "t:socri de cosmar": {
-   "tmdb_id": null,
+  "tmdb:1400336": {
+   "tmdb_id": 1400336,
    "title": "Socri de coșmar",
-   "original_title": null,
-   "year": null,
-   "orig_lang": null,
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
-   "directors": [],
-   "imdb_id": null,
-   "runtime": null,
-   "source": "eventbook"
+   "original_title": "Focker In-Law",
+   "year": "2026",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/zIqRXJWwjG8PCRVl7p3MU3gYxZO.jpg",
+   "directors": [
+    "John Hamburg"
+   ],
+   "imdb_id": "tt34966140",
+   "runtime": 105,
+   "source": "tmdb",
+   "lb_rating": 3.17
   },
   "t:soldatul fantoma": {
    "tmdb_id": null,
