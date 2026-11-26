@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:07:14+00:00",
+ "generated": "2026-11-26T10:20:48+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 69,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 14,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 11,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,330 +105,43 @@
    "ok": true,
    "stale": false,
    "count": 32,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 723,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "count": 721,
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 586,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "count": 582,
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 523,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "count": 522,
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 611,
-   "updated": "2026-11-26T06:07:14+00:00",
+   "count": 609,
+   "updated": "2026-11-26T10:20:48+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "cc1818-733944",
-   "cinema": "cc1818",
-   "date": "2026-11-26",
-   "time": "09:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "4DX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/733944?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-751106",
-   "cinema": "cc1806",
-   "date": "2026-11-26",
-   "time": "11:30",
-   "title": "Monarh",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/monarh/8390o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751106?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8390O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1815513"
-  },
-  {
-   "id": "cc1806-750949",
-   "cinema": "cc1806",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/750949?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-748226",
-   "cinema": "cc1807",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "Insula pierduta",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/insula-pierduta-dub/8095s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/748226?lang=ro",
-   "hall": "6",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8095S2R.jpg",
-   "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1465063"
-  },
-  {
-   "id": "cc1807-749532",
-   "cinema": "cc1807",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "În inima sălbăticiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/in-inima-salbaticiei/8314s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/749532?lang=ro",
-   "hall": "10",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8314S2R.jpg",
-   "year": "2026",
-   "runtime": 101,
-   "film": "tmdb:1263337"
-  },
-  {
-   "id": "cc1818-745846",
-   "cinema": "cc1818",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/745846?lang=ro",
-   "hall": "1",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
-  {
-   "id": "cc1818-749997",
-   "cinema": "cc1818",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "Delta salbatica",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/delta-salbatica/8335o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/749997?lang=ro",
-   "hall": "13",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8335O2R.jpg",
-   "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1756136"
-  },
-  {
-   "id": "cc1818-750027",
-   "cinema": "cc1818",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/lucy-lost/8523s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/750027?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1824-750375",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "Băiat de milioane",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/baiat-de-milioane/8334o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750375?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8334O2R.jpg",
-   "year": "2026",
-   "runtime": 100,
-   "film": "tmdb:1783294"
-  },
-  {
-   "id": "cc1824-750399",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750399?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-750105",
-   "cinema": "cc1824",
-   "date": "2026-11-26",
-   "time": "12:05",
-   "title": "Micul mamut: Aventuri în Africa",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/micul-mamut-aventuri-in-africa-dub/8424d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/750105?lang=ro",
-   "hall": "5",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8424D2R.jpg",
-   "year": "2026",
-   "runtime": 73,
-   "film": "t:micul mamut aventuri in africa"
-  },
   {
    "id": "cc1806-751001",
    "cinema": "cc1806",
@@ -22148,6 +21861,35 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "cc1824-760432",
+   "cinema": "cc1824",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760432?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "eforie-2026-11-28-20:00-bilete-caged",
    "cinema": "eforie",
    "date": "2026-11-28",
@@ -24168,6 +23910,35 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1824-762217",
+   "cinema": "cc1824",
+   "date": "2026-11-28",
+   "time": "23:05",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762217?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "elvire-2026-11-29-10:00-bilete-le-chant-des-forets-cantecul-padurii",
@@ -27556,31 +27327,33 @@
    "film": "t:lucy lost"
   },
   {
-   "id": "cc1824-762249",
+   "id": "cc1824-762442",
    "cinema": "cc1824",
    "date": "2026-11-29",
    "time": "15:20",
-   "title": "Cotoi cu pălărioi",
-   "age": null,
-   "note": "Avanpremieră",
+   "title": "Socri de coșmar",
+   "age": "AP-12",
+   "note": null,
    "audio": [
+    "EN"
+   ],
+   "subs": [
     "RO"
    ],
-   "subs": [],
-   "dubbed": true,
+   "dubbed": false,
    "tech": [
     "VIP"
    ],
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://www.cinemacity.ro/films/cotoi-cu-palarioi-dub/7482s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762249?lang=ro",
+   "url": "https://www.cinemacity.ro/films/socri-de-cosmar/8181s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762442?lang=ro",
    "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7482S2R.jpg",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8181S2R.jpg",
    "year": "2026",
-   "runtime": 107,
-   "film": "tmdb:1117898"
+   "runtime": 105,
+   "film": "tmdb:1400336"
   },
   {
    "id": "cc1807-759786",
@@ -68763,10 +68536,10 @@
    "film": "tmdb:848700"
   },
   {
-   "id": "apollo111-2026-12-12-17:30-bilete-nu-e-locul-tau-aici",
+   "id": "apollo111-2026-12-12-17:00-bilete-nu-e-locul-tau-aici",
    "cinema": "apollo111",
    "date": "2026-12-12",
-   "time": "17:30",
+   "time": "17:00",
    "title": "NU E LOCUL TĂU AICI",
    "age": "12+",
    "note": null,
@@ -69666,7 +69439,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240693,
+   "imdb_votes": 240724,
    "lb_rating": 4.12
   },
   "tmdb:1472684": {
@@ -69736,7 +69509,7 @@
    "runtime": 127,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 590,
+   "imdb_votes": 597,
    "lb_rating": 3.54
   },
   "tmdb:1514026": {
@@ -69753,7 +69526,7 @@
    "runtime": 96,
    "source": "tmdb",
    "imdb_rating": 6.6,
-   "imdb_votes": 26820,
+   "imdb_votes": 26981,
    "lb_rating": 3.07
   },
   "tmdb:1783294": {
@@ -69770,7 +69543,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 220,
+   "imdb_votes": 224,
    "lb_rating": 3.04
   },
   "tmdb:29381": {
@@ -69787,7 +69560,7 @@
    "runtime": 96,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 5754,
+   "imdb_votes": 5756,
    "lb_rating": 3.84
   },
   "tmdb:1399462": {
@@ -69804,7 +69577,7 @@
    "runtime": 116,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 2722,
+   "imdb_votes": 2728,
    "lb_rating": 3.67
   },
   "tmdb:34187": {
@@ -69821,7 +69594,7 @@
    "runtime": 88,
    "source": "tmdb",
    "imdb_rating": 6.9,
-   "imdb_votes": 4923,
+   "imdb_votes": 4924,
    "lb_rating": 3.46
   },
   "tmdb:1585239": {
@@ -69837,8 +69610,8 @@
    "imdb_id": "tt38058097",
    "runtime": 122,
    "source": "tmdb",
-   "imdb_rating": 8.1,
-   "imdb_votes": 3434,
+   "imdb_rating": 8.2,
+   "imdb_votes": 3656,
    "lb_rating": 4.44
   },
   "tmdb:8834": {
@@ -69855,7 +69628,7 @@
    "runtime": 135,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 116224,
+   "imdb_votes": 116234,
    "lb_rating": 3.18
   },
   "tmdb:454294": {
@@ -69872,7 +69645,7 @@
    "runtime": 120,
    "source": "tmdb",
    "imdb_rating": 6.1,
-   "imdb_votes": 21008,
+   "imdb_votes": 21009,
    "lb_rating": 2.87
   },
   "t:craciun fara semnal misiunea lui yoyo": {
@@ -69901,7 +69674,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 55806,
+   "imdb_votes": 56064,
    "lb_rating": 3.71
   },
   "t:concertul de craciun al lui andre rieu d": {
@@ -69943,7 +69716,7 @@
    "runtime": 108,
    "source": "tmdb",
    "imdb_rating": 6.5,
-   "imdb_votes": 2226,
+   "imdb_votes": 2302,
    "lb_rating": 3.07
   },
   "tmdb:1088548": {
@@ -69960,7 +69733,7 @@
    "runtime": 111,
    "source": "tmdb",
    "imdb_rating": 6.3,
-   "imdb_votes": 6136,
+   "imdb_votes": 6165,
    "lb_rating": 3.14
   },
   "t:craciun de cosmar 2": {
@@ -70001,7 +69774,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 6.5,
-   "imdb_votes": 5252,
+   "imdb_votes": 5395,
    "lb_rating": 3.06
   },
   "tmdb:1309373": {
@@ -70018,7 +69791,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.7,
-   "imdb_votes": 1502,
+   "imdb_votes": 1507,
    "lb_rating": 3.95
   },
   "tmdb:1323409": {
@@ -70035,7 +69808,7 @@
    "runtime": 170,
    "source": "tmdb",
    "imdb_rating": 5.6,
-   "imdb_votes": 1032,
+   "imdb_votes": 1033,
    "lb_rating": 3.14
   },
   "t:daniel si cuptorul de foc": {
@@ -70097,7 +69870,7 @@
    "runtime": 155,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 1105323,
+   "imdb_votes": 1105566,
    "lb_rating": 3.9
   },
   "tmdb:693134": {
@@ -70114,7 +69887,7 @@
    "runtime": 167,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 808961,
+   "imdb_votes": 809192,
    "lb_rating": 4.38
   },
   "tmdb:1074074": {
@@ -70131,7 +69904,7 @@
    "runtime": 136,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 4602,
+   "imdb_votes": 4626,
    "lb_rating": 3.84
   },
   "tmdb:11527": {
@@ -70148,7 +69921,7 @@
    "runtime": 141,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 75639,
+   "imdb_votes": 75647,
    "lb_rating": 3.75
   },
   "tmdb:1567605": {
@@ -70165,7 +69938,7 @@
    "runtime": 115,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 14320,
+   "imdb_votes": 14945,
    "lb_rating": 3.22
   },
   "t:film pentru prieteni o umbra de nor dimineata": {
@@ -70195,7 +69968,7 @@
    "runtime": 113,
    "source": "tmdb",
    "imdb_rating": 8.5,
-   "imdb_votes": 493,
+   "imdb_votes": 497,
    "lb_rating": 4.18
   },
   "t:hexe regatul magiei": {
@@ -70224,7 +69997,7 @@
    "runtime": 139,
    "source": "tmdb",
    "imdb_rating": 5.9,
-   "imdb_votes": 1791,
+   "imdb_votes": 1794,
    "lb_rating": 2.93
   },
   "tmdb:1286656": {
@@ -70241,7 +70014,7 @@
    "runtime": 128,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 10606,
+   "imdb_votes": 11545,
    "lb_rating": 3.83
   },
   "tmdb:1773720": {
@@ -70297,7 +70070,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 12699,
+   "imdb_votes": 12771,
    "lb_rating": 3.85
   },
   "tmdb:1696174": {
@@ -70326,7 +70099,7 @@
    "runtime": 159,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 29134,
+   "imdb_votes": 32608,
    "lb_rating": 4.02
   },
   "tmdb:1410189": {
@@ -70343,7 +70116,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2809,
+   "imdb_votes": 2813,
    "lb_rating": 3.52
   },
   "tmdb:1449868": {
@@ -70405,8 +70178,8 @@
    "imdb_id": "tt37376190",
    "runtime": 87,
    "source": "tmdb",
-   "imdb_rating": 7.7,
-   "imdb_votes": 7
+   "imdb_rating": 7.9,
+   "imdb_votes": 8
   },
   "t:masterclass mehrdad oskouei si soraya akhlaghi": {
    "tmdb_id": null,
@@ -70434,7 +70207,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2826,
+   "imdb_votes": 2876,
    "lb_rating": 3.71
   },
   "tmdb:140870": {
@@ -70523,7 +70296,7 @@
    "runtime": 81,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 4247,
+   "imdb_votes": 4264,
    "lb_rating": 3.57
   },
   "tmdb:1815513": {
@@ -70595,7 +70368,7 @@
    "runtime": 154,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 145,
+   "imdb_votes": 147,
    "lb_rating": 3.59
   },
   "tmdb:1755291": {
@@ -70613,7 +70386,7 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 8022,
+   "imdb_votes": 8067,
    "lb_rating": 4.54
   },
   "tmdb:1773633": {
@@ -70658,7 +70431,7 @@
    "runtime": 115,
    "source": "tmdb",
    "imdb_rating": 6.9,
-   "imdb_votes": 2057,
+   "imdb_votes": 2256,
    "lb_rating": 3.38
   },
   "tmdb:797": {
@@ -70675,7 +70448,7 @@
    "runtime": 85,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 143100,
+   "imdb_votes": 143110,
    "lb_rating": 4.37
   },
   "tmdb:1709318": {
@@ -70724,8 +70497,8 @@
    "imdb_id": "tt45368240",
    "runtime": 174,
    "source": "tmdb",
-   "imdb_rating": 9.0,
-   "imdb_votes": 45126,
+   "imdb_rating": 8.9,
+   "imdb_votes": 47644,
    "lb_rating": 4.6
   },
   "tmdb:1375441": {
@@ -70742,7 +70515,7 @@
    "runtime": 110,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 51207,
+   "imdb_votes": 51650,
    "lb_rating": 3.63
   },
   "t:proiectie teatru copii capra cu trei iezi": {
@@ -70795,7 +70568,7 @@
    "runtime": 121,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 1376,
+   "imdb_votes": 1387,
    "lb_rating": 3.83
   },
   "tmdb:1423191": {
@@ -70812,7 +70585,7 @@
    "runtime": 94,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 178510,
+   "imdb_votes": 179321,
    "lb_rating": 3.73
   },
   "t:sleep 2 plastic semiotic trailer pentru paradisul lui dante": {
@@ -70880,7 +70653,7 @@
    "runtime": 110,
    "source": "tmdb",
    "imdb_rating": 6.2,
-   "imdb_votes": 401,
+   "imdb_votes": 402,
    "lb_rating": 2.81
   },
   "tmdb:1240889": {
@@ -70897,7 +70670,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 6.4,
-   "imdb_votes": 28452,
+   "imdb_votes": 28520,
    "lb_rating": 3.62
   },
   "t:to dream the same dream practici arhivale ca modele co auctoriale": {
@@ -70925,8 +70698,8 @@
    "imdb_id": "tt40935218",
    "runtime": null,
    "source": "tmdb",
-   "imdb_rating": 6.4,
-   "imdb_votes": 60
+   "imdb_rating": 6.5,
+   "imdb_votes": 63
   },
   "tmdb:891621": {
    "tmdb_id": 891621,
@@ -70942,7 +70715,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 27219,
+   "imdb_votes": 27930,
    "lb_rating": 4.14
   },
   "tmdb:791523": {
@@ -70959,7 +70732,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 33993,
+   "imdb_votes": 34310,
    "lb_rating": 4.37
   },
   "tmdb:127585": {
@@ -70976,7 +70749,7 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 7.9,
-   "imdb_votes": 802814,
+   "imdb_votes": 802883,
    "lb_rating": 3.73
   },
   "tmdb:28415": {
@@ -70993,7 +70766,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 11935,
+   "imdb_votes": 11938,
    "lb_rating": 3.72
   },
   "tmdb:1263337": {
@@ -71010,7 +70783,7 @@
    "runtime": 101,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 66974,
+   "imdb_votes": 67629,
    "lb_rating": 3.29
   }
  }
