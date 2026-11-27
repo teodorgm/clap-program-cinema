@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:11:25+00:00",
+ "generated": "2026-11-27T10:17:41+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,15 +73,15 @@
    "ok": true,
    "stale": false,
    "count": 67,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "union": {
    "name": "Union",
    "ok": true,
    "stale": false,
-   "count": 9,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "count": 20,
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,15 +89,15 @@
    "ok": true,
    "stale": false,
    "count": 13,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "eforie": {
    "name": "Eforie",
    "ok": true,
    "stale": false,
-   "count": 9,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "count": 22,
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,309 +105,43 @@
    "ok": true,
    "stale": false,
    "count": 30,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 656,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "count": 651,
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "cc1818": {
    "name": "Cinema City Mega Mall",
    "ok": true,
    "stale": false,
-   "count": 519,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "count": 515,
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 464,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "count": 463,
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   },
   "cc1807": {
    "name": "Cinema City Sun Plaza",
    "ok": true,
    "stale": false,
-   "count": 540,
-   "updated": "2026-11-27T06:11:25+00:00",
+   "count": 538,
+   "updated": "2026-11-27T10:17:41+00:00",
    "error": null
   }
  },
  "screenings": [
-  {
-   "id": "cc1818-759274",
-   "cinema": "cc1818",
-   "date": "2026-11-27",
-   "time": "11:10",
-   "title": "Mia și școala de monștri",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/mia-si-scoala-de-monstri-dub/8337d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/759274?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri"
-  },
-  {
-   "id": "cc1806-759369",
-   "cinema": "cc1806",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Jocurile foamei: Răsăritul în ziua extra",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/759369?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
-   "year": "2026",
-   "runtime": 158,
-   "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1806-759922",
-   "cinema": "cc1806",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Mia și școala de monștri",
-   "age": "AG",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "Barco laser"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/mia-si-scoala-de-monstri-dub/8337d2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/759922?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8337D2R.jpg",
-   "year": "2026",
-   "runtime": 81,
-   "film": "t:mia si scoala de monstri"
-  },
-  {
-   "id": "cc1807-755413",
-   "cinema": "cc1807",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Poți vedea totul",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/poti-vedea-totul/8661s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/755413?lang=ro",
-   "hall": "1",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8661S2R.jpg",
-   "year": "2026",
-   "runtime": 174,
-   "film": "tmdb:1765072"
-  },
-  {
-   "id": "cc1807-758684",
-   "cinema": "cc1807",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "3D"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/758684?lang=ro",
-   "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1818-754016",
-   "cinema": "cc1818",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/754016?lang=ro",
-   "hall": "3",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1818-757678",
-   "cinema": "cc1818",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Lucy Lost",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/lucy-lost/8523s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/757678?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8523S2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "t:lucy lost"
-  },
-  {
-   "id": "cc1818-758642",
-   "cinema": "cc1818",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1818/758642?lang=ro",
-   "hall": "12",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
-  {
-   "id": "cc1824-757545",
-   "cinema": "cc1824",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/757545?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
-   "id": "cc1824-758459",
-   "cinema": "cc1824",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "title": "Hexe: Regatul magiei",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": true,
-   "tech": [
-    "3D"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/hexe-regatul-magiei/8297s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/758459?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8297S2R.jpg",
-   "year": "2026",
-   "runtime": 112,
-   "film": "t:hexe regatul magiei"
-  },
   {
    "id": "cc1807-755478",
    "cinema": "cc1807",
@@ -5338,7 +5072,7 @@
     "pensioner": 16
    },
    "box": {},
-   "status": "ok",
+   "status": "sold_out",
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
@@ -7952,7 +7686,7 @@
    "date": "2026-11-28",
    "time": "11:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -8422,7 +8156,7 @@
    "date": "2026-11-28",
    "time": "11:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -8769,7 +8503,7 @@
    "date": "2026-11-28",
    "time": "12:15",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -9303,7 +9037,7 @@
    "date": "2026-11-28",
    "time": "12:50",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -9777,7 +9511,7 @@
    "date": "2026-11-28",
    "time": "13:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -10262,7 +9996,7 @@
    "date": "2026-11-28",
    "time": "14:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -10344,7 +10078,7 @@
    "date": "2026-11-28",
    "time": "14:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -10478,7 +10212,7 @@
    "date": "2026-11-28",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -12138,7 +11872,7 @@
    "date": "2026-11-28",
    "time": "17:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -16952,7 +16686,7 @@
    "date": "2026-11-29",
    "time": "11:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -17422,7 +17156,7 @@
    "date": "2026-11-29",
    "time": "11:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -17794,7 +17528,7 @@
    "date": "2026-11-29",
    "time": "12:15",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -18328,7 +18062,7 @@
    "date": "2026-11-29",
    "time": "12:50",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -18672,7 +18406,7 @@
    "date": "2026-11-29",
    "time": "13:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -19326,7 +19060,7 @@
    "date": "2026-11-29",
    "time": "14:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -19408,7 +19142,7 @@
    "date": "2026-11-29",
    "time": "14:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -19515,7 +19249,7 @@
    "date": "2026-11-29",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -21062,7 +20796,7 @@
    "date": "2026-11-29",
    "time": "16:50",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -21202,7 +20936,7 @@
    "date": "2026-11-29",
    "time": "17:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -26178,7 +25912,7 @@
    "date": "2026-11-30",
    "time": "10:15",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -26309,7 +26043,7 @@
    "date": "2026-11-30",
    "time": "10:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -26386,7 +26120,7 @@
    "date": "2026-11-30",
    "time": "10:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -26414,7 +26148,7 @@
    "date": "2026-11-30",
    "time": "10:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -27119,7 +26853,7 @@
    "date": "2026-11-30",
    "time": "11:50",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -27414,7 +27148,7 @@
    "date": "2026-11-30",
    "time": "12:15",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -27946,7 +27680,7 @@
    "date": "2026-11-30",
    "time": "12:50",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -28212,7 +27946,7 @@
    "date": "2026-11-30",
    "time": "13:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -28457,7 +28191,7 @@
    "date": "2026-11-30",
    "time": "13:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -28801,7 +28535,7 @@
    "date": "2026-11-30",
    "time": "14:20",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -28964,7 +28698,7 @@
    "date": "2026-11-30",
    "time": "14:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -29044,7 +28778,7 @@
    "date": "2026-11-30",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -30689,7 +30423,7 @@
    "date": "2026-11-30",
    "time": "17:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -31244,6 +30978,35 @@
    "year": "2026",
    "runtime": 105,
    "film": "tmdb:1400336"
+  },
+  {
+   "id": "cc1824-760515",
+   "cinema": "cc1824",
+   "date": "2026-11-30",
+   "time": "17:40",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/760515?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-752732",
@@ -33026,31 +32789,6 @@
    "film": "tmdb:1756532"
   },
   {
-   "id": "cc1824-752711",
-   "cinema": "cc1824",
-   "date": "2026-11-30",
-   "time": "20:00",
-   "title": "Vacanță all inclusive",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "RO"
-   ],
-   "subs": [],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/752711?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
-   "year": "2026",
-   "runtime": 85,
-   "film": "tmdb:1679416"
-  },
-  {
    "id": "cc1824-758068",
    "cinema": "cc1824",
    "date": "2026-11-30",
@@ -33106,6 +32844,31 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
+  },
+  {
+   "id": "cc1824-752711",
+   "cinema": "cc1824",
+   "date": "2026-11-30",
+   "time": "20:10",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/752711?lang=ro",
+   "hall": "7",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
   },
   {
    "id": "cc1824-760018",
@@ -33301,35 +33064,6 @@
    "film": "t:soldatul fantoma"
   },
   {
-   "id": "cc1824-762448",
-   "cinema": "cc1824",
-   "date": "2026-11-30",
-   "time": "20:40",
-   "title": "Soldatul fantomă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762448?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "t:soldatul fantoma"
-  },
-  {
    "id": "cc1807-760213",
    "cinema": "cc1807",
    "date": "2026-11-30",
@@ -33378,6 +33112,35 @@
    "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
    "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/755427?lang=ro",
    "hall": "2",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
+   "year": "2026",
+   "runtime": 90,
+   "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1824-762448",
+   "cinema": "cc1824",
+   "date": "2026-11-30",
+   "time": "20:45",
+   "title": "Soldatul fantomă",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762448?lang=ro",
+   "hall": "14",
    "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
    "year": "2026",
    "runtime": 90,
@@ -34771,35 +34534,6 @@
    "film": "t:soldatul fantoma"
   },
   {
-   "id": "cc1824-762449",
-   "cinema": "cc1824",
-   "date": "2026-11-30",
-   "time": "22:40",
-   "title": "Soldatul fantomă",
-   "age": "N-15",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "VIP"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/soldatul-fantoma/8519s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762449?lang=ro",
-   "hall": "14",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8519S2R.jpg",
-   "year": "2026",
-   "runtime": 90,
-   "film": "t:soldatul fantoma"
-  },
-  {
    "id": "cc1806-758196",
    "cinema": "cc1806",
    "date": "2026-11-30",
@@ -34962,6 +34696,35 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1824-762499",
+   "cinema": "cc1824",
+   "date": "2026-11-30",
+   "time": "22:50",
+   "title": "Ebenezer:O poveste de Craciun",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [
+    "VIP"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/ebenezero-poveste-de-craciun/8344s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/762499?lang=ro",
+   "hall": "14",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8344S2R.jpg",
+   "year": "2026",
+   "runtime": 115,
+   "film": "tmdb:1567605"
   },
   {
    "id": "cc1806-760737",
@@ -35745,7 +35508,7 @@
    "date": "2026-12-01",
    "time": "10:20",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -35826,7 +35589,7 @@
    "date": "2026-12-01",
    "time": "10:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -35928,7 +35691,7 @@
    "date": "2026-12-01",
    "time": "10:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -36504,7 +36267,7 @@
    "date": "2026-12-01",
    "time": "11:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -36531,7 +36294,7 @@
    "date": "2026-12-01",
    "time": "11:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -36636,7 +36399,7 @@
    "date": "2026-12-01",
    "time": "11:50",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -36985,7 +36748,7 @@
    "date": "2026-12-01",
    "time": "12:15",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -37699,7 +37462,7 @@
    "date": "2026-12-01",
    "time": "13:20",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -38127,7 +37890,7 @@
    "date": "2026-12-01",
    "time": "14:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -38366,7 +38129,7 @@
    "date": "2026-12-01",
    "time": "14:20",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -38501,7 +38264,7 @@
    "date": "2026-12-01",
    "time": "14:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -38581,7 +38344,7 @@
    "date": "2026-12-01",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -39240,36 +39003,6 @@
    "year": "2026",
    "runtime": 154,
    "film": "tmdb:1728593"
-  },
-  {
-   "id": "cc1806-725080",
-   "cinema": "cc1806",
-   "date": "2026-12-01",
-   "time": "15:40",
-   "title": "Dune",
-   "age": "AP-12",
-   "note": "Re-release",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "3D",
-    "IMAX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/dune-re-release/8639s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/725080?lang=ro",
-   "hall": "21",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
-   "year": "2021",
-   "runtime": 166,
-   "film": "tmdb:438631"
   },
   {
    "id": "cc1806-759499",
@@ -40159,7 +39892,7 @@
    "date": "2026-12-01",
    "time": "17:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -40634,6 +40367,54 @@
    "year": "2026",
    "runtime": 105,
    "film": "tmdb:1400336"
+  },
+  {
+   "id": "eforie-2026-12-01-17:30-bilete-mulan",
+   "cinema": "eforie",
+   "date": "2026-12-01",
+   "time": "17:30",
+   "title": "Mulan",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-mulan?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2020/09/bilete-mulan.jpg",
+   "film": "tmdb:337401"
+  },
+  {
+   "id": "union-2026-12-01-17:30-bilete-minotaur",
+   "cinema": "union",
+   "date": "2026-12-01",
+   "time": "17:30",
+   "title": "Minotaur",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RU"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-minotaur?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/Minotaur-poster-temporar.jpg",
+   "film": "tmdb:848700"
   },
   {
    "id": "cc1806-756923",
@@ -42048,6 +41829,32 @@
    "film": "tmdb:1585239"
   },
   {
+   "id": "eforie-2026-12-01-19:30-bilete-concurs",
+   "cinema": "eforie",
+   "date": "2026-12-01",
+   "time": "19:30",
+   "title": "CONCURS",
+   "age": "A.G.",
+   "note": "La marginea certitudinilor + La mulți ani, România!",
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-concurs?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2024/02/bilete-concurs.webp",
+   "film": "tmdb:323402"
+  },
+  {
    "id": "cc1807-752434",
    "cinema": "cc1807",
    "date": "2026-12-01",
@@ -42478,6 +42285,28 @@
    "year": "2026",
    "runtime": 85,
    "film": "tmdb:1679416"
+  },
+  {
+   "id": "union-2026-12-01-20:00-bilete-lumina",
+   "cinema": "union",
+   "date": "2026-12-01",
+   "time": "20:00",
+   "title": "Lumina",
+   "age": "A.G.",
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-lumina?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-lumina-GaZ.webp",
+   "film": "tmdb:1501247"
   },
   {
    "id": "cc1818-725017",
@@ -44929,7 +44758,7 @@
    "date": "2026-12-02",
    "time": "12:20",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -45114,7 +44943,7 @@
    "date": "2026-12-02",
    "time": "12:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -45141,7 +44970,7 @@
    "date": "2026-12-02",
    "time": "12:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -45508,7 +45337,7 @@
    "date": "2026-12-02",
    "time": "13:20",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -45881,7 +45710,7 @@
    "date": "2026-12-02",
    "time": "14:10",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -46153,7 +45982,7 @@
    "date": "2026-12-02",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -46205,7 +46034,7 @@
    "date": "2026-12-02",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -46622,36 +46451,6 @@
    "film": "tmdb:1728593"
   },
   {
-   "id": "cc1806-725086",
-   "cinema": "cc1806",
-   "date": "2026-12-02",
-   "time": "15:40",
-   "title": "Dune",
-   "age": "AP-12",
-   "note": "Re-release",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "3D",
-    "IMAX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/dune-re-release/8639s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/725086?lang=ro",
-   "hall": "21",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
-   "year": "2021",
-   "runtime": 166,
-   "film": "tmdb:438631"
-  },
-  {
    "id": "cc1806-759521",
    "cinema": "cc1806",
    "date": "2026-12-02",
@@ -46798,7 +46597,7 @@
    "date": "2026-12-02",
    "time": "16:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -47884,6 +47683,32 @@
    "film": "tmdb:1585239"
   },
   {
+   "id": "union-2026-12-02-17:15-bilete-club-kid",
+   "cinema": "union",
+   "date": "2026-12-02",
+   "time": "17:15",
+   "title": "CLUB KID",
+   "age": "18+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-club-kid?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-club-kid-XP3.webp",
+   "film": "tmdb:1585239"
+  },
+  {
    "id": "cc1806-759434",
    "cinema": "cc1806",
    "date": "2026-12-02",
@@ -48044,6 +47869,28 @@
    "year": "2026",
    "runtime": 105,
    "film": "tmdb:1400336"
+  },
+  {
+   "id": "eforie-2026-12-02-17:30-bilete-faust-1926",
+   "cinema": "eforie",
+   "date": "2026-12-02",
+   "time": "17:30",
+   "title": "FAUST",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-faust-1926?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2025/05/bilete-faust-1926-g9M.webp",
+   "film": "t:faust"
   },
   {
    "id": "elvire-2026-12-02-17:30-bilete-nu-e-locul-tau-aici",
@@ -49247,7 +49094,7 @@
    "date": "2026-12-02",
    "time": "19:30",
    "title": "Daniel și cuptorul de foc",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "EN"
@@ -49466,6 +49313,54 @@
    "year": "2026",
    "runtime": 105,
    "film": "tmdb:1400336"
+  },
+  {
+   "id": "eforie-2026-12-02-19:30-bilete-comediantii-the-comedians",
+   "cinema": "eforie",
+   "date": "2026-12-02",
+   "time": "19:30",
+   "title": "COMEDIANȚII / THE COMEDIANS",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-comediantii-the-comedians?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-comediantii-the-comedians-o7n.webp",
+   "film": "tmdb:86059"
+  },
+  {
+   "id": "union-2026-12-02-19:30-bilete-nu-e-locul-tau-aici",
+   "cinema": "union",
+   "date": "2026-12-02",
+   "time": "19:30",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
   },
   {
    "id": "cc1807-760994",
@@ -52235,7 +52130,7 @@
    "date": "2026-12-03",
    "time": "12:10",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -52551,7 +52446,7 @@
    "date": "2026-12-03",
    "time": "12:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -52578,7 +52473,7 @@
    "date": "2026-12-03",
    "time": "12:30",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -52945,7 +52840,7 @@
    "date": "2026-12-03",
    "time": "13:20",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -53318,7 +53213,7 @@
    "date": "2026-12-03",
    "time": "14:10",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -53590,7 +53485,7 @@
    "date": "2026-12-03",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -53642,7 +53537,7 @@
    "date": "2026-12-03",
    "time": "14:45",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -54059,36 +53954,6 @@
    "film": "tmdb:1728593"
   },
   {
-   "id": "cc1806-725087",
-   "cinema": "cc1806",
-   "date": "2026-12-03",
-   "time": "15:40",
-   "title": "Dune",
-   "age": "AP-12",
-   "note": "Re-release",
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [
-    "3D",
-    "IMAX"
-   ],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/dune-re-release/8639s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/725087?lang=ro",
-   "hall": "21",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8639S2R.jpg",
-   "year": "2021",
-   "runtime": 166,
-   "film": "tmdb:438631"
-  },
-  {
    "id": "cc1806-759522",
    "cinema": "cc1806",
    "date": "2026-12-03",
@@ -54235,7 +54100,7 @@
    "date": "2026-12-03",
    "time": "16:00",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -54778,7 +54643,7 @@
    "date": "2026-12-03",
    "time": "16:40",
    "title": "Cotoi cu pălărioi",
-   "age": null,
+   "age": "AP-12",
    "note": "Avanpremieră",
    "audio": [
     "RO"
@@ -55457,6 +55322,33 @@
    "film": "tmdb:1400336"
   },
   {
+   "id": "union-2026-12-03-17:30-bilete-jurnalul-unei-cameriste-film",
+   "cinema": "union",
+   "date": "2026-12-03",
+   "time": "17:30",
+   "title": "Jurnalul unei cameriste",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "RO",
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-jurnalul-unei-cameriste-film?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/journal-dune-femme-de-chambre-745840l-0x400-h-759f5fcc.jpg",
+   "film": "tmdb:1696174"
+  },
+  {
    "id": "cc1806-757076",
    "cinema": "cc1806",
    "date": "2026-12-03",
@@ -55781,6 +55673,28 @@
    "year": "2026",
    "runtime": 105,
    "film": "tmdb:1400336"
+  },
+  {
+   "id": "eforie-2026-12-03-18:00-bilete-mananca-un-castron-de-ceai-eat-a-bowl-of-tea",
+   "cinema": "eforie",
+   "date": "2026-12-03",
+   "time": "18:00",
+   "title": "MĂNÂNCĂ UN CASTRON DE CEAI / EAT A BOWL OF TEA",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-mananca-un-castron-de-ceai-eat-a-bowl-of-tea?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-mananca-un-castron-de-ceai-eat-a-bowl-of-tea-Jok.webp",
+   "film": "tmdb:98984"
   },
   {
    "id": "elvire-2026-12-03-18:00-bilete-le-chant-des-forets-premiile-academiei-europene-de-film",
@@ -56936,6 +56850,32 @@
    "film": "tmdb:1400336"
   },
   {
+   "id": "union-2026-12-03-19:30-bilete-nu-e-locul-tau-aici",
+   "cinema": "union",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "title": "NU E LOCUL TĂU AICI",
+   "age": "12+",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [
+    "EN"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
+   "film": "tmdb:1728593"
+  },
+  {
    "id": "cc1807-761305",
    "cinema": "cc1807",
    "date": "2026-12-03",
@@ -57376,6 +57316,28 @@
    "year": "2024",
    "runtime": 177,
    "film": "tmdb:693134"
+  },
+  {
+   "id": "eforie-2026-12-03-20:00-bilete-faust-1926",
+   "cinema": "eforie",
+   "date": "2026-12-03",
+   "time": "20:00",
+   "title": "FAUST",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-faust-1926?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2025/05/bilete-faust-1926-g9M.webp",
+   "film": "t:faust"
   },
   {
    "id": "elvire-2026-12-03-20:00-bilete-film-histoires-paralleles",
@@ -59484,6 +59446,58 @@
    "film": "tmdb:1157869"
   },
   {
+   "id": "union-2026-12-04-17:30-bilete-persoana-iubita",
+   "cinema": "union",
+   "date": "2026-12-04",
+   "time": "17:30",
+   "title": "Persoana iubită",
+   "age": "15+",
+   "note": "Premieră",
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-persoana-iubita?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/el-ser-querido-afis-ro.jpg",
+   "film": "tmdb:1074074"
+  },
+  {
+   "id": "eforie-2026-12-04-17:45-bilete-copilul-care-ar-putea-fi-rege",
+   "cinema": "eforie",
+   "date": "2026-12-04",
+   "time": "17:45",
+   "title": "COPILUL CARE AR PUTEA FI REGE / THE KID WHO WOULD BE KING",
+   "age": null,
+   "note": "In memoriam Patrick Stewart",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-copilul-care-ar-putea-fi-rege?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-copilul-care-ar-putea-fi-rege-Lzr.webp",
+   "film": "tmdb:454294"
+  },
+  {
    "id": "muzeu-2026-12-04-18:00-bilete-persoana-iubita",
    "cinema": "muzeu",
    "date": "2026-12-04",
@@ -59618,6 +59632,54 @@
    "year": "2026",
    "runtime": 160,
    "film": "t:omul paianjen o noua noua zi"
+  },
+  {
+   "id": "eforie-2026-12-04-20:00-bilete-strangulatorii-din-bombay-the-stranglers-of-bombay",
+   "cinema": "eforie",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "title": "STRANGULATORII DIN BOMBAY / THE STRANGLERS OF BOMBAY",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-strangulatorii-din-bombay-the-stranglers-of-bombay?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-strangulatorii-din-bombay-the-stranglers-of-bombay-Hiq.webp",
+   "film": "tmdb:85611"
+  },
+  {
+   "id": "union-2026-12-04-20:00-bilete-film-histoires-paralleles",
+   "cinema": "union",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "title": "HISTOIRES PARALLELES / POVEȘTI PARALELE",
+   "age": null,
+   "note": "Avanpremieră",
+   "audio": [
+    "FR"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-film-histoires-paralleles?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-film-histoires-paralleles-UF2.webp",
+   "film": "tmdb:1157869"
   },
   {
    "id": "elvire-2026-12-04-20:30-bilete-film-el-ser-querido",
@@ -59853,6 +59915,28 @@
    "film": "t:concertul de craciun al lui andre rieu d"
   },
   {
+   "id": "eforie-2026-12-05-15:00-bilete-mulan",
+   "cinema": "eforie",
+   "date": "2026-12-05",
+   "time": "15:00",
+   "title": "Mulan",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-mulan?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2020/09/bilete-mulan.jpg",
+   "film": "tmdb:337401"
+  },
+  {
    "id": "muzeu-2026-12-05-15:15-bilete-nu-e-locul-tau-aici",
    "cinema": "muzeu",
    "date": "2026-12-05",
@@ -59906,6 +59990,32 @@
    "year": "2026",
    "runtime": 160,
    "film": "t:omul paianjen o noua noua zi"
+  },
+  {
+   "id": "eforie-2026-12-05-17:00-bilete-x-men-viitorul-este-trecut",
+   "cinema": "eforie",
+   "date": "2026-12-05",
+   "time": "17:00",
+   "title": "X-MEN: VIITORUL ESTE TRECUT / X-MEN: DAYS OF FUTURE PAST",
+   "age": null,
+   "note": "In memoriam Patrick Stewart",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-x-men-viitorul-este-trecut?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-x-men-viitorul-este-trecut-z0H.webp",
+   "film": "tmdb:127585"
   },
   {
    "id": "elvire-2026-12-05-17:30-bilete-club-kid",
@@ -60193,6 +60303,32 @@
    "film": "tmdb:1399462"
   },
   {
+   "id": "union-2026-12-06-14:45-bilete-you-can-see-everything",
+   "cinema": "union",
+   "date": "2026-12-06",
+   "time": "14:45",
+   "title": "You Can See Everything",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-you-can-see-everything?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-you-can-see-everything-5Pi.webp",
+   "film": "tmdb:1765072"
+  },
+  {
    "id": "cc1806-751738",
    "cinema": "cc1806",
    "date": "2026-12-06",
@@ -60270,6 +60406,28 @@
    "url": "https://eventbook.ro/film/bilete-film-jurnalul-unei-cameriste?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-film-jurnalul-unei-cameriste-p5v.webp",
    "film": "tmdb:1696174"
+  },
+  {
+   "id": "eforie-2026-12-06-16:00-bilete-stapanul-cartilor-pagemaster",
+   "cinema": "eforie",
+   "date": "2026-12-06",
+   "time": "16:00",
+   "title": "STĂPÂNUL CĂRȚILOR / PAGEMASTER",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-stapanul-cartilor-pagemaster?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-stapanul-cartilor-pagemaster-Yiv.webp",
+   "film": "t:stapanul cartilor pagemaster"
   },
   {
    "id": "cc1818-753489",
@@ -60351,6 +60509,54 @@
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=cinema-elvire-popesco",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
+  },
+  {
+   "id": "eforie-2026-12-06-18:00-bilete-strangulatorii-din-bombay-the-stranglers-of-bombay",
+   "cinema": "eforie",
+   "date": "2026-12-06",
+   "time": "18:00",
+   "title": "STRANGULATORII DIN BOMBAY / THE STRANGLERS OF BOMBAY",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-strangulatorii-din-bombay-the-stranglers-of-bombay?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-strangulatorii-din-bombay-the-stranglers-of-bombay-Hiq.webp",
+   "film": "tmdb:85611"
+  },
+  {
+   "id": "union-2026-12-06-18:00-bilete-buddy",
+   "cinema": "union",
+   "date": "2026-12-06",
+   "time": "18:00",
+   "title": "Buddy",
+   "age": null,
+   "note": "Premieră",
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-buddy?hall=cinema-union",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-buddy-F23.webp",
+   "film": "tmdb:1514026"
   },
   {
    "id": "cc1806-762489",
@@ -60487,6 +60693,54 @@
    "url": "https://eventbook.ro/film/bilete-film-primetime?hall=cinema-muzeul-taranului-studio-horia-bernea",
    "poster": "https://cinema-timisoara.ro/media/original_images/Primetime_poster.jpg",
    "film": "tmdb:1375441"
+  },
+  {
+   "id": "eforie-2026-12-06-20:00-bilete-o-lacrima-de-fata",
+   "cinema": "eforie",
+   "date": "2026-12-06",
+   "time": "20:00",
+   "title": "O LACRIMĂ DE FATĂ",
+   "age": null,
+   "note": null,
+   "audio": [],
+   "subs": [],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-o-lacrima-de-fata?hall=cinema-eforie",
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2021/10/bilete-o-lacrima-de-fata-Elt.jpg",
+   "film": "tmdb:390017"
+  },
+  {
+   "id": "union-2026-12-06-20:00-bilete-persoana-iubita",
+   "cinema": "union",
+   "date": "2026-12-06",
+   "time": "20:00",
+   "title": "Persoana iubită",
+   "age": "15+",
+   "note": null,
+   "audio": [
+    "ES"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "prices": {
+    "adult": 15
+   },
+   "box": {
+    "student": 5,
+    "pensioner": 5
+   },
+   "status": "ok",
+   "url": "https://eventbook.ro/film/bilete-persoana-iubita?hall=cinema-union",
+   "poster": "https://cinema-timisoara.ro/media/original_images/el-ser-querido-afis-ro.jpg",
+   "film": "tmdb:1074074"
   },
   {
    "id": "elvire-2026-12-06-20:30-bilete-film-el-ser-querido",
@@ -62308,7 +62562,7 @@
    "runtime": 78,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 218,
+   "imdb_votes": 219,
    "lb_rating": 3.29
   },
   "t:8 ilustrate din utopia little poems in prose": {
@@ -62349,7 +62603,7 @@
    "runtime": 151,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 240724,
+   "imdb_votes": 240750,
    "lb_rating": 4.12
   },
   "tmdb:1472684": {
@@ -62419,7 +62673,7 @@
    "runtime": 127,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 597,
+   "imdb_votes": 602,
    "lb_rating": 3.54
   },
   "tmdb:1514026": {
@@ -62436,7 +62690,7 @@
    "runtime": 96,
    "source": "tmdb",
    "imdb_rating": 6.6,
-   "imdb_votes": 26981,
+   "imdb_votes": 27093,
    "lb_rating": 3.07
   },
   "tmdb:1783294": {
@@ -62470,7 +62724,7 @@
    "runtime": 96,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 5756,
+   "imdb_votes": 5757,
    "lb_rating": 3.84
   },
   "tmdb:1399462": {
@@ -62487,7 +62741,7 @@
    "runtime": 116,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 2728,
+   "imdb_votes": 2729,
    "lb_rating": 3.67
   },
   "tmdb:34187": {
@@ -62504,7 +62758,7 @@
    "runtime": 88,
    "source": "tmdb",
    "imdb_rating": 6.9,
-   "imdb_votes": 4924,
+   "imdb_votes": 4925,
    "lb_rating": 3.46
   },
   "tmdb:1585239": {
@@ -62521,8 +62775,42 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 3656,
+   "imdb_votes": 3847,
    "lb_rating": 4.44
+  },
+  "tmdb:86059": {
+   "tmdb_id": 86059,
+   "title": "The Comedians",
+   "original_title": "The Comedians",
+   "year": "1967",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/xlFWqgh0Uyyn21kIaDlRgJk0YYA.jpg",
+   "directors": [
+    "Peter Glenville"
+   ],
+   "imdb_id": "tt0061502",
+   "runtime": 152,
+   "source": "tmdb",
+   "imdb_rating": 6.3,
+   "imdb_votes": 2524,
+   "lb_rating": 3.03
+  },
+  "tmdb:323402": {
+   "tmdb_id": 323402,
+   "title": "Concurs",
+   "original_title": "Concurs",
+   "year": "1982",
+   "orig_lang": "ro",
+   "poster": "https://image.tmdb.org/t/p/w185/1lP9p9ZEGk0KLujvVymgHzNd6Hy.jpg",
+   "directors": [
+    "Dan Pița"
+   ],
+   "imdb_id": "tt0083756",
+   "runtime": 96,
+   "source": "tmdb",
+   "imdb_rating": 7.3,
+   "imdb_votes": 408,
+   "lb_rating": 3.47
   },
   "tmdb:8834": {
    "tmdb_id": 8834,
@@ -62538,8 +62826,25 @@
    "runtime": 135,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 116234,
+   "imdb_votes": 116242,
    "lb_rating": 3.18
+  },
+  "tmdb:454294": {
+   "tmdb_id": 454294,
+   "title": "Copilul care ar putea fi rege",
+   "original_title": "The Kid Who Would Be King",
+   "year": "2019",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/2Z3iHtNmLRSamNi5AMKSSmAZBxM.jpg",
+   "directors": [
+    "Joe Cornish"
+   ],
+   "imdb_id": "tt6811018",
+   "runtime": 120,
+   "source": "tmdb",
+   "imdb_rating": 6.1,
+   "imdb_votes": 21014,
+   "lb_rating": 2.87
   },
   "t:craciun fara semnal misiunea lui yoyo": {
    "tmdb_id": null,
@@ -62567,7 +62872,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 56064,
+   "imdb_votes": 56266,
    "lb_rating": 3.71
   },
   "t:concertul de craciun al lui andre rieu d": {
@@ -62609,7 +62914,7 @@
    "runtime": 108,
    "source": "tmdb",
    "imdb_rating": 6.5,
-   "imdb_votes": 2302,
+   "imdb_votes": 2351,
    "lb_rating": 3.07
   },
   "t:craciun de cosmar 2": {
@@ -62650,7 +62955,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 6.5,
-   "imdb_votes": 5395,
+   "imdb_votes": 5500,
    "lb_rating": 3.06
   },
   "tmdb:1309373": {
@@ -62667,7 +62972,7 @@
    "runtime": 99,
    "source": "tmdb",
    "imdb_rating": 7.7,
-   "imdb_votes": 1507,
+   "imdb_votes": 1512,
    "lb_rating": 3.95
   },
   "tmdb:1323409": {
@@ -62684,7 +62989,7 @@
    "runtime": 170,
    "source": "tmdb",
    "imdb_rating": 5.6,
-   "imdb_votes": 1033,
+   "imdb_votes": 1036,
    "lb_rating": 3.14
   },
   "t:daniel si cuptorul de foc": {
@@ -62746,7 +63051,7 @@
    "runtime": 155,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 1105566,
+   "imdb_votes": 1105764,
    "lb_rating": 3.9
   },
   "tmdb:693134": {
@@ -62763,7 +63068,7 @@
    "runtime": 167,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 809192,
+   "imdb_votes": 809368,
    "lb_rating": 4.38
   },
   "tmdb:1074074": {
@@ -62780,7 +63085,7 @@
    "runtime": 136,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 4626,
+   "imdb_votes": 4645,
    "lb_rating": 3.84
   },
   "tmdb:11527": {
@@ -62797,7 +63102,7 @@
    "runtime": 141,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 75647,
+   "imdb_votes": 75650,
    "lb_rating": 3.75
   },
   "tmdb:1567605": {
@@ -62814,8 +63119,20 @@
    "runtime": 115,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 14945,
+   "imdb_votes": 15516,
    "lb_rating": 3.22
+  },
+  "t:faust": {
+   "tmdb_id": null,
+   "title": "FAUST",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2025/05/bilete-faust-1926-g9M.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
   },
   "t:fata din nori": {
    "tmdb_id": null,
@@ -62844,7 +63161,7 @@
    "runtime": 113,
    "source": "tmdb",
    "imdb_rating": 8.5,
-   "imdb_votes": 497,
+   "imdb_votes": 501,
    "lb_rating": 4.18
   },
   "t:hexe regatul magiei": {
@@ -62873,7 +63190,7 @@
    "runtime": 139,
    "source": "tmdb",
    "imdb_rating": 5.9,
-   "imdb_votes": 1794,
+   "imdb_votes": 1801,
    "lb_rating": 2.93
   },
   "tmdb:1286656": {
@@ -62890,7 +63207,7 @@
    "runtime": 128,
    "source": "tmdb",
    "imdb_rating": 8.2,
-   "imdb_votes": 11545,
+   "imdb_votes": 12291,
    "lb_rating": 3.83
   },
   "tmdb:1773720": {
@@ -62934,7 +63251,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 7.4,
-   "imdb_votes": 12771,
+   "imdb_votes": 12838,
    "lb_rating": 3.85
   },
   "tmdb:1696174": {
@@ -62963,7 +63280,7 @@
    "runtime": 159,
    "source": "tmdb",
    "imdb_rating": 7.5,
-   "imdb_votes": 32608,
+   "imdb_votes": 35410,
    "lb_rating": 4.02
   },
   "tmdb:1410189": {
@@ -62980,7 +63297,7 @@
    "runtime": 109,
    "source": "tmdb",
    "imdb_rating": 6.7,
-   "imdb_votes": 2813,
+   "imdb_votes": 2815,
    "lb_rating": 3.52
   },
   "tmdb:1449868": {
@@ -62997,7 +63314,7 @@
    "runtime": 122,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 142,
+   "imdb_votes": 143,
    "lb_rating": 3.19
   },
   "tmdb:1379924": {
@@ -63071,7 +63388,7 @@
    "runtime": 142,
    "source": "tmdb",
    "imdb_rating": 7.6,
-   "imdb_votes": 2876,
+   "imdb_votes": 2935,
    "lb_rating": 3.71
   },
   "tmdb:140870": {
@@ -63089,7 +63406,7 @@
    "runtime": 89,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 9804,
+   "imdb_votes": 9805,
    "lb_rating": 3.69
   },
   "t:misterul lui lucy lost": {
@@ -63160,7 +63477,7 @@
    "runtime": 81,
    "source": "tmdb",
    "imdb_rating": 7.1,
-   "imdb_votes": 4264,
+   "imdb_votes": 4290,
    "lb_rating": 3.57
   },
   "tmdb:1815513": {
@@ -63176,6 +63493,23 @@
    "imdb_id": "tt39378852",
    "runtime": 103,
    "source": "tmdb"
+  },
+  "tmdb:337401": {
+   "tmdb_id": 337401,
+   "title": "Mulan",
+   "original_title": "Mulan",
+   "year": "2020",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/48T5RMshZWTl0szQJAcq2X7XImr.jpg",
+   "directors": [
+    "Niki Caro"
+   ],
+   "imdb_id": "tt4566758",
+   "runtime": 115,
+   "source": "tmdb",
+   "imdb_rating": 5.8,
+   "imdb_votes": 169491,
+   "lb_rating": 2.35
   },
   "tmdb:98984": {
    "tmdb_id": 98984,
@@ -63232,7 +63566,7 @@
    "runtime": 154,
    "source": "tmdb",
    "imdb_rating": 7.3,
-   "imdb_votes": 147,
+   "imdb_votes": 148,
    "lb_rating": 3.59
   },
   "tmdb:1755291": {
@@ -63250,7 +63584,7 @@
    "runtime": 77,
    "source": "tmdb",
    "imdb_rating": 8.4,
-   "imdb_votes": 8067,
+   "imdb_votes": 8114,
    "lb_rating": 4.54
   },
   "tmdb:1773633": {
@@ -63268,6 +63602,23 @@
    "source": "tmdb",
    "imdb_rating": 9.5,
    "imdb_votes": 10
+  },
+  "tmdb:390017": {
+   "tmdb_id": 390017,
+   "title": "O lacrimă de fată",
+   "original_title": "O lacrimă de fată",
+   "year": "1980",
+   "orig_lang": "ro",
+   "poster": "https://image.tmdb.org/t/p/w185/19ZhvExXysjh6Pngkpb3VTTTHEu.jpg",
+   "directors": [
+    "Iosif Demian"
+   ],
+   "imdb_id": "tt0131456",
+   "runtime": 83,
+   "source": "tmdb",
+   "imdb_rating": 7.0,
+   "imdb_votes": 196,
+   "lb_rating": 3.41
   },
   "t:omul paianjen o noua noua zi": {
    "tmdb_id": null,
@@ -63294,8 +63645,8 @@
    "imdb_id": "tt34385689",
    "runtime": 115,
    "source": "tmdb",
-   "imdb_rating": 6.9,
-   "imdb_votes": 2256,
+   "imdb_rating": 7.0,
+   "imdb_votes": 2510,
    "lb_rating": 3.38
   },
   "tmdb:797": {
@@ -63312,7 +63663,7 @@
    "runtime": 85,
    "source": "tmdb",
    "imdb_rating": 8.0,
-   "imdb_votes": 143110,
+   "imdb_votes": 143119,
    "lb_rating": 4.37
   },
   "tmdb:1709318": {
@@ -63362,7 +63713,7 @@
    "runtime": 174,
    "source": "tmdb",
    "imdb_rating": 8.9,
-   "imdb_votes": 47644,
+   "imdb_votes": 50224,
    "lb_rating": 4.6
   },
   "tmdb:1375441": {
@@ -63379,7 +63730,7 @@
    "runtime": 110,
    "source": "tmdb",
    "imdb_rating": 6.8,
-   "imdb_votes": 51650,
+   "imdb_votes": 52027,
    "lb_rating": 3.63
   },
   "t:proiectie teatru copii capra cu trei iezi": {
@@ -63430,6 +63781,35 @@
    "runtime": null,
    "source": "eventbook"
   },
+  "tmdb:85611": {
+   "tmdb_id": 85611,
+   "title": "The Stranglers of Bombay",
+   "original_title": "The Stranglers of Bombay",
+   "year": "1959",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/pQPz9R7Fr5FwEqe4FU4WrE2G3ba.jpg",
+   "directors": [
+    "Terence Fisher"
+   ],
+   "imdb_id": "tt0054346",
+   "runtime": 80,
+   "source": "tmdb",
+   "imdb_rating": 6.2,
+   "imdb_votes": 1558,
+   "lb_rating": 2.96
+  },
+  "t:stapanul cartilor pagemaster": {
+   "tmdb_id": null,
+   "title": "PAGEMASTER",
+   "original_title": "STĂPÂNUL CĂRȚILOR",
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/11/bilete-stapanul-cartilor-pagemaster-Yiv.webp",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
   "tmdb:1400336": {
    "tmdb_id": 1400336,
    "title": "Socri de coșmar",
@@ -63443,6 +63823,8 @@
    "imdb_id": "tt34966140",
    "runtime": 105,
    "source": "tmdb",
+   "imdb_rating": 6.0,
+   "imdb_votes": 971,
    "lb_rating": 3.17
   },
   "t:soldatul fantoma": {
@@ -63500,7 +63882,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 6.4,
-   "imdb_votes": 28520,
+   "imdb_votes": 28588,
    "lb_rating": 3.62
   },
   "tmdb:1679416": {
@@ -63517,7 +63899,7 @@
    "runtime": null,
    "source": "tmdb",
    "imdb_rating": 6.5,
-   "imdb_votes": 63
+   "imdb_votes": 65
   },
   "tmdb:891621": {
    "tmdb_id": 891621,
@@ -63533,7 +63915,7 @@
    "runtime": 117,
    "source": "tmdb",
    "imdb_rating": 8.1,
-   "imdb_votes": 27930,
+   "imdb_votes": 28584,
    "lb_rating": 4.14
   },
   "tmdb:791523": {
@@ -63550,8 +63932,25 @@
    "runtime": 132,
    "source": "tmdb",
    "imdb_rating": 8.6,
-   "imdb_votes": 34310,
+   "imdb_votes": 34546,
    "lb_rating": 4.37
+  },
+  "tmdb:127585": {
+   "tmdb_id": 127585,
+   "title": "X-Men: Viitorul este trecut",
+   "original_title": "X-Men: Days of Future Past",
+   "year": "2014",
+   "orig_lang": "en",
+   "poster": "https://image.tmdb.org/t/p/w185/vNKbVu3XPKQItbTcDHxSxwYIRWa.jpg",
+   "directors": [
+    "Bryan Singer"
+   ],
+   "imdb_id": "tt1877832",
+   "runtime": 132,
+   "source": "tmdb",
+   "imdb_rating": 7.9,
+   "imdb_votes": 802937,
+   "lb_rating": 3.73
   },
   "tmdb:28415": {
    "tmdb_id": 28415,
@@ -63567,7 +63966,7 @@
    "runtime": 112,
    "source": "tmdb",
    "imdb_rating": 7.2,
-   "imdb_votes": 11938,
+   "imdb_votes": 11939,
    "lb_rating": 3.72
   }
  }

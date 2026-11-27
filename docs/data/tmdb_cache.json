@@ -3837,6 +3837,337 @@
    "fetched": "2026-11-26T06:09:17+00:00",
    "lb": 3.17,
    "lb_ts": "2026-11-26T06:09:18+00:00"
+  },
+  "86059": {
+   "title": "The Comedians",
+   "original_title": "The Comedians",
+   "orig_lang": "en",
+   "year": "1967",
+   "poster": "https://image.tmdb.org/t/p/w185/xlFWqgh0Uyyn21kIaDlRgJk0YYA.jpg",
+   "directors": [
+    "Peter Glenville"
+   ],
+   "cast": [
+    "Richard Burton",
+    "Elizabeth Taylor",
+    "Alec Guinness",
+    "Peter Ustinov",
+    "Paul Ford",
+    "Lillian Gish"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0061502",
+   "runtime": 152,
+   "fetched": "2026-11-27T10:19:40+00:00",
+   "lb": 3.03,
+   "lb_ts": "2026-11-27T10:19:58+00:00"
+  },
+  "486842": {
+   "title": "The Comedians",
+   "original_title": "The Comedians",
+   "orig_lang": "zu",
+   "year": "1980",
+   "poster": "https://image.tmdb.org/t/p/w185/gFDSsJBDNVDi3APkG7vPgq9nkeo.jpg",
+   "directors": [
+    "Japie Van Der Merwe"
+   ],
+   "cast": [
+    "Moses Makhathini",
+    "Matthews Monica",
+    "Hector Mathanda",
+    "Ernest Dlamini",
+    "Delani Dlamini",
+    "Sibongile Dlamini"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt39977444",
+   "runtime": 86,
+   "fetched": "2026-11-27T10:19:41+00:00"
+  },
+  "323402": {
+   "title": "Concurs",
+   "original_title": "Concurs",
+   "orig_lang": "ro",
+   "year": "1982",
+   "poster": "https://image.tmdb.org/t/p/w185/1lP9p9ZEGk0KLujvVymgHzNd6Hy.jpg",
+   "directors": [
+    "Dan Pița"
+   ],
+   "cast": [
+    "Gheorghe Dinică",
+    "Ştefan Iordache",
+    "Marin Moraru",
+    "Valentin Uritescu",
+    "Claudiu Bleonţ",
+    "Patricia Grigoriu"
+   ],
+   "v": 2,
+   "overview": "Un colectiv de funcționari publici care lucrează la aceeași instituție se decide să participe la un concurs turistic duminical. Funcționarilor li se alătură un necunoscut care cunoaște împrejurimile și-i ajută să se descurce. În timpul concursului, ei aud strigătul disperat după ajutor al unei femei, se întâlnesc cu un alai nupțial, dar nici unul dintre concurenți nu se abate din drum, căci grija lor cea mare este să respecte instrucțiunile, care spun că orice ignorare a regulamentului înseamnă moartea. Tensiunile ierarhice, complexele și lașitățile de care umilii funcționari nu reușesc să sca",
+   "imdb_id": "tt0083756",
+   "runtime": 96,
+   "fetched": "2026-11-27T10:19:43+00:00",
+   "lb": 3.47,
+   "lb_ts": "2026-11-27T10:20:00+00:00"
+  },
+  "77560": {
+   "title": "Faust",
+   "original_title": "Faust",
+   "orig_lang": "de",
+   "year": "2011",
+   "poster": "https://image.tmdb.org/t/p/w185/91J0oGT1nIVea6TSnLanQhYQujZ.jpg",
+   "directors": [
+    "Alexander Sokurov"
+   ],
+   "cast": [
+    "Johannes Zeiler",
+    "Anton Adasinskiy",
+    "Isolda Dychauk",
+    "Georg Friedrich",
+    "Hanna Schygulla",
+    "Florian Brückner"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt1437357",
+   "runtime": 140,
+   "fetched": "2026-11-27T10:19:46+00:00"
+  },
+  "114242": {
+   "title": "Faust",
+   "original_title": "Faust",
+   "orig_lang": "de",
+   "year": "1960",
+   "poster": "https://image.tmdb.org/t/p/w185/3m9EvQxCy9V4yL5RinB5G1OOmTc.jpg",
+   "directors": [
+    "Peter Gorski",
+    "Gustaf Gründgens"
+   ],
+   "cast": [
+    "Will Quadflieg",
+    "Gustaf Gründgens",
+    "Elisabeth Flickenschildt",
+    "Hermann Schomberg",
+    "Eduard Marks",
+    "Uwe Friedrichsen"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0163624",
+   "runtime": 128,
+   "fetched": "2026-11-27T10:19:46+00:00"
+  },
+  "392732": {
+   "title": "Faust",
+   "original_title": "Faust",
+   "orig_lang": "fr",
+   "year": "1985",
+   "poster": "https://image.tmdb.org/t/p/w185/kupaHyYnzOmy0sOXht3TksYksFX.jpg",
+   "directors": [
+    "Ken Russell"
+   ],
+   "cast": [
+    "Francisco Araiza",
+    "Ruggero Raimondi",
+    "Gabriela Beňačková",
+    "Walton Grönroos",
+    "Alfred Šramek",
+    "Gabriele sima"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt2087757",
+   "runtime": 176,
+   "fetched": "2026-11-27T10:19:47+00:00"
+  },
+  "1208458": {
+   "title": "Faust",
+   "original_title": "Faust",
+   "orig_lang": "en",
+   "year": "1995",
+   "poster": "https://image.tmdb.org/t/p/w185/doD4CLXxLl3QEKc5TVkNfmq8odO.jpg",
+   "directors": [
+    "Robert Carsen",
+    "Hugues R. Gall"
+   ],
+   "cast": [
+    "Samuel Ramey",
+    "Giuseppe Sabbatini",
+    "Deborah Riedel",
+    "Jeffrey Black",
+    "Martine Mahé",
+    "Claire Larcher"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": 168,
+   "fetched": "2026-11-27T10:19:47+00:00"
+  },
+  "1626563": {
+   "title": "Faust",
+   "original_title": "Faust",
+   "orig_lang": "en",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/duOyAt39ucW35cOkl7GRVsvplaI.jpg",
+   "directors": [
+    "Hoku Uchiyama"
+   ],
+   "cast": [
+    "Steven Ritz-Barr",
+    "Steven Ritz-Barr",
+    "Steven Ritz-Barr",
+    "Eugene Seregin",
+    "Eugene Seregin"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt1366247",
+   "runtime": 25,
+   "fetched": "2026-11-27T10:19:47+00:00"
+  },
+  "1699149": {
+   "title": "Faust",
+   "original_title": "Faust",
+   "orig_lang": "cs",
+   "year": "1955",
+   "poster": null,
+   "directors": [
+    "Antonín Dvořák"
+   ],
+   "cast": [
+    "Marie Glázrová",
+    "Ladislav Boháč",
+    "Jiří Dohnal",
+    "Míla Páčová",
+    "Václav Švorc"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": null,
+   "fetched": "2026-11-27T10:19:47+00:00"
+  },
+  "10674": {
+   "title": "Neînfricata Mulan",
+   "original_title": "Mulan",
+   "orig_lang": "en",
+   "year": "1998",
+   "poster": "https://image.tmdb.org/t/p/w185/mQE50yUFuLpQESpKAjHN8ftsLPQ.jpg",
+   "directors": [
+    "Tony Bancroft",
+    "Barry Cook"
+   ],
+   "cast": [
+    "Ming-Na Wen",
+    "Eddie Murphy",
+    "BD Wong",
+    "Miguel Ferrer",
+    "Harvey Fierstein",
+    "Freda Foh Shen"
+   ],
+   "v": 2,
+   "overview": "În China imperială, Mulan află că tatăl ei în vârstă este chemat la război. Pentru a-l proteja, se deghizează în bărbat și se alătură Armatei Imperiale în locul lui, unde trebuie să câștige respectul camarazilor și să lupte pentru onoarea familiei sale.",
+   "imdb_id": "tt0120762",
+   "runtime": 88,
+   "fetched": "2026-11-27T10:19:50+00:00"
+  },
+  "337401": {
+   "title": "Mulan",
+   "original_title": "Mulan",
+   "orig_lang": "en",
+   "year": "2020",
+   "poster": "https://image.tmdb.org/t/p/w185/48T5RMshZWTl0szQJAcq2X7XImr.jpg",
+   "directors": [
+    "Niki Caro"
+   ],
+   "cast": [
+    "Liu Yi Fei",
+    "Donnie Yen Ji-Dan",
+    "Lei Gung",
+    "Lianjie Li",
+    "Jason Scott Lee",
+    "Yoson An"
+   ],
+   "v": 2,
+   "overview": "Acţiunea va merge pe urmele lui Hua Mulan, fiica unui bătrân luptător, care se deghizează în bărbat şi îi ia locul tatălui său în armată. Călătoria epică o va transforma într-un războinic venerat, îi va aduce respectul întregii națiuni și îl va face mândru pe tatăl ei.",
+   "imdb_id": "tt4566758",
+   "runtime": 115,
+   "fetched": "2026-11-27T10:19:50+00:00",
+   "lb": 2.35,
+   "lb_ts": "2026-11-27T10:20:03+00:00"
+  },
+  "441705": {
+   "title": "Mulan",
+   "original_title": "Mulan",
+   "orig_lang": "en",
+   "year": "1998",
+   "poster": "https://image.tmdb.org/t/p/w185/jHnwgGWfNs8QqK0fWoRgaidn2nI.jpg",
+   "directors": [
+    "Geoff Beak",
+    "Susan Beak"
+   ],
+   "cast": [
+    "Ric Herbert",
+    "Joanna Moore",
+    "Lee Perry"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0238429",
+   "runtime": 50,
+   "fetched": "2026-11-27T10:19:50+00:00"
+  },
+  "390017": {
+   "title": "O lacrimă de fată",
+   "original_title": "O lacrimă de fată",
+   "orig_lang": "ro",
+   "year": "1980",
+   "poster": "https://image.tmdb.org/t/p/w185/19ZhvExXysjh6Pngkpb3VTTTHEu.jpg",
+   "directors": [
+    "Iosif Demian"
+   ],
+   "cast": [
+    "Dorel Vișan",
+    "Dragoş Pâslaru",
+    "George Negoescu",
+    "Horia Baciu",
+    "Mihai Oroveanu",
+    "Luiza Orosz"
+   ],
+   "v": 2,
+   "overview": "Descoperirea unei tinere înecate scoate la suprafață secrete întunecate atunci când un detectiv și o echipă de filmare dezvăluie un lanț de minciuni în sătucul ei.",
+   "imdb_id": "tt0131456",
+   "runtime": 83,
+   "fetched": "2026-11-27T10:19:53+00:00",
+   "lb": 3.41,
+   "lb_ts": "2026-11-27T10:20:05+00:00"
+  },
+  "85611": {
+   "title": "The Stranglers of Bombay",
+   "original_title": "The Stranglers of Bombay",
+   "orig_lang": "en",
+   "year": "1959",
+   "poster": "https://image.tmdb.org/t/p/w185/pQPz9R7Fr5FwEqe4FU4WrE2G3ba.jpg",
+   "directors": [
+    "Terence Fisher"
+   ],
+   "cast": [
+    "Guy Rolfe",
+    "Allan Cuthbertson",
+    "Andrew Cruickshank",
+    "George Pastell",
+    "Marne Maitland",
+    "Jan Holden"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt0054346",
+   "runtime": 80,
+   "fetched": "2026-11-27T10:19:56+00:00",
+   "lb": 2.96,
+   "lb_ts": "2026-11-27T10:20:07+00:00"
   }
  },
  "search": {
@@ -10601,6 +10932,600 @@
   "iluzia din yakushima|2025": {
    "res": [],
    "ts": "2026-11-26T18:02:38+00:00"
+  },
+  "comediantii|": {
+   "res": [],
+   "ts": "2026-11-27T10:19:37+00:00"
+  },
+  "comediantii|2026": {
+   "res": [],
+   "ts": "2026-11-27T10:19:38+00:00"
+  },
+  "comediantii|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:38+00:00"
+  },
+  "the comedians|": {
+   "res": [
+    {
+     "id": 86059,
+     "title": "The Comedians",
+     "original_title": "The Comedians",
+     "release_date": "1967-10-31",
+     "popularity": 1.2255
+    },
+    {
+     "id": 595911,
+     "title": "The Mad, Mad, Mad Comedians",
+     "original_title": "The Mad, Mad, Mad Comedians",
+     "release_date": "1970-04-07",
+     "popularity": 0.7608
+    },
+    {
+     "id": 486842,
+     "title": "The Comedians",
+     "original_title": "The Comedians",
+     "release_date": "1980-06-01",
+     "popularity": 0.0773
+    },
+    {
+     "id": 508279,
+     "title": "The Comedians in Africa",
+     "original_title": "The Comedians in Africa",
+     "release_date": "1967-08-31",
+     "popularity": 0.6324
+    },
+    {
+     "id": 941932,
+     "title": "The Great Radio Comedians",
+     "original_title": "The Great Radio Comedians",
+     "release_date": "1971-05-11",
+     "popularity": 0.6997
+    },
+    {
+     "id": 16452,
+     "title": "The Comedians of Comedy",
+     "original_title": "The Comedians of Comedy",
+     "release_date": "2005-03-01",
+     "popularity": 1.1264
+    },
+    {
+     "id": 1511608,
+     "title": "The 6th Annual Young Comedians",
+     "original_title": "The 6th Annual Young Comedians",
+     "release_date": "1981-12-11",
+     "popularity": 0.7487
+    },
+    {
+     "id": 1353672,
+     "title": "The 7th Annual Young Comedians Show",
+     "original_title": "The 7th Annual Young Comedians Show",
+     "release_date": "1982-12-18",
+     "popularity": 0.7497
+    },
+    {
+     "id": 195984,
+     "title": "Levi & Cohen, the Irish Comedians",
+     "original_title": "Levi & Cohen, the Irish Comedians",
+     "release_date": "1903-07-08",
+     "popularity": 0.1051
+    },
+    {
+     "id": 78710,
+     "title": "Cutting Edge Comedians of the '60s & '70s",
+     "original_title": "Cutting Edge Comedians of the '60s & '70s",
+     "release_date": "2007-04-10",
+     "popularity": 0.85
+    }
+   ],
+   "ts": "2026-11-27T10:19:38+00:00"
+  },
+  "the comedians|2026": {
+   "res": [
+    {
+     "id": 1692374,
+     "title": "疯狂喜剧人",
+     "original_title": "疯狂喜剧人",
+     "release_date": "2026-05-11",
+     "popularity": 0.4801
+    }
+   ],
+   "ts": "2026-11-27T10:19:38+00:00"
+  },
+  "the comedians|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:38+00:00"
+  },
+  "concurs|": {
+   "res": [
+    {
+     "id": 323402,
+     "title": "Concurs",
+     "original_title": "Concurs",
+     "release_date": "1982-02-04",
+     "popularity": 0.2721
+    },
+    {
+     "id": 1728402,
+     "title": "Concurs de înot",
+     "original_title": "Concurs de înot",
+     "release_date": "1988-01-01",
+     "popularity": 0.0059
+    },
+    {
+     "id": 1000569,
+     "title": "Capela",
+     "original_title": "The Chapel",
+     "release_date": "2023-02-08",
+     "popularity": 0.5002
+    },
+    {
+     "id": 531454,
+     "title": "Concursul muzical Eurovision: Povestea trupei Saga de Foc",
+     "original_title": "Eurovision Song Contest: The Story of Fire Saga",
+     "release_date": "2020-06-26",
+     "popularity": 3.9177
+    },
+    {
+     "id": 213665,
+     "title": "The big contest",
+     "original_title": "The big contest",
+     "release_date": "2007-02-20",
+     "popularity": 0.0689
+    },
+    {
+     "id": 787781,
+     "title": "Regina concursurilor de întrebări",
+     "original_title": "Quiz Lady",
+     "release_date": "2023-09-09",
+     "popularity": 2.7277
+    },
+    {
+     "id": 874144,
+     "title": "Concursul de Crăciun",
+     "original_title": "The Christmas Contest",
+     "release_date": "2021-11-28",
+     "popularity": 1.0299
+    },
+    {
+     "id": 48453,
+     "title": "Concursante",
+     "original_title": "Concursante",
+     "release_date": "2007-03-16",
+     "popularity": 0.6102
+    },
+    {
+     "id": 210802,
+     "title": "O Concurso",
+     "original_title": "O Concurso",
+     "release_date": "2013-07-19",
+     "popularity": 0.5753
+    },
+    {
+     "id": 1548783,
+     "title": "Los Concursantes",
+     "original_title": "Los Concursantes",
+     "release_date": "2016-09-01",
+     "popularity": 0.4037
+    }
+   ],
+   "ts": "2026-11-27T10:19:41+00:00"
+  },
+  "concurs|2026": {
+   "res": [],
+   "ts": "2026-11-27T10:19:41+00:00"
+  },
+  "concurs|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:41+00:00"
+  },
+  "faust|": {
+   "res": [
+    {
+     "id": 77560,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "2011-10-26",
+     "popularity": 2.4923
+    },
+    {
+     "id": 18919,
+     "title": "Lekce Faust",
+     "original_title": "Lekce Faust",
+     "release_date": "1994-09-10",
+     "popularity": 1.5619
+    },
+    {
+     "id": 114242,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "1960-09-30",
+     "popularity": 0.9092
+    },
+    {
+     "id": 392732,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "1985-06-01",
+     "popularity": 0.6923
+    },
+    {
+     "id": 10728,
+     "title": "Faust - Eine deutsche Volkssage",
+     "original_title": "Faust - Eine deutsche Volkssage",
+     "release_date": "1926-10-14",
+     "popularity": 2.8842
+    },
+    {
+     "id": 1699149,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "1955-01-16",
+     "popularity": 0.3479
+    },
+    {
+     "id": 1468383,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "2026-10-30",
+     "popularity": 0.2737
+    },
+    {
+     "id": 1626563,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "",
+     "popularity": 0.3627
+    },
+    {
+     "id": 1213917,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "1976-06-14",
+     "popularity": 0.3232
+    },
+    {
+     "id": 1208458,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "1995-01-01",
+     "popularity": 0.4337
+    }
+   ],
+   "ts": "2026-11-27T10:19:43+00:00"
+  },
+  "faust|2026": {
+   "res": [
+    {
+     "id": 1468383,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "2026-10-30",
+     "popularity": 0.2737
+    },
+    {
+     "id": 1265575,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "2026-08-01",
+     "popularity": 0.3075
+    },
+    {
+     "id": 1782425,
+     "title": "The Faust and the Furious",
+     "original_title": "The Faust and the Furious",
+     "release_date": "2026-05-10",
+     "popularity": 0.1625
+    },
+    {
+     "id": 1815475,
+     "title": "faust.os",
+     "original_title": "faust.os",
+     "release_date": "2026-11-02",
+     "popularity": 0.0059
+    },
+    {
+     "id": 1810564,
+     "title": "The Faust Bible: How Murnau Made Magic",
+     "original_title": "The Faust Bible: How Murnau Made Magic",
+     "release_date": "2026-10-16",
+     "popularity": 0.1507
+    },
+    {
+     "id": 1632317,
+     "title": "Charles Gounod : Faust Opéra national de Bavière, Munich",
+     "original_title": "Charles Gounod : Faust Opéra national de Bavière, Munich",
+     "release_date": "2026-02-08",
+     "popularity": 0.4442
+    },
+    {
+     "id": 1617844,
+     "title": "Capitão Fausto - Um Ensaio para o Futuro",
+     "original_title": "Capitão Fausto - Um Ensaio para o Futuro",
+     "release_date": "2026-01-16",
+     "popularity": 0.3249
+    },
+    {
+     "id": 1707092,
+     "title": "O Abominable Profesor Fausto e a Morte do Unicornio Flavio",
+     "original_title": "O Abominable Profesor Fausto e a Morte do Unicornio Flavio",
+     "release_date": "2026-06-04",
+     "popularity": 0.176
+    },
+    {
+     "id": 1659953,
+     "title": "Fausto",
+     "original_title": "Fausto",
+     "release_date": "2026-03-13",
+     "popularity": 0.1042
+    }
+   ],
+   "ts": "2026-11-27T10:19:44+00:00"
+  },
+  "faust|2025": {
+   "res": [
+    {
+     "id": 1575878,
+     "title": "Faust",
+     "original_title": "Faust",
+     "release_date": "2025-11-22",
+     "popularity": 0.1022
+    },
+    {
+     "id": 1547456,
+     "title": "Faust – Opéra de Lille",
+     "original_title": "Faust – Opéra de Lille",
+     "release_date": "2025-09-12",
+     "popularity": 0.4811
+    },
+    {
+     "id": 1411689,
+     "title": "5 Finger sind 'ne Faust",
+     "original_title": "5 Finger sind 'ne Faust",
+     "release_date": "2025-01-07",
+     "popularity": 0.7451
+    },
+    {
+     "id": 1338472,
+     "title": "Lovind lumea",
+     "original_title": "Mit der Faust in die Welt schlagen",
+     "release_date": "2025-04-03",
+     "popularity": 1.0422
+    },
+    {
+     "id": 1829111,
+     "title": "La voie du dragon",
+     "original_title": "La voie du dragon",
+     "release_date": "2025-01-01",
+     "popularity": 0.1753
+    },
+    {
+     "id": 1523313,
+     "title": "Faustino",
+     "original_title": "Faustino",
+     "release_date": "2025-08-08",
+     "popularity": 0.2874
+    },
+    {
+     "id": 1507315,
+     "title": "Faustina. Salda badago!",
+     "original_title": "Faustina. Salda badago!",
+     "release_date": "2025-06-20",
+     "popularity": 0.066
+    }
+   ],
+   "ts": "2026-11-27T10:19:44+00:00"
+  },
+  "mulan|": {
+   "res": [
+    {
+     "id": 10674,
+     "title": "Neînfricata Mulan",
+     "original_title": "Mulan",
+     "release_date": "1998-06-18",
+     "popularity": 18.3873
+    },
+    {
+     "id": 337401,
+     "title": "Mulan",
+     "original_title": "Mulan",
+     "release_date": "2020-09-04",
+     "popularity": 7.8416
+    },
+    {
+     "id": 12242,
+     "title": "Neînfricata Mulan II",
+     "original_title": "Mulan II",
+     "release_date": "2004-11-03",
+     "popularity": 6.2528
+    },
+    {
+     "id": 441705,
+     "title": "Mulan",
+     "original_title": "Mulan",
+     "release_date": "1998-07-14",
+     "popularity": 0.5704
+    },
+    {
+     "id": 738585,
+     "title": "Hua Mulan",
+     "original_title": "Hua Mulan",
+     "release_date": "1997-01-01",
+     "popularity": 0.2322
+    },
+    {
+     "id": 209894,
+     "title": "The Secret of Mulan",
+     "original_title": "The Secret of Mulan",
+     "release_date": "1998-01-01",
+     "popularity": 0.6868
+    },
+    {
+     "id": 801361,
+     "title": "Mu-Lan",
+     "original_title": "Mu-Lan",
+     "release_date": "1998-02-01",
+     "popularity": 0.1456
+    },
+    {
+     "id": 1482483,
+     "title": "Mulan: Princess Warrior",
+     "original_title": "Mulan: Princess Warrior",
+     "release_date": "",
+     "popularity": 0.0169
+    },
+    {
+     "id": 825786,
+     "title": "Mulan Destiny of a Warrior",
+     "original_title": "Mulan Destiny of a Warrior",
+     "release_date": "2017-02-09",
+     "popularity": 0.4497
+    },
+    {
+     "id": 555335,
+     "title": "The Legend of Mulan",
+     "original_title": "The Legend of Mulan",
+     "release_date": "1998-01-01",
+     "popularity": 0.149
+    }
+   ],
+   "ts": "2026-11-27T10:19:47+00:00"
+  },
+  "mulan|2026": {
+   "res": [
+    {
+     "id": 1691129,
+     "title": "木兰：血刃",
+     "original_title": "木兰：血刃",
+     "release_date": "2026-05-11",
+     "popularity": 1.6253
+    },
+    {
+     "id": 1600565,
+     "title": "木蘭何處",
+     "original_title": "木蘭何處",
+     "release_date": "2026-01-30",
+     "popularity": 0.1586
+    }
+   ],
+   "ts": "2026-11-27T10:19:47+00:00"
+  },
+  "mulan|2025": {
+   "res": [
+    {
+     "id": 1439300,
+     "title": "战斗吧木兰",
+     "original_title": "战斗吧木兰",
+     "release_date": "2025-08-30",
+     "popularity": 0.5572
+    },
+    {
+     "id": 1550331,
+     "title": "别别扭扭的邓沐兰",
+     "original_title": "别别扭扭的邓沐兰",
+     "release_date": "2025-09-25",
+     "popularity": 0.1831
+    }
+   ],
+   "ts": "2026-11-27T10:19:48+00:00"
+  },
+  "o lacrima de fata|": {
+   "res": [
+    {
+     "id": 390017,
+     "title": "O lacrimă de fată",
+     "original_title": "O lacrimă de fată",
+     "release_date": "1980-03-26",
+     "popularity": 0.4355
+    }
+   ],
+   "ts": "2026-11-27T10:19:50+00:00"
+  },
+  "o lacrima de fata|2026": {
+   "res": [],
+   "ts": "2026-11-27T10:19:51+00:00"
+  },
+  "o lacrima de fata|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:51+00:00"
+  },
+  "strangulatorii din bombay|": {
+   "res": [],
+   "ts": "2026-11-27T10:19:53+00:00"
+  },
+  "strangulatorii din bombay|2026": {
+   "res": [],
+   "ts": "2026-11-27T10:19:53+00:00"
+  },
+  "strangulatorii din bombay|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:53+00:00"
+  },
+  "the stranglers of bombay|": {
+   "res": [
+    {
+     "id": 85611,
+     "title": "The Stranglers of Bombay",
+     "original_title": "The Stranglers of Bombay",
+     "release_date": "1959-12-04",
+     "popularity": 1.5188
+    },
+    {
+     "id": 964357,
+     "title": "Ritual Murder: Inside The Stranglers of Bombay",
+     "original_title": "Ritual Murder: Inside The Stranglers of Bombay",
+     "release_date": "2018-07-23",
+     "popularity": 0.173
+    }
+   ],
+   "ts": "2026-11-27T10:19:54+00:00"
+  },
+  "the stranglers of bombay|2026": {
+   "res": [],
+   "ts": "2026-11-27T10:19:54+00:00"
+  },
+  "the stranglers of bombay|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:54+00:00"
+  },
+  "stapanul cartilor|": {
+   "res": [],
+   "ts": "2026-11-27T10:19:56+00:00"
+  },
+  "stapanul cartilor|2026": {
+   "res": [],
+   "ts": "2026-11-27T10:19:57+00:00"
+  },
+  "stapanul cartilor|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:57+00:00"
+  },
+  "pagemaster|": {
+   "res": [
+    {
+     "id": 15139,
+     "title": "The Pagemaster",
+     "original_title": "The Pagemaster",
+     "release_date": "1994-11-23",
+     "popularity": 4.259
+    },
+    {
+     "id": 806091,
+     "title": "The Making of 'The Pagemaster'",
+     "original_title": "The Making of 'The Pagemaster'",
+     "release_date": "1994-12-01",
+     "popularity": 1.066
+    }
+   ],
+   "ts": "2026-11-27T10:19:57+00:00"
+  },
+  "pagemaster|2026": {
+   "res": [],
+   "ts": "2026-11-27T10:19:57+00:00"
+  },
+  "pagemaster|2025": {
+   "res": [],
+   "ts": "2026-11-27T10:19:57+00:00"
   }
  },
  "pages": {
@@ -10855,6 +11780,30 @@
   "bilete-teenage-sex-and-death-at-camp-miasma": {
    "text": " Bilete la Teenage Sex and Death at Camp Miasma search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Teenage Sex and Death at Camp Miasma 18+ volume_up EN notes RO Show description Teenage Sex and Death at Camp Miasma 18+ volume_up EN notes RO Director: Jane Schoenbrun Cast: Gillian Anderson, Hannah Einbinder Genre: Comedie, Horror Duration: 1h 46m Country: Canada, Marea Britanie, SUA Year: 2026 Regizoarea queer Kris Williams e angajat&#259; s&#259; readuc&#259; la via&#539;&#259; controversata franciz&#259; slasher Camp Miasma. Dorindu-&#537;i s&#259; dea o not&#259; personal&#259; noului film, Kris pleac&#259; pe urmele lui Bill Presley, actri&#539;a principal&#259;, care tr&#259;ie&#537;te de decenii &icirc;n complet&#259; izolare. Pe m&#259;sur&#259; ce se cunosc mai bine, rela&#539;ia lor alunec&#259; spre o obsesie psihosexual&#259; halucinatorie. Dinamica lor intens&#259; &#537;terge grani&#539;ele dintre fic&#539;iune &#537;i realitate &#537;i le arunc&#259; &icirc;ntr-un delir stropit cu s&acirc;nge, unde dorin&#539;a, (re)descoperirea pl&#259;cerii &#537;i a identit&#259;&#539;ii de gen &#537;i r&#259;zbunarea criminalului, Little Death, se &icirc;ntrep&#259;trund &icirc;ntr-un omagiu adus esteticii filmelor horror din anii &lsquo;80-&rsquo;90. location_on Location calendar_month Date payments Price bookmark Order location_on Location Apollo111 Cinema , București info calendar_month Date 20:00 - Saturday, 28 November 2026 EN RO bookmark Order 35 lei (Bilet întreg) Number of tickets remove add shopping_cart Add to cart bookmark Order 20 lei (Bilet redus elev/student/pensionar) Number of tickets remove add shopping_cart Add to cart Am Apollo111 Cinema Pass Teenage Sex and Death at Camp Miasma Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului COLIERUL DE TURCOAZE / THE TURQUOISE NECKLACE location_on Online disponibil 72h de la prima accesare ONE PIECE FILM: RED location_on Online Valabil 12 luni de la data achiziției Apollo111 Cinema Pass 12 location_on Apollo111 Cinema disponibil 72h de la prima accesare ÎMPĂRATUL ÎMPĂRAȚILOR location_on Online 20:00 - Thursday, 3 December HISTOIRES PARALLELES / POVEȘTI PARALELE location_on Cinema Elvire Popesco 10:00 - Saturday, 5 December HEXE: REGATUL MAGIEI location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
    "ts": "2026-11-25T14:32:03+00:00"
+  },
+  "bilete-comediantii-the-comedians": {
+   "text": " Bilete la COMEDIANȚII / THE COMEDIANS search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter COMEDIANȚII / THE COMEDIANS Factorul cinematografic: adaptări după Graham Greene Show description COMEDIANȚII / THE COMEDIANS Factorul cinematografic: adaptări după Graham Greene Title: The Comedians Director: Peter Glenville Cast: Richard Burton, Elizabeth Taylor, Alec Guinness, Peter Ustinov Genre: Dramă Duration: 2h 30m Country: SUA Language: sub.rom. Year: 1967 Filmul spune povestea unui bărbat sardonic, proprietarul unui hotel. Complicațiile nu întârzie să apară în viața lui: se împrietenește cu liderul unei grupări rebele, are o aventură cu soția unui ambasador european, un foarte convingător dealer de arme britanic încearcă să-l manipuleze. Toate astea într-un Haiti care se scufundă în barbarism puțin câte puțin. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 19:30 - Wednesday, 02 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart COMEDIANȚII / THE COMEDIANS Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului LOVIND O PASĂRE DE PRADĂ / TO KILL A BIRD OF PREY location_on Online 3+1 luni TIFF UNLIMITED 3 +1 LUNI location_on Online disponibil 72h de la prima accesare BEAU IS AFRAID / TOATE FRICILE LUI BEAU location_on Online 18:00 - Sunday, 13 December 3 zile în septembrie location_on Cinema Union 18:00 - Saturday, 19 December Retrocinemateca: MIHAI VITEAZUL (1970) location_on Cinema “Ion Besoiu”, Sibiu - Sala Mică 16:30 - Tomorrow, 28 November NU AȘTEPTA PREA MULT DE LA SFÂRȘITUL LUMII + STIMAȚI OAMENI DE CULTURĂ location_on Cinema Elvire Popesco Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-27T10:19:39+00:00"
+  },
+  "bilete-concurs": {
+   "text": " Bilete la CONCURS search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter CONCURS A.G. volume_up RO notes EN Show description CONCURS A.G. volume_up RO notes EN 1982, 97', Rom&acirc;nia, r: Dan Pi&#539;a, DRAM&#258;, s.eng. Un colectiv de func&#539;ionari publici care lucrez&#259; la aceea&#537;i institu&#539;ie se decide s&#259; participe la un concurs turistic duminical. Func&#539;ionarilor li se al&#259;tur&#259; un necunoscut care cunoa&#537;te &icirc;mprejurimile &#537;i-i ajut&#259; s&#259; se descurce. &Icirc;n timpul concursului, ei aud strig&#259;tul disperat dup&#259; ajutor al unei femei, se &icirc;nt&acirc;lnesc cu un alai nup&#539;ial, dar nici unul dintre concuren&#539;i nu se abate din drum, c&#259;ci grija lor cea mare este s&#259; respecte instruc&#539;iunile, care spun c&#259; orice ignorare a regulamentului &icirc;nseamn&#259; moartea. Tensiunile ierarhice, complexele &#537;i la&#537;it&#259;&#539;ile de care umilii func&#539;ionari nu reu&#537;esc s&#259; scape transform&#259; ie&#537;irea la iarb&#259; verde &icirc;ntr-un penibil moment al adev&#259;rului. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 19:30 - Tuesday, 01 December 2026 RO EN bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart CONCURS Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului FALEZE DE NISIP / SAND CLIFFS location_on Online disponibil 72h de la achiziționarea biletului URGIA / CALAMITY location_on Online disponibil 72h de la achiziționarea biletului VERONICA SE ÎNTOARCE / VERONICA COMES BACK location_on Online disponibil 72h de la achiziționarea biletului BULETIN DE BUCUREȘTI / BUCHAREST ID location_on Online disponibil 72h de la prima accesare BEAU IS AFRAID / TOATE FRICILE LUI BEAU location_on Online 19:30 - Saturday, 5 December Histoires parallèles location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-27T10:19:42+00:00"
+  },
+  "bilete-faust-1926": {
+   "text": " Bilete la FAUST search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter FAUST Show description FAUST 1926, Germania, 107', r: F.W. Murnau, DRAM&#258;, FANTEZIE, HORROR, ins. germ., s.rom. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 17:30 - Wednesday, 02 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location Cinemateca Eforie , București info calendar_month Date 20:00 - Thursday, 03 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart FAUST Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve FAUST Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului GOLGOTA #drama location_on Online disponibil 72h de la achiziționarea biletului O LUMINĂ LA ETAJUL ZECE / A LIGHT ON THE TENTH FLOOR location_on Online disponibil 72h de la achiziționarea biletului NEAMUL ȘOIMĂREȘTILOR / THE HAWKS location_on Online disponibil 72h de la achiziționarea biletului ARTISTA, DOLARII ȘI ARDELENII / THE ACTRESS, THE DOLLARS AND THE TRANSYLVANIANS location_on Online 19:00 - Sunday, 29 November Mica Sirie #documentary #social drama #biography #pentru tineri #refugiați #coming-of-age #Europa #film de arta location_on Cinema Studio - sala mică 17:00 - Sunday, 13 December Gentlemen Prefer Blondes location_on Corinthia Grand Hotel du Boulevard Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-27T10:19:45+00:00"
+  },
+  "bilete-mulan": {
+   "text": " Bilete la Mulan | Eventbook search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter Mulan Show description Mulan Ac&#355;iunea va merge pe urmele lui Hua Mulan, fiica unui b&#259;tr&acirc;n lupt&#259;tor, care se deghizeaz&#259; &icirc;n b&#259;rbat &#351;i &icirc;i ia locul tat&#259;lui s&#259;u &icirc;n armat&#259;. C&#259;l&#259;toria epic&#259; o va transforma &icirc;ntr-un r&#259;zboinic venerat, &icirc;i va aduce respectul &icirc;ntregii na&#539;iuni &#537;i &icirc;l va face m&acirc;ndru pe tat&#259;l ei. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 17:30 - Tuesday, 01 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location Cinemateca Eforie , București info calendar_month Date 15:00 - Saturday, 05 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart Mulan Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Mulan Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului OSÂNDA / THE DAMNATION location_on Online disponibil 72h de la achiziționarea biletului ROCHIA ALBĂ DE DANTELĂ / THE WHITE LACE DRESS location_on Online disponibil 72h de la achiziționarea biletului LICEENII / THE TEENAGERS location_on Online disponibil 72h de la prima accesare Aventura Digimon 02: Începutul / Digimon Adventure 02: The Beginning location_on Online 19:00 - Wednesday, 2 December Behemoth! location_on Cinema Patria Craiova 19:30 - Saturday, 5 December Atracții vaste: filme de călătorie cu acompaniament muzical location_on Cinemateca Eforie Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-27T10:19:49+00:00"
+  },
+  "bilete-o-lacrima-de-fata": {
+   "text": " Bilete la O LACRIMĂ DE FATĂ | Eventbook search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter O LACRIMĂ DE FATĂ Show description O LACRIMĂ DE FATĂ Director: Iosif Demian Cast: Dorel Vişan, George Negoescu, Luiza Orosz, George Bosun, Horia Baciu, Costel Rădulescu, Anton Aftenie, Dragoş Pâslaru, Mihai Oroveanu Duration: 1h 26m Country: România Year: 1980 Rom&acirc;nia / 1980 / 86&rsquo; / s.engl. / Dram&#259;, film poli&#355;ist, adaptare dup&#259; romanul &bdquo;Bunicul &#351;i o lacrim&#259; de fat&#259;&rdquo; de Petre S&#259;lcudeanu R: Iosif Demian Cu: Dorel Vi&#351;an, George Negoescu, Luiza Orosz, George Bosun, Horia Baciu, Costel&nbsp; R&#259;dulescu, Anton Aftenie, Drago&#351; P&acirc;slaru, Mihai Oroveanu &bdquo;O LACRIM&#258; DE FAT&#258; r&#259;m&acirc;ne &icirc;n con&#351;tiin&#355;a cinefililor ca un moment valoric izolat &icirc;n produc&#355;ia de filme rom&acirc;ne&#351;ti din jum&#259;tatea a doua a secolului XX. Efortul autorilor s&#259;i principali &ndash; regizorul Iosif Demian, aici &#351;i operator (al&#259;turi de Constantin Chelba), scenaristul Petre S&#259;lcudeanu &ndash; se &icirc;ndreapt&#259; vizibil spre conturarea unei fizionomii specifice a cinematografiei rom&acirc;ne&#351;ti.&rdquo; (Marian Sorin R&#259;dulescu, &bdquo;Pseudokinematikos 2: Bucuriile filmului&rdquo;, 2012) Film selec&#355;ionat &icirc;n sec&#355;iunea &bdquo;Un Certain Regard&rdquo; a Festivalului de la Cannes ACIN 1980 &ndash; Premiul pentru regie, ex-aequo (Iosif Demian), Diplom&#259; de onoare pentru interpretarea lui George Bosun. location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 20:00 - Sunday, 06 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart O LACRIMĂ DE FATĂ Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului GAUDEAMUS IGITUR location_on Online valabil 1 lună Bilet cadou location_on Online disponibil 72h de la achiziționarea biletului PRUNCUL, PETROLUL ȘI ARDELENII / HOME AWAY FROM HOME location_on Online 19:30 - Tuesday, 1 December CONCURS location_on Cinemateca Eforie 15:00 - Today, 27 November Ebenezer: O poveste de Crăciun location_on CINEMA UNIREA 19:30 - Saturday, 5 December Histoires parallèles location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-27T10:19:52+00:00"
+  },
+  "bilete-strangulatorii-din-bombay-the-stranglers-of-bombay": {
+   "text": " Bilete la STRANGULATORII DIN BOMBAY / THE STRANGLERS OF BOMBAY search EN BG DE EN ES FR HU IT RO UK 0 shopping_cart login search 0 shopping_cart search EN BG DE EN ES FR HU IT RO UK star add event favorite Become a supporter person login music movie sport theater online events other blog star add event favorite Become a supporter STRANGULATORII DIN BOMBAY / THE STRANGLERS OF BOMBAY Show description STRANGULATORII DIN BOMBAY / THE STRANGLERS OF BOMBAY Title: The Stranglers of Bombay Director: Terence Fisher Cast: Allan Cuthbertson, Ewen Solon Genre: Aventuri, Horror Duration: 1h 20m Country: Marea Britanie Year: 1959 location_on Location calendar_month Date payments Price bookmark Order location_on Location Cinemateca Eforie , București info calendar_month Date 20:00 - Friday, 04 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart location_on Location Cinemateca Eforie , București info calendar_month Date 18:00 - Sunday, 06 December 2026 bookmark Order 15 lei Number of tickets remove add shopping_cart Add to cart STRANGULATORII DIN BOMBAY / THE STRANGLERS OF BOMBAY Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve STRANGULATORII DIN BOMBAY / THE STRANGLERS OF BOMBAY Enter Barcode Check Atenție! Toate intrările au fost folosite. Number of tickets remove add Reserve Stay Up To Date With Your Favorite Events Subscribe we also recommend disponibil 72h de la achiziționarea biletului VALURILE DUNĂRII location_on Online disponibil 72h de la achiziționarea biletului STOP-CADRU LA MASĂ / SNAPSHOT AROUND THE FAMILY TABLE location_on Online disponibil 72h de la achiziționarea biletului Intunecare location_on Online disponibil 72h de la achiziționarea biletului LOVIND O PASĂRE DE PRADĂ / TO KILL A BIRD OF PREY location_on Online disponibil 72h de la achiziționarea biletului ARTISTA, DOLARII ȘI ARDELENII / THE ACTRESS, THE DOLLARS AND THE TRANSYLVANIANS location_on Online 18:00 - Sunday, 6 December A Short Film About Love location_on Cinema Studio Timișoara Your tickets have been added to the cart - location_on Location Name calendar_month Date You have added 0 tickets worth 0 lei Your order contains 0 tickets TOTAL ORDER: 300 LEI Your order contains 0 tickets TOTAL ORDER: 300 LEI Continue Shopping Proceed to Checkout Stay Up To Date With Your Favorite Events Subscribe Extra links movie music sport theater other Voucher add event Information How to buy tickets For promoters Ticket outlets Terms and conditions Privacy policy Cookie policy ANPC You can contact us between 10:00 and 18:00 (L-V) call (+4) 0314215543 / (+4) 0730826087 WhatsApp mail office@eventbook.ro map sos. Splaiul Independentei nr 17, Bucuresti, Sector 5 Contact Follow Us Follow us on Facebook Follow us on X See us on Instagram Tags #Drama #Jazz #Animație #Comedie #Aventură #Fantastic #Thriller © All rights reserved EVENTBOOK SRL. &times; Ticketing powered by Adresă: 11 Piața Mică, Sibiu, Romania Echipa festivalului Povestea noastră Juriul ediției Parteneri Arhivă Galerie media Știri Voluntari Acreditări presă Întrebări frecvente Contact © 2025 Astra Film Festival. All rights reserved. Politica de confidențialitate Termeni și condiții Setări cookies login Sign in &times; Alert ! If you don&#039;t already have an account, click the button below to create one CREATE ACCOUNT OR Connect with Facebook Connect with Google So you can't get into your account? Did you forget your password ? &times; Get the Eventbook app Free on iOS and Android confirmation_number Your tickets, always at hand account_balance_wallet Add them to Wallet in one click favorite Save your favourite events Get the app Continue in browser ",
+   "ts": "2026-11-27T10:19:55+00:00"
   }
  }
 }
