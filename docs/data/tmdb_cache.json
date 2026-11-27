@@ -11526,6 +11526,69 @@
   "pagemaster|2025": {
    "res": [],
    "ts": "2026-11-27T10:19:57+00:00"
+  },
+  "fanny alexander|": {
+   "res": [
+    {
+     "id": 5961,
+     "title": "Fanny och Alexander",
+     "original_title": "Fanny och Alexander",
+     "release_date": "1982-12-17",
+     "popularity": 2.4819
+    },
+    {
+     "id": 1222741,
+     "title": "Fanny, Alexander & Jag",
+     "original_title": "Fanny, Alexander & Jag",
+     "release_date": "2013-05-14",
+     "popularity": 0.5263
+    },
+    {
+     "id": 114034,
+     "title": "Dokument Fanny och Alexander",
+     "original_title": "Dokument Fanny och Alexander",
+     "release_date": "1984-09-16",
+     "popularity": 0.6085
+    },
+    {
+     "id": 1730486,
+     "title": "FANNY AND ALEXANDER",
+     "original_title": "FANNY AND ALEXANDER",
+     "release_date": "",
+     "popularity": 0.0041
+    },
+    {
+     "id": 213877,
+     "title": "Fanny & Alexander: A Bergman Tapestry",
+     "original_title": "Fanny & Alexander: A Bergman Tapestry",
+     "release_date": "2004-12-04",
+     "popularity": 0.4942
+    },
+    {
+     "id": 1421720,
+     "title": "Fanny och Alexander på Galeasen",
+     "original_title": "Fanny och Alexander på Galeasen",
+     "release_date": "2025-01-24",
+     "popularity": 0.5124
+    }
+   ],
+   "ts": "2026-11-27T18:01:38+00:00"
+  },
+  "fanny alexander|2026": {
+   "res": [],
+   "ts": "2026-11-27T18:01:38+00:00"
+  },
+  "fanny alexander|2025": {
+   "res": [
+    {
+     "id": 1421720,
+     "title": "Fanny och Alexander på Galeasen",
+     "original_title": "Fanny och Alexander på Galeasen",
+     "release_date": "2025-01-24",
+     "popularity": 0.5124
+    }
+   ],
+   "ts": "2026-11-27T18:01:38+00:00"
   }
  },
  "pages": {
