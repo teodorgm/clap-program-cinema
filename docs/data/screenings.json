@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T22:04:41+00:00",
+ "generated": "2026-11-27T06:11:25+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 67,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 9,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 13,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 9,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,7 +105,7 @@
    "ok": true,
    "stale": false,
    "count": 30,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "cc1806": {
@@ -113,7 +113,7 @@
    "ok": true,
    "stale": false,
    "count": 656,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "cc1818": {
@@ -121,7 +121,7 @@
    "ok": true,
    "stale": false,
    "count": 519,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "cc1824": {
@@ -129,7 +129,7 @@
    "ok": true,
    "stale": false,
    "count": 464,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   },
   "cc1807": {
@@ -137,7 +137,7 @@
    "ok": true,
    "stale": false,
    "count": 540,
-   "updated": "2026-11-26T22:04:41+00:00",
+   "updated": "2026-11-27T06:11:25+00:00",
    "error": null
   }
  },
