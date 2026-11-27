@@ -10454,73 +10454,73 @@
      "title": "Buddy",
      "original_title": "Buddy",
      "release_date": "2026-08-27",
-     "popularity": 91.4174
+     "popularity": 73.1697
     },
     {
      "id": 472815,
      "title": "Provocări între prieteni",
      "original_title": "Buddy Games",
      "release_date": "2019-11-18",
-     "popularity": 3.0543
+     "popularity": 3.3674
     },
     {
      "id": 15170,
      "title": "Buddy",
      "original_title": "Buddy",
      "release_date": "1997-06-06",
-     "popularity": 1.5763
+     "popularity": 1.8961
     },
     {
      "id": 36133,
      "title": "Buddy Buddy",
      "original_title": "Buddy Buddy",
      "release_date": "1981-04-02",
-     "popularity": 1.3891
-    },
-    {
-     "id": 246894,
-     "title": "Buddy",
-     "original_title": "Buddy",
-     "release_date": "2013-12-25",
-     "popularity": 0.6083
+     "popularity": 1.609
     },
     {
      "id": 940002,
      "title": "Buddy",
      "original_title": "Buddy",
      "release_date": "1993-09-28",
-     "popularity": 0.7996
-    },
-    {
-     "id": 1816662,
-     "title": "Buddy",
-     "original_title": "Buddy",
-     "release_date": "2026-11-04",
-     "popularity": 0.2664
+     "popularity": 0.79
     },
     {
      "id": 15177,
      "title": "Buddy",
      "original_title": "Buddy",
      "release_date": "2003-08-29",
-     "popularity": 0.7771
+     "popularity": 0.9048
     },
     {
-     "id": 562688,
+     "id": 246894,
      "title": "Buddy",
      "original_title": "Buddy",
-     "release_date": "2019-01-03",
-     "popularity": 0.3232
+     "release_date": "2013-12-25",
+     "popularity": 0.6117
+    },
+    {
+     "id": 837473,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "1986-01-01",
+     "popularity": 0.3908
     },
     {
      "id": 1664252,
      "title": "BUDDY",
      "original_title": "BUDDY",
      "release_date": "2026-04-06",
-     "popularity": 0.4117
+     "popularity": 0.4262
+    },
+    {
+     "id": 457620,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2015-11-30",
+     "popularity": 0.3002
     }
    ],
-   "ts": "2026-11-23T18:11:10+00:00"
+   "ts": "2026-11-27T22:07:38+00:00"
   },
   "buddy|2026": {
    "res": [
@@ -10529,45 +10529,45 @@
      "title": "Buddy",
      "original_title": "Buddy",
      "release_date": "2026-08-27",
-     "popularity": 91.4174
-    },
-    {
-     "id": 1816662,
-     "title": "Buddy",
-     "original_title": "Buddy",
-     "release_date": "2026-11-04",
-     "popularity": 0.2664
+     "popularity": 73.1697
     },
     {
      "id": 1664252,
      "title": "BUDDY",
      "original_title": "BUDDY",
      "release_date": "2026-04-06",
-     "popularity": 0.4117
+     "popularity": 0.4262
+    },
+    {
+     "id": 1816662,
+     "title": "Buddy",
+     "original_title": "Buddy",
+     "release_date": "2026-11-04",
+     "popularity": 0.2636
     },
     {
      "id": 1640500,
      "title": "Gym Buddy",
      "original_title": "Gym Buddy",
      "release_date": "2026-02-18",
-     "popularity": 0.5314
+     "popularity": 0.2941
     },
     {
      "id": 1663217,
      "title": "My Buddy Bruce",
      "original_title": "My Buddy Bruce",
      "release_date": "2026-03-04",
-     "popularity": 0.0127
+     "popularity": 0.0257
     },
     {
      "id": 1565069,
      "title": "Suka Duka Tawa",
      "original_title": "Suka Duka Tawa",
      "release_date": "2026-01-08",
-     "popularity": 0.9824
+     "popularity": 0.8773
     }
    ],
-   "ts": "2026-11-23T18:11:10+00:00"
+   "ts": "2026-11-27T22:07:38+00:00"
   },
   "buddy|2025": {
    "res": [
@@ -10576,24 +10576,24 @@
      "title": "Saving Buddy Charles",
      "original_title": "Saving Buddy Charles",
      "release_date": "2025-12-16",
-     "popularity": 0.8444
+     "popularity": 0.9125
     },
     {
      "id": 1689895,
      "title": "Regal Studio Presents: Buddy & Sue",
      "original_title": "Regal Studio Presents: Buddy & Sue",
      "release_date": "2025-02-09",
-     "popularity": 0.6807
+     "popularity": 0.5889
     },
     {
      "id": 1511704,
      "title": "Good Buddy, Best Friend: THE MOVIE",
      "original_title": "Good Buddy, Best Friend: THE MOVIE",
      "release_date": "2025-08-01",
-     "popularity": 0.0976
+     "popularity": 0.0568
     }
    ],
-   "ts": "2026-11-23T18:11:11+00:00"
+   "ts": "2026-11-27T22:07:38+00:00"
   },
   "behemoth|": {
    "res": [
