@@ -1387,7 +1387,7 @@
    "runtime": 89,
    "fetched": "2026-11-16T12:39:18+00:00",
    "lb": 3.69,
-   "lb_ts": "2026-11-20T14:27:35+00:00"
+   "lb_ts": "2026-11-28T17:56:42+00:00"
   },
   "89451": {
    "title": "A Vingança de Uma Mulher",
@@ -2398,7 +2398,7 @@
    "runtime": 96,
    "fetched": "2026-11-20T14:25:50+00:00",
    "lb": 3.84,
-   "lb_ts": "2026-11-20T14:27:06+00:00"
+   "lb_ts": "2026-11-28T17:56:22+00:00"
   },
   "777620": {
    "title": "Caged",
@@ -2529,7 +2529,7 @@
    "runtime": 116,
    "fetched": "2026-11-20T14:25:54+00:00",
    "lb": 3.67,
-   "lb_ts": "2026-11-20T14:27:08+00:00"
+   "lb_ts": "2026-11-28T17:56:25+00:00"
   },
   "34187": {
    "title": "The Bitter Tea of General Yen",
@@ -2554,7 +2554,7 @@
    "runtime": 88,
    "fetched": "2026-11-20T14:25:57+00:00",
    "lb": 3.46,
-   "lb_ts": "2026-11-20T14:27:10+00:00"
+   "lb_ts": "2026-11-28T17:56:27+00:00"
   },
   "8834": {
    "title": "Teoria conspirației",
@@ -2649,7 +2649,7 @@
    "runtime": 120,
    "fetched": "2026-11-20T14:26:04+00:00",
    "lb": 2.87,
-   "lb_ts": "2026-11-20T14:27:15+00:00"
+   "lb_ts": "2026-11-28T17:56:29+00:00"
   },
   "265092": {
    "title": "De-as fi... Harap Alb",
@@ -2699,7 +2699,7 @@
    "runtime": 136,
    "fetched": "2026-11-20T14:26:12+00:00",
    "lb": 3.84,
-   "lb_ts": "2026-11-20T14:27:19+00:00"
+   "lb_ts": "2026-11-28T17:56:31+00:00"
   },
   "11527": {
    "title": "Excalibur",
@@ -2724,7 +2724,7 @@
    "runtime": 141,
    "fetched": "2026-11-20T14:26:15+00:00",
    "lb": 3.75,
-   "lb_ts": "2026-11-20T14:27:22+00:00"
+   "lb_ts": "2026-11-28T17:56:33+00:00"
   },
   "472788": {
    "title": "Excalibur",
@@ -2829,8 +2829,8 @@
    "imdb_id": "tt36646880",
    "runtime": 139,
    "fetched": "2026-11-20T14:26:22+00:00",
-   "lb": 2.93,
-   "lb_ts": "2026-11-20T14:27:26+00:00"
+   "lb": 2.94,
+   "lb_ts": "2026-11-28T17:56:36+00:00"
   },
   "1449868": {
    "title": "L'Illusion de Yakushima",
@@ -2854,8 +2854,8 @@
    "imdb_id": "tt36364208",
    "runtime": 122,
    "fetched": "2026-11-20T14:26:25+00:00",
-   "lb": 3.19,
-   "lb_ts": "2026-11-20T14:27:28+00:00"
+   "lb": 3.18,
+   "lb_ts": "2026-11-28T17:56:38+00:00"
   },
   "1379924": {
    "title": "Le Cinquième Plan de « La Jetée »",
@@ -2873,7 +2873,7 @@
    "runtime": 104,
    "fetched": "2026-11-20T14:26:28+00:00",
    "lb": 3.43,
-   "lb_ts": "2026-11-20T14:27:31+00:00"
+   "lb_ts": "2026-11-28T17:56:40+00:00"
   },
   "263115": {
    "title": "Logan",
@@ -2947,7 +2947,7 @@
    "runtime": 102,
    "fetched": "2026-11-20T14:26:41+00:00",
    "lb": 3.3,
-   "lb_ts": "2026-11-20T14:27:37+00:00"
+   "lb_ts": "2026-11-28T17:56:45+00:00"
   },
   "1381273": {
    "title": "Paper Tiger",
@@ -2971,8 +2971,8 @@
    "imdb_id": "tt34385689",
    "runtime": 115,
    "fetched": "2026-11-20T14:26:44+00:00",
-   "lb": 3.38,
-   "lb_ts": "2026-11-20T14:27:40+00:00"
+   "lb": 3.4,
+   "lb_ts": "2026-11-28T17:56:47+00:00"
   },
   "105240": {
    "title": "Tigrul de hârtie",
@@ -3100,8 +3100,8 @@
    "imdb_id": "tt34206385",
    "runtime": 110,
    "fetched": "2026-11-20T14:26:50+00:00",
-   "lb": 3.63,
-   "lb_ts": "2026-11-20T14:27:42+00:00"
+   "lb": 3.62,
+   "lb_ts": "2026-11-28T17:56:49+00:00"
   },
   "1204847": {
    "title": "Primetime",
@@ -3170,7 +3170,7 @@
    "runtime": 132,
    "fetched": "2026-11-20T14:27:01+00:00",
    "lb": 3.73,
-   "lb_ts": "2026-11-20T14:27:47+00:00"
+   "lb_ts": "2026-11-28T17:56:51+00:00"
   },
   "28415": {
    "title": "The Yakuza",
@@ -3195,7 +3195,7 @@
    "runtime": 112,
    "fetched": "2026-11-20T14:27:05+00:00",
    "lb": 3.72,
-   "lb_ts": "2026-11-20T14:27:49+00:00"
+   "lb_ts": "2026-11-28T17:56:53+00:00"
   },
   "859311": {
    "title": "Encore!",
@@ -5481,15 +5481,15 @@
   },
   "minuscule valea furnicilor pierdute|": {
    "res": [],
-   "ts": "2026-11-24T14:29:09+00:00"
+   "ts": "2026-11-28T17:56:12+00:00"
   },
   "minuscule valea furnicilor pierdute|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:09+00:00"
+   "ts": "2026-11-28T17:56:12+00:00"
   },
   "minuscule valea furnicilor pierdute|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:09+00:00"
+   "ts": "2026-11-28T17:56:12+00:00"
   },
   "mon inseparable|": {
    "res": [
@@ -6393,56 +6393,56 @@
      "title": "Minuscule",
      "original_title": "Minuscule - La Vallée des fourmis perdues",
      "release_date": "2013-11-17",
-     "popularity": 2.4186
+     "popularity": 2.6687
     },
     {
      "id": 513302,
      "title": "Minuscule 2: Mandibule de la capătul lumii",
      "original_title": "Minuscule 2 - Les Mandibules du bout du monde",
      "release_date": "2019-01-30",
-     "popularity": 2.7525
+     "popularity": 2.5311
     },
     {
      "id": 275814,
      "title": "Björk: Minuscule",
      "original_title": "Björk: Minuscule",
      "release_date": "2002-11-18",
-     "popularity": 0.4088
+     "popularity": 0.4176
     },
     {
      "id": 552784,
      "title": "Le renard minuscule",
      "original_title": "Le renard minuscule",
      "release_date": "2016-02-08",
-     "popularity": 0.1131
+     "popularity": 0.1341
     },
     {
      "id": 1554286,
      "title": "A Minuscule Minority",
      "original_title": "A Minuscule Minority",
      "release_date": "2025-08-24",
-     "popularity": 0.0411
+     "popularity": 0.0729
     },
     {
      "id": 529426,
      "title": "熊出没·变形记",
      "original_title": "熊出没·变形记",
      "release_date": "2018-02-16",
-     "popularity": 1.5358
+     "popularity": 1.4134
     },
     {
      "id": 1055160,
      "title": "Las y Los Minúscules",
      "original_title": "Las y Los Minúscules",
      "release_date": "2021-01-01",
-     "popularity": 0.0244
+     "popularity": 0.0246
     }
    ],
-   "ts": "2026-11-24T14:29:09+00:00"
+   "ts": "2026-11-28T17:56:12+00:00"
   },
   "minuscule|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:09+00:00"
+   "ts": "2026-11-28T17:56:12+00:00"
   },
   "minuscule|2025": {
    "res": [
@@ -6451,34 +6451,34 @@
      "title": "A Minuscule Minority",
      "original_title": "A Minuscule Minority",
      "release_date": "2025-08-24",
-     "popularity": 0.0411
+     "popularity": 0.0729
     }
    ],
-   "ts": "2026-11-24T14:29:09+00:00"
+   "ts": "2026-11-28T17:56:13+00:00"
   },
   "valea furnicilor pierdute|": {
    "res": [],
-   "ts": "2026-11-24T14:29:09+00:00"
+   "ts": "2026-11-28T17:56:13+00:00"
   },
   "valea furnicilor pierdute|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:10+00:00"
+   "ts": "2026-11-28T17:56:13+00:00"
   },
   "valea furnicilor pierdute|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:10+00:00"
+   "ts": "2026-11-28T17:56:13+00:00"
   },
   "mici excese|": {
    "res": [],
-   "ts": "2026-11-24T14:29:10+00:00"
+   "ts": "2026-11-28T17:56:14+00:00"
   },
   "mici excese|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:10+00:00"
+   "ts": "2026-11-28T17:56:14+00:00"
   },
   "mici excese|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:10+00:00"
+   "ts": "2026-11-28T17:56:14+00:00"
   },
   "a vinganca de uma mulher|": {
    "res": [
@@ -6487,25 +6487,25 @@
      "title": "A Vingança de Uma Mulher",
      "original_title": "A Vingança de Uma Mulher",
      "release_date": "2012-03-29",
-     "popularity": 0.7299
+     "popularity": 0.8334
     },
     {
      "id": 22171,
      "title": "Ms .45",
      "original_title": "Ms .45",
      "release_date": "1981-04-24",
-     "popularity": 2.2539
+     "popularity": 2.3649
     }
    ],
-   "ts": "2026-11-24T14:29:10+00:00"
+   "ts": "2026-11-28T17:56:14+00:00"
   },
   "a vinganca de uma mulher|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:10+00:00"
+   "ts": "2026-11-28T17:56:15+00:00"
   },
   "a vinganca de uma mulher|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:11+00:00"
+   "ts": "2026-11-28T17:56:15+00:00"
   },
   "pas sur la bouche|": {
    "res": [
@@ -8675,10 +8675,10 @@
      "title": "روباه و ماه صورتی",
      "original_title": "روباه و ماه صورتی",
      "release_date": "2026-11-13",
-     "popularity": 1.4885
+     "popularity": 1.2928
     }
    ],
-   "ts": "2026-11-24T14:28:55+00:00"
+   "ts": "2026-11-28T17:55:55+00:00"
   },
   "a fox under a pink moon|2026": {
    "res": [
@@ -8687,26 +8687,26 @@
      "title": "روباه و ماه صورتی",
      "original_title": "روباه و ماه صورتی",
      "release_date": "2026-11-13",
-     "popularity": 1.4885
+     "popularity": 1.2928
     }
    ],
-   "ts": "2026-11-24T14:28:55+00:00"
+   "ts": "2026-11-28T17:55:56+00:00"
   },
   "a fox under a pink moon|2025": {
    "res": [],
-   "ts": "2026-11-24T14:28:55+00:00"
+   "ts": "2026-11-28T17:55:56+00:00"
   },
   "o vulpe sub o luna roz|": {
    "res": [],
-   "ts": "2026-11-24T14:28:55+00:00"
+   "ts": "2026-11-28T17:55:56+00:00"
   },
   "o vulpe sub o luna roz|2026": {
    "res": [],
-   "ts": "2026-11-24T14:28:55+00:00"
+   "ts": "2026-11-28T17:55:56+00:00"
   },
   "o vulpe sub o luna roz|2025": {
    "res": [],
-   "ts": "2026-11-24T14:28:55+00:00"
+   "ts": "2026-11-28T17:55:57+00:00"
   },
   "caged|": {
    "res": [
@@ -8715,73 +8715,73 @@
      "title": "Caged",
      "original_title": "Caged",
      "release_date": "1950-05-19",
-     "popularity": 1.4248
+     "popularity": 1.9519
     },
     {
      "id": 777620,
      "title": "Caged",
      "original_title": "Caged",
      "release_date": "2021-01-26",
-     "popularity": 0.9826
+     "popularity": 1.3983
     },
     {
      "id": 77844,
      "title": "Caged",
      "original_title": "Caged",
      "release_date": "2011-09-01",
-     "popularity": 0.9822
+     "popularity": 1.3942
     },
     {
      "id": 39775,
      "title": "Caged Heat",
      "original_title": "Caged Heat",
      "release_date": "1974-04-19",
-     "popularity": 2.0559
+     "popularity": 1.9956
     },
     {
      "id": 91612,
      "title": "Caged Fury",
      "original_title": "Caged Fury",
      "release_date": "1990-03-01",
-     "popularity": 1.6175
+     "popularity": 1.6144
     },
     {
      "id": 400666,
      "title": "The Caged Pillows",
      "original_title": "The Caged Pillows",
      "release_date": "2016-06-03",
-     "popularity": 2.5104
+     "popularity": 1.782
     },
     {
      "id": 1526383,
      "title": "The Caged",
      "original_title": "The Caged",
      "release_date": "2026-12-31",
-     "popularity": 1.0115
+     "popularity": 0.8598
     },
     {
      "id": 260275,
      "title": "Caged Hearts",
      "original_title": "Caged Hearts",
      "release_date": "1995-07-18",
-     "popularity": 1.1965
+     "popularity": 1.1525
     },
     {
      "id": 513260,
      "title": "Caged",
      "original_title": "Caged",
      "release_date": "2018-04-10",
-     "popularity": 0.2454
+     "popularity": 0.3315
     },
     {
      "id": 1720594,
      "title": "Caged",
      "original_title": "Caged",
      "release_date": "1998-01-17",
-     "popularity": 0.214
+     "popularity": 0.2042
     }
    ],
-   "ts": "2026-11-24T14:28:57+00:00"
+   "ts": "2026-11-28T17:55:58+00:00"
   },
   "caged|2026": {
    "res": [
@@ -8790,24 +8790,24 @@
      "title": "The Caged",
      "original_title": "The Caged",
      "release_date": "2026-12-31",
-     "popularity": 1.0115
+     "popularity": 0.8598
     },
     {
      "id": 1774232,
      "title": "Caged",
      "original_title": "Caged",
      "release_date": "2026-09-19",
-     "popularity": 0.0525
+     "popularity": 0.0263
     },
     {
      "id": 1657534,
      "title": "蝴蝶楼·惊魂",
      "original_title": "蝴蝶楼·惊魂",
      "release_date": "2026-04-03",
-     "popularity": 0.7849
+     "popularity": 0.7173
     }
    ],
-   "ts": "2026-11-24T14:28:57+00:00"
+   "ts": "2026-11-28T17:55:58+00:00"
   },
   "caged|2025": {
    "res": [
@@ -8816,45 +8816,45 @@
      "title": "The Caged",
      "original_title": "The Caged",
      "release_date": "2025-11-02",
-     "popularity": 0.0129
+     "popularity": 0.0025
     },
     {
      "id": 1476786,
      "title": "Caged (In) and Out",
      "original_title": "Caged (In) and Out",
      "release_date": "2025-05-06",
-     "popularity": 0.0699
+     "popularity": 0.157
     },
     {
      "id": 1606818,
      "title": "Caged in a Zoo: Ota Benga",
      "original_title": "Caged in a Zoo: Ota Benga",
      "release_date": "2025-12-28",
-     "popularity": 0.3243
+     "popularity": 0.1492
     },
     {
      "id": 1414712,
      "title": "BIANG RW 1",
      "original_title": "BIANG RW 1",
      "release_date": "2025-11-21",
-     "popularity": 0.1703
+     "popularity": 0.0565
     },
     {
      "id": 1297611,
      "title": "囚犬",
      "original_title": "囚犬",
      "release_date": "2025-03-28",
-     "popularity": 0.1084
+     "popularity": 0.1896
     },
     {
      "id": 1591251,
      "title": "Pássaros Enjaulados Não Veem o Céu",
      "original_title": "Pássaros Enjaulados Não Veem o Céu",
      "release_date": "2025-11-28",
-     "popularity": 0.021
+     "popularity": 0.0
     }
    ],
-   "ts": "2026-11-24T14:28:57+00:00"
+   "ts": "2026-11-28T17:55:58+00:00"
   },
   "calle malaga|": {
    "res": [
@@ -8863,14 +8863,14 @@
      "title": "Calle Málaga",
      "original_title": "Calle Málaga",
      "release_date": "2025-10-31",
-     "popularity": 1.388
+     "popularity": 1.3428
     }
    ],
-   "ts": "2026-11-24T14:28:57+00:00"
+   "ts": "2026-11-28T17:55:58+00:00"
   },
   "calle malaga|2026": {
    "res": [],
-   "ts": "2026-11-24T14:28:57+00:00"
+   "ts": "2026-11-28T17:55:59+00:00"
   },
   "calle malaga|2025": {
    "res": [
@@ -8879,34 +8879,34 @@
      "title": "Calle Málaga",
      "original_title": "Calle Málaga",
      "release_date": "2025-10-31",
-     "popularity": 1.388
+     "popularity": 1.3428
     }
    ],
-   "ts": "2026-11-24T14:28:58+00:00"
+   "ts": "2026-11-28T17:55:59+00:00"
   },
   "strada malaga|": {
    "res": [],
-   "ts": "2026-11-24T14:28:58+00:00"
+   "ts": "2026-11-28T17:55:59+00:00"
   },
   "strada malaga|2026": {
    "res": [],
-   "ts": "2026-11-24T14:28:58+00:00"
+   "ts": "2026-11-28T17:55:59+00:00"
   },
   "strada malaga|2025": {
    "res": [],
-   "ts": "2026-11-24T14:28:58+00:00"
+   "ts": "2026-11-28T17:55:59+00:00"
   },
   "ceaiul amar al generalului yen|": {
    "res": [],
-   "ts": "2026-11-24T14:28:58+00:00"
+   "ts": "2026-11-28T17:56:00+00:00"
   },
   "ceaiul amar al generalului yen|2026": {
    "res": [],
-   "ts": "2026-11-24T14:28:58+00:00"
+   "ts": "2026-11-28T17:56:00+00:00"
   },
   "ceaiul amar al generalului yen|2025": {
    "res": [],
-   "ts": "2026-11-24T14:28:59+00:00"
+   "ts": "2026-11-28T17:56:00+00:00"
   },
   "the bitter tea of general yen|": {
    "res": [
@@ -8915,18 +8915,18 @@
      "title": "The Bitter Tea of General Yen",
      "original_title": "The Bitter Tea of General Yen",
      "release_date": "1933-01-06",
-     "popularity": 1.37
+     "popularity": 1.6577
     }
    ],
-   "ts": "2026-11-24T14:28:59+00:00"
+   "ts": "2026-11-28T17:56:00+00:00"
   },
   "the bitter tea of general yen|2026": {
    "res": [],
-   "ts": "2026-11-24T14:28:59+00:00"
+   "ts": "2026-11-28T17:56:01+00:00"
   },
   "the bitter tea of general yen|2025": {
    "res": [],
-   "ts": "2026-11-24T14:28:59+00:00"
+   "ts": "2026-11-28T17:56:01+00:00"
   },
   "conspiracy theory|": {
    "res": [
@@ -9045,18 +9045,18 @@
      "title": "Copilul care ar putea fi rege",
      "original_title": "The Kid Who Would Be King",
      "release_date": "2019-01-16",
-     "popularity": 3.7194
+     "popularity": 4.0435
     }
    ],
-   "ts": "2026-11-24T14:29:00+00:00"
+   "ts": "2026-11-28T17:56:01+00:00"
   },
   "copilul care ar putea fi rege|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:00+00:00"
+   "ts": "2026-11-28T17:56:01+00:00"
   },
   "copilul care ar putea fi rege|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:00+00:00"
+   "ts": "2026-11-28T17:56:02+00:00"
   },
   "the kid who would be king|": {
    "res": [
@@ -9065,54 +9065,54 @@
      "title": "Copilul care ar putea fi rege",
      "original_title": "The Kid Who Would Be King",
      "release_date": "2019-01-16",
-     "popularity": 3.7194
+     "popularity": 4.0435
     }
    ],
-   "ts": "2026-11-24T14:29:01+00:00"
+   "ts": "2026-11-28T17:56:02+00:00"
   },
   "the kid who would be king|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:01+00:00"
+   "ts": "2026-11-28T17:56:02+00:00"
   },
   "the kid who would be king|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:01+00:00"
+   "ts": "2026-11-28T17:56:02+00:00"
   },
   "craciun fara semnal misiunea lui yoyo|": {
    "res": [],
-   "ts": "2026-11-24T14:29:01+00:00"
+   "ts": "2026-11-28T17:56:02+00:00"
   },
   "craciun fara semnal misiunea lui yoyo|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:01+00:00"
+   "ts": "2026-11-28T17:56:03+00:00"
   },
   "craciun fara semnal misiunea lui yoyo|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:01+00:00"
+   "ts": "2026-11-28T17:56:03+00:00"
   },
   "craciun fara semnal|": {
    "res": [],
-   "ts": "2026-11-24T14:29:01+00:00"
+   "ts": "2026-11-28T17:56:03+00:00"
   },
   "craciun fara semnal|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:02+00:00"
+   "ts": "2026-11-28T17:56:03+00:00"
   },
   "craciun fara semnal|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:02+00:00"
+   "ts": "2026-11-28T17:56:04+00:00"
   },
   "misiunea lui yoyo|": {
    "res": [],
-   "ts": "2026-11-24T14:29:02+00:00"
+   "ts": "2026-11-28T17:56:04+00:00"
   },
   "misiunea lui yoyo|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:02+00:00"
+   "ts": "2026-11-28T17:56:04+00:00"
   },
   "misiunea lui yoyo|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:02+00:00"
+   "ts": "2026-11-28T17:56:04+00:00"
   },
   "de as fi harap alb|": {
    "res": [
@@ -9168,10 +9168,10 @@
      "title": "El ser querido",
      "original_title": "El ser querido",
      "release_date": "2026-05-16",
-     "popularity": 6.7462
+     "popularity": 5.1342
     }
    ],
-   "ts": "2026-11-24T14:29:04+00:00"
+   "ts": "2026-11-28T17:56:05+00:00"
   },
   "el ser querido|2026": {
    "res": [
@@ -9180,26 +9180,26 @@
      "title": "El ser querido",
      "original_title": "El ser querido",
      "release_date": "2026-05-16",
-     "popularity": 6.7462
+     "popularity": 5.1342
     }
    ],
-   "ts": "2026-11-24T14:29:04+00:00"
+   "ts": "2026-11-28T17:56:05+00:00"
   },
   "el ser querido|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:04+00:00"
+   "ts": "2026-11-28T17:56:06+00:00"
   },
   "persoana iubita|": {
    "res": [],
-   "ts": "2026-11-24T14:29:05+00:00"
+   "ts": "2026-11-28T17:56:06+00:00"
   },
   "persoana iubita|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:05+00:00"
+   "ts": "2026-11-28T17:56:06+00:00"
   },
   "persoana iubita|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:05+00:00"
+   "ts": "2026-11-28T17:56:06+00:00"
   },
   "excalibur|": {
    "res": [
@@ -9208,73 +9208,73 @@
      "title": "Excalibur",
      "original_title": "Excalibur",
      "release_date": "1981-04-10",
-     "popularity": 5.1637
+     "popularity": 5.0967
     },
     {
      "id": 472788,
      "title": "Excalibur",
      "original_title": "Excalibur",
      "release_date": "1990-04-03",
-     "popularity": 0.3878
+     "popularity": 0.3487
     },
     {
      "id": 1526236,
      "title": "Excalibur",
      "original_title": "Excalibur",
      "release_date": "",
-     "popularity": 0.2828
+     "popularity": 0.0989
     },
     {
      "id": 447427,
      "title": "King Arthur: Excalibur Rising",
      "original_title": "King Arthur: Excalibur Rising",
      "release_date": "2017-03-01",
-     "popularity": 1.0794
+     "popularity": 1.0543
     },
     {
      "id": 1566263,
      "title": "Excalibur City",
      "original_title": "Excalibur City",
      "release_date": "2022-05-01",
-     "popularity": 0.2712
+     "popularity": 0.2327
     },
     {
      "id": 986051,
      "title": "Artus - Excalibur",
      "original_title": "Artus - Excalibur",
      "release_date": "2014-07-06",
-     "popularity": 0.137
+     "popularity": 0.1263
     },
     {
      "id": 166818,
      "title": "The Excalibur Kid",
      "original_title": "The Excalibur Kid",
      "release_date": "1999-03-23",
-     "popularity": 0.3802
+     "popularity": 0.5766
     },
     {
      "id": 829336,
      "title": "Excalibur: Behind the Movie",
      "original_title": "Excalibur: Behind the Movie",
      "release_date": "2013-12-20",
-     "popularity": 0.9478
+     "popularity": 0.9739
     },
     {
      "id": 1357564,
      "title": "Stefano Ghisolfi – Excalibur",
      "original_title": "Stefano Ghisolfi – Excalibur",
      "release_date": "2023-02-12",
-     "popularity": 0.0581
+     "popularity": 0.0444
     },
     {
      "id": 1456608,
      "title": "Excalibur : Le concert mythique",
      "original_title": "Excalibur : Le concert mythique",
      "release_date": "1999-10-12",
-     "popularity": 0.1985
+     "popularity": 0.1004
     }
    ],
-   "ts": "2026-11-24T14:29:05+00:00"
+   "ts": "2026-11-28T17:56:07+00:00"
   },
   "excalibur|2026": {
    "res": [
@@ -9283,14 +9283,14 @@
      "title": "Excalibur, A Pursuit in Process",
      "original_title": "Excalibur, A Pursuit in Process",
      "release_date": "2026-11-21",
-     "popularity": 0.2258
+     "popularity": 0.1964
     }
    ],
-   "ts": "2026-11-24T14:29:05+00:00"
+   "ts": "2026-11-28T17:56:07+00:00"
   },
   "excalibur|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:05+00:00"
+   "ts": "2026-11-28T17:56:07+00:00"
   },
   "fjord|": {
    "res": [
@@ -9412,10 +9412,10 @@
      "title": "Histoires parallèles",
      "original_title": "Histoires parallèles",
      "release_date": "2026-05-14",
-     "popularity": 3.9971
+     "popularity": 3.3384
     }
    ],
-   "ts": "2026-11-24T14:29:05+00:00"
+   "ts": "2026-11-28T17:56:07+00:00"
   },
   "histoires paralleles|2026": {
    "res": [
@@ -9424,26 +9424,26 @@
      "title": "Histoires parallèles",
      "original_title": "Histoires parallèles",
      "release_date": "2026-05-14",
-     "popularity": 3.9971
+     "popularity": 3.3384
     }
    ],
-   "ts": "2026-11-24T14:29:06+00:00"
+   "ts": "2026-11-28T17:56:08+00:00"
   },
   "histoires paralleles|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:06+00:00"
+   "ts": "2026-11-28T17:56:08+00:00"
   },
   "povesti paralele|": {
    "res": [],
-   "ts": "2026-11-24T14:29:06+00:00"
+   "ts": "2026-11-28T17:56:08+00:00"
   },
   "povesti paralele|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:06+00:00"
+   "ts": "2026-11-28T17:56:08+00:00"
   },
   "povesti paralele|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:06+00:00"
+   "ts": "2026-11-28T17:56:09+00:00"
   },
   "l illusion de yakushima|": {
    "res": [
@@ -9452,14 +9452,14 @@
      "title": "L'Illusion de Yakushima",
      "original_title": "L'Illusion de Yakushima",
      "release_date": "2025-11-07",
-     "popularity": 1.4776
+     "popularity": 1.2598
     }
    ],
-   "ts": "2026-11-24T14:29:06+00:00"
+   "ts": "2026-11-28T17:56:09+00:00"
   },
   "l illusion de yakushima|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:06+00:00"
+   "ts": "2026-11-28T17:56:09+00:00"
   },
   "l illusion de yakushima|2025": {
    "res": [
@@ -9468,10 +9468,10 @@
      "title": "L'Illusion de Yakushima",
      "original_title": "L'Illusion de Yakushima",
      "release_date": "2025-11-07",
-     "popularity": 1.4776
+     "popularity": 1.2598
     }
    ],
-   "ts": "2026-11-24T14:29:07+00:00"
+   "ts": "2026-11-28T17:56:09+00:00"
   },
   "le cinquieme plan de la jetee|": {
    "res": [
@@ -9480,14 +9480,14 @@
      "title": "Le Cinquième Plan de « La Jetée »",
      "original_title": "Le Cinquième Plan de « La Jetée »",
      "release_date": "2025-11-05",
-     "popularity": 0.4285
+     "popularity": 0.6631
     }
    ],
-   "ts": "2026-11-24T14:29:07+00:00"
+   "ts": "2026-11-28T17:56:09+00:00"
   },
   "le cinquieme plan de la jetee|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:07+00:00"
+   "ts": "2026-11-28T17:56:10+00:00"
   },
   "le cinquieme plan de la jetee|2025": {
    "res": [
@@ -9496,22 +9496,22 @@
      "title": "Le Cinquième Plan de « La Jetée »",
      "original_title": "Le Cinquième Plan de « La Jetée »",
      "release_date": "2025-11-05",
-     "popularity": 0.4285
+     "popularity": 0.6631
     }
    ],
-   "ts": "2026-11-24T14:29:07+00:00"
+   "ts": "2026-11-28T17:56:10+00:00"
   },
   "al cincilea plan din la jetee|": {
    "res": [],
-   "ts": "2026-11-24T14:29:07+00:00"
+   "ts": "2026-11-28T17:56:10+00:00"
   },
   "al cincilea plan din la jetee|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:07+00:00"
+   "ts": "2026-11-28T17:56:10+00:00"
   },
   "al cincilea plan din la jetee|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:08+00:00"
+   "ts": "2026-11-28T17:56:11+00:00"
   },
   "logan|": {
    "res": [
@@ -9642,27 +9642,27 @@
   },
   "masterclass mehrdad oskouei si soraya akhlaghi|": {
    "res": [],
-   "ts": "2026-11-24T14:29:08+00:00"
+   "ts": "2026-11-28T17:56:11+00:00"
   },
   "masterclass mehrdad oskouei si soraya akhlaghi|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:08+00:00"
+   "ts": "2026-11-28T17:56:11+00:00"
   },
   "masterclass mehrdad oskouei si soraya akhlaghi|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:08+00:00"
+   "ts": "2026-11-28T17:56:11+00:00"
   },
   "mananca un castron de ceai|": {
    "res": [],
-   "ts": "2026-11-24T14:29:11+00:00"
+   "ts": "2026-11-28T17:56:15+00:00"
   },
   "mananca un castron de ceai|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:11+00:00"
+   "ts": "2026-11-28T17:56:15+00:00"
   },
   "mananca un castron de ceai|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:11+00:00"
+   "ts": "2026-11-28T17:56:15+00:00"
   },
   "eat a bowl of tea|": {
    "res": [
@@ -9671,18 +9671,18 @@
      "title": "Eat a Bowl of Tea",
      "original_title": "Eat a Bowl of Tea",
      "release_date": "1989-07-21",
-     "popularity": 0.6786
+     "popularity": 0.7441
     }
    ],
-   "ts": "2026-11-24T14:29:11+00:00"
+   "ts": "2026-11-28T17:56:16+00:00"
   },
   "eat a bowl of tea|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:11+00:00"
+   "ts": "2026-11-28T17:56:16+00:00"
   },
   "eat a bowl of tea|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:12+00:00"
+   "ts": "2026-11-28T17:56:16+00:00"
   },
   "paper tiger|": {
    "res": [
@@ -9691,73 +9691,73 @@
      "title": "Paper Tiger",
      "original_title": "Paper Tiger",
      "release_date": "2026-11-13",
-     "popularity": 24.6962
+     "popularity": 18.8057
     },
     {
      "id": 105240,
      "title": "Tigrul de hârtie",
      "original_title": "Paper Tiger",
      "release_date": "1975-11-05",
-     "popularity": 0.9602
+     "popularity": 1.2636
     },
     {
      "id": 750140,
      "title": "Paper Tiger",
      "original_title": "Paper Tiger",
      "release_date": "2020-10-22",
-     "popularity": 0.8407
+     "popularity": 0.6656
     },
     {
      "id": 1775806,
      "title": "PAPER TIGER",
      "original_title": "PAPER TIGER",
      "release_date": "",
-     "popularity": 0.3083
+     "popularity": 0.164
     },
     {
      "id": 625128,
      "title": "Bill Burr: Paper Tiger",
      "original_title": "Bill Burr: Paper Tiger",
      "release_date": "2019-09-10",
-     "popularity": 1.3862
+     "popularity": 1.1777
     },
     {
      "id": 1370949,
      "title": "Paper Tiger",
      "original_title": "Paper Tiger",
      "release_date": "2024-05-29",
-     "popularity": 0.303
+     "popularity": 0.4372
     },
     {
      "id": 338584,
      "title": "Paper Tiger",
      "original_title": "Paper Tiger",
      "release_date": "2015-01-01",
-     "popularity": 0.0104
+     "popularity": 0.0282
     },
     {
      "id": 853881,
      "title": "A Paper Tiger Burns",
      "original_title": "A Paper Tiger Burns",
      "release_date": "2018-12-12",
-     "popularity": 0.2156
+     "popularity": 0.1492
     },
     {
      "id": 711111,
      "title": "Tiger Cop: Toilet Paper Hero",
      "original_title": "Tiger Cop: Toilet Paper Hero",
      "release_date": "2020-04-20",
-     "popularity": 0.3044
+     "popularity": 0.2907
     },
     {
      "id": 1317757,
      "title": "Paper Tiger Television aus New York",
      "original_title": "Paper Tiger Television aus New York",
      "release_date": "1989-01-01",
-     "popularity": 0.1743
+     "popularity": 0.1453
     }
    ],
-   "ts": "2026-11-24T14:29:12+00:00"
+   "ts": "2026-11-28T17:56:16+00:00"
   },
   "paper tiger|2026": {
    "res": [
@@ -9766,14 +9766,14 @@
      "title": "Paper Tiger",
      "original_title": "Paper Tiger",
      "release_date": "2026-11-13",
-     "popularity": 24.6962
+     "popularity": 18.8057
     }
    ],
-   "ts": "2026-11-24T14:29:12+00:00"
+   "ts": "2026-11-28T17:56:17+00:00"
   },
   "paper tiger|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:12+00:00"
+   "ts": "2026-11-28T17:56:17+00:00"
   },
   "lenin s pawn|": {
    "res": [
@@ -9782,10 +9782,10 @@
      "title": "Pionul lui Lenin",
      "original_title": "Pionul lui Lenin",
      "release_date": "2026-06-19",
-     "popularity": 0.4617
+     "popularity": 0.4798
     }
    ],
-   "ts": "2026-11-24T14:29:12+00:00"
+   "ts": "2026-11-28T17:56:17+00:00"
   },
   "lenin s pawn|2026": {
    "res": [
@@ -9794,14 +9794,14 @@
      "title": "Pionul lui Lenin",
      "original_title": "Pionul lui Lenin",
      "release_date": "2026-06-19",
-     "popularity": 0.4617
+     "popularity": 0.4798
     }
    ],
-   "ts": "2026-11-24T14:29:12+00:00"
+   "ts": "2026-11-28T17:56:17+00:00"
   },
   "lenin s pawn|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:12+00:00"
+   "ts": "2026-11-28T17:56:18+00:00"
   },
   "primetime|": {
    "res": [
@@ -9810,73 +9810,73 @@
      "title": "Primetime",
      "original_title": "Primetime",
      "release_date": "2026-09-23",
-     "popularity": 41.2574
+     "popularity": 33.5803
     },
     {
      "id": 1791730,
      "title": "Primetime Preacher$",
      "original_title": "Primetime Preacher$",
      "release_date": "2026-11-14",
-     "popularity": 10.7206
+     "popularity": 7.6232
     },
     {
      "id": 1204847,
      "title": "Primetime",
      "original_title": "Primetime",
      "release_date": "2021-06-12",
-     "popularity": 0.2277
+     "popularity": 0.1745
     },
     {
      "id": 15607,
      "title": "EliteXC: Primetime",
      "original_title": "EliteXC: Primetime",
      "release_date": "2008-05-31",
-     "popularity": 0.5536
+     "popularity": 0.5831
     },
     {
      "id": 246017,
      "title": "Welcome to Primetime",
      "original_title": "Welcome to Primetime",
      "release_date": "1999-09-08",
-     "popularity": 0.4904
+     "popularity": 0.5999
     },
     {
      "id": 1162967,
      "title": "Primetime Mother",
      "original_title": "Primetime Mother",
      "release_date": "2023-09-07",
-     "popularity": 0.2062
+     "popularity": 0.2996
     },
     {
      "id": 1460092,
      "title": "Pioneers of Primetime",
      "original_title": "Pioneers of Primetime",
      "release_date": "2005-11-09",
-     "popularity": 0.3436
+     "popularity": 0.4465
     },
     {
      "id": 1816764,
      "title": "Primetime Production Diary",
      "original_title": "Primetime Production Diary",
      "release_date": "2026-11-03",
-     "popularity": 0.3649
+     "popularity": 0.2681
     },
     {
      "id": 264824,
      "title": "Frank Sinatra - Primetime",
      "original_title": "Frank Sinatra - Primetime",
      "release_date": "1968-11-25",
-     "popularity": 0.1877
+     "popularity": 0.231
     },
     {
      "id": 1771359,
      "title": "Judge Judy Primetime",
      "original_title": "Judge Judy Primetime",
      "release_date": "2014-05-20",
-     "popularity": 0.1225
+     "popularity": 0.1064
     }
    ],
-   "ts": "2026-11-24T14:29:13+00:00"
+   "ts": "2026-11-28T17:56:18+00:00"
   },
   "primetime|2026": {
    "res": [
@@ -9885,35 +9885,35 @@
      "title": "Primetime",
      "original_title": "Primetime",
      "release_date": "2026-09-23",
-     "popularity": 41.2574
+     "popularity": 33.5803
     },
     {
      "id": 1791730,
      "title": "Primetime Preacher$",
      "original_title": "Primetime Preacher$",
      "release_date": "2026-11-14",
-     "popularity": 10.7206
+     "popularity": 7.6232
     },
     {
      "id": 1816764,
      "title": "Primetime Production Diary",
      "original_title": "Primetime Production Diary",
      "release_date": "2026-11-03",
-     "popularity": 0.3649
+     "popularity": 0.2681
     },
     {
      "id": 1776007,
      "title": "Primetime Mr. President",
      "original_title": "Primetime Mr. President",
      "release_date": "2026-05-24",
-     "popularity": 0.0671
+     "popularity": 0.0361
     }
    ],
-   "ts": "2026-11-24T14:29:13+00:00"
+   "ts": "2026-11-28T17:56:18+00:00"
   },
   "primetime|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:13+00:00"
+   "ts": "2026-11-28T17:56:18+00:00"
   },
   "to dream the same dream practici arhivale ca modele co auctoriale|": {
    "res": [],
@@ -10034,18 +10034,18 @@
      "title": "X-Men: Viitorul este trecut",
      "original_title": "X-Men: Days of Future Past",
      "release_date": "2014-05-15",
-     "popularity": 15.2157
+     "popularity": 17.1392
     }
    ],
-   "ts": "2026-11-24T14:29:15+00:00"
+   "ts": "2026-11-28T17:56:19+00:00"
   },
   "x men viitorul este trecut|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:15+00:00"
+   "ts": "2026-11-28T17:56:19+00:00"
   },
   "x men viitorul este trecut|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:16+00:00"
+   "ts": "2026-11-28T17:56:19+00:00"
   },
   "x men days of future past|": {
    "res": [
@@ -10054,32 +10054,32 @@
      "title": "X-Men: Viitorul este trecut",
      "original_title": "X-Men: Days of Future Past",
      "release_date": "2014-05-15",
-     "popularity": 15.2157
+     "popularity": 17.1392
     },
     {
      "id": 1717662,
      "title": "X-Men: Days of Future Past - Classification: M",
      "original_title": "X-Men: Days of Future Past - Classification: M",
      "release_date": "2014-10-14",
-     "popularity": 0.5407
+     "popularity": 0.8258
     },
     {
      "id": 1826932,
      "title": "Mutant vs. Machine: The Making of 'X-Men: Days of Future Past'",
      "original_title": "Mutant vs. Machine: The Making of 'X-Men: Days of Future Past'",
      "release_date": "2015-07-14",
-     "popularity": 0.8358
+     "popularity": 1.1357
     }
    ],
-   "ts": "2026-11-24T14:29:16+00:00"
+   "ts": "2026-11-28T17:56:19+00:00"
   },
   "x men days of future past|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:16+00:00"
+   "ts": "2026-11-28T17:56:20+00:00"
   },
   "x men days of future past|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:16+00:00"
+   "ts": "2026-11-28T17:56:20+00:00"
   },
   "yakuza|": {
    "res": [
@@ -10088,73 +10088,73 @@
      "title": "The Yakuza",
      "original_title": "The Yakuza",
      "release_date": "1974-12-21",
-     "popularity": 1.9034
+     "popularity": 2.205
     },
     {
      "id": 36909,
      "title": "American Yakuza",
      "original_title": "American Yakuza",
      "release_date": "1993-12-22",
-     "popularity": 1.5916
+     "popularity": 1.6897
     },
     {
      "id": 1297763,
      "title": "Batman Ninja vs. Yakuza League",
      "original_title": "ニンジャバットマン対ヤクザリーグ",
      "release_date": "2025-03-17",
-     "popularity": 5.8782
+     "popularity": 6.72
     },
     {
      "id": 661595,
      "title": "Prințesa Yakuza",
      "original_title": "A Princesa da Yakuza",
      "release_date": "2021-08-26",
-     "popularity": 1.4878
+     "popularity": 1.4255
     },
     {
      "id": 65047,
      "title": "Young Yakuza",
      "original_title": "Young Yakuza",
      "release_date": "2007-11-22",
-     "popularity": 0.3802
+     "popularity": 0.4508
     },
     {
      "id": 947469,
      "title": "Yakuza Connection",
      "original_title": "Yakuza Connection",
      "release_date": "1995-06-07",
-     "popularity": 0.3129
+     "popularity": 0.3429
     },
     {
      "id": 1364114,
      "title": "Yakuza Girl",
      "original_title": "Yakuza Girl",
      "release_date": "2024-08-30",
-     "popularity": 0.4707
+     "popularity": 0.4999
     },
     {
      "id": 1453529,
      "title": "Yakuza Contract",
      "original_title": "Yakuza Contract",
      "release_date": "1978-09-21",
-     "popularity": 0.2076
+     "popularity": 0.1528
     },
     {
      "id": 426405,
      "title": "Mondo Yakuza",
      "original_title": "Mondo Yakuza",
      "release_date": "2016-11-27",
-     "popularity": 0.1767
+     "popularity": 0.2082
     },
     {
      "id": 305697,
      "title": "The Yakuza Way",
      "original_title": "The Yakuza Way",
      "release_date": "1999-02-19",
-     "popularity": 0.5933
+     "popularity": 0.5847
     }
    ],
-   "ts": "2026-11-24T14:29:16+00:00"
+   "ts": "2026-11-28T17:56:20+00:00"
   },
   "yakuza|2026": {
    "res": [
@@ -10163,10 +10163,10 @@
      "title": "龍が如く Powered by 日本統一",
      "original_title": "龍が如く Powered by 日本統一",
      "release_date": "2026-02-10",
-     "popularity": 0.8235
+     "popularity": 0.7592
     }
    ],
-   "ts": "2026-11-24T14:29:16+00:00"
+   "ts": "2026-11-28T17:56:20+00:00"
   },
   "yakuza|2025": {
    "res": [
@@ -10175,24 +10175,24 @@
      "title": "Batman Ninja vs. Yakuza League",
      "original_title": "ニンジャバットマン対ヤクザリーグ",
      "release_date": "2025-03-17",
-     "popularity": 5.8782
+     "popularity": 6.72
     },
     {
      "id": 1653196,
      "title": "Yakuza Ondo",
      "original_title": "Yakuza Ondo",
      "release_date": "2025-09-21",
-     "popularity": 0.0352
+     "popularity": 0.0066
     },
     {
      "id": 1294972,
      "title": "ホウセンカ",
      "original_title": "ホウセンカ",
      "release_date": "2025-10-10",
-     "popularity": 2.5539
+     "popularity": 2.4578
     }
    ],
-   "ts": "2026-11-24T14:29:17+00:00"
+   "ts": "2026-11-28T17:56:20+00:00"
   },
   "the yakuza|": {
    "res": [
@@ -10201,77 +10201,77 @@
      "title": "The Yakuza",
      "original_title": "The Yakuza",
      "release_date": "1974-12-21",
-     "popularity": 1.9034
+     "popularity": 2.205
     },
     {
      "id": 305697,
      "title": "The Yakuza Way",
      "original_title": "The Yakuza Way",
      "release_date": "1999-02-19",
-     "popularity": 0.5933
+     "popularity": 0.5847
     },
     {
      "id": 138006,
      "title": "Ryuji the Yakuza",
      "original_title": "Ryuji the Yakuza",
      "release_date": "2008-01-19",
-     "popularity": 0.2286
+     "popularity": 0.2533
     },
     {
      "id": 474415,
      "title": "Twilight of the Yakuza",
      "original_title": "Twilight of the Yakuza",
      "release_date": "2013-07-26",
-     "popularity": 0.4018
+     "popularity": 0.4695
     },
     {
      "id": 511840,
      "title": "Battling the Yakuza",
      "original_title": "Battling the Yakuza",
      "release_date": "2012-08-18",
-     "popularity": 0.0517
+     "popularity": 0.0293
     },
     {
      "id": 135070,
      "title": "The Yakuza and the Mermaid",
      "original_title": "The Yakuza and the Mermaid",
      "release_date": "2012-09-28",
-     "popularity": 0.1954
+     "popularity": 0.1096
     },
     {
      "id": 464643,
      "title": "A Journalist's Files on The Yakuza Papers",
      "original_title": "A Journalist's Files on The Yakuza Papers",
      "release_date": "2017-07-01",
-     "popularity": 0.0077
+     "popularity": 0.0311
     },
     {
      "id": 1294972,
      "title": "ホウセンカ",
      "original_title": "ホウセンカ",
      "release_date": "2025-10-10",
-     "popularity": 2.5539
+     "popularity": 2.4578
     },
     {
      "id": 45284,
      "title": "Furie",
      "original_title": "アウトレイジ",
      "release_date": "2010-06-12",
-     "popularity": 2.7411
+     "popularity": 3.5212
     },
     {
      "id": 34326,
      "title": "仁義なき戦い",
      "original_title": "仁義なき戦い",
      "release_date": "1973-01-13",
-     "popularity": 2.3483
+     "popularity": 2.5038
     }
    ],
-   "ts": "2026-11-24T14:29:17+00:00"
+   "ts": "2026-11-28T17:56:21+00:00"
   },
   "the yakuza|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:17+00:00"
+   "ts": "2026-11-28T17:56:21+00:00"
   },
   "the yakuza|2025": {
    "res": [
@@ -10280,10 +10280,10 @@
      "title": "ホウセンカ",
      "original_title": "ホウセンカ",
      "release_date": "2025-10-10",
-     "popularity": 2.5539
+     "popularity": 2.4578
     }
    ],
-   "ts": "2026-11-24T14:29:17+00:00"
+   "ts": "2026-11-28T17:56:21+00:00"
   },
   "concertul de craciun al lui andre rieu d|": {
    "res": [],
@@ -10703,73 +10703,73 @@
      "title": "Behemoth!",
      "original_title": "Behemoth!",
      "release_date": "2026-12-02",
-     "popularity": 7.1837
+     "popularity": 9.1165
     },
     {
      "id": 55248,
      "title": "Behemoth",
      "original_title": "Behemoth",
      "release_date": "2011-01-15",
-     "popularity": 1.3756
+     "popularity": 1.6082
     },
     {
      "id": 844295,
      "title": "Behemoth",
      "original_title": "Behemoth",
      "release_date": "2021-06-24",
-     "popularity": 0.3584
+     "popularity": 0.4848
     },
     {
      "id": 43093,
      "title": "Behemoth, the Sea Monster",
      "original_title": "Behemoth, the Sea Monster",
      "release_date": "1959-03-03",
-     "popularity": 1.5285
+     "popularity": 1.6617
     },
     {
      "id": 496438,
      "title": "Behemoth",
      "original_title": "Behemoth",
      "release_date": "2003-06-05",
-     "popularity": 0.0644
+     "popularity": 0.1306
     },
     {
      "id": 1435387,
      "title": "The Behemoth",
      "original_title": "The Behemoth",
      "release_date": "2025-09-11",
-     "popularity": 0.3238
+     "popularity": 0.2567
     },
     {
      "id": 376776,
      "title": "Bygone Behemoth",
      "original_title": "Bygone Behemoth",
      "release_date": "2010-03-14",
-     "popularity": 0.1348
+     "popularity": 0.126
     },
     {
      "id": 1202864,
      "title": "The Invalid Behemoth",
      "original_title": "The Invalid Behemoth",
      "release_date": "",
-     "popularity": 0.1361
+     "popularity": 0.0344
     },
     {
      "id": 1719922,
      "title": "Behemoth - Hellfest 2026",
      "original_title": "Behemoth - Hellfest 2026",
      "release_date": "2026-06-26",
-     "popularity": 0.061
+     "popularity": 0.0372
     },
     {
      "id": 843204,
      "title": "Behemoth: Live Barbarossa",
      "original_title": "Behemoth: Live Barbarossa",
      "release_date": "2012-01-01",
-     "popularity": 0.0767
+     "popularity": 0.0843
     }
    ],
-   "ts": "2026-11-24T14:28:55+00:00"
+   "ts": "2026-11-28T17:55:57+00:00"
   },
   "behemoth|2026": {
    "res": [
@@ -10778,17 +10778,17 @@
      "title": "Behemoth!",
      "original_title": "Behemoth!",
      "release_date": "2026-12-02",
-     "popularity": 7.1837
+     "popularity": 9.1165
     },
     {
      "id": 1719922,
      "title": "Behemoth - Hellfest 2026",
      "original_title": "Behemoth - Hellfest 2026",
      "release_date": "2026-06-26",
-     "popularity": 0.061
+     "popularity": 0.0372
     }
    ],
-   "ts": "2026-11-24T14:28:56+00:00"
+   "ts": "2026-11-28T17:55:57+00:00"
   },
   "behemoth|2025": {
    "res": [
@@ -10797,10 +10797,10 @@
      "title": "The Behemoth",
      "original_title": "The Behemoth",
      "release_date": "2025-09-11",
-     "popularity": 0.3238
+     "popularity": 0.2567
     }
    ],
-   "ts": "2026-11-24T14:28:56+00:00"
+   "ts": "2026-11-28T17:55:57+00:00"
   },
   "cotoi cu palarioi dub|": {
    "res": [],
@@ -10816,15 +10816,15 @@
   },
   "craciun de cosmar 2|": {
    "res": [],
-   "ts": "2026-11-24T14:29:03+00:00"
+   "ts": "2026-11-28T17:56:05+00:00"
   },
   "craciun de cosmar 2|2026": {
    "res": [],
-   "ts": "2026-11-24T14:29:03+00:00"
+   "ts": "2026-11-28T17:56:05+00:00"
   },
   "craciun de cosmar 2|2025": {
    "res": [],
-   "ts": "2026-11-24T14:29:03+00:00"
+   "ts": "2026-11-28T17:56:05+00:00"
   },
   "craciun fara semnal misiunea lui yoyo d|": {
    "res": [],
