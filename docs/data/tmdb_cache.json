@@ -4168,6 +4168,75 @@
    "fetched": "2026-11-27T10:19:56+00:00",
    "lb": 2.96,
    "lb_ts": "2026-11-27T10:20:07+00:00"
+  },
+  "1030041": {
+   "title": "Trooper",
+   "original_title": "Trooper",
+   "orig_lang": "en",
+   "year": "2022",
+   "poster": "https://image.tmdb.org/t/p/w185/4arB1hsgcFT9tVvZwFWz8mv5WKW.jpg",
+   "directors": [
+    "Joe Stankus"
+   ],
+   "cast": [
+    "Allison Jean White",
+    "John Adams",
+    "Sean Weil",
+    "Robert James Hickey"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt14619940",
+   "runtime": 13,
+   "fetched": "2026-11-28T06:12:25+00:00"
+  },
+  "330640": {
+   "title": "Trooper",
+   "original_title": "Trooper",
+   "orig_lang": "en",
+   "year": "2014",
+   "poster": "https://image.tmdb.org/t/p/w185/7V0NcojUpA7FD1LSW6hNfwr1Jxw.jpg",
+   "directors": [
+    "Christopher Martini"
+   ],
+   "cast": [],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt1282093",
+   "runtime": 93,
+   "fetched": "2026-11-28T06:12:25+00:00"
+  },
+  "1245293": {
+   "title": "Trooper",
+   "original_title": "Trooper",
+   "orig_lang": "en",
+   "year": null,
+   "poster": null,
+   "directors": [
+    "Brecon Vaughan"
+   ],
+   "cast": [
+    "Trooper"
+   ],
+   "v": 2,
+   "overview": "",
+   "imdb_id": null,
+   "runtime": 1,
+   "fetched": "2026-11-28T06:12:25+00:00"
+  },
+  "895018": {
+   "title": "Trooper",
+   "original_title": "Trooper",
+   "orig_lang": "en",
+   "year": null,
+   "poster": "https://image.tmdb.org/t/p/w185/4MV2ikPTwI5Xe8QohsBh0Nmem6d.jpg",
+   "directors": [],
+   "cast": [],
+   "v": 2,
+   "overview": "",
+   "imdb_id": "tt29494650",
+   "runtime": 61,
+   "fetched": "2026-11-28T06:12:25+00:00"
   }
  },
  "search": {
@@ -11589,6 +11658,155 @@
     }
    ],
    "ts": "2026-11-27T18:01:38+00:00"
+  },
+  "proiectie teatru pentru copii fetita cu chibrituri|": {
+   "res": [],
+   "ts": "2026-11-28T06:12:22+00:00"
+  },
+  "proiectie teatru pentru copii fetita cu chibrituri|2026": {
+   "res": [],
+   "ts": "2026-11-28T06:12:22+00:00"
+  },
+  "proiectie teatru pentru copii fetita cu chibrituri|2025": {
+   "res": [],
+   "ts": "2026-11-28T06:12:22+00:00"
+  },
+  "trooper radacini de dor|": {
+   "res": [],
+   "ts": "2026-11-28T06:12:22+00:00"
+  },
+  "trooper radacini de dor|2026": {
+   "res": [],
+   "ts": "2026-11-28T06:12:23+00:00"
+  },
+  "trooper radacini de dor|2025": {
+   "res": [],
+   "ts": "2026-11-28T06:12:23+00:00"
+  },
+  "trooper|": {
+   "res": [
+    {
+     "id": 536097,
+     "title": "Rogue Trooper",
+     "original_title": "Rogue Trooper",
+     "release_date": "2026-06-22",
+     "popularity": 1.591
+    },
+    {
+     "id": 149544,
+     "title": "Storm Trooper",
+     "original_title": "Storm Trooper",
+     "release_date": "1998-08-19",
+     "popularity": 0.9122
+    },
+    {
+     "id": 150095,
+     "title": "Trooper Hook",
+     "original_title": "Trooper Hook",
+     "release_date": "1957-07-12",
+     "popularity": 0.8772
+    },
+    {
+     "id": 1030041,
+     "title": "Trooper",
+     "original_title": "Trooper",
+     "release_date": "2022-09-19",
+     "popularity": 0.1673
+    },
+    {
+     "id": 330640,
+     "title": "Trooper",
+     "original_title": "Trooper",
+     "release_date": "2014-11-11",
+     "popularity": 0.0919
+    },
+    {
+     "id": 1245293,
+     "title": "Trooper",
+     "original_title": "Trooper",
+     "release_date": "",
+     "popularity": 0.0298
+    },
+    {
+     "id": 895018,
+     "title": "Trooper",
+     "original_title": "Trooper",
+     "release_date": "",
+     "popularity": 0.0
+    },
+    {
+     "id": 64695,
+     "title": "Sky Trooper",
+     "original_title": "Sky Trooper",
+     "release_date": "1942-11-06",
+     "popularity": 0.5306
+    },
+    {
+     "id": 214283,
+     "title": "Wildcat Trooper",
+     "original_title": "Wildcat Trooper",
+     "release_date": "1936-07-01",
+     "popularity": 0.62
+    },
+    {
+     "id": 600678,
+     "title": "State Trooper",
+     "original_title": "State Trooper",
+     "release_date": "1933-02-10",
+     "popularity": 0.6047
+    }
+   ],
+   "ts": "2026-11-28T06:12:23+00:00"
+  },
+  "trooper|2026": {
+   "res": [
+    {
+     "id": 536097,
+     "title": "Rogue Trooper",
+     "original_title": "Rogue Trooper",
+     "release_date": "2026-06-22",
+     "popularity": 1.591
+    },
+    {
+     "id": 1694711,
+     "title": "装甲騎兵ボトムズ 灰色の魔女 第1作",
+     "original_title": "装甲騎兵ボトムズ 灰色の魔女 第1作",
+     "release_date": "2026-11-20",
+     "popularity": 2.0574
+    },
+    {
+     "id": 675871,
+     "title": "Super polițiști 3",
+     "original_title": "Super Troopers 3",
+     "release_date": "2026-08-06",
+     "popularity": 4.1058
+    }
+   ],
+   "ts": "2026-11-28T06:12:23+00:00"
+  },
+  "trooper|2025": {
+   "res": [
+    {
+     "id": 1622456,
+     "title": "A Real Trooper",
+     "original_title": "A Real Trooper",
+     "release_date": "2025-10-24",
+     "popularity": 0.0891
+    }
+   ],
+   "ts": "2026-11-28T06:12:24+00:00"
+  },
+  "radacini de dor|": {
+   "res": [],
+   "ts": "2026-11-28T06:12:24+00:00"
+  },
+  "radacini de dor|2026": {
+   "res": [],
+   "ts": "2026-11-28T06:12:24+00:00"
+  },
+  "radacini de dor|2025": {
+   "res": [],
+   "ts": "2026-11-28T06:12:24+00:00"
   }
  },
  "pages": {

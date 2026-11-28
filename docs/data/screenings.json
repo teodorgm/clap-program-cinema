@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:05:49+00:00",
+ "generated": "2026-11-28T06:10:08+00:00",
  "cinemas": {
   "elvire": {
    "name": "Elvire Popesco",
@@ -73,7 +73,7 @@
    "ok": true,
    "stale": false,
    "count": 64,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "union": {
@@ -81,7 +81,7 @@
    "ok": true,
    "stale": false,
    "count": 18,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "apollo111": {
@@ -89,7 +89,7 @@
    "ok": true,
    "stale": false,
    "count": 16,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "eforie": {
@@ -97,7 +97,7 @@
    "ok": true,
    "stale": false,
    "count": 20,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "muzeu": {
@@ -105,15 +105,15 @@
    "ok": true,
    "stale": false,
    "count": 28,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "cc1806": {
    "name": "Cinema City AFI Cotroceni",
    "ok": true,
    "stale": false,
-   "count": 578,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "count": 580,
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "cc1818": {
@@ -121,15 +121,15 @@
    "ok": true,
    "stale": false,
    "count": 450,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "cc1824": {
    "name": "Cinema City Park Lake",
    "ok": true,
    "stale": false,
-   "count": 409,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "count": 410,
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   },
   "cc1807": {
@@ -137,7 +137,7 @@
    "ok": true,
    "stale": false,
    "count": 470,
-   "updated": "2026-11-27T22:05:49+00:00",
+   "updated": "2026-11-28T06:10:08+00:00",
    "error": null
   }
  },
@@ -2124,33 +2124,6 @@
    "film": "tmdb:1465063"
   },
   {
-   "id": "cc1807-759208",
-   "cinema": "cc1807",
-   "date": "2026-11-28",
-   "time": "13:40",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759208?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
    "id": "cc1824-758060",
    "cinema": "cc1824",
    "date": "2026-11-28",
@@ -2287,6 +2260,33 @@
    "year": "2026",
    "runtime": 84,
    "film": "tmdb:1773633"
+  },
+  {
+   "id": "cc1807-762563",
+   "cinema": "cc1807",
+   "date": "2026-11-28",
+   "time": "13:50",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762563?lang=ro",
+   "hall": "9",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
   },
   {
    "id": "cc1806-758090",
@@ -2800,31 +2800,29 @@
    "film": "tmdb:1501247"
   },
   {
-   "id": "cc1807-759255",
+   "id": "cc1807-762559",
    "cinema": "cc1807",
    "date": "2026-11-28",
    "time": "14:40",
-   "title": "Club kid",
-   "age": "IM-18",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
    "note": null,
    "audio": [
-    "EN"
-   ],
-   "subs": [
     "RO"
    ],
+   "subs": [],
    "dubbed": false,
    "tech": [],
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759255?lang=ro",
+   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762559?lang=ro",
    "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
    "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
+   "runtime": 85,
+   "film": "tmdb:1679416"
   },
   {
    "id": "cc1818-756236",
@@ -4112,33 +4110,6 @@
    "film": "t:hexe regatul magiei"
   },
   {
-   "id": "cc1807-759207",
-   "cinema": "cc1807",
-   "date": "2026-11-28",
-   "time": "16:20",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759207?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
    "id": "cc1824-754734",
    "cinema": "cc1824",
    "date": "2026-11-28",
@@ -4370,6 +4341,31 @@
    "year": "2026",
    "runtime": 86,
    "film": "tmdb:1501247"
+  },
+  {
+   "id": "cc1807-762560",
+   "cinema": "cc1807",
+   "date": "2026-11-28",
+   "time": "16:40",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762560?lang=ro",
+   "hall": "8",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
   },
   {
    "id": "cc1824-756560",
@@ -4809,6 +4805,33 @@
    "film": "tmdb:1567605"
   },
   {
+   "id": "cc1807-762564",
+   "cinema": "cc1807",
+   "date": "2026-11-28",
+   "time": "17:10",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762564?lang=ro",
+   "hall": "9",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1818-758749",
    "cinema": "cc1818",
    "date": "2026-11-28",
@@ -4861,33 +4884,6 @@
    "year": "2026",
    "runtime": 81,
    "film": "t:mia si scoala de monstri"
-  },
-  {
-   "id": "cc1807-759211",
-   "cinema": "cc1807",
-   "date": "2026-11-28",
-   "time": "17:15",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759211?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
   },
   {
    "id": "cc1806-758981",
@@ -5247,31 +5243,29 @@
    "film": "tmdb:1679416"
   },
   {
-   "id": "cc1807-759251",
+   "id": "cc1807-762557",
    "cinema": "cc1807",
    "date": "2026-11-28",
    "time": "17:50",
-   "title": "Jurnalul unei cameriste",
+   "title": "Teambuilding 2",
    "age": "N-15",
    "note": null,
    "audio": [
     "RO"
    ],
-   "subs": [
-    "RO"
-   ],
+   "subs": [],
    "dubbed": false,
    "tech": [],
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759251?lang=ro",
+   "url": "https://www.cinemacity.ro/films/teambuilding-2/8329o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762557?lang=ro",
    "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
    "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
+   "runtime": 110,
+   "film": "tmdb:1756532"
   },
   {
    "id": "cc1806-762543",
@@ -5864,6 +5858,31 @@
    "film": "t:soldatul fantoma"
   },
   {
+   "id": "cc1807-762561",
+   "cinema": "cc1807",
+   "date": "2026-11-28",
+   "time": "18:40",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762561?lang=ro",
+   "hall": "8",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
+  },
+  {
    "id": "cc1824-755359",
    "cinema": "cc1824",
    "date": "2026-11-28",
@@ -6021,33 +6040,6 @@
    "year": "2026",
    "runtime": 158,
    "film": "tmdb:1300968"
-  },
-  {
-   "id": "cc1807-759206",
-   "cinema": "cc1807",
-   "date": "2026-11-28",
-   "time": "19:00",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759206?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
   },
   {
    "id": "cc1807-759240",
@@ -6293,12 +6285,12 @@
    "film": "tmdb:1696174"
   },
   {
-   "id": "cc1807-759201",
+   "id": "cc1807-762569",
    "cinema": "cc1807",
    "date": "2026-11-28",
    "time": "19:20",
-   "title": "Monarh",
-   "age": "AP-12",
+   "title": "Teambuilding 2",
+   "age": "N-15",
    "note": null,
    "audio": [
     "RO"
@@ -6309,13 +6301,13 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://www.cinemacity.ro/films/monarh/8390o2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759201?lang=ro",
+   "url": "https://www.cinemacity.ro/films/teambuilding-2/8329o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762569?lang=ro",
    "hall": "10",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8390O2R.jpg",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
    "year": "2026",
-   "runtime": 105,
-   "film": "tmdb:1815513"
+   "runtime": 110,
+   "film": "tmdb:1756532"
   },
   {
    "id": "cc1818-758100",
@@ -6733,33 +6725,6 @@
    "year": "2026",
    "runtime": 105,
    "film": "tmdb:1400336"
-  },
-  {
-   "id": "cc1807-759257",
-   "cinema": "cc1807",
-   "date": "2026-11-28",
-   "time": "19:50",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759257?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
   },
   {
    "id": "cc1818-753917",
@@ -7199,31 +7164,29 @@
    "film": "tmdb:1567605"
   },
   {
-   "id": "cc1807-759252",
+   "id": "cc1807-762558",
    "cinema": "cc1807",
    "date": "2026-11-28",
    "time": "20:15",
-   "title": "Jurnalul unei cameriste",
+   "title": "Teambuilding 2",
    "age": "N-15",
    "note": null,
    "audio": [
     "RO"
    ],
-   "subs": [
-    "RO"
-   ],
+   "subs": [],
    "dubbed": false,
    "tech": [],
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759252?lang=ro",
+   "url": "https://www.cinemacity.ro/films/teambuilding-2/8329o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762558?lang=ro",
    "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8329O2R.jpg",
    "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
+   "runtime": 110,
+   "film": "tmdb:1756532"
   },
   {
    "id": "cc1818-757766",
@@ -7365,6 +7328,33 @@
    "film": "tmdb:1300968"
   },
   {
+   "id": "cc1807-762568",
+   "cinema": "cc1807",
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "Jocurile foamei: Răsăritul în ziua extra",
+   "age": "N-15",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/jocurile-foamei-rasaritul-in-ziua-extra/7803s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762568?lang=ro",
+   "hall": "9",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7803S2R.jpg",
+   "year": "2026",
+   "runtime": 158,
+   "film": "tmdb:1300968"
+  },
+  {
    "id": "cc1818-753997",
    "cinema": "cc1818",
    "date": "2026-11-28",
@@ -7390,6 +7380,31 @@
    "year": "2026",
    "runtime": 90,
    "film": "t:soldatul fantoma"
+  },
+  {
+   "id": "cc1807-762562",
+   "cinema": "cc1807",
+   "date": "2026-11-28",
+   "time": "20:40",
+   "title": "Vacanță all inclusive",
+   "age": "AP-12",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/vacanta-all-inclusive/8341o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762562?lang=ro",
+   "hall": "8",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8341O2R.jpg",
+   "year": "2026",
+   "runtime": 85,
+   "film": "tmdb:1679416"
   },
   {
    "id": "cc1806-759993",
@@ -7879,33 +7894,6 @@
    "film": "tmdb:1300968"
   },
   {
-   "id": "cc1807-759205",
-   "cinema": "cc1807",
-   "date": "2026-11-28",
-   "time": "21:40",
-   "title": "I Play Rocky: Povestea din spatele legen",
-   "age": "AP-12",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759205?lang=ro",
-   "hall": "9",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
-   "year": "2026",
-   "runtime": 128,
-   "film": "tmdb:1286656"
-  },
-  {
    "id": "cc1824-754738",
    "cinema": "cc1824",
    "date": "2026-11-28",
@@ -8147,12 +8135,12 @@
    "film": "tmdb:1765072"
   },
   {
-   "id": "cc1807-759199",
+   "id": "cc1807-762567",
    "cinema": "cc1807",
    "date": "2026-11-28",
    "time": "22:00",
-   "title": "Copilul nopții",
-   "age": "IM-18",
+   "title": "I Play Rocky: Povestea din spatele legen",
+   "age": "AP-12",
    "note": null,
    "audio": [
     "EN"
@@ -8165,13 +8153,13 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://www.cinemacity.ro/films/copilul-noptii/8159s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759199?lang=ro",
+   "url": "https://www.cinemacity.ro/films/i-play-rocky-povestea-din-spatele-legen/8531s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762567?lang=ro",
    "hall": "11",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8159S2R.jpg",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8531S2R.jpg",
    "year": "2026",
-   "runtime": 92,
-   "film": "t:copilul noptii"
+   "runtime": 128,
+   "film": "tmdb:1286656"
   },
   {
    "id": "cc1818-754168",
@@ -8678,33 +8666,6 @@
    "film": "tmdb:1765072"
   },
   {
-   "id": "cc1807-759242",
-   "cinema": "cc1807",
-   "date": "2026-11-28",
-   "time": "22:30",
-   "title": "Club kid",
-   "age": "IM-18",
-   "note": null,
-   "audio": [
-    "EN"
-   ],
-   "subs": [
-    "RO"
-   ],
-   "dubbed": false,
-   "tech": [],
-   "prices": {},
-   "box": {},
-   "status": "ok",
-   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759242?lang=ro",
-   "hall": "8",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
-   "year": "2026",
-   "runtime": 122,
-   "film": "tmdb:1585239"
-  },
-  {
    "id": "cc1818-756258",
    "cinema": "cc1818",
    "date": "2026-11-28",
@@ -8786,15 +8747,15 @@
    "film": "tmdb:891621"
   },
   {
-   "id": "cc1807-759253",
+   "id": "cc1807-759242",
    "cinema": "cc1807",
    "date": "2026-11-28",
    "time": "22:40",
-   "title": "Jurnalul unei cameriste",
-   "age": "N-15",
+   "title": "Club kid",
+   "age": "IM-18",
    "note": null,
    "audio": [
-    "RO"
+    "EN"
    ],
    "subs": [
     "RO"
@@ -8804,13 +8765,40 @@
    "prices": {},
    "box": {},
    "status": "ok",
-   "url": "https://www.cinemacity.ro/films/jurnalul-unei-cameriste/8529s2r",
-   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759253?lang=ro",
-   "hall": "7",
-   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8529S2R.jpg",
+   "url": "https://www.cinemacity.ro/films/club-kid/8528s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/759242?lang=ro",
+   "hall": "8",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8528S2R.jpg",
    "year": "2026",
-   "runtime": 109,
-   "film": "tmdb:1696174"
+   "runtime": 122,
+   "film": "tmdb:1585239"
+  },
+  {
+   "id": "cc1807-762566",
+   "cinema": "cc1807",
+   "date": "2026-11-28",
+   "time": "22:40",
+   "title": "Copilul nopții",
+   "age": "IM-18",
+   "note": null,
+   "audio": [
+    "EN"
+   ],
+   "subs": [
+    "RO"
+   ],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/copilul-noptii/8159s2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1807/762566?lang=ro",
+   "hall": "7",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8159S2R.jpg",
+   "year": "2026",
+   "runtime": 92,
+   "film": "t:copilul noptii"
   },
   {
    "id": "cc1818-754003",
@@ -54330,6 +54318,33 @@
    "film": "tmdb:1157869"
   },
   {
+   "id": "cc1806-693207",
+   "cinema": "cc1806",
+   "date": "2026-12-12",
+   "time": "11:00",
+   "title": "Proiectie Teatru pentru copii Fetita cu chibrituri",
+   "age": "AG",
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/proiectie-teatru-pentru-copii-fetita-cu-chibrituri/7891o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/693207?lang=ro",
+   "hall": "15",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7891O2R.jpg",
+   "year": null,
+   "runtime": 41,
+   "film": "t:proiectie teatru pentru copii fetita cu chibrituri"
+  },
+  {
    "id": "elvire-2026-12-12-11:30-bilete-craciun-fara-semnal-misiunea-lui-yoyo-film-pentru-publicul-tanar",
    "cinema": "elvire",
    "date": "2026-12-12",
@@ -54428,6 +54443,58 @@
    "url": "https://eventbook.ro/film/bilete-nu-e-locul-tau-aici?hall=apollo111-cinema",
    "poster": "https://storage.googleapis.com/eventbook-files/images/event/2026/10/bilete-nu-e-locul-tau-aici-Nai.webp",
    "film": "tmdb:1728593"
+  },
+  {
+   "id": "cc1806-751599",
+   "cinema": "cc1806",
+   "date": "2026-12-12",
+   "time": "18:00",
+   "title": "Trooper: Radacini de dor",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [
+    "Barco laser"
+   ],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/trooper-radacini-de-dor/8714o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1806/751599?lang=ro",
+   "hall": "5",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8714O2R.jpg",
+   "year": "2026",
+   "runtime": 121,
+   "film": "t:trooper radacini de dor"
+  },
+  {
+   "id": "cc1824-751676",
+   "cinema": "cc1824",
+   "date": "2026-12-12",
+   "time": "18:00",
+   "title": "Trooper: Radacini de dor",
+   "age": null,
+   "note": null,
+   "audio": [
+    "RO"
+   ],
+   "subs": [],
+   "dubbed": false,
+   "tech": [],
+   "prices": {},
+   "box": {},
+   "status": "ok",
+   "url": "https://www.cinemacity.ro/films/trooper-radacini-de-dor/8714o2r",
+   "book": "https://www.cinemacity.ro/ro/booking-router/launch/1824/751676?lang=ro",
+   "hall": "1",
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8714O2R.jpg",
+   "year": "2026",
+   "runtime": 121,
+   "film": "t:trooper radacini de dor"
   },
   {
    "id": "apollo111-2026-12-12-20:00-bilete-film-persona",
@@ -56561,6 +56628,18 @@
    "runtime": null,
    "source": "eventbook"
   },
+  "t:proiectie teatru pentru copii fetita cu chibrituri": {
+   "tmdb_id": null,
+   "title": "Proiectie Teatru pentru copii Fetita cu chibrituri",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/7891O2R.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
+  },
   "t:proiectie teatru pentru copii hansel si": {
    "tmdb_id": null,
    "title": "Proiectie Teatru pentru copii Hansel si",
@@ -56688,6 +56767,18 @@
    "imdb_rating": 6.4,
    "imdb_votes": 28588,
    "lb_rating": 3.62
+  },
+  "t:trooper radacini de dor": {
+   "tmdb_id": null,
+   "title": "Trooper: Radacini de dor",
+   "original_title": null,
+   "year": null,
+   "orig_lang": null,
+   "poster": "https://www.cinemacity.ro/xmedia-cw/repo/feats/posters/8714O2R.jpg",
+   "directors": [],
+   "imdb_id": null,
+   "runtime": null,
+   "source": "eventbook"
   },
   "tmdb:1679416": {
    "tmdb_id": 1679416,
